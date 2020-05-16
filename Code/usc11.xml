@@ -5,7 +5,7 @@
   <dc:title>Title 11</dc:title>
   <dc:type>USCTitle</dc:type>
   <docNumber>11</docNumber>
-  <docPublicationName>Online@116-139</docPublicationName>
+  <docPublicationName>Online@116-140</docPublicationName>
   <dc:publisher>OLRC</dc:publisher>
   <dcterms:created>2020-04-17T10:54:13</dcterms:created>
   <dc:creator>USCConverter 1.5.3</dc:creator>
@@ -13,7 +13,7 @@
 <main>
 <title identifier="/us/usc/t11"><num value="11">Title 11—</num><heading>BANKRUPTCY</heading>
 <note topic="enacting" <p>This title was enacted by <ref href="/us/pl/95/598/tI/s101">Pub. L. 95–598, title I, § 101</ref>, <date date="1978-11-06">Nov. 6, 1978</date>, <ref href="/us/stat/92/2549">92 Stat. 2549</ref></p></note>
-<note topic="miscellaneous" <p>Current through 116-139</p></note>
+<note topic="miscellaneous" <p>Current through 116-140</p></note>
 <toc role="threeColumnTOC" 
 <layout>
 <header style="-uslm-lc:I70" role="tocColumnHeader">

@@ -5,7 +5,7 @@
   <dc:title>Title 35</dc:title>
   <dc:type>USCTitle</dc:type>
   <docNumber>35</docNumber>
-  <docPublicationName>Online@116-139</docPublicationName>
+  <docPublicationName>Online@116-140</docPublicationName>
   <dc:publisher>OLRC</dc:publisher>
   <dcterms:created>2020-04-17T10:57:12</dcterms:created>
   <dc:creator>USCConverter 1.5.3</dc:creator>
@@ -13,7 +13,7 @@
 <main>
 <title identifier="/us/usc/t35"><num value="35">Title 35—</num><heading>PATENTS</heading>
 <note topic="enacting" <p>This title was enacted by <ref href="/us/act/1952-07-19/ch950/s1">act July 19, 1952, ch. 950, § 1</ref>, <ref href="/us/stat/66/792">66 Stat. 792</ref></p></note>
-<note topic="miscellaneous" <p>Current through 116-139</p></note>
+<note topic="miscellaneous" <p>Current through 116-140</p></note>
 <toc role="threeColumnTOC" 
 <layout>
 <header style="-uslm-lc:I70" role="tocColumnHeader">

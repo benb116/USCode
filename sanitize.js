@@ -1,11 +1,12 @@
 const ben = require('ben-jsutils');
 
-const path = './Code/';
+const path = './Code2/';
 
 ben.fs.listDir(path).then(titles => {
+    console.log(titles);
     titles.forEach((t, ti) => {
         ben.fs.readFile(path+t).then(text => {
-            // console.log(i, text);
+            // console.log(text);
             // const idinds = getIndicesOf('id="id', text);
             // idinds.forEach(ii => {
             //     console.log(ii);
@@ -17,16 +18,20 @@ ben.fs.listDir(path).then(titles => {
             //     text = text.slice(0, idind-1) + text.slice(idind+43);
             //     idind = text.indexOf('id="id');
             // }
-            const textarray = text.split('id="');
-            const sanaray = textarray.map(te => {
-                if (te[0] === 'i' && te[1] === 'd') {
-                    return te.slice(40);
-                }
-                return te;
-            });
+            // const textarray = text.split('id="');
+            // const sanaray = textarray.map(te => {
+            //     if (te[0] === 'i' && te[1] === 'd') {
+            //         return te.slice(40);
+            //     }
+            //     return te;
+            // });
+
+            let lines = text.split("\n");
+            let newstr = lines.filter(l => !l.startsWith('<!--')).join('\n');
+            // console.log(newstr);
             // console.log(sanaray);
             // console.log(text);
-            ben.fs.writeFile(path+t, sanaray.join('')).then(console.log);
+            ben.fs.writeFile(path+t, newstr).then(console.log);
         });
     });
 });
@@ -47,6 +52,3 @@ function getIndicesOf(searchStr, str, caseSensitive) {
     }
     return indices;
 }
-
-var indices = getIndicesOf("le", "I learned to play the Ukulele in Lebanon.");
-console.log(indices);

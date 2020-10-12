@@ -1,4 +1,5 @@
 const ben = require('ben-jsutils');
+const he = require('he');
 
 const path = './Code2/';
 
@@ -27,14 +28,22 @@ ben.fs.listDir(path).then(titles => {
             // });
 
             let lines = text.split("\n");
-            let newstr = lines.filter(l => !l.startsWith('<!--')).join('\n');
-            // console.log(newstr);
+            let newstr = lines.filter(l => !l.startsWith('<!--')).map(he.decode).join('\n');
+            // console.log(strip_html_tags(newstr));
             // console.log(sanaray);
             // console.log(text);
-            ben.fs.writeFile(path+t, newstr).then(console.log);
+            ben.fs.writeFile(path+t, strip_html_tags(newstr));
         });
     });
 });
+
+function strip_html_tags(str) {
+   if ((str===null) || (str===''))
+       return false;
+  else
+   str = str.toString();
+  return str.replace(/<[^>]*>/g, '');
+}
 
 function getIndicesOf(searchStr, str, caseSensitive) {
     var searchStrLen = searchStr.length;

@@ -7063,180 +7063,168 @@ Part K—National Maritime Transportation Advisory Committees</column>
 							</paragraph>
 						</section>
 					</chapter>
-					<chapter id="id0f620063-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/stII/ptB/ch41" style="-uslm-lc:I81">
-						<num value="41">CHAPTER 41—</num>
+					<chapter identifier="/us/usc/t46/stII/ptB/ch41">
+						<num>CHAPTER 41—</num>
 						<heading>UNINSPECTED VESSELS GENERALLY</heading>
-						<toc id="id0f620064-a3ff-11ea-ada1-f8ae04a81f15" role="twoColumnTOC">
+						<toc>
 							<layout>
-								<header role="tocColumnHeader" style="-uslm-lc:I70">
-									<column class="tocHeaderLeft">Sec.</column>
+								<header>
+									<column>Sec.</column>
 								</header>
 								<tocItem>
-									<column class="twoColumnLeft" style="-uslm-lc:I20">
+									<column>
 										<ref href="/us/usc/t46/s4101">4101.</ref>
 									</column>
-									<column class="twoColumnRight" style="-uslm-lc:I46">Application.</column>
+									<column>Application.</column>
 								</tocItem>
 								<tocItem>
-									<column class="twoColumnLeft" style="-uslm-lc:I20">
+									<column>
 										<ref href="/us/usc/t46/s4102">4102.</ref>
 									</column>
-									<column class="twoColumnRight" style="-uslm-lc:I46">Safety equipment.</column>
+									<column>Safety equipment.</column>
 								</tocItem>
 								<tocItem>
-									<column class="twoColumnLeft" style="-uslm-lc:I20">
+									<column>
 										<ref href="/us/usc/t46/s4103">4103.</ref>
 									</column>
-									<column class="twoColumnRight" style="-uslm-lc:I46">Exemptions.</column>
+									<column>Exemptions.</column>
 								</tocItem>
 								<tocItem>
-									<column class="twoColumnLeft" style="-uslm-lc:I20">
+									<column>
 										[
 										<ref href="/us/usc/t46/s4104">4104.</ref>
 									</column>
-									<column class="twoColumnRight" style="-uslm-lc:I46">Repealed.]</column>
+									<column>Repealed.]</column>
 								</tocItem>
 								<tocItem>
-									<column class="twoColumnLeft" style="-uslm-lc:I20">
+									<column>
 										<ref href="/us/usc/t46/s4105">4105.</ref>
 									</column>
-									<column class="twoColumnRight" style="-uslm-lc:I46">Uninspected passenger vessels.</column>
+									<column>Uninspected passenger vessels.</column>
 								</tocItem>
 								<tocItem>
-									<column class="twoColumnLeft" style="-uslm-lc:I20">
+									<column>
 										<ref href="/us/usc/t46/s4106">4106.</ref>
 									</column>
-									<column class="twoColumnRight" style="-uslm-lc:I46">Penalties.</column>
+									<column>Penalties.</column>
 								</tocItem>
 							</layout>
 						</toc>
-						<section id="id0f620068-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4101" style="-uslm-lc:I80">
-							<num value="4101">§ 4101.</num>
+						<section identifier="/us/usc/t46/s4101">
+							<num>§ 4101.</num>
 							<heading> Application</heading>
-							<chapeau class="indent0" style="-uslm-lc:I11">This chapter applies to an uninspected vessel not subject to chapter 45 of this title—</chapeau>
-							<paragraph class="indent1" id="id0f620069-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4101/1" style="-uslm-lc:I12">
-								<num value="1">(1)</num>
+							<chapeau>This chapter applies to an uninspected vessel not subject to chapter 45 of this title—</chapeau>
+							<paragraph identifier="/us/usc/t46/s4101/1">
+								<num>(1)</num>
 								<content> on the navigable waters of the United States; or</content>
 							</paragraph>
-							<paragraph class="indent1" id="id0f62006a-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4101/2" style="-uslm-lc:I12">
-								<num value="2">(2)</num>
+							<paragraph identifier="/us/usc/t46/s4101/2">
+								<num>(2)</num>
 								<content> owned in the United States and operating on the high seas.</content>
 							</paragraph>
 						</section>
-						<section id="id0f620071-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4102" style="-uslm-lc:I80">
-							<num value="4102">§ 4102.</num>
+						<section identifier="/us/usc/t46/s4102">
+							<num>§ 4102.</num>
 							<heading> Safety equipment</heading>
-							<subsection class="indent0" id="id0f620072-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4102/a" style="-uslm-lc:I11">
-								<num value="a">(a)</num>
+							<subsection identifier="/us/usc/t46/s4102/a">
+								<num>(a)</num>
 								<content> Each uninspected vessel propelled by machinery shall be provided with the number, type, and size of fire extinguishers, capable of promptly and effectively extinguishing burning liquid fuel, that may be prescribed by regulation. The fire extinguishers shall be kept in condition for immediate and effective use and so placed as to be readily accessible.</content>
 							</subsection>
-							<subsection class="indent0" id="id0f620073-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4102/b" style="-uslm-lc:I11">
-								<num value="b">(b)</num>
+							<subsection identifier="/us/usc/t46/s4102/b">
+								<num>(b)</num>
 								<content> The Secretary shall prescribe regulations requiring the installation, maintenance, and use of life preservers and other lifesaving devices for individuals on board uninspected vessels.</content>
 							</subsection>
-							<subsection class="indent0" id="id0f620074-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4102/c" style="-uslm-lc:I11">
-								<num value="c">(c)</num>
+							<subsection identifier="/us/usc/t46/s4102/c">
+								<num>(c)</num>
 								<content> Each uninspected vessel shall have the carburetors of each engine of the vessel (except an outboard motor) using gasoline as fuel, equipped with an efficient flame arrestor, backfire trap, or other similar device prescribed by regulation.</content>
 							</subsection>
-							<subsection class="indent0" id="id0f620075-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4102/d" style="-uslm-lc:I11">
-								<num value="d">(d)</num>
+							<subsection identifier="/us/usc/t46/s4102/d">
+								<num>(d)</num>
 								<content> Each uninspected vessel using a volatile liquid as fuel shall be provided with the means prescribed by regulation for properly and efficiently ventilating the bilges of the engine and fuel tank compartments, so as to remove any explosive or flammable gases.</content>
 							</subsection>
-							<subsection class="indent0" id="id0f620076-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4102/e" style="-uslm-lc:I11">
-								<num value="e">(e)</num>
+							<subsection identifier="/us/usc/t46/s4102/e">
+								<num>(e)</num>
 								<content> Each manned uninspected vessel owned in the United States and operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond three nautical miles from the coastline of the Great Lakes shall be equipped with the number and type of alerting and locating equipment, including emergency position indicating radio beacons, prescribed by the Secretary.</content>
 							</subsection>
-							<subsection class="indent0" id="id0f620077-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4102/f" style="-uslm-lc:I11">
-								<num value="f">(f)</num>
-								<paragraph class="indent0" id="id0f620078-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4102/f/1" style="-uslm-lc:I11">
-									<num value="1">(1)</num>
+							<subsection identifier="/us/usc/t46/s4102/f">
+								<num>(f)</num>
+								<paragraph identifier="/us/usc/t46/s4102/f/1">
+									<num>(1)</num>
 									<content> The Secretary, in consultation with the National Towing Safety Advisory Committee and taking into consideration the characteristics, methods of operation, and nature of service of towing vessels, may require the installation, maintenance, and use of a fire suppression system or other measures to provide adequate assurance that fires on board towing vessels can be suppressed under reasonably foreseeable circumstances.</content>
 								</paragraph>
-								<paragraph class="indent0" id="id0f620079-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4102/f/2" style="-uslm-lc:I11">
-									<num value="2">(2)</num>
+								<paragraph identifier="/us/usc/t46/s4102/f/2">
+									<num>(2)</num>
 									<content> The Secretary shall require under paragraph (1) the use of a fire suppression system or other measures to provide adequate assurance that a fire on board a towing vessel that is towing a non-self-propelled tank vessel can be suppressed under reasonably foreseeable circumstances.</content>
 								</paragraph>
 							</subsection>
 						</section>
-						<section id="id0f620081-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4103" style="-uslm-lc:I80">
-							<num value="4103">§ 4103.</num>
+						<section identifier="/us/usc/t46/s4103">
+							<num>§ 4103.</num>
 							<heading> Exemptions</heading>
-							<subsection class="indent0" id="id0f620082-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4103/a" style="-uslm-lc:I11">
-								<num value="a">(a)</num>
+							<subsection identifier="/us/usc/t46/s4103/a">
+								<num>(a)</num>
 								<chapeau> The Secretary may exempt a vessel from any part of this chapter if, under regulations prescribed by the Secretary (including regulations on special operating conditions), the Secretary finds that—</chapeau>
-								<paragraph class="indent1" id="id0f620083-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4103/a/1" style="-uslm-lc:I12">
-									<num value="1">(1)</num>
+								<paragraph identifier="/us/usc/t46/s4103/a/1">
+									<num>(1)</num>
 									<content> good cause exists for granting an exemption; and</content>
 								</paragraph>
-								<paragraph class="indent1" id="id0f620084-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4103/a/2" style="-uslm-lc:I12">
-									<num value="2">(2)</num>
+								<paragraph identifier="/us/usc/t46/s4103/a/2">
+									<num>(2)</num>
 									<content> the safety of the vessel and individuals on board will not be adversely affected.</content>
 								</paragraph>
 							</subsection>
-							<subsection class="indent0" id="id0f620085-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4103/b" style="-uslm-lc:I11">
-								<num value="b">(b)</num>
+							<subsection identifier="/us/usc/t46/s4103/b">
+								<num>(b)</num>
 								<content>
 									<ref href="/us/usc/t46/s4102/a">Section 4102(a) of this title</ref>
 									 does not apply to a vessel propelled by outboard motors when competing in a race previously arranged and announced or, if the vessel is designed and intended only for racing, when operated incidental to tuning up the vessel and its engines for the race.
 								</content>
 							</subsection>
 						</section>
-						<section id="id0f62008b-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4104" status="repealed" style="-uslm-lc:I80">
-							<num value="4104">[§ 4104.</num>
-							<heading>
-								 Repealed. 
-								<ref href="/us/pl/101/595/tVI/s603/3/A">Pub. L. 101–595, title VI, § 603(3)(A)</ref>
-								, 
-								<date date="1990-11-16">Nov. 16, 1990</date>
-								, 
-								<ref href="/us/stat/104/2993">104 Stat. 2993</ref>
-								]
-							</heading>
-						</section>
-						<section id="id0f62008e-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4105" style="-uslm-lc:I80">
-							<num value="4105">§ 4105.</num>
+						<section identifier="/us/usc/t46/s4105">
+							<num>§ 4105.</num>
 							<heading> Uninspected passenger vessels</heading>
-							<subsection class="indent0" id="id0f62008f-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4105/a" style="-uslm-lc:I11">
-								<num value="a">(a)</num>
+							<subsection identifier="/us/usc/t46/s4105/a">
+								<num>(a)</num>
 								<content> Chapter 43 of this title applies to an uninspected passenger vessel.</content>
 							</subsection>
-							<subsection class="indent0" id="id0f620090-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4105/b" style="-uslm-lc:I11">
-								<num value="b">(b)</num>
-								<paragraph class="indent0" id="id0f620091-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4105/b/1" style="-uslm-lc:I11">
-									<num value="1">(1)</num>
+							<subsection identifier="/us/usc/t46/s4105/b">
+								<num>(b)</num>
+								<paragraph identifier="/us/usc/t46/s4105/b/1">
+									<num>(1)</num>
 									<chapeau> In applying this title with respect to an uninspected vessel of less than 24 meters overall in length that carries passengers to or from a port in the United States Virgin Islands, the Secretary shall substitute “12 passengers” for “6 passengers” each place it appears in section 2101(51) if the Secretary determines that the vessel complies with, as applicable to the vessel—</chapeau>
-									<subparagraph class="indent1" id="id0f620092-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4105/b/1/A" style="-uslm-lc:I12">
-										<num value="A">(A)</num>
+									<subparagraph identifier="/us/usc/t46/s4105/b/1/A">
+										<num>(A)</num>
 										<content>
 											 the Code of Practice for the Safety of Small Commercial Motor Vessels (commonly referred to as the “Yellow Code”), as published by the U.K. Maritime and Coastguard Agency and in effect on 
 											<date date="2014-01-01">January 1, 2014</date>
 											; or
 										</content>
 									</subparagraph>
-									<subparagraph class="indent1" id="id0f620093-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4105/b/1/B" style="-uslm-lc:I12">
-										<num value="B">(B)</num>
+									<subparagraph identifier="/us/usc/t46/s4105/b/1/B">
+										<num>(B)</num>
 										<content> the Code of Practice for the Safety of Small Commercial Sailing Vessels (commonly referred to as the “Blue Code”), as published by such agency and in effect on such date.</content>
 									</subparagraph>
 								</paragraph>
-								<paragraph class="indent0" id="id0f620094-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4105/b/2" style="-uslm-lc:I11">
-									<num value="2">(2)</num>
+								<paragraph identifier="/us/usc/t46/s4105/b/2">
+									<num>(2)</num>
 									<chapeau> If the Secretary establishes standards to carry out this subsection—</chapeau>
-									<subparagraph class="indent1" id="id0f620095-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4105/b/2/A" style="-uslm-lc:I12">
-										<num value="A">(A)</num>
+									<subparagraph identifier="/us/usc/t46/s4105/b/2/A">
+										<num>(A)</num>
 										<content> such standards shall be identical to those established in the Codes of Practice referred to in paragraph (1); and</content>
 									</subparagraph>
-									<subparagraph class="indent1" id="id0f620096-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4105/b/2/B" style="-uslm-lc:I12">
-										<num value="B">(B)</num>
+									<subparagraph identifier="/us/usc/t46/s4105/b/2/B">
+										<num>(B)</num>
 										<content> on any dates before the date on which such standards are in effect, the Codes of Practice referred to in paragraph (1) shall apply with respect to the vessels referred to in paragraph (1).</content>
 									</subparagraph>
 								</paragraph>
 							</subsection>
-							<subsection class="indent0" id="id0f620097-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4105/c" style="-uslm-lc:I11">
-								<num value="c">(c)</num>
+							<subsection identifier="/us/usc/t46/s4105/c">
+								<num>(c)</num>
 								<content> In applying this title with respect to an uninspected vessel of less than 25 feet overall in length that carries passengers on Crane Lake or waters contiguous to such lake in St. Louis County, Minnesota, the Secretary shall substitute “12 passengers” for “6 passengers” each place it appears in section 2101(51).</content>
 							</subsection>
-							<subsection class="indent0" id="id0f620098-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4105/d" style="-uslm-lc:I11">
-								<num value="d">(d)</num>
+							<subsection identifier="/us/usc/t46/s4105/d">
+								<num>(d)</num>
 								<content>
 									 The Secretary shall, by regulation, require certain additional equipment which may include liferafts or other lifesaving equipment, construction standards, or specify additional operating standards for those uninspected passenger vessels defined in 
 									<ref href="/us/usc/t46/s2101/51/A">section 2101(51)(A) of this title</ref>
@@ -7244,11 +7232,11 @@ Part K—National Maritime Transportation Advisory Committees</column>
 								</content>
 							</subsection>
 						</section>
-						<section id="id0f62009e-a3ff-11ea-ada1-f8ae04a81f15" identifier="/us/usc/t46/s4106" style="-uslm-lc:I80">
-							<num value="4106">§ 4106.</num>
+						<section identifier="/us/usc/t46/s4106">
+							<num>§ 4106.</num>
 							<heading> Penalties</heading>
 							<content>
-								<p class="indent0" style="-uslm-lc:I11">If a vessel to which this chapter applies is operated in violation of this chapter or a regulation prescribed under this chapter, the owner, charterer, managing operator, agent, master, and individual in charge are each liable to the United States Government for a civil penalty of not more than $5,000. The vessel also is liable in rem for the penalty.</p>
+								<p>If a vessel to which this chapter applies is operated in violation of this chapter or a regulation prescribed under this chapter, the owner, charterer, managing operator, agent, master, and individual in charge are each liable to the United States Government for a civil penalty of not more than $5,000. The vessel also is liable in rem for the penalty.</p>
 							</content>
 						</section>
 					</chapter>

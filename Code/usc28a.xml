@@ -12305,33 +12305,33 @@ SUPPLEMENTAL RULES FOR ADMIRALTY OR MARITIME CLAIMS AND ASSET FORFEITURE ACTIONS
 						<content> Costs are not subject to Rule 54(d).</content>
 					</subsection>
 				</courtRule>
-				<courtRule id="id9c7e5ed7-3b28-11eb-8f9e-bceee403a479" identifier="/us/usc/t28a/courtRules/Civil/rule72" style="-uslm-lc:I80">
-					<num value="72">Rule 72.</num>
+				<courtRule identifier="/us/usc/t28a/courtRules/Civil/rule72">
+					<num>Rule 72.</num>
 					<heading> Magistrate Judges: Pretrial Order</heading>
-					<subsection class="indent0" id="id9c7e5ed8-3b28-11eb-8f9e-bceee403a479" identifier="/us/usc/t28a/courtRules/Civil/rule72/a" style="-uslm-lc:I11">
-						<num value="a">(a)</num>
+					<subsection identifier="/us/usc/t28a/courtRules/Civil/rule72/a">
+						<num>(a)</num>
 						<heading> Nondispositive Matters.</heading>
 						<content> When a pretrial matter not dispositive of a party’s claim or defense is referred to a magistrate judge to hear and decide, the magistrate judge must promptly conduct the required proceedings and, when appropriate, issue a written order stating the decision. A party may serve and file objections to the order within 14 days after being served with a copy. A party may not assign as error a defect in the order not timely objected to. The district judge in the case must consider timely objections and modify or set aside any part of the order that is clearly erroneous or is contrary to law.</content>
 					</subsection>
-					<subsection class="indent0" id="id9c7e5ed9-3b28-11eb-8f9e-bceee403a479" identifier="/us/usc/t28a/courtRules/Civil/rule72/b" style="-uslm-lc:I11">
-						<num value="b">(b)</num>
+					<subsection identifier="/us/usc/t28a/courtRules/Civil/rule72/b">
+						<num>(b)</num>
 						<heading> Dispositive Motions and Prisoner Petitions.</heading>
-						<paragraph class="indent1" id="id9c7e5eda-3b28-11eb-8f9e-bceee403a479" identifier="/us/usc/t28a/courtRules/Civil/rule72/b/1" style="-uslm-lc:I12">
-							<num value="1">(1)</num>
+						<paragraph identifier="/us/usc/t28a/courtRules/Civil/rule72/b/1">
+							<num>(1)</num>
 							<content>
 								<i>Findings and Recommendations.</i>
 								 A magistrate judge must promptly conduct the required proceedings when assigned, without the parties’ consent, to hear a pretrial matter dispositive of a claim or defense or a prisoner petition challenging the conditions of confinement. A record must be made of all evidentiary proceedings and may, at the magistrate judge’s discretion, be made of any other proceedings. The magistrate judge must enter a recommended disposition, including, if appropriate, proposed findings of fact. The clerk must promptly mail a copy to each party.
 							</content>
 						</paragraph>
-						<paragraph class="indent1" id="id9c7e5edb-3b28-11eb-8f9e-bceee403a479" identifier="/us/usc/t28a/courtRules/Civil/rule72/b/2" style="-uslm-lc:I12">
-							<num value="2">(2)</num>
+						<paragraph identifier="/us/usc/t28a/courtRules/Civil/rule72/b/2">
+							<num>(2)</num>
 							<content>
 								<i>Objections.</i>
 								 Within 14 days after being served with a copy of the recommended disposition, a party may serve and file specific written objections to the proposed findings and recommendations. A party may respond to another party’s objections within 14 days after being served with a copy. Unless the district judge orders otherwise, the objecting party must promptly arrange for transcribing the record, or whatever portions of it the parties agree to or the magistrate judge considers sufficient.
 							</content>
 						</paragraph>
-						<paragraph class="indent1" id="id9c7e5edc-3b28-11eb-8f9e-bceee403a479" identifier="/us/usc/t28a/courtRules/Civil/rule72/b/3" style="-uslm-lc:I12">
-							<num value="3">(3)</num>
+						<paragraph identifier="/us/usc/t28a/courtRules/Civil/rule72/b/3">
+							<num>(3)</num>
 							<content>
 								<i>Resolving Objections.</i>
 								 The district judge must determine de novo any part of the magistrate judge’s disposition that has been properly objected to. The district judge may accept, reject, or modify the recommended disposition; receive further evidence; or return the matter to the magistrate judge with instructions.

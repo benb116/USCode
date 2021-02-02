@@ -1031,57 +1031,57 @@
 					</subsection>
 				</section>
 			</chapter>
-			<chapter id="idd3cd9e5e-099f-11eb-9399-e1a495b2212f" identifier="/us/usc/t3/ch4" style="-uslm-lc:I81">
-				<num value="4">CHAPTER 4—</num>
+			<chapter identifier="/us/usc/t3/ch4">
+				<num>CHAPTER 4—</num>
 				<heading>DELEGATION OF FUNCTIONS</heading>
-				<toc id="idd3cdc56f-099f-11eb-9399-e1a495b2212f" role="twoColumnTOC">
+				<toc>
 					<layout>
-						<header role="tocColumnHeader" style="-uslm-lc:I70">
-							<column class="tocHeaderLeft">Sec.</column>
+						<header>
+							<column>Sec.</column>
 						</header>
 						<tocItem>
-							<column class="twoColumnLeft" style="-uslm-lc:I20">
+							<column>
 								<ref href="/us/usc/t3/s301">301.</ref>
 							</column>
-							<column class="twoColumnRight" style="-uslm-lc:I46">General authorization to delegate functions; publication of delegations.</column>
+							<column>General authorization to delegate functions; publication of delegations.</column>
 						</tocItem>
 						<tocItem>
-							<column class="twoColumnLeft" style="-uslm-lc:I20">
+							<column>
 								<ref href="/us/usc/t3/s302">302.</ref>
 							</column>
-							<column class="twoColumnRight" style="-uslm-lc:I46">Scope of delegation of functions.</column>
+							<column>Scope of delegation of functions.</column>
 						</tocItem>
 						<tocItem>
-							<column class="twoColumnLeft" style="-uslm-lc:I20">
+							<column>
 								<ref href="/us/usc/t3/s303">303.</ref>
 							</column>
-							<column class="twoColumnRight" style="-uslm-lc:I46">Definitions.</column>
+							<column>Definitions.</column>
 						</tocItem>
 					</layout>
 				</toc>
-				<section id="idd3cdec83-099f-11eb-9399-e1a495b2212f" identifier="/us/usc/t3/s301" style="-uslm-lc:I80">
-					<num value="301">§ 301.</num>
+				<section identifier="/us/usc/t3/s301">
+					<num>§ 301.</num>
 					<heading> General authorization to delegate functions; publication of delegations</heading>
 					<content>
-						<p class="indent0" style="-uslm-lc:I11">
+						<p>
 							The President of the United States is authorized to designate and empower the head of any department or agency in the executive branch, or any official thereof who is required to be appointed by and with the advice and consent of the Senate, to perform without approval, ratification, or other action by the President (1) any function which is vested in the President by law, or (2) any function which such officer is required or authorized by law to perform only with or subject to the approval, ratification, or other action of the President: 
 							<i>Provided</i>
 							, That nothing contained herein shall relieve the President of his responsibility in office for the acts of any such head or other official designated by him to perform such functions. Such designation and authorization shall be in writing, shall be published in the Federal Register, shall be subject to such terms, conditions, and limitations as the President may deem advisable, and shall be revocable at any time by the President in whole or in part.
 						</p>
 					</content>
 				</section>
-				<section id="idd3e2fb55-099f-11eb-9399-e1a495b2212f" identifier="/us/usc/t3/s302" style="-uslm-lc:I80">
-					<num value="302">§ 302.</num>
+				<section identifier="/us/usc/t3/s302">
+					<num>§ 302.</num>
 					<heading> Scope of delegation of functions</heading>
 					<content>
-						<p class="indent0" style="-uslm-lc:I11">The authority conferred by this chapter shall apply to any function vested in the President by law if such law does not affirmatively prohibit delegation of the performance of such function as herein provided for, or specifically designate the officer or officers to whom it may be delegated. This chapter shall not be deemed to limit or derogate from any existing or inherent right of the President to delegate the performance of functions vested in him by law, and nothing herein shall be deemed to require express authorization in any case in which such an official would be presumed in law to have acted by authority or direction of the President.</p>
+						<p>The authority conferred by this chapter shall apply to any function vested in the President by law if such law does not affirmatively prohibit delegation of the performance of such function as herein provided for, or specifically designate the officer or officers to whom it may be delegated. This chapter shall not be deemed to limit or derogate from any existing or inherent right of the President to delegate the performance of functions vested in him by law, and nothing herein shall be deemed to require express authorization in any case in which such an official would be presumed in law to have acted by authority or direction of the President.</p>
 					</content>
 				</section>
-				<section id="idd3e3226a-099f-11eb-9399-e1a495b2212f" identifier="/us/usc/t3/s303" style="-uslm-lc:I80">
-					<num value="303">§ 303.</num>
+				<section identifier="/us/usc/t3/s303">
+					<num>§ 303.</num>
 					<heading> Definitions</heading>
 					<content>
-						<p class="indent0" style="-uslm-lc:I11">As used in this chapter, the term “function” embraces any duty, power, responsibility, authority, or discretion vested in the President or other officer concerned, and the terms “perform” and “performance” may be construed to mean “exercise”.</p>
+						<p>As used in this chapter, the term “function” embraces any duty, power, responsibility, authority, or discretion vested in the President or other officer concerned, and the terms “perform” and “performance” may be construed to mean “exercise”.</p>
 					</content>
 				</section>
 			</chapter>

@@ -14255,169 +14255,169 @@ Amendments</column>
 						</content>
 					</section>
 				</chapter>
-				<chapter id="idb6e38afd-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/stVII/ch705" style="-uslm-lc:I81">
-					<num value="705">CHAPTER 705—</num>
+				<chapter identifier="/us/usc/t51/stVII/ch705">
+					<num>CHAPTER 705—</num>
 					<heading>EXPLORATION INITIATIVES</heading>
-					<toc id="idb6e38afe-3b2b-11eb-bdfa-e7f745048b68" role="twoColumnTOC">
+					<toc>
 						<layout>
-							<header role="tocColumnHeader" style="-uslm-lc:I70">
-								<column class="tocHeaderLeft">Sec.</column>
+							<header>
+								<column>Sec.</column>
 							</header>
 							<tocItem>
-								<column class="twoColumnLeft" style="-uslm-lc:I20">
+								<column>
 									<ref href="/us/usc/t51/s70501">70501.</ref>
 								</column>
-								<column class="twoColumnRight" style="-uslm-lc:I46">Space shuttle follow-on.</column>
+								<column>Space shuttle follow-on.</column>
 							</tocItem>
 							<tocItem>
-								<column class="twoColumnLeft" style="-uslm-lc:I20">
+								<column>
 									<ref href="/us/usc/t51/s70502">70502.</ref>
 								</column>
-								<column class="twoColumnRight" style="-uslm-lc:I46">Exploration plan and programs.</column>
+								<column>Exploration plan and programs.</column>
 							</tocItem>
 							<tocItem>
-								<column class="twoColumnLeft" style="-uslm-lc:I20">
+								<column>
 									<ref href="/us/usc/t51/s70503">70503.</ref>
 								</column>
-								<column class="twoColumnRight" style="-uslm-lc:I46">Ground-based analog capabilities.</column>
+								<column>Ground-based analog capabilities.</column>
 							</tocItem>
 							<tocItem>
-								<column class="twoColumnLeft" style="-uslm-lc:I20">
+								<column>
 									<ref href="/us/usc/t51/s70504">70504.</ref>
 								</column>
-								<column class="twoColumnRight" style="-uslm-lc:I46">Stepping stone approach to exploration.</column>
+								<column>Stepping stone approach to exploration.</column>
 							</tocItem>
 							<tocItem>
-								<column class="twoColumnLeft" style="-uslm-lc:I20">
+								<column>
 									<ref href="/us/usc/t51/s70505">70505.</ref>
 								</column>
-								<column class="twoColumnRight" style="-uslm-lc:I46">Lunar outpost.</column>
+								<column>Lunar outpost.</column>
 							</tocItem>
 							<tocItem>
-								<column class="twoColumnLeft" style="-uslm-lc:I20">
+								<column>
 									<ref href="/us/usc/t51/s70506">70506.</ref>
 								</column>
-								<column class="twoColumnRight" style="-uslm-lc:I46">Exploration technology research.</column>
+								<column>Exploration technology research.</column>
 							</tocItem>
 							<tocItem>
-								<column class="twoColumnLeft" style="-uslm-lc:I20">
+								<column>
 									<ref href="/us/usc/t51/s70507">70507.</ref>
 								</column>
-								<column class="twoColumnRight" style="-uslm-lc:I46">Technology development.</column>
+								<column>Technology development.</column>
 							</tocItem>
 							<tocItem>
-								<column class="twoColumnLeft" style="-uslm-lc:I20">
+								<column>
 									<ref href="/us/usc/t51/s70508">70508.</ref>
 								</column>
-								<column class="twoColumnRight" style="-uslm-lc:I46">Robotic or human servicing of spacecraft.</column>
+								<column>Robotic or human servicing of spacecraft.</column>
 							</tocItem>
 						</layout>
 					</toc>
-					<section id="idb6e38aff-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70501" style="-uslm-lc:I80">
-						<num value="70501">§ 70501.</num>
+					<section identifier="/us/usc/t51/s70501">
+						<num>§ 70501.</num>
 						<heading> Space shuttle follow-on</heading>
-						<subsection class="indent0" id="idb6e38b00-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70501/a" style="-uslm-lc:I11">
-							<num value="a">(a)</num>
+						<subsection identifier="/us/usc/t51/s70501/a">
+							<num>(a)</num>
 							<heading>
-								<inline class="small-caps">Policy Statement</inline>
+								<inline>Policy Statement</inline>
 								.—
 							</heading>
 							<chapeau>In order to ensure continuous United States participation and leadership in the exploration and utilization of space and as an essential instrument of national security, it is the policy of the United States to maintain an uninterrupted capability for human space flight and operations—</chapeau>
-							<paragraph class="indent1" id="idb6e38b01-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70501/a/1" style="-uslm-lc:I12">
-								<num value="1">(1)</num>
+							<paragraph identifier="/us/usc/t51/s70501/a/1">
+								<num>(1)</num>
 								<content> in low-Earth orbit; and</content>
 							</paragraph>
-							<paragraph class="indent1" id="idb6e38b02-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70501/a/2" style="-uslm-lc:I12">
-								<num value="2">(2)</num>
+							<paragraph identifier="/us/usc/t51/s70501/a/2">
+								<num>(2)</num>
 								<content> beyond low-Earth orbit once the capabilities described in section 421(f) of the National Aeronautics and Space Administration Transition Authorization Act of 2017 become available.</content>
 							</paragraph>
 						</subsection>
-						<subsection class="indent0" id="idb6e38b03-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70501/b" style="-uslm-lc:I11">
-							<num value="b">(b)</num>
+						<subsection identifier="/us/usc/t51/s70501/b">
+							<num>(b)</num>
 							<heading>
-								<inline class="small-caps">Annual Report</inline>
+								<inline>Annual Report</inline>
 								.—
 							</heading>
 							<content>The Administrator shall transmit an annual report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives describing the progress being made toward developing the Space Launch System and Orion and the estimated time before they will demonstrate crewed, orbital spaceflight.</content>
 						</subsection>
 					</section>
-					<section id="idb6e4003e-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70502" style="-uslm-lc:I80">
-						<num value="70502">§ 70502.</num>
+					<section identifier="/us/usc/t51/s70502">
+						<num>§ 70502.</num>
 						<heading> Exploration plan and programs</heading>
-						<chapeau class="indent0" style="-uslm-lc:I11">The Administrator shall—</chapeau>
-						<paragraph class="indent1" id="idb6e4003f-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70502/1" style="-uslm-lc:I12">
-							<num value="1">(1)</num>
+						<chapeau>The Administrator shall—</chapeau>
+						<paragraph identifier="/us/usc/t51/s70502/1">
+							<num>(1)</num>
 							<content> construct an architecture and implementation plan for the Administration’s human exploration program that is not critically dependent on the achievement of milestones by fixed dates;</content>
 						</paragraph>
-						<paragraph class="indent1" id="idb6e40040-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70502/2" style="-uslm-lc:I12">
-							<num value="2">(2)</num>
+						<paragraph identifier="/us/usc/t51/s70502/2">
+							<num>(2)</num>
 							<content>
 								 implement an exploration research and technology development program to enable human and robotic operations consistent with 
 								<ref href="/us/usc/t51/s20302/b">section 20302(b) of this title</ref>
 								;
 							</content>
 						</paragraph>
-						<paragraph class="indent1" id="idb6e40041-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70502/3" style="-uslm-lc:I12">
-							<num value="3">(3)</num>
+						<paragraph identifier="/us/usc/t51/s70502/3">
+							<num>(3)</num>
 							<content> conduct an in-situ resource utilization technology program to develop the capability to use space resources to increase independence from Earth, and sustain exploration beyond low-Earth orbit; and</content>
 						</paragraph>
-						<paragraph class="indent1" id="idb6e40042-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70502/4" style="-uslm-lc:I12">
-							<num value="4">(4)</num>
+						<paragraph identifier="/us/usc/t51/s70502/4">
+							<num>(4)</num>
 							<content> pursue aggressively automated rendezvous and docking capabilities that can support the International Space Station and other mission requirements.</content>
 						</paragraph>
 					</section>
-					<section id="idb6e40049-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70503" style="-uslm-lc:I80">
-						<num value="70503">§ 70503.</num>
+					<section identifier="/us/usc/t51/s70503">
+						<num>§ 70503.</num>
 						<heading> Ground-based analog capabilities</heading>
-						<subsection class="indent0" id="idb6e4004a-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70503/a" style="-uslm-lc:I11">
-							<num value="a">(a)</num>
+						<subsection identifier="/us/usc/t51/s70503/a">
+							<num>(a)</num>
 							<heading>
-								<inline class="small-caps">In General</inline>
+								<inline>In General</inline>
 								.—
 							</heading>
 							<content>The Administrator may establish a ground-based analog capability in remote United States locations in order to assist in the development of lunar operations, life support, and in-situ resource utilization experience and capabilities.</content>
 						</subsection>
-						<subsection class="indent0" id="idb6e4004b-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70503/b" style="-uslm-lc:I11">
-							<num value="b">(b)</num>
+						<subsection identifier="/us/usc/t51/s70503/b">
+							<num>(b)</num>
 							<heading>
-								<inline class="small-caps">Environmental Characteristics</inline>
+								<inline>Environmental Characteristics</inline>
 								.—
 							</heading>
 							<chapeau>The Administrator shall select locations for the activities described in subsection (a) that—</chapeau>
-							<paragraph class="indent1" id="idb6e4004c-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70503/b/1" style="-uslm-lc:I12">
-								<num value="1">(1)</num>
+							<paragraph identifier="/us/usc/t51/s70503/b/1">
+								<num>(1)</num>
 								<content> are regularly accessible;</content>
 							</paragraph>
-							<paragraph class="indent1" id="idb6e4004d-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70503/b/2" style="-uslm-lc:I12">
-								<num value="2">(2)</num>
+							<paragraph identifier="/us/usc/t51/s70503/b/2">
+								<num>(2)</num>
 								<content> have significant temperature extremes and range; and</content>
 							</paragraph>
-							<paragraph class="indent1" id="idb6e4004e-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70503/b/3" style="-uslm-lc:I12">
-								<num value="3">(3)</num>
+							<paragraph identifier="/us/usc/t51/s70503/b/3">
+								<num>(3)</num>
 								<content> have access to energy and natural resources (including geothermal, permafrost, volcanic, or other potential resources).</content>
 							</paragraph>
 						</subsection>
-						<subsection class="indent0" id="idb6e4275f-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70503/c" style="-uslm-lc:I11">
-							<num value="c">(c)</num>
+						<subsection identifier="/us/usc/t51/s70503/c">
+							<num>(c)</num>
 							<heading>
-								<inline class="small-caps">Involvement of Local Populations and Private Sector Partners</inline>
+								<inline>Involvement of Local Populations and Private Sector Partners</inline>
 								.—
 							</heading>
 							<content>In carrying out this section, the Administrator shall involve local populations, academia, and industrial partners as much as possible to ensure that ground-based benefits and applications are encouraged and developed.</content>
 						</subsection>
 					</section>
-					<section id="idb6e42764-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70504" style="-uslm-lc:I80">
-						<num value="70504">§ 70504.</num>
+					<section identifier="/us/usc/t51/s70504">
+						<num>§ 70504.</num>
 						<heading> Stepping stone approach to exploration</heading>
-						<subsection class="indent0" id="idb6e42765-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70504/a" style="-uslm-lc:I11">
-							<num value="a">(a)</num>
+						<subsection identifier="/us/usc/t51/s70504/a">
+							<num>(a)</num>
 							<heading>
-								<inline class="small-caps">In General</inline>
+								<inline>In General</inline>
 								.—
 							</heading>
 							<chapeau>The Administration—</chapeau>
-							<paragraph class="indent1" id="idb6e42766-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70504/a/1" style="-uslm-lc:I12">
-								<num value="1">(1)</num>
+							<paragraph identifier="/us/usc/t51/s70504/a/1">
+								<num>(1)</num>
 								<content>
 									 may conduct missions to intermediate destinations in sustainable steps in accordance with 
 									<ref href="/us/usc/t51/s20302/b">section 20302(b) of this title</ref>
@@ -14426,75 +14426,75 @@ Amendments</column>
 									); and
 								</content>
 							</paragraph>
-							<paragraph class="indent1" id="idb6e42767-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70504/a/2" style="-uslm-lc:I12">
-								<num value="2">(2)</num>
+							<paragraph identifier="/us/usc/t51/s70504/a/2">
+								<num>(2)</num>
 								<content> shall incorporate any such missions into the human exploration roadmap under section 432 of the National Aeronautics and Space Administration Transition Authorization Act of 2017.</content>
 							</paragraph>
 						</subsection>
-						<subsection class="indent0" id="idb6e42768-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70504/b" style="-uslm-lc:I11">
-							<num value="b">(b)</num>
+						<subsection identifier="/us/usc/t51/s70504/b">
+							<num>(b)</num>
 							<heading>
-								<inline class="small-caps">Cost-effectiveness</inline>
+								<inline>Cost-effectiveness</inline>
 								.—
 							</heading>
 							<content>In order to maximize the cost-effectiveness of the long-term space exploration and utilization activities of the United States, the Administrator shall take all necessary steps, including engaging international, academic, and industry partners, to ensure that activities in the Administration’s human space exploration program balance how those activities might also help meet the requirements of future exploration and utilization activities leading to human habitation on the surface of Mars.</content>
 						</subsection>
-						<subsection class="indent0" id="idb6e42769-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70504/c" style="-uslm-lc:I11">
-							<num value="c">(c)</num>
+						<subsection identifier="/us/usc/t51/s70504/c">
+							<num>(c)</num>
 							<heading>
-								<inline class="small-caps">Completion</inline>
+								<inline>Completion</inline>
 								.—
 							</heading>
 							<content>Within budgetary considerations, once an exploration-related project enters its development phase, the Administrator shall seek, to the maximum extent practicable, to complete that project without undue delays.</content>
 						</subsection>
-						<subsection class="indent0" id="idb6e4276a-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70504/d" style="-uslm-lc:I11">
-							<num value="d">(d)</num>
+						<subsection identifier="/us/usc/t51/s70504/d">
+							<num>(d)</num>
 							<heading>
-								<inline class="small-caps">International Participation</inline>
+								<inline>International Participation</inline>
 								.—
 							</heading>
 							<content>In order to achieve the goal of successfully conducting a crewed mission to the surface of Mars, the President may invite the United States partners in the ISS program and other nations, as appropriate, to participate in an international initiative under the leadership of the United States.</content>
 						</subsection>
 					</section>
-					<section id="idb6e44e82-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70505" style="-uslm-lc:I80">
-						<num value="70505">§ 70505.</num>
+					<section identifier="/us/usc/t51/s70505">
+						<num>§ 70505.</num>
 						<heading> Lunar outpost</heading>
-						<subsection class="indent0" id="idb6e44e83-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70505/a" style="-uslm-lc:I11">
-							<num value="a">(a)</num>
+						<subsection identifier="/us/usc/t51/s70505/a">
+							<num>(a)</num>
 							<heading>
-								<inline class="small-caps">Establishment</inline>
+								<inline>Establishment</inline>
 								.—
 							</heading>
 							<content>As the Administration works toward the establishment of a lunar outpost, the Administration shall make no plans that would require a lunar outpost to be occupied to maintain its viability. Any such outpost shall be operable as a human-tended facility capable of remote or autonomous operation for extended periods.</content>
 						</subsection>
-						<subsection class="indent0" id="idb6e44e84-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70505/b" style="-uslm-lc:I11">
-							<num value="b">(b)</num>
+						<subsection identifier="/us/usc/t51/s70505/b">
+							<num>(b)</num>
 							<heading>
-								<inline class="small-caps">Designation</inline>
+								<inline>Designation</inline>
 								.—
 							</heading>
 							<content>The United States portion of the first human-tended outpost established on the surface of the Moon shall be designated the “Neil A. Armstrong Lunar Outpost”.</content>
 						</subsection>
 					</section>
-					<section id="idb6e44e89-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70506" style="-uslm-lc:I80">
-						<num value="70506">§ 70506.</num>
+					<section identifier="/us/usc/t51/s70506">
+						<num>§ 70506.</num>
 						<heading> Exploration technology research</heading>
 						<content>
-							<p class="indent0" style="-uslm-lc:I11">The Administrator shall carry out a program of long-term exploration-related technology research and development, including such things as in-space propulsion, power systems, life support, and advanced avionics, that is not tied to specific flight projects. The program shall have the funding goal of ensuring that the technology research and development can be completed in a timely manner in order to support the safe, successful, and sustainable exploration of the solar system. In addition, in order to ensure that the broadest range of innovative concepts and technologies are captured, the long-term technology program shall have the goal of having a significant portion of its funding available for external grants and contracts with universities, research institutions, and industry.</p>
+							<p>The Administrator shall carry out a program of long-term exploration-related technology research and development, including such things as in-space propulsion, power systems, life support, and advanced avionics, that is not tied to specific flight projects. The program shall have the funding goal of ensuring that the technology research and development can be completed in a timely manner in order to support the safe, successful, and sustainable exploration of the solar system. In addition, in order to ensure that the broadest range of innovative concepts and technologies are captured, the long-term technology program shall have the goal of having a significant portion of its funding available for external grants and contracts with universities, research institutions, and industry.</p>
 						</content>
 					</section>
-					<section id="idb6e475a1-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70507" style="-uslm-lc:I80">
-						<num value="70507">§ 70507.</num>
+					<section identifier="/us/usc/t51/s70507">
+						<num>§ 70507.</num>
 						<heading> Technology development</heading>
 						<content>
-							<p class="indent0" style="-uslm-lc:I11">The Administrator shall establish an intra-Directorate long-term technology development program for space and Earth science within the Science Mission Directorate for the development of new technology. The program shall be independent of the flight projects under development. The Administration shall have a goal of funding the intra-Directorate technology development program at a level of 5 percent of the total Science Mission Directorate annual budget. The program shall be structured to include competitively awarded grants and contracts.</p>
+							<p>The Administrator shall establish an intra-Directorate long-term technology development program for space and Earth science within the Science Mission Directorate for the development of new technology. The program shall be independent of the flight projects under development. The Administration shall have a goal of funding the intra-Directorate technology development program at a level of 5 percent of the total Science Mission Directorate annual budget. The program shall be structured to include competitively awarded grants and contracts.</p>
 						</content>
 					</section>
-					<section id="idb6e475a6-3b2b-11eb-bdfa-e7f745048b68" identifier="/us/usc/t51/s70508" style="-uslm-lc:I80">
-						<num value="70508">§ 70508.</num>
+					<section identifier="/us/usc/t51/s70508">
+						<num>§ 70508.</num>
 						<heading> Robotic or human servicing of spacecraft</heading>
 						<content>
-							<p class="indent0" style="-uslm-lc:I11">The Administrator shall take all necessary steps to ensure that provision is made in the design and construction of all future observatory-class scientific spacecraft intended to be deployed in Earth orbit or at a Lagrangian point in space for robotic or human servicing and repair to the extent practicable and appropriate.</p>
+							<p>The Administrator shall take all necessary steps to ensure that provision is made in the design and construction of all future observatory-class scientific spacecraft intended to be deployed in Earth orbit or at a Lagrangian point in space for robotic or human servicing and repair to the extent practicable and appropriate.</p>
 						</content>
 					</section>
 				</chapter>

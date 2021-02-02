@@ -3402,68 +3402,68 @@ TITLE IX. GENERAL PROVISIONS</column>
 						<p>Unless a statute or these rules permit otherwise, the government must prosecute an offense in a district where the offense was committed. The court must set the place of trial within the district with due regard for the convenience of the defendant, any victim, and the witnesses, and the prompt administration of justice.</p>
 					</content>
 				</courtRule>
-				<courtRule id="id788b557c-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20" style="-uslm-lc:I80">
-					<num value="20">Rule 20.</num>
+				<courtRule identifier="/us/usc/t18a/courtRules/Crim/rule20">
+					<num>Rule 20.</num>
 					<heading> Transfer for Plea and Sentence</heading>
-					<subsection class="indent0" id="id788b557d-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/a" style="-uslm-lc:I11">
-						<num value="a">(a)</num>
+					<subsection identifier="/us/usc/t18a/courtRules/Crim/rule20/a">
+						<num>(a)</num>
 						<heading> Consent to Transfer.</heading>
 						<chapeau> A prosecution may be transferred from the district where the indictment or information is pending, or from which a warrant on a complaint has been issued, to the district where the defendant is arrested, held, or present if:</chapeau>
-						<paragraph class="indent1" id="id788b557e-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/a/1" style="-uslm-lc:I12">
-							<num value="1">(1)</num>
+						<paragraph identifier="/us/usc/t18a/courtRules/Crim/rule20/a/1">
+							<num>(1)</num>
 							<content> the defendant states in writing a wish to plead guilty or nolo contendere and to waive trial in the district where the indictment, information, or complaint is pending, consents in writing to the court’s disposing of the case in the transferee district, and files the statement in the transferee district; and</content>
 						</paragraph>
-						<paragraph class="indent1" id="id788b557f-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/a/2" style="-uslm-lc:I12">
-							<num value="2">(2)</num>
+						<paragraph identifier="/us/usc/t18a/courtRules/Crim/rule20/a/2">
+							<num>(2)</num>
 							<content> the United States attorneys in both districts approve the transfer in writing.</content>
 						</paragraph>
 					</subsection>
-					<subsection class="indent0" id="id788b5580-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/b" style="-uslm-lc:I11">
-						<num value="b">(b)</num>
+					<subsection identifier="/us/usc/t18a/courtRules/Crim/rule20/b">
+						<num>(b)</num>
 						<heading> Clerk’s Duties.</heading>
 						<content> After receiving the defendant’s statement and the required approvals, the clerk where the indictment, information, or complaint is pending must send the file, or a certified copy, to the clerk in the transferee district.</content>
 					</subsection>
-					<subsection class="indent0" id="id788b5581-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/c" style="-uslm-lc:I11">
-						<num value="c">(c)</num>
+					<subsection identifier="/us/usc/t18a/courtRules/Crim/rule20/c">
+						<num>(c)</num>
 						<heading> Effect of a Not Guilty Plea.</heading>
 						<content> If the defendant pleads not guilty after the case has been transferred under Rule 20(a), the clerk must return the papers to the court where the prosecution began, and that court must restore the proceeding to its docket. The defendant’s statement that the defendant wished to plead guilty or nolo contendere is not, in any civil or criminal proceeding, admissible against the defendant.</content>
 					</subsection>
-					<subsection class="indent0" id="id788b5582-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/d" style="-uslm-lc:I11">
-						<num value="d">(d)</num>
+					<subsection identifier="/us/usc/t18a/courtRules/Crim/rule20/d">
+						<num>(d)</num>
 						<heading> Juveniles.</heading>
-						<paragraph class="indent1" id="id788b5583-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1" style="-uslm-lc:I12">
-							<num value="1">(1)</num>
+						<paragraph identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1">
+							<num>(1)</num>
 							<chapeau>
 								<i>Consent to Transfer.</i>
 								 A juvenile, as defined in 18 U.S.C. § 5031, may be proceeded against as a juvenile delinquent in the district where the juvenile is arrested, held, or present if:
 							</chapeau>
-							<subparagraph class="indent2" id="id788b5584-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1/A" style="-uslm-lc:I13">
-								<num value="A">(A)</num>
+							<subparagraph identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1/A">
+								<num>(A)</num>
 								<content> the alleged offense that occurred in the other district is not punishable by death or life imprisonment;</content>
 							</subparagraph>
-							<subparagraph class="indent2" id="id788b5585-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1/B" style="-uslm-lc:I13">
-								<num value="B">(B)</num>
+							<subparagraph identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1/B">
+								<num>(B)</num>
 								<content> an attorney has advised the juvenile;</content>
 							</subparagraph>
-							<subparagraph class="indent2" id="id788b5586-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1/C" style="-uslm-lc:I13">
-								<num value="C">(C)</num>
+							<subparagraph identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1/C">
+								<num>(C)</num>
 								<content> the court has informed the juvenile of the juvenile’s rights—including the right to be returned to the district where the offense allegedly occurred—and the consequences of waiving those rights;</content>
 							</subparagraph>
-							<subparagraph class="indent2" id="id788b5587-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1/D" style="-uslm-lc:I13">
-								<num value="D">(D)</num>
+							<subparagraph identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1/D">
+								<num>(D)</num>
 								<content> the juvenile, after receiving the court’s information about rights, consents in writing to be proceeded against in the transferee district, and files the consent in the transferee district;</content>
 							</subparagraph>
-							<subparagraph class="indent2" id="id788b5588-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1/E" style="-uslm-lc:I13">
-								<num value="E">(E)</num>
+							<subparagraph identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1/E">
+								<num>(E)</num>
 								<content> the United States attorneys for both districts approve the transfer in writing; and</content>
 							</subparagraph>
-							<subparagraph class="indent2" id="id788b5589-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1/F" style="-uslm-lc:I13">
-								<num value="F">(F)</num>
+							<subparagraph identifier="/us/usc/t18a/courtRules/Crim/rule20/d/1/F">
+								<num>(F)</num>
 								<content> the transferee court approves the transfer.</content>
 							</subparagraph>
 						</paragraph>
-						<paragraph class="indent1" id="id788b558a-3b28-11eb-b84e-df28e1719343" identifier="/us/usc/t18a/courtRules/Crim/rule20/d/2" style="-uslm-lc:I12">
-							<num value="2">(2)</num>
+						<paragraph identifier="/us/usc/t18a/courtRules/Crim/rule20/d/2">
+							<num>(2)</num>
 							<content>
 								<i>Clerk’s Duties.</i>
 								 After receiving the juvenile’s written consent and the required approvals, the clerk where the indictment, information, or complaint is pending or where the alleged offense occurred must send the file, or a certified copy, to the clerk in the transferee district.

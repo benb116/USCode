@@ -20,7 +20,7 @@ titles = [
   'usc52.xml',  'usc54.xml'
 ]
 
-removeTags = ['note', 'notes', 'sourceCredit', 'doc', 'dc', 'meta', 'property']
+removeTags = ['note', 'notes', 'sourceCredit', 'doc', 'dc', 'meta', 'property', 'ref']
 removeAttr = ['style', 'class', 'id', 'role', 'value', 'border', 'xmlns', 'width']
 removeStatus = ['repealed', 'omitted', 'transferred', 'reserved', 'renumbered']
 
@@ -31,7 +31,11 @@ def cleanTitle(name):
 
     # Find all nodes with bad tags
     for t in removeTags:
-        nodes = nodes + xmldoc.getElementsByTagName(t)
+        tagnodes = xmldoc.getElementsByTagName(t)
+        if t == 'ref':
+            tagnodes = [x for x in tagnodes if ('idref' in x.attributes.keys())]
+
+        nodes = nodes + tagnodes
 
     # Remove them
     for node in nodes:
@@ -65,6 +69,6 @@ def stripAttr(node):
 
 for fn in titles:
     cleanTitle(fn)
-# cleanTitle(titles[0])
+# cleanTitle(titles[3])
 
 

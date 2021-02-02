@@ -3336,6 +3336,118 @@ Subtitle III—Federal Campaign Finance</column>
 							</content>
 						</subsection>
 					</section>
+					<section identifier="/us/usc/t52/s20505a/">
+					    <num>§ 20505a.</num>
+					    <heading>Internet registration</heading>
+					    <subsection identifier="/us/usc/t52/s20505a/a">
+					        <num>(a)</num>
+					        <heading>Requiring Availability of internet for Online Registration</heading><content>Each State, acting through the chief State election official, shall ensure that the following services are available to the public at any time on the official public websites of the appropriate State and local election officials in the State, in the same manner and subject to the same terms and conditions as the services provided by voter registration agencies under section 7(a):</content>
+					        <paragraph identifier="/us/usc/t52/s20505a/a/1">
+					            <num>(1)</num><content>Online application for voter registration.</content>
+					        </paragraph>
+					        <paragraph identifier="/us/usc/t52/s20505a/a/2">
+					            <num>(2)</num><content>Online assistance to applicants in applying to register to vote.</content>
+					        </paragraph>
+					        <paragraph identifier="/us/usc/t52/s20505a/a/3">
+					            <num>(3)</num><text>Online completion and submission by applicants of the mail voter registration application form prescribed by the Election Assistance Commission pursuant to section 9(a)(2), including assistance with providing a signature as required under subsection (c)).</content>
+					        </paragraph>
+					        <paragraph identifier="/us/usc/t52/s20505a/a/4">
+					            <num>(4)</num><content>Online receipt of completed voter registration applications.</content>
+					        </paragraph>
+					    </subsection>
+					    <subsection identifier="/us/usc/t52/s20505a/b">
+					        <num>(b)</num>
+					        <heading>Acceptance of completed applications</heading><content>A State shall accept an online voter registration application provided by an individual under this section, and ensure that the individual is registered to vote in the State, if—</content>
+					        <paragraph identifier="/us/usc/t52/s20505a/b/"1>
+					            <num>(1)</num><content>the individual meets the same voter registration requirements applicable to individuals who register to vote by mail in accordance with section 6(a)(1) using the mail voter registration application form prescribed by the Election Assistance Commission pursuant to section 9(a)(2); and</content>
+					        </paragraph>
+					        <paragraph identifier="/us/usc/t52/s20505a/b/2">
+					            <num>(2)</num><content>the individual meets the requirements of subsection (c) to provide a signature in electronic form (but only in the case of applications submitted during or after the second year in which this section is in effect in the State).</content>
+					        </paragraph>
+					    </subsection>
+					    <subsection identifier="/us/usc/t52/s20505a/c">
+					        <num>(c)</num>
+					        <heading>Signature requirements</heading>
+					        <paragraph identifier="/us/usc/t52/s20505a/c/1">
+					            <num>(1)</num>
+					            <heading>In general</heading><content>For purposes of this section, an individual meets the requirements of this subsection as follows:</content>
+					            <subparagraph identifier="/us/usc/t52/s20505a/c/1/A">
+					                <num>(A)</num><text>In the case of an individual who has a signature on file with a State agency, including the State motor vehicle authority, that is required to provide voter registration services under this Act or any other law, the individual consents to the transfer of that electronic signature.</content>
+					            </subparagraph>
+					            <subparagraph identifier="/us/usc/t52/s20505a/c/1/B">
+					                <num>(B)</num><content>If subparagraph (A) does not apply, the individual submits with the application an electronic copy of the individual’s handwritten signature through electronic means.</content>
+					            </subparagraph>
+					            <subparagraph identifier="/us/usc/t52/s20505a/c/1/C">
+					                <num>(C)</num><content>If subparagraph (A) and subparagraph (B) do not apply, the individual executes a computerized mark in the signature field on an online voter registration application, in accordance with reasonable security measures established by the State, but only if the State accepts such mark from the individual.</content>
+					            </subparagraph>
+					        </paragraph>
+					        <paragraph identifier="/us/usc/t52/s20505a/c">
+					            <num>(2)</num>
+					            <heading>Treatment of individuals unable to meet requirement</heading><content>If an individual is unable to meet the requirements of paragraph (1), the State shall—</content>
+					            <subparagraph identifier="/us/usc/t52/s20505a/c/1">
+					                <num>(A)</num><content>permit the individual to complete all other elements of the online voter registration application;</content>
+					            </subparagraph>
+					            <subparagraph identifier="/us/usc/t52/s20505a/c/2">
+					                <num>(B)</num><content>permit the individual to provide a signature at the time the individual requests a ballot in an election (whether the individual requests the ballot at a polling place or requests the ballot by mail); and</content>
+					            </subparagraph>
+					            <subparagraph identifier="/us/usc/t52/s20505a/c/3">
+					                <num>(C)</num><content>if the individual carries out the steps described in subparagraph (A) and subparagraph (B), ensure that the individual is registered to vote in the State.</content>
+					            </subparagraph>
+					        </paragraph>
+					        <paragraph identifier="/us/usc/t52/s20505a/c">
+					            <num>(3)</num>
+					            <heading>Notice</heading><content>The State shall ensure that individuals applying to register to vote online are notified of the requirements of paragraph (1) and of the treatment of individuals unable to meet such requirements, as described in paragraph (2).</content>
+					        </paragraph>
+					    </subsection>
+					    <subsection identifier="/us/usc/t52/s20505a/d">
+					        <num>(d)</num>
+					        <heading>Confirmation and disposition</heading>
+					        <paragraph identifier="/us/usc/t52/s20505a/d/1">
+					            <num>(1)</num>
+					            <heading>Confirmation of receipt</heading><content>Upon the online submission of a completed voter registration application by an individual under this section, the appropriate State or local election official shall send the individual a notice confirming the State’s receipt of the application and providing instructions on how the individual may check the status of the application.</content>
+					        </paragraph>
+					        <paragraph identifier="/us/usc/t52/s20505a/d/2">
+					            <num>(2)</num>
+					            <heading>Notice of disposition</heading><content>Not later than 7 days after the appropriate State or local election official has approved or rejected an application submitted by an individual under this section, the official shall send the individual a notice of the disposition of the application.</content>
+					        </paragraph>
+					        <paragraph identifier="/us/usc/t52/s20505a/d/3">
+					            <num>(3)</num>
+					            <heading>Method of notification</heading><content>The appropriate State or local election official shall send the notices required under this subsection by regular mail and—</content>
+					            <subparagraph identifier="/us/usc/t52/s20505a/d/3/A">
+					                <num>(A)</num><content>in the case of an individual who has provided the official with an electronic mail address, by electronic mail; and</content>
+					            </subparagraph>
+					            <subparagraph identifier="/us/usc/t52/s20505a/d/3/B">
+					                <num>(B)</num><content>at the option of the individual, by text message.</content>
+					            </subparagraph>
+					        </paragraph>
+					    </subsection>
+					    <subsection identifier="/us/usc/t52/s20505a/e">
+					        <num>(e)</num>
+					        <heading>Provision of Services in Nonpartisan Manner</heading><content>The services made available under subsection (a) shall be provided in a manner that ensures that, consistent with section 7(a)(5)—</content>
+					        <paragraph identifier="/us/usc/t52/s20505a/e/1">
+					            <num>(1)</num><content>the online application does not seek to influence an applicant’s political preference or party registration; and</content>
+					        </paragraph>
+					        <paragraph identifier="/us/usc/t52/s20505a/e/2">
+					            <num>(2)</num><content>there is no display on the website promoting any political preference or party allegiance, except that nothing in this paragraph may be construed to prohibit an applicant from registering to vote as a member of a political party.</content>
+					        </paragraph>
+					    </subsection>
+					    <subsection identifier="/us/usc/t52/s20505a/f">
+					        <num>(f)</num>
+					        <heading>Protection of Security of Information</heading><content>In meeting the requirements of this section, the State shall establish appropriate technological security measures to prevent to the greatest extent practicable any unauthorized access to information provided by individuals using the services made available under subsection (a).</content>
+					    </subsection>
+					    <subsection identifier="/us/usc/t52/s20505a/g">
+					        <num>(g)</num>
+					        <heading>Accessibility of services</heading><content>A state shall ensure that the services made available under this section are made available to individuals with disabilities to the same extent as services are made available to all other individuals.</content>
+					    </subsection>
+					    <subsection identifier="/us/usc/t52/s20505a/h">
+					        <num>(h)</num>
+					        <heading>Use of Additional Telephone-Based System</heading><content>A State shall make the services made available online under subsection (a) available through the use of an automated telephone-based system, subject to the same terms and conditions applicable under this section to the services made available online, in addition to making the services available online in accordance with the requirements of this section.</content>
+					    </subsection>
+					    <subsection identifier="/us/usc/t52/s20505a/i">
+					        <num>(i)</num>
+					        <heading>Nondiscrimination among registered voters using mail and online registration</heading><content>In carrying out this Act, the Help America Vote Act of 2002, or any other Federal, State, or local law governing the treatment of registered voters in the State or the administration of elections for public office in the State, a State shall treat a registered voter who registered to vote online in accordance with this section in the same manner as the State treats a registered voter who registered to vote by mail.</content>
+					    </subsection>
+					</section>
 					<section identifier="/us/usc/t52/s20506">
 						<num>§ 20506.</num>
 						<heading> Voter registration agencies</heading>
@@ -3550,10 +3662,14 @@ Subtitle III—Federal Campaign Finance</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t52/s20507/a/1/C">
 									<num>(C)</num>
-									<content> in the case of registration at a voter registration agency, if the valid voter registration form of the applicant is accepted at the voter registration agency not later than the lesser of 30 days, or the period provided by State law, before the date of the election; and</content>
+									<content> in the case of registration at a voter registration agency, if the valid voter registration form of the applicant is accepted at the voter registration agency not later than the lesser of 30 days, or the period provided by State law, before the date of the election;</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t52/s20507/a/1/D">
-									<num>(D)</num>
+                                    <num>(D)</num>
+                                    <content>in the case of online registration through the official public website of an election official under section 6A, if the valid voter registration application is submitted online not later than the lesser of 28 days, or the period provided by State law, before the date of the election (as determined by treating the date on which the application is sent electronically as the date on which it is submitted); and</content>
+                                </subparagraph>
+								<subparagraph identifier="/us/usc/t52/s20507/a/1/E">
+									<num>(E)</num>
 									<content> in any other case, if the valid voter registration form of the applicant is received by the appropriate State election official not later than the lesser of 30 days, or the period provided by State law, before the date of the election;</content>
 								</subparagraph>
 							</paragraph>
@@ -3591,7 +3707,7 @@ Subtitle III—Federal Campaign Finance</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t52/s20507/a/5">
 								<num>(5)</num>
-								<chapeau> inform applicants under sections 20504, 20505, and 20506 of this title of—</chapeau>
+								<chapeau> inform applicants under sections 20504, 20505, 20505a, and 20506 of this title of—</chapeau>
 								<subparagraph identifier="/us/usc/t52/s20507/a/5/A">
 									<num>(A)</num>
 									<content> voter eligibility requirements; and</content>
@@ -8458,7 +8574,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS</column>
 										</chapeau>
 										<subparagraph identifier="/us/usc/t52/s21083/b/1/A">
 											<num>(A)</num>
-											<content> the individual registered to vote in a jurisdiction by mail; and</content>
+											<content> the individual registered to vote in a jurisdiction by mail or online under section 6A of the National Voter Registration Act of 1993; and</content>
 										</subparagraph>
 										<subparagraph identifier="/us/usc/t52/s21083/b/1/B">
 											<num>(B)</num>
@@ -8643,6 +8759,59 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS</column>
 									</paragraph>
 									<paragraph identifier="/us/usc/t52/s21083/b/5">
 										<num>(5)</num>
+										<heading>SIGNATURE REQUIREMENTS FOR FIRST-TIME VOTERS USING ONLINE REGISTRATION.—</heading>
+										<subparagraph identifier="/us/usc/t52/s21083/b/5/A">
+											<num>(A)</num>
+											<heading> In general</heading>
+											<chapeau>
+												A State shall, in a uniform and nondiscriminatory manner, require an individual to meet the requirements of subparagraph (B) if—
+											</chapeau>
+											<clause identifier="/us/usc/t52/s21083/b/5/A/i">
+												<num>(i)</num>
+												<content> the individual registered to vote in the State online under section 6A of the National Voter Registration Act of 1993; and</content>
+											</clause>
+											<clause identifier="/us/usc/t52/s21083/b/5/A/ii">
+												<num>(ii)</num>
+												<content> the individual has not previously voted in an election for Federal office in the State.</content>
+											</clause>
+										</subparagraph>
+										<subparagraph identifier="/us/usc/t52/s21083/b/5/B">
+											<num>(B)</num>
+											<heading>REQUIREMENTS.—</heading>
+											<chapeau>
+												An individual meets the requirements of this subparagraph if—
+											</chapeau>
+											<clause identifier="/us/usc/t52/s21083/b/5/B/i">
+												<num>(i)</num>
+												<content> in the case of an individual who votes in person, the individual provides the appropriate State or local election official with a handwritten signature; or</content>
+											</clause>
+											<clause identifier="/us/usc/t52/s21083/b/5/B/ii">
+												<num>(ii)</num>
+												<content> in the case of an individual who votes by mail, the individual submits with the ballot a handwritten signature.</content>
+											</clause>
+										</subparagraph>
+										<subparagraph identifier="/us/usc/t52/s21083/b/5/C">
+											<num>(C)</num>
+											<heading>INAPPLICABILITY.—</heading>
+											<chapeau>
+												Subparagraph (A) does not apply in the case of an individual who is—
+											</chapeau>
+											<clause identifier="/us/usc/t52/s21083/b/5/C/i">
+												<num>(i)</num>
+												<content> entitled to vote by absentee ballot under the Uniformed and Overseas Citizens Absentee Voting Act (52 U.S.C. 20302 et seq.);</content>
+											</clause>
+											<clause identifier="/us/usc/t52/s21083/b/5/C/ii">
+												<num>(ii)</num>
+												<content> provided the right to vote otherwise than in person under section 3(b)(2)(B)(ii) of the Voting Accessibility for the Elderly and Handicapped Act (52 U.S.C. 20102(b)(2)(B)(ii)); or</content>
+											</clause>
+											<clause identifier="/us/usc/t52/s21083/b/5/C/iii">
+												<num>(iii)</num>
+												<content> entitled to vote otherwise than in person under any other Federal law.</content>
+											</clause>
+										</subparagraph>
+									</paragraph>
+									<paragraph identifier="/us/usc/t52/s21083/b/6">
+										<num>(6)</num>
 										<heading> Construction</heading>
 										<content>
 											<p>
@@ -8711,7 +8880,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS</column>
 											<heading> In general</heading>
 											<content>
 												<p>
-													Each State and jurisdiction shall be required to comply with the requirements of subsection (b) on and after 
+													Except as provided in subsection (b)(5), each State and jurisdiction shall be required to comply with the requirements of subsection (b) on and after 
 													<date date="2004-01-01">January 1, 2004</date>
 													, and shall be prepared to receive registration materials submitted by individuals described in subparagraph (B) on and after the date described in such subparagraph.
 												</p>

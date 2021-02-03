@@ -32,6 +32,8 @@ Will have to do language parsing
                 quoted block
             'by inserting at the end the following new <div\s\>:'
                 quoted block
+            'to read as follows:'
+                quoted block
 
         "<div> # \of <div> # of such Act <extref> is amended":
             'by striking <quote/> at the end of <div> #'
@@ -42,6 +44,10 @@ Will have to do language parsing
                 Determine correct numbering and add IDs
         "The table of contents\sections] of such Act" - prob ignore
 
+    Add references to:
+        "under the provisions of paragraphs (3), (4), and (5) of section 11 of the Headquarters Agreement with the United Nations (61 Stat. 758)"
+        <ref href="/us/stat/61/758">61 Stat. 758</ref>
+
 Maintain USC in XML form
     Export a plaintext version?
 
@@ -49,3 +55,20 @@ Each bill is a branch off of master
     Any bill amendments are further commits to that bill
         A merge occurs when the president signs the bill into law
 
+    Branch name is Congress#-Bill# (e.g. 116-HR8768)
+    Initial commit title is branch name + short title
+    Initial commit message is full title
+    Add sponsors as co-authors
+
+
+        Co-authored-by: George Washington (I-VA) <TheOGWashington@house.gov>
+        Co-authored-by: Bernie Sanders (I-VT) <FeelTheBern@senate.gov>
+    Any bill amendments are further commits to that bill
+    A merge occurs when the president signs the bill into law
+
+Frontend website to view
+    Browse USC
+    See recently passed bills
+    See upcoming legislation
+
+Amendment texts might have slightly different tags, properties, etc.

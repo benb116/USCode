@@ -1,0 +1,57 @@
+https://uscode.house.gov/download/download.shtml
+^ Starting point
+
+Use cleanup.py to strip and clean
+
+"master" branch of the repo is USCode + all laws that have been signed
+
+Some parts of some laws add brand new material (i.e. not in an specific section)
+    Maybe have a "Statutes at Large" folder for material that hasn't been classified
+    As classification tables come out, move material from SAL to USC
+
+Much of a law is CRUD operations on existing law
+    Often CRUD is specified in reference to public laws (as amended), not to USC
+        e.g. if "section 3 of PL 116-259" is classified in 52 USC 1234, the law/amendments may say "change section 2 of the law", and section 2 will have to be translated to a USC location (maybe 52 USC 1233)
+            Classification table lookup could help to map one to the other.
+    If it says "section 123 of Short Title (23 USC 4321)", 4321 may not be the exact section
+        Need to consult classification table to be exact
+
+Will have to do language parsing
+    Improved if use XML of bill text
+        Bill and USC xml are slightly different
+    Patterns to find:
+        "<div> # \of <div> # of\ the 'Short Title' (<external-xref legal-doc="usc" parsable-cite="usc/52/21081">52 U.S.C. 21081(b)</external-xref> \et seq.\) \, as amended by section 1031(a),\ is amended":
+            '-': Go into next line
+            '\in <div> #, \by redesignating <divs> # # # as <divs> # # #'
+                Remember to update any links/references
+            'by inserting after <div> #':
+                'the following new <div>': Include the <quoted-block> node
+            'by striking <divs> # # # and inserting the following'
+                quoted block
+            'by adding at the end the following new <div\s\>:'
+                quoted block
+            'by inserting at the end the following new <div\s\>:'
+                quoted block
+            'to read as follows:'
+                quoted block
+
+        "<div> # \of <div> # of such Act <extref> is amended":
+            'by striking <quote/> at the end of <div> #'
+            'by striking <quote/> and inserting <quote/>'
+            'by striking <quote/> and inserting the following:'
+            'by striking the period at the end of <div> # and inserting <quote/>'
+            'by adding at the end the following new <div>':
+                Determine correct numbering and add IDs
+        "The table of contents\sections] of such Act" - prob ignore
+
+    Add references to:
+        "under the provisions of paragraphs (3), (4), and (5) of section 11 of the Headquarters Agreement with the United Nations (61 Stat. 758)"
+        <ref href="/us/stat/61/758">61 Stat. 758</ref>
+
+Maintain USC in XML form
+    Export a plaintext version?
+
+Each bill is a branch off of master
+    Any bill amendments are further commits to that bill
+        A merge occurs when the president signs the bill into law
+

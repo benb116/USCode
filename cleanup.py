@@ -33,6 +33,7 @@ def cleanTitle(name):
     for t in removeTags:
         tagnodes = xmldoc.getElementsByTagName(t)
         if t == 'ref':
+            # Remove only ref tags with the idref attributes
             tagnodes = [x for x in tagnodes if ('idref' in x.attributes.keys())]
 
         nodes = nodes + tagnodes
@@ -46,6 +47,7 @@ def cleanTitle(name):
     # Also remove any sections with a bad status
     stripAttr(xmldoc)
 
+    # Pretty print
     out = os.linesep.join([s for s in xmldoc.toprettyxml().strip().splitlines(True) if s.strip()])
     out2 = os.linesep.join([s for s in out.splitlines() if s])
 

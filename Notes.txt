@@ -52,6 +52,20 @@ Maintain USC in XML form
     Export a plaintext version?
 
 Each bill is a branch off of master
-    Any bill amendments are further commits to that bill
-        A merge occurs when the president signs the bill into law
+    Branch name is Congress#-Bill# (e.g. 116-HR8768)
+    Initial commit title is branch name + short title
+    Initial commit message is full title
+    Add sponsors as co-authors
 
+
+        Co-authored-by: George Washington (I-VA) <TheOGWashington@house.gov>
+        Co-authored-by: Bernie Sanders (I-VT) <FeelTheBern@senate.gov>
+    Any bill amendments are further commits to that bill
+    A merge occurs when the president signs the bill into law
+
+Frontend website to view
+    Browse USC
+    See recently passed bills
+    See upcoming legislation
+
+Amendment texts might have slightly different tags, properties, etc.

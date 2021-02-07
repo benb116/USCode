@@ -69,3 +69,26 @@ Frontend website to view
     See upcoming legislation
 
 Amendment texts might have slightly different tags, properties, etc.
+    <section id="H74155FBEF8504219897A999B3649FCAF" section-type="section-one" ***changed="deleted" reported-display-style="strikethrough"***>
+    ^ Reported, not engrossed
+
+Could we "backtrack from current release point?"
+    I.e. make commits earlier in the tree based on laws and amendments that have already passed
+    18 usc 1203
+        (Added Pub. L. 98–473, title II, §2002(a), Oct. 12, 1984, 98 Stat. 2186 ; amended Pub. L. 100–690, title VII, §7028, Nov. 18, 1988, 102 Stat. 4397 ; Pub. L. 103–322, title VI, §60003(a)(10), Sept. 13, 1994, 108 Stat. 1969 ; Pub. L. 104–132, title VII, §723(a)(1), Apr. 24, 1996, 110 Stat. 1300 .)
+        Editorial Notes
+        Amendments
+        1996-Subsec. (a). Pub. L. 104–132 inserted "or conspires" after "attempts".
+        1994-Subsec. (a). Pub. L. 103–322 inserted before period at end "and, if the death of any person results, shall be punished by death or life imprisonment".
+        1988-Subsec. (c). Pub. L. 100–690 substituted "(c) As" for "(C) As".
+
+        Init the repo
+        Add section in 98-473 commit
+        Amend in three new commits
+
+    1) download code as is currently and sanitize, but don't put it into git.
+        Prob need to refrain from deleting bad sections
+    2) Run the "go back in time" functionality to force the code as far back in time as possible
+    3) Initialize in git
+    4) Run the "go back in time" functionality *in reverse*, committing after each law. State should be same as when downloaded
+    5) Continue as normal

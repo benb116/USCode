@@ -57,6 +57,9 @@ Maintain USC in XML form
     Export a plaintext version?
 
 Each bill is a branch off of master
+    Any bill amendments are further commits to that bill
+        A merge occurs when the president signs the bill into law
+
     Branch name is Congress#-Bill# (e.g. 116-HR8768)
     Initial commit title is branch name + short title
     Initial commit message is full title

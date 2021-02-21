@@ -1903,6 +1903,40 @@ SUBCHAPTER XL—GRANT PROGRAM TO EVALUATE AND IMPROVE EDUCATIONAL METHODS AT PRI
 								</column>
 								<column>Grant program to evaluate and improve educational methods at prisons, jails, and juvenile facilities.</column>
 							</tocItem>
+							<header>
+								<column>
+SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
+							</header>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t34/s10751">10751.</ref>
+								</column>
+								<column>Grant authorization.</column>
+							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t34/s10752">10752.</ref>
+								</column>
+								<column>Applications.</column>
+							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t34/s10753">10753.</ref>
+								</column>
+								<column>Review of applications.</column>
+							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t34/s10754">10754.</ref>
+								</column>
+								<column>Evaluation.</column>
+							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t34/s10755">10755.</ref>
+								</column>
+								<column>Authorization of funding.</column>
+							</tocItem>
 						</layout>
 					</toc>
 					<subchapter identifier="/us/usc/t34/stI/ch101/schI">
@@ -16659,6 +16693,237 @@ SUBCHAPTER XL—GRANT PROGRAM TO EVALUATE AND IMPROVE EDUCATIONAL METHODS AT PRI
 									<p>Not later than 90 days after the last day of the final fiscal year of a grant under this subchapter, each entity described in subsection (a) receiving such a grant shall submit to the Attorney General a detailed report of the progress made by the entity using such grant, to permit the Attorney General to evaluate and improve academic and vocational education methods carried out with grants under this subchapter.</p>
 								</content>
 							</subsection>
+						</section>
+					</subchapter>
+					<subchapter identifier="/us/usc/t34/stI/ch101/schXLI">
+						<num>SUBCHAPTER XLI—</num>
+						<heading>CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</heading>
+						<section identifier="/us/usc/t34/s10751">
+							<num>§ 10751.</num>
+							<heading> Grant authorization</heading>
+							<subsection identifier="/us/usc/t34/s10751/a">
+								<num>(a)</num>
+								<heading> In general</heading>
+								<content>
+									<p>The Attorney General may make grants under this subchapter to States, Indian Tribes, units of local government, and community-based nonprofit organizations for the purpose of providing clinical services for people with serious mental illness and substance use disorders that establish treatment, suicide prevention, and continuity of recovery in the community upon release from the correctional facility.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t34/s10751/b">
+								<num>(b)</num>
+								<heading> Use of funds</heading>
+								<chapeau>A grant awarded under this subchapter shall be used to support—</chapeau>
+								<paragraph identifier="/us/usc/t34/s10751/b/1">
+									<num>(1)</num>
+									<chapeau> programs involving criminal and juvenile justice agencies, mental health agencies, community-based organizations that focus on reentry, and community-based behavioral health providers that improve clinical stabilization during pre-trial detention and incarceration and continuity of care leading to recovery in the community by providing services and supports that may include peer support services, enrollment in healthcare, and introduction to long-acting injectable medications or, as clinically indicated, other medications, by—</chapeau>
+									<subparagraph identifier="/us/usc/t34/s10751/b/1/A">
+										<num>(A)</num>
+										<chapeau> providing training and education for criminal and juvenile justice agencies, mental health agencies, and community-based behavioral health providers on interventions that support—</chapeau>
+										<clause identifier="/us/usc/t34/s10751/b/1/A/i">
+											<num>(i)</num>
+											<content> engagement in recovery supports and services;</content>
+										</clause>
+										<clause identifier="/us/usc/t34/s10751/b/1/A/ii">
+											<num>(ii)</num>
+											<content> access to medication while in an incarcerated setting; and</content>
+										</clause>
+										<clause identifier="/us/usc/t34/s10751/b/1/A/iii">
+											<num>(iii)</num>
+											<content> continuity of care during reentry into the community;</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t34/s10751/b/1/B">
+										<num>(B)</num>
+										<content> ensuring that individuals with serious mental illness are provided appropriate access to evidence-based recovery supports that may include peer support services, medication (including long-acting injectable medications where clinically appropriate), and psycho-social therapies;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t34/s10751/b/1/C">
+										<num>(C)</num>
+										<content> offering technical assistance to criminal justice agencies on how to modify their administrative and clinical processes to accommodate evidence-based interventions, such as long-acting injectable medications and other recovery supports; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t34/s10751/b/1/D">
+										<num>(D)</num>
+										<content> participating in data collection activities specified by the Attorney General, in consultation with the Secretary of Health and Human Services;</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s10751/b/2">
+									<num>(2)</num>
+									<chapeau> programs that support cooperative efforts between criminal and juvenile justice agencies, mental health agencies, and community-based behavioral health providers to establish or enhance serious mental illness recovery support by—</chapeau>
+									<subparagraph identifier="/us/usc/t34/s10751/b/2/A">
+										<num>(A)</num>
+										<content> strengthening or establishing crisis response services delivered by hotlines, mobile crisis teams, crisis stabilization and triage centers, peer support specialists, public safety officers, community-based behavioral health providers, and other stakeholders, including by providing technical support for interventions that promote long-term recovery;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t34/s10751/b/2/B">
+										<num>(B)</num>
+										<content> engaging criminal and juvenile justice agencies, mental health agencies and community-based behavioral health providers, preliminary qualified offenders, and family and community members in program design, program implementation, and training on crisis response services, including connection to recovery services and supports;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t34/s10751/b/2/C">
+										<num>(C)</num>
+										<content> examining health care reimbursement issues that may pose a barrier to ensuring the long-term financial sustainability of crisis response services and interventions that promote long-term engagement with recovery services and supports; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t34/s10751/b/2/D">
+										<num>(D)</num>
+										<content> participating in data collection activities specified by the Attorney General, in consultation with the Secretary of Health and Human Services; and</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s10751/b/3">
+									<num>(3)</num>
+									<content> programs that provide training and additional resources to criminal and juvenile justice agencies, mental health agencies, and community-based behavioral health providers on serious mental illness, suicide prevention strategies, recovery engagement strategies, and the special health and social needs of justice-involved individuals who are living with serious mental illness.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t34/s10751/c">
+								<num>(c)</num>
+								<heading> Consultation</heading>
+								<content>
+									<p>The Attorney General shall consult with the Secretary of Health and Human Services to ensure that serious mental illness treatment and recovery support services provided under this grant program incorporate evidence-based approaches that facilitate long-term engagement in recovery services and supports.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t34/s10751/d">
+								<num>(d)</num>
+								<heading> Behavioral health provider defined</heading>
+								<chapeau>In this section, the term “behavioral health provider” means—</chapeau>
+								<paragraph identifier="/us/usc/t34/s10751/d/1">
+									<num>(1)</num>
+									<content>
+										 a community mental health center that meets the criteria under 
+										<ref href="/us/usc/t34/s300x–2/c">section 300x–2(c) of this title</ref>
+										; or
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s10751/d/2">
+									<num>(2)</num>
+									<content>
+										 a certified community behavioral health clinic described in section 223(d) of the Protecting Access to Medicare Act of 2014 (
+										<ref href="/us/usc/t42/s1396a">42 U.S.C. 1396a</ref>
+										 note).
+									</content>
+								</paragraph>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t34/s10752">
+							<num>§ 10752.</num>
+							<heading> Applications</heading>
+							<subsection identifier="/us/usc/t34/s10752/a">
+								<num>(a)</num>
+								<heading> In general</heading>
+								<chapeau>To request a grant under this subchapter, the chief executive of a State, Indian Tribe, unit of local government, or community-based non-profit organization shall submit an application to the Attorney General—</chapeau>
+								<paragraph identifier="/us/usc/t34/s10752/a/1">
+									<num>(1)</num>
+									<content> in such form and containing such information as the Attorney General may reasonably require;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s10752/a/2">
+									<num>(2)</num>
+									<content> that includes assurances that Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s10752/a/3">
+									<num>(3)</num>
+									<chapeau> that describes the coordination between State, Tribal, or local criminal and juvenile justice agencies, mental health agencies and community-based behavioral health providers, preliminary qualified offenders, and family and community members in—</chapeau>
+									<subparagraph identifier="/us/usc/t34/s10752/a/3/A">
+										<num>(A)</num>
+										<content> program design;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t34/s10752/a/3/B">
+										<num>(B)</num>
+										<content> program implementation; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t34/s10752/a/3/C">
+										<num>(C)</num>
+										<content> training on crisis response, medication adherence, and continuity of recovery in the community.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t34/s10752/b">
+								<num>(b)</num>
+								<heading> Eligibility for preference with community care component</heading>
+								<paragraph identifier="/us/usc/t34/s10752/b/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>In awarding grants under this subchapter, the Attorney General shall give preference to a State, Indian Tribe, unit of local government, or community-based nonprofit organization that ensures that individuals who participate in a program, funded by a grant under this subchapter will be provided with continuity of care, in accordance with paragraph (2), in a community care provider program upon release from a correctional facility and adopt policies that focus on programming, strategies, and educational components for reducing recidivism and probation violations.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s10752/b/2">
+									<num>(2)</num>
+									<heading> Requirements</heading>
+									<content>
+										<p>For purposes of paragraph (1), the continuity of care shall involve the coordination of the correctional facility treatment program with qualified community behavioral health providers and other recovery supports, pre-trial release programs, parole supervision programs, half-way house programs, and participation in peer recovery group programs, which may aid in ongoing recovery after the individual is released from the correctional facility.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s10752/b/3">
+									<num>(3)</num>
+									<heading> Community care provider program defined</heading>
+									<content>
+										<p>For purposes of this subsection, the term “community care provider program” means a community mental health center or certified community behavioral health clinic that directly provides to an individual, or assists in connecting an individual to the provision of, appropriate community-based treatment, medication management, and other recovery supports, when the individual leaves a correctional facility at the end of a sentence or on parole.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t34/s10752/c">
+								<num>(c)</num>
+								<heading> Coordination of Federal assistance</heading>
+								<content>
+									<p>Each application submitted for a grant under this subchapter shall include a description of how the funds made available under this subchapter will be coordinated with Federal assistance for behavioral health services currently provided by the Department of Health and Human Services’ Substance Abuse and Mental Health Services Administration.</p>
+								</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t34/s10753">
+							<num>§ 10753.</num>
+							<heading> Review of applications</heading>
+							<subsection identifier="/us/usc/t34/s10753/a">
+								<num>(a)</num>
+								<heading> In general</heading>
+								<chapeau>
+									The Attorney General shall make a grant under 
+									<ref href="/us/usc/t34/s10751">section 10751 of this title</ref>
+									 to carry out the projects described in the application submitted under 
+									<ref href="/us/usc/t34/s10752">section 10752 of this title</ref>
+									 upon determining that—
+								</chapeau>
+								<paragraph identifier="/us/usc/t34/s10753/a/1">
+									<num>(1)</num>
+									<content> the application is consistent with the requirements of this subchapter; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s10753/a/2">
+									<num>(2)</num>
+									<content> before the approval of the application, the Attorney General has made an affirmative finding in writing that the proposed project has been reviewed in accordance with this subchapter.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t34/s10753/b">
+								<num>(b)</num>
+								<heading> Approval</heading>
+								<content>
+									<p>
+										Each application submitted under 
+										<ref href="/us/usc/t34/s10752">section 10752 of this title</ref>
+										 shall be considered approved, in whole or in part, by the Attorney General not later than 90 days after first received, unless the Attorney General informs the applicant of specific reasons for disapproval.
+									</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t34/s10753/c">
+								<num>(c)</num>
+								<heading> Restriction</heading>
+								<content>
+									<p>Grant funds received under this subchapter shall not be used for land acquisition or construction projects.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t34/s10753/d">
+								<num>(d)</num>
+								<heading> Disapproval notice and reconsideration</heading>
+								<content>
+									<p>The Attorney General may not disapprove any application without first affording the applicant reasonable notice and an opportunity for reconsideration.</p>
+								</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t34/s10754">
+							<num>§ 10754.</num>
+							<heading> Evaluation</heading>
+							<content>
+								<p>Each State, Indian Tribe, unit of local government, or community-based nonprofit organization that receives a grant under this subchapter shall submit to the Attorney General an evaluation not later than 1 year after receipt of the grant in such form and containing such information as the Attorney General, in consultation with the Secretary of Health and Human Services, may reasonably require.</p>
+							</content>
+						</section>
+						<section identifier="/us/usc/t34/s10755">
+							<num>§ 10755.</num>
+							<heading> Authorization of funding</heading>
+							<content>
+								<p>Subject to the availability of appropriations, for purposes of carrying out this subchapter, the Attorney General is authorized to award not more than $10,000,000 of funds appropriated to the Department of Justice for these purposes for each of fiscal years 2021 through 2025.</p>
+							</content>
 						</section>
 					</subchapter>
 				</chapter>
@@ -53300,7 +53565,7 @@ SUBCHAPTER II—EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PUR
 								<column>
 									<ref href="/us/usc/t34/s40503">40503.</ref>
 								</column>
-								<column>Uses of funds.</column>
+								<column>Use of funds.</column>
 							</tocItem>
 							<tocItem>
 								<column>
@@ -53308,14 +53573,65 @@ SUBCHAPTER II—EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PUR
 								</column>
 								<column>Grants for the assistance of organizations to find missing adults.</column>
 							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t34/s40505">40505.</ref>
+								</column>
+								<column>Reporting on National Missing and Unidentified Persons System (NamUs) Program.</column>
+							</tocItem>
 						</layout>
 					</toc>
 					<section identifier="/us/usc/t34/s40501">
 						<num>§ 40501.</num>
 						<heading> Program authorized</heading>
-						<content>
-							<p>The Attorney General is authorized to provide grant awards to States to enable States to improve the reporting of unidentified and missing persons.</p>
-						</content>
+						<subsection identifier="/us/usc/t34/s40501/a">
+							<num>(a)</num>
+							<heading> In general</heading>
+							<paragraph identifier="/us/usc/t34/s40501/a/1">
+								<num>(1)</num>
+								<heading> Grants authorized</heading>
+								<content>
+									<p>The Attorney General may award grants to eligible entities described in paragraph (2) to enable the eligible entities to improve the transportation, processing, identification, and reporting of missing persons and unidentified remains, including migrants.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t34/s40501/a/2">
+								<num>(2)</num>
+								<heading> Eligible entities</heading>
+								<chapeau>Eligible entities described in this paragraph are the following:</chapeau>
+								<subparagraph identifier="/us/usc/t34/s40501/a/2/A">
+									<num>(A)</num>
+									<content> States and units of local government.</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t34/s40501/a/2/B">
+									<num>(B)</num>
+									<content>
+										 Accredited, publicly funded, Combined DNA Index System (commonly known as “CODIS”) forensic laboratories, which demonstrate the grant funds will be used for DNA typing and uploading biological family DNA reference samples, including samples from foreign nationals, into CODIS, subject to the protocols for inclusion of such forensic DNA profiles into CODIS, and the privacy protections required under 
+										<ref href="/us/usc/t34/s40502/c">section 40502(c) of this title</ref>
+										.
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t34/s40501/a/2/C">
+									<num>(C)</num>
+									<content> Medical examiners offices.</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t34/s40501/a/2/D">
+									<num>(D)</num>
+									<content> Accredited, publicly funded toxicology laboratories.</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t34/s40501/a/2/E">
+									<num>(E)</num>
+									<content> Accredited, publicly funded crime laboratories.</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t34/s40501/a/2/F">
+									<num>(F)</num>
+									<content> Publicly funded university forensic anthropology laboratories.</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t34/s40501/a/2/G">
+									<num>(G)</num>
+									<content> Nonprofit organizations that have working collaborative agreements with State and county forensic offices, including medical examiners, coroners, and justices of the peace, for entry of data into CODIS or the National Missing and Unidentified Persons System (commonly known as “NamUs”), or both.</content>
+								</subparagraph>
+							</paragraph>
+						</subsection>
 					</section>
 					<section identifier="/us/usc/t34/s40502">
 						<num>§ 40502.</num>
@@ -53324,16 +53640,20 @@ SUBCHAPTER II—EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PUR
 							<num>(a)</num>
 							<heading> Application</heading>
 							<content>
-								<p>To be eligible to receive a grant award under this chapter, a State shall submit an application at such time and in such form as the Attorney General may reasonably require.</p>
+								<p>
+									To be eligible to receive a grant award under this chapter, an entity described in 
+									<ref href="/us/usc/t34/s40501">section 40501 of this title</ref>
+									 shall submit an application at such time and in such form as the Attorney General may reasonably require.
+								</p>
 							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t34/s40502/b">
 							<num>(b)</num>
 							<heading> Contents</heading>
-							<chapeau>Each such application shall include assurances that the State shall, to the greatest extent possible—</chapeau>
+							<chapeau>Each such application shall include assurances that the applicant shall, to the greatest extent possible—</chapeau>
 							<paragraph identifier="/us/usc/t34/s40502/b/1">
 								<num>(1)</num>
-								<content> report to the National Crime Information Center and when possible, to law enforcement authorities throughout the State regarding every deceased unidentified person, regardless of age, found in the State’s jurisdiction;</content>
+								<content> report to the National Crime Information Center and, when possible, to law enforcement authorities throughout the applicant’s jurisdiction regarding every deceased unidentified person, regardless of age, found in the applicant’s jurisdiction;</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s40502/b/2">
 								<num>(2)</num>
@@ -53341,24 +53661,60 @@ SUBCHAPTER II—EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PUR
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s40502/b/3">
 								<num>(3)</num>
-								<content> enter the National Crime Information Center number or other appropriate number assigned to the unidentified person on the death certificate of each such unidentified person; and</content>
+								<content> enter the National Crime Information Center number or other appropriate number assigned to the unidentified person on the death certificate of each such unidentified person;</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s40502/b/4">
 								<num>(4)</num>
-								<content> retain all such records pertaining to unidentified persons until a person is identified.</content>
+								<content> retain all such records pertaining to unidentified persons until a person is identified; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t34/s40502/b/5">
+								<num>(5)</num>
+								<content> collect and report information to the National Missing and Unidentified Persons System (NamUs) regarding missing persons and unidentified remains.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t34/s40502/c">
+							<num>(c)</num>
+							<heading> Privacy protections for biological family reference samples</heading>
+							<paragraph identifier="/us/usc/t34/s40502/c/1">
+								<num>(1)</num>
+								<heading> In general</heading>
+								<content>
+									<p>Any suspected biological family DNA reference samples received from citizens of the United States or foreign nationals and uploaded into the Combined DNA Index System (commonly referred to as “CODIS”) by an accredited, publicly funded CODIS forensic laboratory awarded a grant under this section may be used only for identifying missing persons and unidentified remains.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t34/s40502/c/2">
+								<num>(2)</num>
+								<heading> Limitation on use</heading>
+								<content>
+									<p>Any biological family DNA reference samples from citizens of the United States or foreign nationals entered into CODIS for purposes of identifying missing persons and unidentified remains may not be disclosed to a Federal or State law enforcement agency for law enforcement purposes.</p>
+								</content>
 							</paragraph>
 						</subsection>
 					</section>
 					<section identifier="/us/usc/t34/s40503">
 						<num>§ 40503.</num>
-						<heading> Uses of funds</heading>
-						<content>
-							<p>
-								A State that receives a grant award under this chapter may use such funds received to establish or expand programs developed to improve the reporting of unidentified persons in accordance with the assurances provided in the application submitted pursuant to 
+						<heading> Use of funds</heading>
+						<chapeau>An applicant receiving a grant award under this chapter may use such funds to—</chapeau>
+						<paragraph identifier="/us/usc/t34/s40503/1">
+							<num>(1)</num>
+							<content> pay for the costs incurred during or after fiscal year 2017 for the transportation, processing, identification, and reporting of missing persons and unidentified remains, including migrants;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t34/s40503/2">
+							<num>(2)</num>
+							<content>
+								 establish and expand programs developed to improve the reporting of unidentified persons in accordance with the assurances provided in the application submitted pursuant to 
 								<ref href="/us/usc/t34/s40502/b">section 40502(b) of this title</ref>
-								.
-							</p>
-						</content>
+								;
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t34/s40503/3">
+							<num>(3)</num>
+							<content> hire and maintain additional DNA case analysts and technicians, fingerprint examiners, forensic odontologists, and forensic anthropologists, needed to support such identification programs; and</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t34/s40503/4">
+							<num>(4)</num>
+							<content> procure and maintain state of the art multi-modal, multi-purpose forensic and DNA-typing and analytical equipment.</content>
+						</paragraph>
 					</section>
 					<section identifier="/us/usc/t34/s40504">
 						<num>§ 40504.</num>
@@ -53396,11 +53752,46 @@ SUBCHAPTER II—EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PUR
 							<num>(b)</num>
 							<heading> Regulations</heading>
 							<content>
-								<p>
-									The Attorney General may make such rules and regulations as may be necessary to carry out this title.
-								</p>
+								<p>The Attorney General may make such rules and regulations as may be necessary to carry out this title.</p>
 							</content>
 						</subsection>
+					</section>
+					<section identifier="/us/usc/t34/s40505">
+						<num>§ 40505.</num>
+						<heading> Reporting on National Missing and Unidentified Persons System (NamUs) Program</heading>
+						<chapeau>
+							Not later than 18 months after 
+							<date date="2020-12-31">December 31, 2020</date>
+							, and every year thereafter, the Attorney General shall submit a report to the appropriate committees of Congress regarding—
+						</chapeau>
+						<paragraph identifier="/us/usc/t34/s40505/1">
+							<num>(1)</num>
+							<content> the number of unidentified person cases processed;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t34/s40505/2">
+							<num>(2)</num>
+							<content> CODIS associations and identifications;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t34/s40505/3">
+							<num>(3)</num>
+							<content> the number of anthropology cases processed;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t34/s40505/4">
+							<num>(4)</num>
+							<content> the number of suspected border crossing cases and associations made;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t34/s40505/5">
+							<num>(5)</num>
+							<content> the number of trials supported with expert testimony;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t34/s40505/6">
+							<num>(6)</num>
+							<content> the number of students trained and professions of those students; and</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t34/s40505/7">
+							<num>(7)</num>
+							<content> the turnaround time and backlog.</content>
+						</paragraph>
 					</section>
 				</chapter>
 				<chapter identifier="/us/usc/t34/stIV/ch407">

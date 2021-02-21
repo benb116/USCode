@@ -592,6 +592,12 @@ Part B—U.S. Customs and Border Protection</column>
 							</column>
 							<column>Border security metrics.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s224">224.</ref>
+							</column>
+							<column>Other reporting requirements.</column>
+						</tocItem>
 						<header>
 							<column>
 Part C—Miscellaneous Provisions</column>
@@ -10583,6 +10589,13 @@ Part B—Critical Infrastructure Information</column>
 										<p>If the Secretary exercises the authority provided under paragraph (1), the Secretary shall notify the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate not later than 30 days before exercising such authority.</p>
 									</content>
 								</paragraph>
+								<paragraph identifier="/us/usc/t6/s211/o/3">
+									<num>(3)</num>
+									<heading> Rescue beacons</heading>
+									<content>
+										<p>Beginning in fiscal year 2019, in carrying out subsection (c)(8), the Commissioner shall purchase, deploy, and maintain not more than 170 self-powering, 9–1–1 cellular relay rescue beacons along the southern border of the United States at locations determined appropriate by the Commissioner to mitigate migrant deaths.</p>
+									</content>
+								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t6/s211/p">
 								<num>(p)</num>
@@ -11664,6 +11677,140 @@ Part B—Critical Infrastructure Information</column>
 										<content>
 											<p>Not later than 30 days before updating the metrics pursuant to subparagraph (A), the Secretary shall notify the appropriate congressional committees of such updates.</p>
 										</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s224">
+							<num>§ 224.</num>
+							<heading> Other reporting requirements</heading>
+							<subsection identifier="/us/usc/t6/s224/a">
+								<num>(a)</num>
+								<heading> Unidentified remains</heading>
+								<paragraph identifier="/us/usc/t6/s224/a/1">
+									<num>(1)</num>
+									<heading> Reporting requirement</heading>
+									<chapeau>
+										Not later than 1 year after 
+										<date date="2020-12-31">December 31, 2020</date>
+										, and annually thereafter, the Commissioner of U.S. Customs and Border Protection shall submit a report to the appropriate committees of Congress regarding all unidentified remains discovered, during the reporting period, on or near the border between the United States and Mexico, including—
+									</chapeau>
+									<subparagraph identifier="/us/usc/t6/s224/a/1/A">
+										<num>(A)</num>
+										<chapeau> for each deceased person—</chapeau>
+										<clause identifier="/us/usc/t6/s224/a/1/A/i">
+											<num>(i)</num>
+											<content> the cause and manner of death, if known;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s224/a/1/A/ii">
+											<num>(ii)</num>
+											<content> the sex, age (at time of death), and country of origin (if such information is determinable); and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s224/a/1/A/iii">
+											<num>(iii)</num>
+											<content> the location of each unidentified remain;</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s224/a/1/B">
+										<num>(B)</num>
+										<content> the total number of deceased people whose unidentified remains were discovered by U.S. Customs and Border Protection during the reporting period;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s224/a/1/C">
+										<num>(C)</num>
+										<content> to the extent such information is available to U.S. Customs and Border Protection, the total number of deceased people whose unidentified remains were discovered by Federal, State, local or Tribal law enforcement officers, military personnel, or medical examiners offices;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s224/a/1/D">
+										<num>(D)</num>
+										<chapeau> the efforts of U.S. Customs and Border Protection to engage with nongovernmental organizations, institutions of higher education, medical examiners and coroners, and law enforcement agencies—</chapeau>
+										<clause identifier="/us/usc/t6/s224/a/1/D/i">
+											<num>(i)</num>
+											<content> to identify and map the locations at which migrant deaths occur; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s224/a/1/D/ii">
+											<num>(ii)</num>
+											<content> to count the number of deaths that occur at such locations; and</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s224/a/1/E">
+										<num>(E)</num>
+										<content> a detailed description of U.S. Customs and Border Protection’s Missing Migrant Program, including how the program helps mitigate migrant deaths while maintaining border security.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s224/a/2">
+									<num>(2)</num>
+									<heading> Public disclosure</heading>
+									<content>
+										<p>Not later than 30 days after each report required under paragraph (1) is submitted, the Commissioner of U.S. Customs and Border Protection shall publish on the website of the agency the information described in subparagraphs (A), (B), and (C) of paragraph (1) during each reporting period.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s224/b">
+								<num>(b)</num>
+								<heading> Rescue beacons</heading>
+								<chapeau>
+									Not later than 1 year after 
+									<date date="2020-12-31">December 31, 2020</date>
+									, and annually thereafter, the Commissioner of U.S. Customs and Border Protection shall submit a report to the appropriate committees of Congress regarding the use of rescue beacons along the border between the United States and Mexico, including, for the reporting period—
+								</chapeau>
+								<paragraph identifier="/us/usc/t6/s224/b/1">
+									<num>(1)</num>
+									<content> the number of rescue beacons in each border patrol sector;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s224/b/2">
+									<num>(2)</num>
+									<content> the specific location of each rescue beacon;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s224/b/3">
+									<num>(3)</num>
+									<content> the frequency with which each rescue beacon was activated by a person in distress;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s224/b/4">
+									<num>(4)</num>
+									<content> a description of the nature of the distress that resulted in each rescue beacon activation (if such information is determinable); and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s224/b/5">
+									<num>(5)</num>
+									<content> an assessment, in consultation with local stakeholders, including elected officials, nongovernmental organizations, and landowners, of necessary additional rescue beacons and recommendations for locations for deployment to reduce migrant deaths.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s224/c">
+								<num>(c)</num>
+								<heading> GAO report</heading>
+								<chapeau>Not later than 6 months after the report required under subsection (a) is submitted to the appropriate committees of Congress, the Comptroller General of the United States shall submit a report to the same committees that describes—</chapeau>
+								<paragraph identifier="/us/usc/t6/s224/c/1">
+									<num>(1)</num>
+									<content> how U.S. Customs and Border Protection collects and records border-crossing death data;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s224/c/2">
+									<num>(2)</num>
+									<content> the differences (if any) in U.S. Customs and Border Protection border-crossing death data collection methodology across its sectors;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s224/c/3">
+									<num>(3)</num>
+									<content> how U.S. Customs and Border Protection’s data and statistical analysis on trends in the numbers, locations, causes, and characteristics of border-crossing deaths compare to other sources of data on these deaths, including border county medical examiners and coroners and the Centers for Disease Control and Prevention;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s224/c/4">
+									<num>(4)</num>
+									<content> how U.S. Customs and Border Protection measures the effectiveness of its programs to mitigate migrant deaths; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s224/c/5">
+									<num>(5)</num>
+									<chapeau> the extent to which U.S. Customs and Border Protection engages Federal, State, local, and Tribal governments, foreign diplomatic and consular posts, and nongovernmental organizations—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s224/c/5/A">
+										<num>(A)</num>
+										<content> to accurately identify deceased individuals;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s224/c/5/B">
+										<num>(B)</num>
+										<content> to resolve cases involving unidentified remains;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s224/c/5/C">
+										<num>(C)</num>
+										<content> to resolve cases involving unidentified persons; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s224/c/5/D">
+										<num>(D)</num>
+										<content> to share information on missing persons and unidentified remains, specifically with the National Missing and Unidentified Persons System (NamUs).</content>
 									</subparagraph>
 								</paragraph>
 							</subsection>
@@ -38405,6 +38552,109 @@ Part E—Authorization of Appropriations</column>
 										, the Administrator shall submit a report on each disaster assistance contract entered into by the Agency by other than competitive procedures to the appropriate committees of Congress.
 									</p>
 								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s791/e">
+								<num>(e)</num>
+								<heading> Updated report</heading>
+								<chapeau>
+									Not later than 180 days after 
+									<date date="2020-12-31">December 31, 2020</date>
+									, the Administrator shall submit to the appropriate committees of Congress an updated report that contains—
+								</chapeau>
+								<paragraph identifier="/us/usc/t6/s791/e/1">
+									<num>(1)</num>
+									<content> the information required in the initial report under subparagraphs (A) and (B) of subsection (a)(1); and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s791/e/2">
+									<num>(2)</num>
+									<chapeau> an updated strategy described in subsection (a)(1)(C) that clearly defines—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s791/e/2/A">
+										<num>(A)</num>
+										<content> the objectives of advance contracts;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s791/e/2/B">
+										<num>(B)</num>
+										<content> how advance contracts contribute to disaster response operations of the Agency;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s791/e/2/C">
+										<num>(C)</num>
+										<content>
+											 how to maximize the award of advance contracts to small business concerns, as defined in 
+											<ref href="/us/usc/t15/s632">section 632 of title 15</ref>
+											; and
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s791/e/2/D">
+										<num>(D)</num>
+										<content> whether and how advance contracts should be prioritized in relation to new post-disaster contract awards.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s791/f">
+								<num>(f)</num>
+								<heading> Additional Duties of the Administrator</heading>
+								<paragraph identifier="/us/usc/t6/s791/f/1">
+									<num>(1)</num>
+									<heading> Head of contracting</heading>
+									<chapeau>The Administrator shall ensure that the head of contracting activity of the Agency—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s791/f/1/A">
+										<num>(A)</num>
+										<chapeau>
+											 not later than 270 days after 
+											<date date="2020-12-31">December 31, 2020</date>
+											, updates the Disaster Contracting Desk Guide of the Agency to provide specific guidance—
+										</chapeau>
+										<clause identifier="/us/usc/t6/s791/f/1/A/i">
+											<num>(i)</num>
+											<content> on whether and under what circumstances contracting officers should consider using existing advance contracts entered into in accordance with this section prior to making new post-disaster contract awards, and include this guidance in existing semi-annual training given to contracting officers; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s791/f/1/A/ii">
+											<num>(ii)</num>
+											<content> for contracting officers to perform outreach to State and local governments on the potential benefits of establishing their own pre-negotiated advance contracts;</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s791/f/1/B">
+										<num>(B)</num>
+										<content> adheres to hard copy contract file management requirements in effect to ensure that the files relating to advance contracts entered into in accordance with this section are complete and up to date, whether the files will be transferred into the Electronic Contract Filing System of the Agency or remain in hard copy format;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s791/f/1/C">
+										<num>(C)</num>
+										<content> notifies contracting officers of the 3-day time frame requirement for entering completed award documentation into the contract writing system of the Agency when executing notice to proceed documentation;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s791/f/1/D">
+										<num>(D)</num>
+										<content>
+											 not later than 180 days after 
+											<date date="2020-12-31">December 31, 2020</date>
+											, revises the reporting methodology of the Agency to ensure that all disaster contracts are included in each quarterly report submitted to the appropriate congressional committees under this section on disaster contract actions;
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s791/f/1/E">
+										<num>(E)</num>
+										<content> identifies a single centralized resource listing advance contracts entered into under this section and ensures that source is current and up to date and includes all available advance contracts; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s791/f/1/F">
+										<num>(F)</num>
+										<content> communicates complete and up-to-date information on available advance contracts to State and local governments to inform their advance contracting efforts.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s791/f/2">
+									<num>(2)</num>
+									<heading> Master acquisition planning schedule</heading>
+									<chapeau>
+										Not later than 180 days after 
+										<date date="2020-12-31">December 31, 2020</date>
+										, the Administrator shall update and implement guidance for program office and acquisition personnel of the Agency to—
+									</chapeau>
+									<subparagraph identifier="/us/usc/t6/s791/f/2/A">
+										<num>(A)</num>
+										<content> identify acquisition planning time frames and considerations across the entire acquisition planning process of the Agency; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s791/f/2/B">
+										<num>(B)</num>
+										<content> clearly communicate the purpose and use of a master acquisition planning schedule.</content>
+									</subparagraph>
+								</paragraph>
 							</subsection>
 						</section>
 						<section identifier="/us/usc/t6/s792">

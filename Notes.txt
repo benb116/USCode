@@ -15,6 +15,7 @@ Much of a law is CRUD operations on existing law
             Classification table lookup could help to map one to the other.
     If it says "section 123 of Short Title (23 USC 4321)", 4321 may not be the exact section
         Need to consult classification table to be exact
+    Titles within a law may have different short titles
 
 Will have to do language parsing
     Improved if use XML of bill text
@@ -34,6 +35,9 @@ Will have to do language parsing
                 quoted block
             'to read as follows:'
                 quoted block
+            'by amending <div> # to read as follows'
+                quoted block
+            'by striking the second paragraph (4)'
 
         "<div> # \of <div> # of such Act <extref> is amended":
             'by striking <quote/> at the end of <div> #'
@@ -43,6 +47,7 @@ Will have to do language parsing
             'by adding at the end the following new <div>':
                 Determine correct numbering and add IDs
         "The table of contents\sections] of such Act" - prob ignore
+        <div> # of {short title} {usc ref} is repealed
 
     Add references to:
         "under the provisions of paragraphs (3), (4), and (5) of section 11 of the Headquarters Agreement with the United Nations (61 Stat. 758)"
@@ -60,7 +65,8 @@ Each bill is a branch off of master
 
         Co-authored-by: George Washington (I-VA) <TheOGWashington@house.gov>
         Co-authored-by: Bernie Sanders (I-VT) <FeelTheBern@senate.gov>
-    Any bill amendments are further commits to that bill
+    Any bill amendments are branches off of the bill branch
+        If amendment is passed, it is pulled into bill branch
     A merge occurs when the president signs the bill into law
 
 Frontend website to view
@@ -92,3 +98,10 @@ Could we "backtrack from current release point?"
     3) Initialize in git
     4) Run the "go back in time" functionality *in reverse*, committing after each law. State should be same as when downloaded
     5) Continue as normal
+
+When a new bill is introduced
+    $ git checkout -b 117-HR127
+
+"(1) TOPICS.—The Secretary shall" - enum, heading, content
+
+** There are two identifier="/us/usc/t42/s5105/a/4" **

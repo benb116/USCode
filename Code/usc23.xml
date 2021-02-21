@@ -16,9 +16,7 @@
 						<column>
 							<ref href="/us/usc/t23/ch1">1.</ref>
 						</column>
-						<column>
-							Federal Aid Highways 
-						</column>
+						<column>Federal Aid Highways </column>
 						<column>
 							<ref href="/us/usc/t23/s101">101</ref>
 						</column>
@@ -30352,9 +30350,7 @@
 						</paragraph>
 						<paragraph identifier="/us/usc/t23/s503/a/2">
 							<num>(2)</num>
-							<content>
-								 ensure that all research carried out under this section aligns with the transportation research and development strategic plan of the Secretary under section 508.
-							</content>
+							<content> ensure that all research carried out under this section aligns with the transportation research and development strategic plan of the Secretary under section 508.</content>
 						</paragraph>
 					</subsection>
 					<subsection identifier="/us/usc/t23/s503/b">
@@ -33283,9 +33279,7 @@
 							<chapeau>The Advisory Committee shall, at a minimum, perform the following duties:</chapeau>
 							<subparagraph identifier="/us/usc/t23/s515/h/3/A">
 								<num>(A)</num>
-								<content>
-									 Provide input into the development of the intelligent transportation system aspects of the strategic plan under section 508.
-								</content>
+								<content> Provide input into the development of the intelligent transportation system aspects of the strategic plan under section 508.</content>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t23/s515/h/3/B">
 								<num>(B)</num>
@@ -33526,9 +33520,7 @@
 								<inline>Discretion of the secretary</inline>
 								.—
 							</heading>
-							<content>
-								The Secretary, at the discretion of the Secretary, may offer an exemption from paragraph (1) for projects designed to achieve specific research objectives outlined in the national intelligent transportation system program plan or the surface transportation research and development strategic plan developed under section 508.
-							</content>
+							<content>The Secretary, at the discretion of the Secretary, may offer an exemption from paragraph (1) for projects designed to achieve specific research objectives outlined in the national intelligent transportation system program plan or the surface transportation research and development strategic plan developed under section 508.</content>
 						</paragraph>
 					</subsection>
 				</section>

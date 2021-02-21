@@ -1258,9 +1258,7 @@ SUBCHAPTER II—ADMINISTRATIVE</column>
 								<column>
 									<ref href="/us/usc/t40/s312">312.</ref>
 								</column>
-								<column>
-									Transfer and use of amounts for major equipment acquisitions.
-								</column>
+								<column>Transfer and use of amounts for major equipment acquisitions.</column>
 							</tocItem>
 							<tocItem>
 								<column>
@@ -1729,9 +1727,7 @@ SUBCHAPTER III—FUNDS</column>
 						</section>
 						<section identifier="/us/usc/t40/s323">
 							<num>§ 323.</num>
-							<heading>
-								 Consumer Information Center Fund 
-							</heading>
+							<heading> Consumer Information Center Fund </heading>
 							<subsection identifier="/us/usc/t40/s323/a">
 								<num>(a)</num>
 								<heading>
@@ -2238,6 +2234,11 @@ SUBCHAPTER VII—PROPERTY MANAGEMENT</column>
 								</column>
 								<column>Information on certain leasing authorities.</column>
 							</tocItem>
+							<header>
+								<column>
+									<b>Editorial Notes</b>
+								</column>
+							</header>
 							<header>
 								<column>
 Amendments</column>
@@ -10133,9 +10134,7 @@ SUBCHAPTER IV—WAGE RATE REQUIREMENTS</column>
 									<column>
 										<ref href="/us/usc/t40/s3144">3144.</ref>
 									</column>
-									<column>
-										Authority of Comptroller General to pay wages and list contractors violating contracts.
-									</column>
+									<column>Authority of Comptroller General to pay wages and list contractors violating contracts.</column>
 								</tocItem>
 								<tocItem>
 									<column>
@@ -10197,9 +10196,7 @@ SUBCHAPTER VI—MISCELLANEOUS</column>
 									<column>
 										<ref href="/us/usc/t40/s3173">3173.</ref>
 									</column>
-									<column>
-										Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration.
-									</column>
+									<column>Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration.</column>
 								</tocItem>
 								<tocItem>
 									<column>
@@ -10223,9 +10220,7 @@ SUBCHAPTER VI—MISCELLANEOUS</column>
 									<column>
 										<ref href="/us/usc/t40/s3177">3177.</ref>
 									</column>
-									<column>
-										Use of photovoltaic energy in public buildings.
-									</column>
+									<column>Use of photovoltaic energy in public buildings.</column>
 								</tocItem>
 							</layout>
 						</toc>
@@ -18909,9 +18904,7 @@ SUBCHAPTER IV—ACQUIRING AND DISPOSING OF LAND</column>
 									<column>
 										<ref href="/us/usc/t40/s8904">8904.</ref>
 									</column>
-									<column>
-										National Capital Memorial Commission.
-									</column>
+									<column>National Capital Memorial Commission.</column>
 								</tocItem>
 								<tocItem>
 									<column>
@@ -19255,9 +19248,7 @@ SUBCHAPTER IV—ACQUIRING AND DISPOSING OF LAND</column>
 										<inline>Museums</inline>
 										.—
 									</heading>
-									<content>
-										No commemorative work primarily designed as a museum may be located on lands under the jurisdiction of the Secretary in Area I or in East Potomac Park as depicted on the map referenced in section 8902(2).
-									</content>
+									<content>No commemorative work primarily designed as a museum may be located on lands under the jurisdiction of the Secretary in Area I or in East Potomac Park as depicted on the map referenced in section 8902(2).</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t40/s8905/b/6">
 									<num>(6)</num>
@@ -24954,9 +24945,7 @@ SUBCHAPTER II—ADMINISTRATIVE</column>
 								<inline>Region</inline>
 								.—
 							</heading>
-							<content>
-								The term “region” means the area covered by a Commission as described in subchapter II of chapter 157.
-							</content>
+							<content>The term “region” means the area covered by a Commission as described in subchapter II of chapter 157.</content>
 						</paragraph>
 					</section>
 				</chapter>
@@ -26112,6 +26101,11 @@ SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS</column>
 							</tocItem>
 							<header>
 								<column>
+									<b>Editorial Notes</b>
+								</column>
+							</header>
+							<header>
+								<column>
 Amendments</column>
 							</header>
 						</layout>
@@ -26561,6 +26555,11 @@ Amendments</column>
 								<ref href="/us/usc/t40/s18301">18301</ref>
 							</column>
 						</tocItem>
+						<header>
+							<column>
+								<b>Editorial Notes</b>
+							</column>
+						</header>
 						<header>
 							<column>
 Amendments</column>

@@ -6338,9 +6338,7 @@ APPENDIX: LENGTH LIMITS STATED IN PART VIII OF THE FEDERAL RULES OF BANKRUPTCY P
 				</part>
 				<part identifier="/us/usc/t11a/courtRules/Bankr/ptVIII">
 					<num>PART VIII—</num>
-					<heading>
-						APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL 
-					</heading>
+					<heading>APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL </heading>
 					<courtRule identifier="/us/usc/t11a/courtRules/Bankr/rule8001">
 						<num>Rule 8001.</num>
 						<heading> Scope of Part VIII Rules; Definition of “BAP”; Method of Transmission</heading>
@@ -9468,9 +9466,7 @@ APPENDIX: LENGTH LIMITS STATED IN PART VIII OF THE FEDERAL RULES OF BANKRUPTCY P
 								<inline>Representations to the Court</inline>
 								.
 							</heading>
-							<chapeau>
-								 By presenting to the court (whether by signing, filing, submitting, or later advocating) a petition, pleading, written motion, or other paper, an attorney or unrepresented party is certifying that to the best of the person’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances,— 
-							</chapeau>
+							<chapeau> By presenting to the court (whether by signing, filing, submitting, or later advocating) a petition, pleading, written motion, or other paper, an attorney or unrepresented party is certifying that to the best of the person’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances,— </chapeau>
 							<paragraph identifier="/us/usc/t11a/courtRules/Bankr/rule9011/b/1">
 								<num>(1)</num>
 								<content> it is not being presented for any improper purpose, such as to harass or to cause unnecessary delay or needless increase in the cost of litigation;</content>

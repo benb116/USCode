@@ -234,9 +234,7 @@ Subtitle V—Programs Targeting Commercial Opportunities</column>
 						<column>
 							<ref href="/us/usc/t51/stV/ch513">513.</ref>
 						</column>
-						<column>
-							Space resource commercial exploration and utilization 
-						</column>
+						<column>Space resource commercial exploration and utilization </column>
 						<column>
 							<ref href="/us/usc/t51/s51301">51301</ref>
 						</column>
@@ -298,9 +296,7 @@ Subtitle VII—Access to Space</column>
 						<column>
 							<ref href="/us/usc/t51/stVII/ch701">701.</ref>
 						</column>
-						<column>
-							Use of space launch system or alternatives 
-						</column>
+						<column>Use of space launch system or alternatives </column>
 						<column>
 							<ref href="/us/usc/t51/s70101">70101</ref>
 						</column>
@@ -11342,17 +11338,13 @@ SUBCHAPTER III—FEDERAL ACQUISITION OF SPACE TRANSPORTATION SERVICES</column>
 					<toc>
 						<layout>
 							<header>
-								<column>
-									Sec.
-								</column>
+								<column>Sec.</column>
 							</header>
 							<tocItem>
 								<column>
 									<ref href="/us/usc/t51/s51501">51501.</ref>
 								</column>
-								<column>
-									Establishment of Office of Spaceports.
-								</column>
+								<column>Establishment of Office of Spaceports.</column>
 							</tocItem>
 						</layout>
 					</toc>
@@ -11401,9 +11393,7 @@ SUBCHAPTER III—FEDERAL ACQUISITION OF SPACE TRANSPORTATION SERVICES</column>
 								<inline>Recognition</inline>
 								.—
 							</heading>
-							<chapeau>
-								In carrying out the functions assigned in subsection (b), the Secretary shall recognize the unique needs and distinctions of spaceports that host— 
-							</chapeau>
+							<chapeau>In carrying out the functions assigned in subsection (b), the Secretary shall recognize the unique needs and distinctions of spaceports that host— </chapeau>
 							<paragraph identifier="/us/usc/t51/s51501/c/1">
 								<num>(1)</num>
 								<content> launches to or reentries from orbit; and</content>

@@ -6679,9 +6679,7 @@ SUBCHAPTER II—COMMERCIAL VISITOR SERVICES</column>
 							<toc>
 								<layout>
 									<header>
-										<column>
-											Sec.
-										</column>
+										<column>Sec.</column>
 									</header>
 									<tocItem>
 										<column>
@@ -8432,9 +8430,7 @@ SUBCHAPTER II—EMERGENCY ASSISTANCE</column>
 						<toc>
 							<layout>
 								<header>
-									<column>
-										Sec.
-									</column>
+									<column>Sec.</column>
 								</header>
 								<tocItem>
 									<column>
@@ -16269,9 +16265,7 @@ SUBCHAPTER III—PROTECTION AND PRESERVATION OF RESOURCES</column>
 							</toc>
 							<section identifier="/us/usc/t54/s308401">
 								<num>§ 308401.</num>
-								<heading>
-									 Definition of network 
-								</heading>
+								<heading> Definition of network </heading>
 								<content>
 									<p>In this chapter, the term “Network” means the African American Civil Rights Network established under section 308402(a).</p>
 								</content>

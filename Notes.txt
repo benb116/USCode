@@ -38,6 +38,7 @@ Will have to do language parsing
             'by amending <div> # to read as follows'
                 quoted block
             'by striking the second paragraph (4)'
+            'by striking the 2nd sentence'
 
         "<div> # \of <div> # of such Act <extref> is amended":
             'by striking <quote/> at the end of <div> #'
@@ -46,8 +47,11 @@ Will have to do language parsing
             'by striking the period at the end of <div> # and inserting <quote/>'
             'by adding at the end the following new <div>':
                 Determine correct numbering and add IDs
-        "The table of contents\sections] of such Act" - prob ignore
+        "The table of contents\sections of such Act" - prob ignore
         <div> # of {short title} {usc ref} is repealed
+
+        <div> # of title # of USC is amended ...
+        <div> # of such title (refer to previous)
 
     Add references to:
         "under the provisions of paragraphs (3), (4), and (5) of section 11 of the Headquarters Agreement with the United Nations (61 Stat. 758)"

@@ -1,0 +1,52 @@
+<variable>
+    <div> a division of the USC (e.g. title, section, subparagraph, etc.)
+    <#> an enum (e.g. (1), a., etc.)
+    <nth> e.g. first, 2nd, etc.
+    <quote> find substring that matches
+    <phrase> a sentence, word, punctuation, etc.
+\optional\
+{choose one}
+::action
+
+
+<multidiv> =
+    <div>\s\ <#>
+    \{
+        and <#> ::add to path
+        , <#> ::add to path and recurse
+    }\
+
+
+<div> <#> of \<div> <#> of\ {
+    the <Short Title> (</extref>) ::lookup classification in USC (and maybe match to extref?)
+    such Act ::refer to previous
+    the United States Code ::format
+    such title ::refer to previous
+} \, as amended by <div> <#> \of this Act\,\{
+    is amended {
+        - ::start a recursive of this choice
+        in {
+            <div> <#>- ::add to path and recurse
+            each of <multidiv> ::add to path and recurse
+        }
+        by redesignating <multidiv> as <multidiv>
+        by inserting {
+            <quote>
+            after <div> # the following \new <div>\s\\ ::QB
+            at the end the following \new <div>\s\\ ::QB
+        }
+        by adding at the end the following \new <div>\ ::QB
+        to read as follows ::QB
+        by amending <div> <#> to read as follows ::QB
+        by striking {
+            the <nth> <phrase>
+            <quote> {
+                at the end of <div> #
+                and inserting <quote>
+                and inserting the following ::QB
+            }
+            <multidiv> and inserting the following \new <div>\s\\ ::QB
+        }
+    } \after the <nth> <phrase>\
+    is repealed
+}

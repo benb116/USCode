@@ -1,8 +1,9 @@
 from xml.dom import minidom
 import os
 
+
 billdir = 'Bills/'
-name = 'BILLS-117hr27ih.xml'
+name = 'BILLS-117hr127ih.xml'
 
 xmldoc = minidom.parse(billdir+name)
 congressNum = xmldoc.getElementsByTagName('congress')[0].firstChild.nodeValue.split(' ')[0][:-2]
@@ -15,63 +16,42 @@ print(shortTitle)
 
 legisbody = xmldoc.getElementsByTagName('legis-body')[0]
 
-def extractVal(node):
-    print(node.nodeName)
-    if node.nodeName in ['term', 'quote', 'short-title']:
-        print('aa')
-        out = ('' if node.nodeValue == None else node.nodeValue)
-        for cn in node.childNodes:
-            print('c')
-            print(cn)
-            out += extractVal(cn)
+currentLevel = 0
+ref = ''
+gointoquote = False
 
-        return out
+def iterate(div, ret):
+    global currentLevel
+    # print(currentLevel)
+    currentLevel += 1
+    
+    if div.nodeName == 'external-xref':
+        ref = div.childNodes[0].nodeValue
+        nsns = xmldoc.createTextNode(ref)
+        par = div.parentNode
+        par.insertBefore(nsns, div)
+        par.removeChild(div)
+        # return
 
-    if node.attributes:
-        keys = list(node.attributes.keys()) if node.attributes else []
-        for attribute in keys:
-            if attribute == 'parsable-cite':
-                return node.getAttribute('parsable-cite')
+    print(currentLevel, div.nodeName, div.nodeValue)
 
-    return node.nodeValue
+    if len(div.childNodes) == 0:
+        if "is amended" in div.nodeValue:
+            print('amamama')
 
-def iterate(div, path):
-    # print(div.nodeName, path)
 
-    # if div.nodeName == 'external-xref':
-        # ref = div.getAttribute('parsable-cite')
-        # print(ref)
-
-    if div.nodeName == 'text':
+    if div.childNodes:
         # print(div.childNodes)
-        ooot = ''
         for div1 in div.childNodes:
-            print(div1.nodeName)
-            if div1.nodeName != '#text':
-                ooot += extractVal(div1)
-                # print('bb')
+            if div1.nodeName != "quoted-block":
+                iterate(div1, False)
             else:
-                ooot += div1.nodeValue
-            div.removeChild(div1)
-        print('ooot', ooot)
-        div.nodeValue = ooot
-    # if (div.nodeName == '#text') and ("is amended" in div.nodeValue):
-        # print('t', div.nodeValue)
-    else:
-        for div1 in div.childNodes:
-            iterate(div1, path+div.nodeName+'/')
+                print('QB')
 
-def iterate2(div, path):
-    # print(div.nodeName, path)
+    currentLevel -= 1
 
-    if div.nodeName == 'text':
-        print(div.nodeValue)
-    # if (div.nodeName == '#text') and ("is amended" in div.nodeValue):
-        # print('t', div.nodeValue)
-    else:
-        for div1 in div.childNodes:
-            iterate2(div1, path+div.nodeName+'/')
+for div in legisbody.childNodes:
+    iterate(div, False)
 
-iterate(legisbody, '/')
-print('qwqewq')
-iterate2(legisbody, '/')
+for div in legisbody.childNodes:
+    iterate(div, False)

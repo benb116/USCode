@@ -1,0 +1,10 @@
+How to convert a quoted block to match schema of USC
+
+Strip attributes
+    Maybe all?
+    At least id, display-inline
+"<enum>932.</enum>" -> "<num>§ 932.</num>"
+<header> -> <heading>
+<text> -> <content>
+Add identifier paths and subpaths
+Formatting

@@ -20,39 +20,6 @@ Much of a law is CRUD operations on existing law
 Will have to do language parsing
     Improved if use XML of bill text
         Bill and USC xml are slightly different
-    Patterns to find:
-        "<div> # \of <div> # of\ the 'Short Title' (<external-xref legal-doc="usc" parsable-cite="usc/52/21081">52 U.S.C. 21081(b)</external-xref> \et seq.\) \, as amended by section 1031(a),\ is amended":
-            '-': Go into next line
-            '\in <div> #, \by redesignating <divs> # # # as <divs> # # #'
-                Remember to update any links/references
-            'by inserting after <div> #':
-                'the following new <div>': Include the <quoted-block> node
-            'by striking <divs> # # # and inserting the following'
-                quoted block
-            'by adding at the end the following new <div\s\>:'
-                quoted block
-            'by inserting at the end the following new <div\s\>:'
-                quoted block
-            'to read as follows:'
-                quoted block
-            'by amending <div> # to read as follows'
-                quoted block
-            'by striking the second paragraph (4)'
-            'by striking the 2nd sentence'
-
-        "<div> # \of <div> # of such Act <extref> is amended":
-            'by striking <quote/> at the end of <div> #'
-            'by striking <quote/> and inserting <quote/>'
-            'by striking <quote/> and inserting the following:'
-            'by striking the period at the end of <div> # and inserting <quote/>'
-            'by adding at the end the following new <div>':
-                Determine correct numbering and add IDs
-        "The table of contents\sections of such Act" - prob ignore
-        <div> # of {short title} {usc ref} is repealed
-
-        <div> # of title # of USC is amended ...
-        <div> # of such title (refer to previous)
-
     Add references to:
         "under the provisions of paragraphs (3), (4), and (5) of section 11 of the Headquarters Agreement with the United Nations (61 Stat. 758)"
         <ref href="/us/stat/61/758">61 Stat. 758</ref>
@@ -109,3 +76,5 @@ When a new bill is introduced
 "(1) TOPICS.—The Secretary shall" - enum, heading, content
 
 ** There are two identifier="/us/usc/t42/s5105/a/4" **
+
+Each title of the Code is subdivided into a combination of smaller units such as subtitles, chapters, subchapters, parts, subparts, and sections, not necessarily in that order. Sections are often subdivided into a combination of smaller units such as subsections, paragraphs, subparagraphs, clauses, subclauses, and items. In the case of a positive law title, the units are determined by Congress in the laws that enact and later amend the title. In the case of a non-positive law title, the organization of the title since 1926 has been determined by the editors of the Code and has generally followed the organization of the underlying acts as much as possible.

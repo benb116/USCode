@@ -57339,6 +57339,12 @@ SUBCHAPTER III—GRANTS TO STATE COURT SYSTEMS FOR THE IMPROVEMENT IN AUTOMATION
 								</column>
 								<column>Improving Department of Justice data collection on mental illness involved in crime.</column>
 							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t34/s41312">41312.</ref>
+								</column>
+								<column>Report on female genital mutilation.</column>
+							</tocItem>
 						</layout>
 					</toc>
 					<section identifier="/us/usc/t34/s41301">
@@ -57961,6 +57967,27 @@ SUBCHAPTER III—GRANTS TO STATE COURT SYSTEMS FOR THE IMPROVEMENT IN AUTOMATION
 								</p>
 							</content>
 						</subsection>
+					</section>
+					<section identifier="/us/usc/t34/s41312">
+						<num>§ 41312.</num>
+						<heading> Report on female genital mutilation</heading>
+						<chapeau>
+							Not later than one year after 
+							<date date="2021-01-05">January 5, 2021</date>
+							, and annually thereafter, the Attorney General, in consultation with the Secretary of Homeland Security, the Secretary of State, the Secretary of Health and Human Services, and the Secretary of Education, shall submit to Congress a report that includes—
+						</chapeau>
+						<paragraph identifier="/us/usc/t34/s41312/1">
+							<num>(1)</num>
+							<content> an estimate of the number of women and girls in the United States at risk of or who have been subjected to female genital mutilation;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t34/s41312/2">
+							<num>(2)</num>
+							<content> the protections available and actions taken, if any, by Federal, State, and local agencies to protect such women and girls; and</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t34/s41312/3">
+							<num>(3)</num>
+							<content> the actions taken by Federal agencies to educate and assist communities and key stakeholders about female genital mutilation.</content>
+						</paragraph>
 					</section>
 				</chapter>
 				<chapter identifier="/us/usc/t34/stIV/ch415">

@@ -11562,6 +11562,12 @@ SUBCHAPTER VI—MISCELLANEOUS</column>
 									</column>
 									<column>Lactation room in public buildings.</column>
 								</tocItem>
+								<tocItem>
+									<column>
+										<ref href="/us/usc/t40/s3318">3318.</ref>
+									</column>
+									<column>Availability of Federal building project information.</column>
+								</tocItem>
 							</layout>
 						</toc>
 						<section identifier="/us/usc/t40/s3301">
@@ -12840,6 +12846,86 @@ SUBCHAPTER VI—MISCELLANEOUS</column>
 									.—
 								</heading>
 								<content>Nothing in this section shall be construed to authorize an individual to enter a public building or portion thereof that the individual is not otherwise authorized to enter.</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t40/s3318">
+							<num>§ 3318.</num>
+							<heading> Availability of Federal building project information</heading>
+							<subsection identifier="/us/usc/t40/s3318/a">
+								<num>(a)</num>
+								<heading>
+									<inline>In General</inline>
+									.—
+								</heading>
+								<chapeau>Not later than 180 days after the date of enactment of this section, and, at a minimum, on a quarterly basis thereafter, the Administrator shall make publicly available on a subpage of the website of the General Services Administration all prospectuses submitted pursuant to sections 3307 and 3316, and associated information subject to the following requirements:</chapeau>
+								<paragraph identifier="/us/usc/t40/s3318/a/1">
+									<num>(1)</num>
+									<content> The Administrator shall maintain such information in an easily accessible and readable, organized, downloadable, and searchable format.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s3318/a/2">
+									<num>(2)</num>
+									<content> The Administrator shall ensure the information is current and prospectuses and associated information updated on a regular basis.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s3318/a/3">
+									<num>(3)</num>
+									<content> The information required under this section shall be inclusive for a period of not less than 10 years.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s3318/a/4">
+									<num>(4)</num>
+									<chapeau> The information shall include—</chapeau>
+									<subparagraph identifier="/us/usc/t40/s3318/a/4/A">
+										<num>(A)</num>
+										<content> the last date on which the relevant webpage was updated;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t40/s3318/a/4/B">
+										<num>(B)</num>
+										<content> approval dates of respective authorizing resolutions by each committee of jurisdiction, if applicable;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t40/s3318/a/4/C">
+										<num>(C)</num>
+										<content> copies of respective committee of jurisdiction resolutions authorizing such prospectuses, as appropriate;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t40/s3318/a/4/D">
+										<num>(D)</num>
+										<content> cross-references to any resubmitted or amended prospectuses and associated resolutions; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t40/s3318/a/4/E">
+										<num>(E)</num>
+										<content> such other information as determined by the Administrator.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t40/s3318/b">
+								<num>(b)</num>
+								<heading>
+									<inline>Definitions</inline>
+									.—
+								</heading>
+								<chapeau>In this section, the following definitions apply:</chapeau>
+								<paragraph identifier="/us/usc/t40/s3318/b/1">
+									<num>(1)</num>
+									<heading>
+										<inline>Prospectus</inline>
+										.—
+									</heading>
+									<content>The term “prospectus” means prospectuses, building surveys, and factsheets submitted to the committees of jurisdiction pursuant to sections 3307 and 3316.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s3318/b/2">
+									<num>(2)</num>
+									<heading>
+										<inline>Committees of jurisdiction</inline>
+										.—
+									</heading>
+									<content>The term “committees of jurisdiction” means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s3318/b/3">
+									<num>(3)</num>
+									<heading>
+										<inline>Associated information</inline>
+										.—
+									</heading>
+									<content>The term “associated information” means resolutions approved by the committees of jurisdiction and other information as required pursuant to subsection (a).</content>
+								</paragraph>
 							</subsection>
 						</section>
 					</chapter>

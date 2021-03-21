@@ -7926,7 +7926,7 @@
 						</subsection>
 						<subsection identifier="/us/usc/t28/s375/h">
 							<num>(h)</num>
-							<content> The Judicial Conference of the United States may promulgate regulations to implement this section.</content>
+							<content> The Judicial Conference of the United States shall promulgate regulations to implement this section.</content>
 						</subsection>
 					</section>
 					<section identifier="/us/usc/t28/s376">
@@ -13623,6 +13623,45 @@
 						<subsection identifier="/us/usc/t28/s589a/e">
 							<num>(e)</num>
 							<content> There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).</content>
+						</subsection>
+						<subsection identifier="/us/usc/t28/s589a/f">
+							<num>(f)</num>
+							<paragraph identifier="/us/usc/t28/s589a/f/1">
+								<num>(1)</num>
+								<chapeau> During each of fiscal years 2021 through 2026 and notwithstanding subsections (b) and (c), the fees collected under section 1930(a)(6), less the amount specified in paragraph (2), shall be deposited as follows, in the following order:</chapeau>
+								<subparagraph identifier="/us/usc/t28/s589a/f/1/A">
+									<num>(A)</num>
+									<content> First, the amounts specified in the Department of Justice appropriations for that fiscal year, shall be deposited as discretionary offsetting collections to the “United States Trustee System Fund”, pursuant to subsection (a), to remain available until expended.</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t28/s589a/f/1/B">
+									<num>(B)</num>
+									<content>
+										 Second, the amounts determined annually by the Director of the Administrative Office of the United States Courts that are necessary to reimburse the judiciary for the costs of administering payments under 
+										<ref href="/us/usc/t11/s330/e">section 330(e) of title 11</ref>
+										, shall be deposited as mandatory offsetting collections to the “United States Trustee System Fund”, and transferred and deposited into the special fund established under section 1931(a), and notwithstanding subsection (a), shall be available for expenditure without further appropriation.
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t28/s589a/f/1/C">
+									<num>(C)</num>
+									<content>
+										 Third, the amounts determined annually by the Director of the Administrative Office of the United States Courts that are necessary to pay trustee compensation authorized by 
+										<ref href="/us/usc/t11/s330/e/2">section 330(e)(2) of title 11</ref>
+										, shall be deposited as mandatory offsetting collections to the “United States Trustee System Fund”, and transferred and deposited into the Chapter 7 Trustee Fund established under 
+										<ref href="/us/usc/t11/s330/e">section 330(e) of title 11</ref>
+										 for payment to trustees serving in cases under chapter 7 of title 11 (in addition to the amounts paid under 
+										<ref href="/us/usc/t11/s330/b">section 330(b) of title 11</ref>
+										), in accordance with that section, and notwithstanding subsection (a), shall be available for expenditure without further appropriation.
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t28/s589a/f/1/D">
+									<num>(D)</num>
+									<content> Fourth, any remaining amounts shall be deposited as discretionary offsetting collections to the “United States Trustee System Fund”, to remain available until expended.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t28/s589a/f/2">
+								<num>(2)</num>
+								<content> Notwithstanding subsection (b), for each of fiscal years 2021 through 2026, $5,400,000 of the fees collected under section 1930(a)(6) shall be deposited in the general fund of the Treasury.</content>
+							</paragraph>
 						</subsection>
 					</section>
 					<section identifier="/us/usc/t28/s589b">
@@ -27478,10 +27517,30 @@ Amendments</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t28/s1930/a/6/B">
 									<num>(B)</num>
-									<content>
-										 During each of fiscal years 2018 through 2022, if the balance in the United States Trustee System Fund as of September 30 of the most recent full fiscal year is less than $200,000,000,
-										 the quarterly fee payable for a quarter in which disbursements equal or exceed $1,000,000 shall be the lesser of 1 percent of such disbursements or $250,000.
-									</content>
+									<clause identifier="/us/usc/t28/s1930/a/6/B/i">
+										<num>(i)</num>
+										<content>
+											 During the 5-year period beginning on 
+											<date date="2021-01-01">January 1, 2021</date>
+											, in addition to the filing fee paid to the clerk, a quarterly fee shall be paid to the United States trustee, for deposit in the Treasury, in each open and reopened case under chapter 11 of title 11, other than under subchapter V, for each quarter (including any fraction thereof) until the case is closed, converted, or dismissed, whichever occurs first.
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t28/s1930/a/6/B/ii">
+										<num>(ii)</num>
+										<chapeau> The fee shall be the greater of—</chapeau>
+										<subclause identifier="/us/usc/t28/s1930/a/6/B/ii/I">
+											<num>(I)</num>
+											<content> 0.4 percent of disbursements or $250 for each quarter in which disbursements total less than $1,000,000; and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t28/s1930/a/6/B/ii/II">
+											<num>(II)</num>
+											<content> 0.8 percent of disbursements but not more than $250,000 for each quarter in which disbursements total at least $1,000,000.</content>
+										</subclause>
+									</clause>
+									<clause identifier="/us/usc/t28/s1930/a/6/B/iii">
+										<num>(iii)</num>
+										<content> The fee shall be payable on the last day of the calendar month following the calendar quarter for which the fee is owed.</content>
+									</clause>
 								</subparagraph>
 							</paragraph>
 							<paragraph identifier="/us/usc/t28/s1930/a/7">
@@ -27489,7 +27548,7 @@ Amendments</column>
 								<content>
 									 In districts that are not part of a United States trustee region as defined in 
 									<ref href="/us/usc/t28/s581">section 581 of this title</ref>
-									, the Judicial Conference of the United States may require the debtor in a case under chapter 11 of title 11 to pay fees equal to those imposed by paragraph (6) of this subsection. Such fees shall be deposited as offsetting receipts to the fund established under 
+									, the Judicial Conference of the United States shall require the debtor in a case under chapter 11 of title 11 to pay fees equal to those imposed by paragraph (6) of this subsection. Such fees shall be deposited as offsetting receipts to the fund established under 
 									<ref href="/us/usc/t28/s1931">section 1931 of this title</ref>
 									 and shall remain available until expended.
 								</content>

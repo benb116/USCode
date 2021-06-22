@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t39" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t39">
 	<main>
 		<title identifier="/us/usc/t39">
 			<num>Title 39—</num>
@@ -57,6 +57,15 @@
 							<ref href="/us/usc/t39/s5001">5001</ref>
 						</column>
 					</tocItem>
+				</layout>
+			</toc>
+			<toc>
+				<layout>
+					<header>
+						<column>
+							<b>Editorial Notes</b>
+						</column>
+					</header>
 				</layout>
 			</toc>
 			<part identifier="/us/usc/t39/ptI">
@@ -6811,7 +6820,7 @@ Amendments</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t39/s3210/a/3/F">
 									<num>(F)</num>
-									<content> mail matter expressing congratulations to a person who has achieved some public distinction;</content>
+									<content> mail matter expressing congratulations;</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t39/s3210/a/3/G">
 									<num>(G)</num>
@@ -6819,20 +6828,16 @@ Amendments</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t39/s3210/a/3/H">
 									<num>(H)</num>
-									<content> mail matter which consists of voter registration or election information or assistance prepared and mailed in a nonpartisan manner;</content>
+									<content> mail matter which consists of voter registration or election information or assistance prepared and mailed in a nonpartisan manner; or</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t39/s3210/a/3/I">
 									<num>(I)</num>
-									<content> mail matter which constitutes or includes a biography or autobiography of any Member of, or Member-elect to, Congress or any biographical or autobiographical material concerning such Member or Member-elect or the spouse or other members of the family of such Member or Member-elect, and which is so mailed as a part of a Federal publication or in response to a specific request therefor and is not included for publicity purposes in a newsletter or other general mass mailing of the Member or Member-elect under the franking privilege; or</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t39/s3210/a/3/J">
-									<num>(J)</num>
-									<content> mail matter which contains a picture, sketch, or other likeness of any Member or Member-elect and which is so mailed as a part of a Federal publication or in response to a specific request therefor and, when contained in a newsletter or other general mass mailing of any Member or Member-elect, is not of such size, or does not occur with such frequency in the mail matter concerned, as to lead to the conclusion that the purpose of such picture, sketch, or likeness is to advertise the Member or Member-elect rather than to illustrate accompanying text.</content>
+									<content> mail matter which constitutes or includes a biography or autobiography of any Member of, or Member-elect to, Congress or any biographical or autobiographical material concerning such Member or Member-elect or the spouse or other members of the family of such Member or Member-elect, and which is so mailed as a part of a Federal publication, in response to a specific request therefor, or which relates to the Member’s or Member-elect’s official and representational duties, and is not included for publicity purposes in a newsletter or other general mass mailing of the Member or Member-elect under the franking privilege.</content>
 								</subparagraph>
 							</paragraph>
 							<paragraph identifier="/us/usc/t39/s3210/a/4">
 								<num>(4)</num>
-								<content> It is the intent of the Congress that the franking privilege under this section shall not permit, and may not be used for, the transmission through the mails as franked mail, of matter which in its nature is purely personal to the sender or to any other person and is unrelated to the official business, activities, and duties of the public officials covered by subsection (b)(1) of this section.</content>
+								<content> It is the intent of the Congress that the franking privilege under this section shall not permit, and may not be used for, the transmission through the mails as franked mail, of matter which in its nature is purely personal to the sender or to any other person and is unrelated to the official business, activities, and duties of the public officials covered by subsection (b)(1) of this section, except that nothing in this paragraph may be construed to prohibit the use of the franking privilege for the transmission of matter which is purely personal to a recipient who is a constituent of a Member of Congress and which is related to the official business, activities, and duties of the Member.</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t39/s3210/a/5">
 								<num>(5)</num>
@@ -6861,7 +6866,7 @@ Amendments</column>
 									<num>(C)</num>
 									<content> mail matter which specifically solicits political support for the sender or any other person or any political party, or a vote or financial assistance for any candidate for any public office.</content>
 								</subparagraph>
-								<continuation>The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, as the Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at or delivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.</continuation>
+								<continuation>The House Communications Standards Commission and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations and shall take such other action, as the Commission or Committee considers necessary and proper for the Members and Members-elect to conform to the provisions of this clause and applicable rules and regulations. Such rules and regulations shall include, but not be limited to, provisions prescribing the time within which such mailings shall be mailed at or delivered to any postal facility to attain compliance with this clause and the time when such mailings shall be deemed to have been so mailed or delivered and such compliance attained.</continuation>
 							</paragraph>
 							<paragraph identifier="/us/usc/t39/s3210/a/6">
 								<num>(6)</num>
@@ -6870,7 +6875,7 @@ Amendments</column>
 									<chapeau> It is the intent of Congress that a Member of, or Member-elect to, Congress may not mail any mass mailing as franked mail—</chapeau>
 									<clause identifier="/us/usc/t39/s3210/a/6/A/i">
 										<num>(i)</num>
-										<content> if the mass mailing is postmarked fewer than 60 days (or, in the case of a Member of the House, fewer than 90 days) immediately before the date of any primary election or general election (whether regular, special, or runoff) in which the Member is a candidate for reelection; or</content>
+										<content> if the mass mailing is postmarked fewer than 60 days immediately before the date of any primary election or general election (whether regular, special, or runoff) in which the Member is a candidate for reelection; or</content>
 									</clause>
 									<clause identifier="/us/usc/t39/s3210/a/6/A/ii">
 										<num>(ii)</num>
@@ -6881,7 +6886,7 @@ Amendments</column>
 										</subclause>
 										<subclause identifier="/us/usc/t39/s3210/a/6/A/ii/II">
 											<num>(II)</num>
-											<content> is postmarked fewer than 90 days immediately before the date of any primary election or general election (whether regular, special, or runoff) in which the Member or Member-elect is a candidate for any other public office.</content>
+											<content> is postmarked fewer than 60 days immediately before the date of any primary election or general election (whether regular, special, or runoff) in which the Member or Member-elect is a candidate for any other public office.</content>
 										</subclause>
 									</clause>
 								</subparagraph>
@@ -6899,7 +6904,7 @@ Amendments</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t39/s3210/a/6/D">
 									<num>(D)</num>
-									<content> The Select Committee on Ethics of the Senate and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations, and shall take other action as the Committee or the Commission considers necessary and proper for Members and Members-elect to comply with the provisions of this paragraph and applicable rules and regulations, and in the case of the Commission, to waive this paragraph in the case of mailings sent in response to or to address threats to life safety. The rules and regulations shall include provisions prescribing the time within which mailings shall be mailed at or delivered to any postal facility and the time when the mailings shall be deemed to have been mailed or delivered to comply with the provisions of this paragraph.</content>
+									<content> The Select Committee on Ethics of the Senate and the House Communications Standards Commission shall prescribe for their respective Houses rules and regulations, and shall take other action as the Committee or the Commission considers necessary and proper for Members and Members-elect to comply with the provisions of this paragraph and applicable rules and regulations, and in the case of the Commission, to waive this paragraph in the case of mailings sent in response to or to address threats to life safety. The rules and regulations shall include provisions prescribing the time within which mailings shall be mailed at or delivered to any postal facility and the time when the mailings shall be deemed to have been mailed or delivered to comply with the provisions of this paragraph.</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t39/s3210/a/6/E">
 									<num>(E)</num>
@@ -6910,11 +6915,15 @@ Amendments</column>
 									</clause>
 									<clause identifier="/us/usc/t39/s3210/a/6/E/ii">
 										<num>(ii)</num>
-										<content> from a Member of Congress to other Members of Congress, or to Federal, State, or local government officials; or</content>
+										<content> from a Member of Congress to other Members of Congress, or to Federal, State, or local government officials;</content>
 									</clause>
 									<clause identifier="/us/usc/t39/s3210/a/6/E/iii">
 										<num>(iii)</num>
-										<content> of a news release to the communications media.</content>
+										<content> of a news release to the communications media; or</content>
+									</clause>
+									<clause identifier="/us/usc/t39/s3210/a/6/E/iv">
+										<num>(iv)</num>
+										<content> providing information exclusively on competitions which are officially sanctioned by the House of Representatives or Senate, nominations to military service academies, official employment listings for positions in the House of Representatives (including listings for positions in the Wounded Warrior Program or the Gold Star Family Fellowship Program), or natural disasters or other threats to public health and life safety.</content>
 									</clause>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t39/s3210/a/6/F">
@@ -6939,7 +6948,7 @@ Amendments</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t39/s3210/b/3">
 								<num>(3)</num>
-								<content> The Vice President, each Member of Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, and each of the elected officers of the House (other than a Member of the House), during the 90-day period immediately following the date on which they leave office, may send, as franked mail, matter on official business relating to the closing of their respective offices. The House Commission on Congressional Mailing Standards and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations, and shall take such other action as the Commission or Committee considers necessary and proper, to carry out the provisions of this paragraph.</content>
+								<content> The Vice President, each Member of Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, and each of the elected officers of the House (other than a Member of the House), during the 90-day period immediately following the date on which they leave office, may send, as franked mail, matter on official business relating to the closing of their respective offices. The House Communications Standards Commission and the Select Committee on Standards and Conduct of the Senate shall prescribe for their respective Houses such rules and regulations, and shall take such other action as the Commission or Committee considers necessary and proper, to carry out the provisions of this paragraph.</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t39/s3210/c">
@@ -6966,13 +6975,13 @@ Amendments</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t39/s3210/d/5">
 								<num>(5)</num>
-								<content> The Senate Committee on Rules and Administration and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations governing any franked mail which is mailed under this subsection and shall by regulation limit the number of such mailings allowed under this subsection</content>
+								<content> The Senate Committee on Rules and Administration and the House Communications Standards Commission shall prescribe for their respective Houses rules and regulations governing any franked mail which is mailed under this subsection and shall by regulation limit the number of such mailings allowed under this subsection.</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t39/s3210/d/6">
 								<num>(6)</num>
 								<subparagraph identifier="/us/usc/t39/s3210/d/6/A">
 									<num>(A)</num>
-									<content> Any Member of, or Member-elect to, the House of Representatives entitled to make any mailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.</content>
+									<content> Any Member of, or Member-elect to, the House of Representatives entitled to make any mailing as franked mail under this subsection shall, before making any mailing, submit a sample or description of the mail matter involved to the House Communications Standards Commission for an advisory opinion as to whether the proposed mailing is in compliance with the provisions of this subsection.</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t39/s3210/d/6/B">
 									<num>(B)</num>
@@ -7132,14 +7141,14 @@ Amendments</column>
 							<paragraph identifier="/us/usc/t39/s3216/e/1">
 								<num>(1)</num>
 								<content>
-									 Not later than two weeks after the last day of each quarter of the fiscal year, or as soon as practicable thereafter, the Postmaster General shall send to the Chief Administrative Officer of the House of Representatives, the House Commission on Congressional Mailing Standards, the Secretary of the Senate, and the Senate Committee on Rules and Administration a report which shall contain a tabulation of the estimated number of pieces and costs of franked mail, as defined in 
+									 Not later than two weeks after the last day of each quarter of the fiscal year, or as soon as practicable thereafter, the Postmaster General shall send to the Chief Administrative Officer of the House of Representatives, the House Communications Standards Commission, the Secretary of the Senate, and the Senate Committee on Rules and Administration a report which shall contain a tabulation of the estimated number of pieces and costs of franked mail, as defined in 
 									<ref href="/us/usc/t39/s3201">section 3201 of this title</ref>
 									, in each mail classification sent through the mail for that quarter and for the preceding quarters in the fiscal year, together with separate tabulations of the number of pieces and costs of such mail sent by the House and by the Senate.
 								</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t39/s3216/e/2">
 								<num>(2)</num>
-								<content> Two weeks after the close of the second quarter of the fiscal year, or as soon as practicable thereafter, the Postmaster General shall send to the Chief Administrative Officer of the House of Representatives, the House Commission on Congressional Mailing Standards, the Committee on House Oversight, the Secretary of the Senate, and the Senate Committee on Rules and Administration, a statement of the costs of postage on, and fees and charges in connection with, mail matter sent through the mails as described in paragraph (1) of this subsection for the preceding two quarters together with an estimate of such costs for the balance of the fiscal year. As soon as practicable after receipt of this statement, the House Commission on Congressional Mailing Standards, the Committee on House Oversight, and the Senate Committee on Rules and Administration shall consider promulgating such regulations for their respective Houses as may be necessary to ensure that total postage costs, as described in paragraph (1) of this subsection, will not exceed the amounts available for the fiscal year.</content>
+								<content> Two weeks after the close of the second quarter of the fiscal year, or as soon as practicable thereafter, the Postmaster General shall send to the Chief Administrative Officer of the House of Representatives, the House Communications Standards CommissionHouse Communications Standards Commission, the Committee on House Oversight, the Secretary of the Senate, and the Senate Committee on Rules and Administration, a statement of the costs of postage on, and fees and charges in connection with, mail matter sent through the mails as described in paragraph (1) of this subsection for the preceding two quarters together with an estimate of such costs for the balance of the fiscal year. As soon as practicable after receipt of this statement, the House Communications Standards Commission, the Committee on House Oversight, and the Senate Committee on Rules and Administration shall consider promulgating such regulations for their respective Houses as may be necessary to ensure that total postage costs, as described in paragraph (1) of this subsection, will not exceed the amounts available for the fiscal year.</content>
 							</paragraph>
 						</subsection>
 					</section>
@@ -7202,7 +7211,7 @@ Amendments</column>
 						</subsection>
 						<subsection identifier="/us/usc/t39/s3220/b">
 							<num>(b)</num>
-							<content> The Senate Committee on Rules and Administration and the House Commission on Congressional Mailing Standards shall prescribe for their respective Houses rules and regulations, and shall take such other action as the Committee or Commission considers necessary and proper, in order that purposes similar to those of subsection (a) may, in the discretion of the congressional official or office concerned, be carried out by the use of franked mail sent by such official or office.</content>
+							<content> The Senate Committee on Rules and Administration and the House Communications Standards Commission shall prescribe for their respective Houses rules and regulations, and shall take such other action as the Committee or Commission considers necessary and proper, in order that purposes similar to those of subsection (a) may, in the discretion of the congressional official or office concerned, be carried out by the use of franked mail sent by such official or office.</content>
 						</subsection>
 						<subsection identifier="/us/usc/t39/s3220/c">
 							<num>(c)</num>

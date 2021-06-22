@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t46" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t46">
 	<main>
 		<title identifier="/us/usc/t46">
 			<num>Title 46—</num>
@@ -2366,7 +2366,7 @@ Part K—National Maritime Transportation Advisory Committees</column>
 							<num>§ 2109.</num>
 							<heading> Public vessels</heading>
 							<content>
-								<p>Except as otherwise provided, this subtitle does not apply to a public vessel of the United States. However, this subtitle does apply to a vessel (except a Saint Lawrence Seaway Development Corporation vessel) owned or operated by the Department of Transportation or by any corporation organized or controlled by the Department.</p>
+								<p>Except as otherwise provided, this subtitle does not apply to a public vessel of the United States. However, this subtitle does apply to a vessel (except a Great Lakes St. Lawrence Seaway Development Corporation vessel) owned or operated by the Department of Transportation or by any corporation organized or controlled by the Department.</p>
 							</content>
 						</section>
 						<section identifier="/us/usc/t46/s2110">
@@ -11767,7 +11767,7 @@ Part K—National Maritime Transportation Advisory Committees</column>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s8103/g">
 								<num>(g)</num>
-								<content> A deck or engineer officer employed on a vessel on which an operating differential subsidy is paid, or employed on a vessel (except a vessel of the Coast Guard or Saint Lawrence Seaway Development Corporation) owned or operated by the Department of Transportation or by a corporation organized or controlled by the Department, if eligible, shall be a member of the Navy Reserve.</content>
+								<content> A deck or engineer officer employed on a vessel on which an operating differential subsidy is paid, or employed on a vessel (except a vessel of the Coast Guard or Great Lakes St. Lawrence Seaway Development Corporation) owned or operated by the Department of Transportation or by a corporation organized or controlled by the Department, if eligible, shall be a member of the Navy Reserve.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s8103/h">
 								<num>(h)</num>
@@ -13016,7 +13016,7 @@ Part K—National Maritime Transportation Advisory Committees</column>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s8503/c">
 								<num>(c)</num>
-								<content> For the Saint Lawrence Seaway, the Secretary may not delegate the authority under this section to an agency except the Saint Lawrence Seaway Development Corporation.</content>
+								<content> For the Saint Lawrence Seaway, the Secretary may not delegate the authority under this section to an agency except the Great Lakes St. Lawrence Seaway Development Corporation.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s8503/d">
 								<num>(d)</num>
@@ -43961,7 +43961,7 @@ SUBCHAPTER III—PARTICULAR PROJECTS</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t46/s55112/a/3">
 									<num>(3)</num>
-									<content> Operations provided in whole or in part within or through navigation facilities owned, maintained, or operated by the United States Government or the approaches to those facilities, other than facilities operated by the St. Lawrence Seaway Development Corporation on the St. Lawrence River portion of the Seaway.</content>
+									<content> Operations provided in whole or in part within or through navigation facilities owned, maintained, or operated by the United States Government or the approaches to those facilities, other than facilities operated by the Great Lakes St. Lawrence Seaway Development Corporation on the St. Lawrence River portion of the Seaway.</content>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s55112/b">
@@ -44827,7 +44827,7 @@ SUBCHAPTER III—AMERICAN GREAT LAKES VESSELS</column>
 										<inline>Great lakes shipping season</inline>
 										.—
 									</heading>
-									<content>The term “Great Lakes shipping season” means the period each year during which the Saint Lawrence Seaway is open for navigation by vessels, as declared by the Saint Lawrence Seaway Development Corporation.</content>
+									<content>The term “Great Lakes shipping season” means the period each year during which the Saint Lawrence Seaway is open for navigation by vessels, as declared by the Great Lakes St. Lawrence Seaway Development Corporation.</content>
 								</paragraph>
 							</section>
 							<section identifier="/us/usc/t46/s55332">
@@ -50214,8 +50214,8 @@ Amendments</column>
 							<heading> Saint Lawrence Seaway</heading>
 							<content>
 								<p>
-									The authority granted to the Secretary under sections 70001, 70002, 70003, 70004, and 70011 may not be delegated with respect to the Saint Lawrence Seaway to any agency other than the Saint Lawrence Seaway Development Corporation. Any other authority granted the Secretary under subchapters A through C 
-									 and this subchapter shall be delegated by the Secretary to the Saint Lawrence Seaway Development Corporation to the extent the Secretary determines such delegation is necessary for the proper operation of the Saint Lawrence Seaway.
+									The authority granted to the Secretary under sections 70001, 70002, 70003, 70004, and 70011 may not be delegated with respect to the Saint Lawrence Seaway to any agency other than the Great Lakes St. Lawrence Seaway Development Corporation. Any other authority granted the Secretary under subchapters A through C 
+									 and this subchapter shall be delegated by the Secretary to the Great Lakes St. Lawrence Seaway Development Corporation to the extent the Secretary determines such delegation is necessary for the proper operation of the Saint Lawrence Seaway.
 								</p>
 							</content>
 						</section>

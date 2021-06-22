@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t41" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t41">
 	<main>
 		<title identifier="/us/usc/t41">
 			<num>Title 41—</num>
@@ -48,6 +48,15 @@
 							<ref href="/us/usc/t41/s8101">8101</ref>
 						</column>
 					</tocItem>
+				</layout>
+			</toc>
+			<toc>
+				<layout>
+					<header>
+						<column>
+							<b>Editorial Notes</b>
+						</column>
+					</header>
 				</layout>
 			</toc>
 			<subtitle identifier="/us/usc/t41/stI">
@@ -8664,7 +8673,39 @@ Amendments</column>
 										<inline>Information on corporations</inline>
 										.—
 									</heading>
-									<content>The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.</content>
+									<content>The information in the database on a person that is a corporation shall, to the extent practicable, include information on any parent, subsidiary, or successor entities to the corporation, and an identification of any beneficial owner of such corporation, in a manner designed to give the acquisition officials using the database a comprehensive understanding of the performance and integrity of the corporation in carrying out Federal contracts and grants.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t41/s2313/d/4">
+									<num>(4)</num>
+									<heading>
+										<inline>Definitions</inline>
+										.—
+									</heading>
+									<chapeau>In this subsection:</chapeau>
+									<subparagraph identifier="/us/usc/t41/s2313/d/4/A">
+										<num>(A)</num>
+										<heading>
+											<inline>Beneficial ownership</inline>
+											.—
+										</heading>
+										<content>
+											The term “beneficial ownership” has the meaning given under section 847 of the National Defense Authorization Act for Fiscal Year 2020 (
+											<ref href="/us/pl/116/92">Public Law 116–92</ref>
+											; 
+											<ref href="/us/stat/133/1505">133 Stat. 1505</ref>
+											; 
+											<ref href="/us/usc/t10/s2509">10 U.S.C. 2509</ref>
+											 note).
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t41/s2313/d/4/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Corporation</inline>
+											.—
+										</heading>
+										<content>The term “corporation” means any corporation, company, limited liability company, limited partnership, business trust, business association, or other similar entity.</content>
+									</subparagraph>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t41/s2313/e">
@@ -15337,7 +15378,7 @@ Amendments</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t41/s4712/a/2/G">
 										<num>(G)</num>
-										<content> A management official or other employee of the contractor, subcontractor, or grantee who has the responsibility to investigate, discover, or address misconduct.</content>
+										<content> A management official or other employee of the contractor, subcontractor, grantee, or subgrantee who has the responsibility to investigate, discover, or address misconduct.</content>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t41/s4712/a/3">
@@ -15349,7 +15390,7 @@ Amendments</column>
 									<chapeau>For the purposes of paragraph (1)—</chapeau>
 									<subparagraph identifier="/us/usc/t41/s4712/a/3/A">
 										<num>(A)</num>
-										<content> an employee who initiates or provides evidence of contractor, subcontractor, or grantee misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Federal contract or grant shall be deemed to have made a disclosure covered by such paragraph; and</content>
+										<content> an employee who initiates or provides evidence of contractor, subcontractor, grantee, or subgrantee misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Federal contract or grant shall be deemed to have made a disclosure covered by such paragraph; and</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t41/s4712/a/3/B">
 										<num>(B)</num>
@@ -15369,7 +15410,7 @@ Amendments</column>
 										<inline>Submission of complaint</inline>
 										.—
 									</heading>
-									<content>A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of the executive agency involved. Unless the Inspector General determines that the complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor or grantee concerned, and the head of the agency.</content>
+									<content>A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of the executive agency involved. Unless the Inspector General determines that the complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor, subcontractor, grantee, or subgrantee concerned, and the head of the agency.</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t41/s4712/b/2">
 									<num>(2)</num>
@@ -15439,18 +15480,18 @@ Amendments</column>
 										<inline>In general</inline>
 										.—
 									</heading>
-									<chapeau>Not later than 30 days after receiving an Inspector General report pursuant to subsection (b), the head of the executive agency concerned shall determine whether there is sufficient basis to conclude that the contractor or grantee concerned has subjected the complainant to a reprisal prohibited by subsection (a) and shall either issue an order denying relief or shall take one or more of the following actions:</chapeau>
+									<chapeau>Not later than 30 days after receiving an Inspector General report pursuant to subsection (b), the head of the executive agency concerned shall determine whether there is sufficient basis to conclude that the contractor, subcontractor, grantee, or subgrantee concerned has subjected the complainant to a reprisal prohibited by subsection (a) and shall either issue an order denying relief or shall take one or more of the following actions:</chapeau>
 									<subparagraph identifier="/us/usc/t41/s4712/c/1/A">
 										<num>(A)</num>
-										<content> Order the contractor or grantee to take affirmative action to abate the reprisal.</content>
+										<content> Order the contractor, subcontractor, grantee, or subgrantee to take affirmative action to abate the reprisal.</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t41/s4712/c/1/B">
 										<num>(B)</num>
-										<content> Order the contractor or grantee to reinstate the person to the position that the person held before the reprisal, together with compensatory damages (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken.</content>
+										<content> Order the contractor, subcontractor, grantee, or subgrantee to reinstate the person to the position that the person held before the reprisal, together with compensatory damages (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken.</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t41/s4712/c/1/C">
 										<num>(C)</num>
-										<content> Order the contractor or grantee to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.</content>
+										<content> Order the contractor, subcontractor, grantee, or subgrantee to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.</content>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t41/s4712/c/2">
@@ -15459,7 +15500,7 @@ Amendments</column>
 										<inline>Exhaustion of remedies</inline>
 										.—
 									</heading>
-									<content>If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor or grantee to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this paragraph may not be brought more than two years after the date on which remedies are deemed to have been exhausted.</content>
+									<content>If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor, subcontractor, grantee, or subgrantee to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this paragraph may not be brought more than two years after the date on which remedies are deemed to have been exhausted.</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t41/s4712/c/3">
 									<num>(3)</num>
@@ -15512,7 +15553,7 @@ Amendments</column>
 									<inline>Notification of Employees</inline>
 									.—
 								</heading>
-								<content>The head of each executive agency shall ensure that contractors, subcontractors, and grantees of the agency inform their employees in writing of the rights and remedies provided under this section, in the predominant native language of the workforce.</content>
+								<content>The head of each executive agency shall ensure that contractors, subcontractors, grantees, and subgrantees of the agency inform their employees in writing of the rights and remedies provided under this section, in the predominant native language of the workforce.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t41/s4712/e">
 								<num>(e)</num>
@@ -15538,14 +15579,14 @@ Amendments</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t41/s4712/f/2">
 									<num>(2)</num>
-									<chapeau> This section shall not apply to any disclosure made by an employee of a contractor, subcontractor, or grantee of an element of the intelligence community if such disclosure—</chapeau>
+									<chapeau> This section shall not apply to any disclosure made by an employee of a contractor, subcontractor, grantee, or subgrantee of an element of the intelligence community if such disclosure—</chapeau>
 									<subparagraph identifier="/us/usc/t41/s4712/f/2/A">
 										<num>(A)</num>
 										<content> relates to an activity of an element of the intelligence community; or</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t41/s4712/f/2/B">
 										<num>(B)</num>
-										<content> was discovered during contract, subcontract, or grantee services provided to an element of the intelligence community.</content>
+										<content> was discovered during contract, subcontract, grantee, or subgrantee services provided to an element of the intelligence community.</content>
 									</subparagraph>
 								</paragraph>
 							</subsection>
@@ -16774,7 +16815,7 @@ Amendments</column>
 								<inline>In General</inline>
 								.—
 							</heading>
-							<content>An employer described in subsection (b) may not deny employment, on account of failure to produce a birth certificate, to an individual who submits, in lieu of the birth certificate, an honorable discharge certificate (or certificate issued in lieu of an honorable discharge certificate) from the Army, Air Force, Navy, Marine Corps, or Coast Guard of the United States, unless the honorable discharge certificate shows on its face that the individual may have been an alien at the time of its issuance.</content>
+							<content>An employer described in subsection (b) may not deny employment, on account of failure to produce a birth certificate, to an individual who submits, in lieu of the birth certificate, an honorable discharge certificate (or certificate issued in lieu of an honorable discharge certificate) from the Army, Air Force, Navy, Marine Corps, Space Force, or Coast Guard of the United States, unless the honorable discharge certificate shows on its face that the individual may have been an alien at the time of its issuance.</content>
 						</subsection>
 						<subsection identifier="/us/usc/t41/s6309/b">
 							<num>(b)</num>

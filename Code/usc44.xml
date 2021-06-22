@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t44" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t44">
 	<main>
 		<title identifier="/us/usc/t44">
 			<num>Title 44—</num>
@@ -5979,6 +5979,12 @@
 							</column>
 							<column>Disclosure requirement for official business conducted using non-official electronic messaging accounts.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t44/s2912">2912.</ref>
+							</column>
+							<column>Preservation of electronic messages and other records.</column>
+						</tocItem>
 					</layout>
 				</toc>
 				<section identifier="/us/usc/t44/s2901">
@@ -6087,11 +6093,31 @@
 					</paragraph>
 					<paragraph identifier="/us/usc/t44/s2901/14">
 						<num>(14)</num>
-						<content> the term “Federal agency” means any executive agency or any establishment in the legislative or judicial branch of the Government (except the Supreme Court, the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol); and</content>
+						<content> the term “Federal agency” means any executive agency or any establishment in the legislative or judicial branch of the Government (except the Supreme Court, the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol);</content>
 					</paragraph>
 					<paragraph identifier="/us/usc/t44/s2901/15">
 						<num>(15)</num>
-						<content> the term “Administrator” means the Administrator of General Services.</content>
+						<content> the term “electronic messages” means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals; and</content>
+					</paragraph>
+					<paragraph identifier="/us/usc/t44/s2901/16">
+						<num>(16)</num>
+						<chapeau> the term “electronic records management system” means software designed to manage electronic records, including by—</chapeau>
+						<subparagraph identifier="/us/usc/t44/s2901/16/A">
+							<num>(A)</num>
+							<content> categorizing and locating records;</content>
+						</subparagraph>
+						<subparagraph identifier="/us/usc/t44/s2901/16/B">
+							<num>(B)</num>
+							<content> ensuring that records are retained as long as necessary;</content>
+						</subparagraph>
+						<subparagraph identifier="/us/usc/t44/s2901/16/C">
+							<num>(C)</num>
+							<content> identifying records that are due for disposition; and</content>
+						</subparagraph>
+						<subparagraph identifier="/us/usc/t44/s2901/16/D">
+							<num>(D)</num>
+							<content> ensuring the storage, retrieval, and disposition of records.</content>
+						</subparagraph>
 					</paragraph>
 				</section>
 				<section identifier="/us/usc/t44/s2902">
@@ -6377,6 +6403,46 @@
 								.
 							</content>
 						</paragraph>
+					</subsection>
+				</section>
+				<section identifier="/us/usc/t44/s2912">
+					<num>§ 2912.</num>
+					<heading> Preservation of electronic messages and other records</heading>
+					<subsection identifier="/us/usc/t44/s2912/a">
+						<num>(a)</num>
+						<heading>
+							<inline>Regulations Required</inline>
+							.—
+						</heading>
+						<chapeau>The Archivist shall promulgate regulations governing Federal agency preservation of electronic messages that are determined to be records. Such regulations shall, at a minimum—</chapeau>
+						<paragraph identifier="/us/usc/t44/s2912/a/1">
+							<num>(1)</num>
+							<content> require the electronic capture, management, and preservation of such electronic records in accordance with the records disposition requirements of chapter 33;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t44/s2912/a/2">
+							<num>(2)</num>
+							<content> require that such electronic records are readily accessible for retrieval through electronic searches; and</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t44/s2912/a/3">
+							<num>(3)</num>
+							<content> include timelines for Federal agency implementation of the regulations that ensure compliance as expeditiously as practicable.</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t44/s2912/b">
+						<num>(b)</num>
+						<heading>
+							<inline>Coverage of Other Electronic Records</inline>
+							.—
+						</heading>
+						<content>To the extent practicable, the regulations promulgated under subsection (a) shall also include requirements for the capture, management, and preservation of other electronic records.</content>
+					</subsection>
+					<subsection identifier="/us/usc/t44/s2912/c">
+						<num>(c)</num>
+						<heading>
+							<inline>Review of Regulations Required</inline>
+							.—
+						</heading>
+						<content>The Archivist shall periodically review and, as necessary, amend the regulations promulgated under subsection (a).</content>
 					</subsection>
 				</section>
 			</chapter>
@@ -9776,11 +9842,27 @@ Part D—Access to Data for Evidence</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t44/s3553/b/6/D">
 									<num>(D)</num>
-									<content> developing and conducting targeted operational evaluations, including threat and vulnerability assessments, on the information systems; and</content>
+									<content> developing and conducting targeted operational evaluations, including threat and vulnerability assessments, on the information systems;</content>
 								</subparagraph>
 							</paragraph>
 							<paragraph identifier="/us/usc/t44/s3553/b/7">
 								<num>(7)</num>
+								<content> hunting for and identifying, with or without advance notice to or authorization from agencies, threats and vulnerabilities within Federal information systems;</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t44/s3553/b/8">
+								<num>(8)</num>
+								<chapeau> upon request by an agency, and at the Secretary’s discretion, with or without reimbursement—</chapeau>
+								<subparagraph identifier="/us/usc/t44/s3553/b/8/A">
+									<num>(A)</num>
+									<content> providing services, functions, and capabilities, including operation of the agency’s information security program, to assist the agency with meeting the requirements set forth in section 3554(b); and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t44/s3553/b/8/B">
+									<num>(B)</num>
+									<content> deploying, operating, and maintaining secure technology platforms and tools, including networks and common business applications, for use by the agency to perform agency functions, including collecting, maintaining, storing, processing, disseminating, and analyzing information; and</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t44/s3553/b/9">
+								<num>(9)</num>
 								<content> other actions as the Director or the Secretary, in consultation with the Director, may determine necessary to carry out this subsection.</content>
 							</paragraph>
 						</subsection>
@@ -10123,6 +10205,32 @@ Part D—Access to Data for Evidence</column>
 							<paragraph identifier="/us/usc/t44/s3553/k/2">
 								<num>(2)</num>
 								<content> the Committee on Appropriations, the Committee on Homeland Security, the Committee on Oversight and Government Reform, and the Committee on Science, Space, and Technology of the House of Representatives.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t44/s3553/l">
+							<num>(l)</num>
+							<heading>
+								<inline>Information Sharing.—</inline>
+							</heading>
+							<paragraph identifier="/us/usc/t44/s3553/l/1">
+								<num>(1)</num>
+								<heading>
+									<inline>In general</inline>
+									.—
+								</heading>
+								<content>
+									Notwithstanding any other provision of law, including any provision of law that would otherwise restrict or prevent the head of an agency from disclosing information to the Secretary, the Secretary in carrying out this section and title XXII of the Homeland Security Act of 2002 (
+									<ref href="/us/usc/t6/s651">6 U.S.C. 651</ref>
+									 et seq.) may access, use, retain, and disclose, and the head of an agency may disclose to the Secretary, information, for the purpose of protecting information and information systems from cybersecurity risks.
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t44/s3553/l/2">
+								<num>(2)</num>
+								<heading>
+									<inline>Exception</inline>
+									.—
+								</heading>
+								<content>Paragraph (1) shall not apply to national security systems or to information systems described in paragraph (2) or (3) of subsection (e).</content>
 							</paragraph>
 						</subsection>
 					</section>

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t35" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t35">
 	<main>
 		<title identifier="/us/usc/t35">
 			<num>Title 35—</num>
@@ -894,9 +894,38 @@
 					<section identifier="/us/usc/t35/s11">
 						<num>§ 11.</num>
 						<heading> Exchange of copies of patents and applications with foreign countries</heading>
-						<content>
-							<p>The Director may exchange copies of specifications and drawings of United States patents and published applications for patents for those of foreign countries. The Director shall not enter into an agreement to provide such copies of specifications and drawings of United States patents and applications to a foreign country, other than a NAFTA country or a WTO member country, without the express authorization of the Secretary of Commerce. For purposes of this section, the terms “NAFTA country” and “WTO member country” have the meanings given those terms in section 104(b).</p>
-						</content>
+						<subsection identifier="/us/usc/t35/s11/a">
+							<num>(a)</num>
+							<heading>
+								<inline>In General</inline>
+								.—
+							</heading>
+							<content>The Director may exchange copies of specifications and drawings of United States patents and published applications for patents for those of foreign countries. The Director shall not enter into an agreement to provide such copies of specifications and drawings of United States patents and applications to a foreign country, other than a USMCA country or a WTO member country, without the express authorization of the Secretary of Commerce.</content>
+						</subsection>
+						<subsection identifier="/us/usc/t35/s11/b">
+							<num>(b)</num>
+							<heading>
+								<inline>Definitions</inline>
+								.—
+							</heading>
+							<chapeau>In this section—</chapeau>
+							<paragraph identifier="/us/usc/t35/s11/b/1">
+								<num>(1)</num>
+								<content>
+									 the term “USMCA country” has the meaning given that term in section 3 of the United States-Mexico-Canada Agreement Implementation Act (
+									<ref href="/us/usc/t19/s4502">19 U.S.C. 4502</ref>
+									); and
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t35/s11/b/2">
+								<num>(2)</num>
+								<content>
+									 the term “WTO member country” has the meaning given that term in section 2(10) of the Uruguay Round Agreements Act (
+									<ref href="/us/usc/t19/s3501/10">19 U.S.C. 3501(10)</ref>
+									).
+								</content>
+							</paragraph>
+						</subsection>
 					</section>
 					<section identifier="/us/usc/t35/s12">
 						<num>§ 12.</num>

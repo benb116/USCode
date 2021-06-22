@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t24" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t24">
 	<main>
 		<title identifier="/us/usc/t24">
 			<num>Title 24—</num>
@@ -1968,7 +1968,7 @@ SUBCHAPTER I—ESTABLISHMENT AND OPERATION OF RETIREMENT HOME</column>
 							<column>
 								<ref href="/us/usc/t24/s418">418.</ref>
 							</column>
-							<column>Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors.</column>
+							<column>Periodic inspection of retirement home facilities.</column>
 						</tocItem>
 						<tocItem>
 							<column>
@@ -2342,10 +2342,10 @@ SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS</column>
 						<subsection identifier="/us/usc/t24/s412/a">
 							<num>(a)</num>
 							<heading> Persons eligible to be residents</heading>
-							<chapeau>Except as provided in subsection (b), the following persons who served as members of the Armed Forces, at least one-half of whose service was not active commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:</chapeau>
+							<chapeau>Except as provided in subsection (b), the following persons who served as members of the Armed Forces, at least one-half of whose service was not commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:</chapeau>
 							<paragraph identifier="/us/usc/t24/s412/a/1">
 								<num>(1)</num>
-								<content> Persons who are 60 years of age or over and were discharged or released from service in the Armed Forces after 20 or more years of active service.</content>
+								<content> Persons who were discharged or released from service in the Armed Forces after 20 or more years of active service.</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t24/s412/a/2">
 								<num>(2)</num>
@@ -2362,6 +2362,30 @@ SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS</column>
 									<date date="1948-06-12">June 12, 1948</date>
 									, and are determined under rules prescribed by the Chief Operating Officer to be eligible for admission because of compelling personal circumstances.
 								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t24/s412/a/5">
+								<num>(5)</num>
+								<chapeau> Persons who are eligible for retired pay under chapter 1223 of title 10 and are—</chapeau>
+								<subparagraph identifier="/us/usc/t24/s412/a/5/A">
+									<num>(A)</num>
+									<content>
+										 eligible for care under 
+										<ref href="/us/usc/t38/s1710">section 1710 of title 38</ref>
+										;
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t24/s412/a/5/B">
+									<num>(B)</num>
+									<content> enrolled in coverage under chapter 55 of title 10; or</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t24/s412/a/5/C">
+									<num>(C)</num>
+									<content>
+										 enrolled in a qualified health plan (as defined in 
+										<ref href="/us/usc/t42/s18021/a">section 18021(a) of title 42</ref>
+										) that is acceptable to the Chief Operating Officer.
+									</content>
+								</subparagraph>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t24/s412/b">
@@ -2536,7 +2560,7 @@ SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t24/s413a/c/2">
 								<num>(2)</num>
-								<content> Monitor compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, or any other applicable health care standards and requirements (including requirements identified in applicable reports of the Inspector General of the Department of Defense).</content>
+								<content> Monitor compliance by the facilities of the Retirement Home with accreditation standards, applicable nationally recognized health care standards and requirements, or any other applicable health care standards and requirements.</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t24/s413a/c/3">
 								<num>(3)</num>
@@ -2589,7 +2613,18 @@ SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t24/s414/c/2">
 								<num>(2)</num>
-								<content> The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.</content>
+								<subparagraph identifier="/us/usc/t24/s414/c/2/A">
+									<num>(A)</num>
+									<content> The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t24/s414/c/2/B">
+									<num>(B)</num>
+									<content>
+										 The calculation of monthly income and monthly payments under subparagraph (A) for a resident eligible under 
+										<ref href="/us/usc/t24/s412/a/5">section 412(a)(5) of this title</ref>
+										 shall not be less than the retirement pay for equivalent active duty service as determined by the Chief Operating Officer, except as the Chief Operating Officer may provide because of the compelling personal circumstances of such resident.
+									</content>
+								</subparagraph>
 							</paragraph>
 							<paragraph identifier="/us/usc/t24/s414/c/3">
 								<num>(3)</num>
@@ -2597,6 +2632,16 @@ SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS</column>
 									 The fee shall be subject to a limitation on maximum monthly amount. The amount of the limitation shall be increased, effective on January 1 of each year, by the percentage of the increase in retired pay and retainer pay that takes effect on the preceding December 1 under subsection (b) of 
 									<ref href="/us/usc/t10/s1401a">section 1401a of title 10</ref>
 									 without regard to paragraph (3) of such subsection.
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t24/s414/c/4">
+								<num>(4)</num>
+								<content>
+									 The Administrator of each facility of the Retirement Home may collect a fee upon admission from a resident accepted under 
+									<ref href="/us/usc/t24/s412/a/5">section 412(a)(5) of this title</ref>
+									 equal to the deductions then in effect under 
+									<ref href="/us/usc/t37/s1007/i/1">section 1007(i)(1) of title 37</ref>
+									 for each year of service computed under chapter 1223 of title 10 and shall deposit such fee in the Armed Forces Retirement Home Trust Fund.
 								</content>
 							</paragraph>
 						</subsection>
@@ -2753,15 +2798,7 @@ SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t24/s416/b/3">
 								<num>(3)</num>
-								<chapeau> In carrying out its functions, the Advisory Council shall—</chapeau>
-								<subparagraph identifier="/us/usc/t24/s416/b/3/A">
-									<num>(A)</num>
-									<content> provide for participation in its activities by a representative of the Resident Advisory Committee of each facility of the Retirement Home; and</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t24/s416/b/3/B">
-									<num>(B)</num>
-									<content> make recommendations to the Inspector General of the Department of Defense regarding issues that the Inspector General should investigate.</content>
-								</subparagraph>
+								<content> In carrying out its functions, the Advisory Council shall provide for participation in its activities by a representative of the Resident Advisory Committee of each facility of the Retirement Home.</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t24/s416/c">
@@ -3002,7 +3039,7 @@ SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t24/s417/e/2">
 								<num>(2)</num>
-								<content> The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, the Inspector General of the Department of Defense, and the Secretary of Defense.</content>
+								<content> The Ombudsman may provide information to the Administrator, the Chief Operating Officer, the Senior Medical Advisor, and the Secretary of Defense.</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t24/s417/f">
@@ -3032,71 +3069,34 @@ SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS</column>
 					</section>
 					<section identifier="/us/usc/t24/s418">
 						<num>§ 418.</num>
-						<heading> Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors</heading>
+						<heading> Periodic inspection of retirement home facilities</heading>
 						<subsection identifier="/us/usc/t24/s418/a">
 							<num>(a)</num>
-							<heading> Duty of Inspector General of the Department of Defense</heading>
+							<heading> Inspections</heading>
 							<content>
-								<p>The Inspector General of the Department of Defense shall have the duty to inspect the Retirement Home.</p>
+								<p>
+									The Chief Operating Officer shall request the inspection of each facility of the Retirement Home by a nationally recognized civilian accrediting organization in accordance with 
+									<ref href="/us/usc/t24/s411/g">section 411(g) of this title</ref>
+									 on a frequency consistent with the standards of such organization.
+								</p>
 							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t24/s418/b">
 							<num>(b)</num>
-							<heading> Inspections by Inspector General</heading>
-							<paragraph identifier="/us/usc/t24/s418/b/1">
-								<num>(1)</num>
-								<content> Not less often than once every three years, the Inspector General of the Department of Defense shall perform a comprehensive inspection of all aspects of each facility of the Retirement Home, including independent living, assisted living, long-term care, medical and dental care, pharmacy, financial and contracting records, and any aspect of either facility on which the Advisory Council or the Resident Advisory Committee of the facility recommends inspection.</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t24/s418/b/2">
-								<num>(2)</num>
-								<content> The Inspector General shall be assisted in inspections under this subsection by a medical inspector general of a military department designated for purposes of this subsection by the Secretary of Defense.</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t24/s418/b/3">
-								<num>(3)</num>
-								<content> In conducting the inspection of a facility of the Retirement Home under this subsection, the Inspector General shall solicit concerns, observations, and recommendations from the Advisory Council, the Resident Advisory Committee of the facility, and the residents of the facility. Any concerns, observations, and recommendations solicited from residents shall be solicited on a not-for-attribution basis.</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t24/s418/b/4">
-								<num>(4)</num>
-								<content> The Chief Operating Officer and the Administrator of each facility of the Retirement Home shall make all staff, other personnel, and records of each facility available to the Inspector General in a timely manner for purposes of inspections under this subsection.</content>
-							</paragraph>
+							<heading> Availability of staff and records</heading>
+							<content>
+								<p>The Chief Operating Officer and the Administrator of a facility being inspected under this section shall make all staff, other personnel, and records of the facility available to the civilian accrediting organization in a timely manner for purposes of inspections under this section.</p>
+							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t24/s418/c">
 							<num>(c)</num>
-							<heading> Reports on inspections by Inspector General</heading>
+							<heading> Reports</heading>
+							<chapeau>Not later than 60 days after receiving a report on an inspection from the civilian accrediting organization under this section, the Chief Operating Officer shall submit to the Secretary of Defense, the Senior Medical Advisor, and the Advisory Council a report containing—</chapeau>
 							<paragraph identifier="/us/usc/t24/s418/c/1">
-								<num>(1)</num>
-								<content> The Inspector General shall prepare a report describing the results of each inspection conducted of a facility of the Retirement Home under subsection (b), and include in the report such recommendations as the Inspector General considers appropriate in light of the inspection. Not later than 90 days after completing the inspection of the facility, the Inspector General shall submit the report to the Secretary of Defense, the Chief Operating Officer, the Administrator of the facility, the Senior Medical Advisor, and the Advisory Council.</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t24/s418/c/2">
-								<num>(2)</num>
-								<content> A report submitted under paragraph (1) shall include a plan by the Chief Operating Officer to address the recommendations and other matters contained in the report.</content>
-							</paragraph>
-						</subsection>
-						<subsection identifier="/us/usc/t24/s418/d">
-							<num>(d)</num>
-							<heading> Additional inspections</heading>
-							<paragraph identifier="/us/usc/t24/s418/d/1">
-								<num>(1)</num>
-								<content>
-									 The Chief Operating Officer shall request the inspection of each facility of the Retirement Home by a nationally recognized civilian accrediting organization in accordance with 
-									<ref href="/us/usc/t24/s411/g">section 411(g) of this title</ref>
-									.
-								</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t24/s418/d/2">
-								<num>(2)</num>
-								<content> The Chief Operating Officer and the Administrator of a facility being inspected under this subsection shall make all staff, other personnel, and records of the facility available to the civilian accrediting organization in a timely manner for purposes of inspections under this subsection.</content>
-							</paragraph>
-						</subsection>
-						<subsection identifier="/us/usc/t24/s418/e">
-							<num>(e)</num>
-							<heading> Reports on additional inspections</heading>
-							<chapeau>Not later than 60 days after receiving a report of an inspection from the civilian accrediting organization under subsection (d), the Chief Operating Officer shall submit to the Secretary of Defense, the Senior Medical Advisor, and the Advisory Council a report containing—</chapeau>
-							<paragraph identifier="/us/usc/t24/s418/e/1">
 								<num>(1)</num>
 								<content> the results of the inspection; and</content>
 							</paragraph>
-							<paragraph identifier="/us/usc/t24/s418/e/2">
+							<paragraph identifier="/us/usc/t24/s418/c/2">
 								<num>(2)</num>
 								<content> a plan to address any recommendations and other matters set forth in the report.</content>
 							</paragraph>

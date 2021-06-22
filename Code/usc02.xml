@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t2" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t2">
 	<main>
 		<title identifier="/us/usc/t2">
 			<num>Title 2—</num>
@@ -11221,7 +11221,7 @@ SUBCHAPTER II—GENERAL PROVISIONS</column>
 							<column>
 								<ref href="/us/usc/t2/s501">501.</ref>
 							</column>
-							<column>House Commission on Congressional Mailing Standards.</column>
+							<column>House Communications Standards Commission.</column>
 						</tocItem>
 						<tocItem>
 							<column>
@@ -11257,12 +11257,12 @@ SUBCHAPTER II—GENERAL PROVISIONS</column>
 				</toc>
 				<section identifier="/us/usc/t2/s501">
 					<num>§ 501.</num>
-					<heading> House Commission on Congressional Mailing Standards</heading>
+					<heading> House Communications Standards Commission</heading>
 					<subsection identifier="/us/usc/t2/s501/a">
 						<num>(a)</num>
 						<heading> Establishment; designation</heading>
 						<content>
-							<p>There is established a special commission of the House of Representatives, designated the “House Commission on Congressional Mailing Standards” (herein referred to as the “Commission”).</p>
+							<p>There is established a special commission of the House of Representatives, designated the “House Communications Standards Commission” (herein referred to as the “Commission”).</p>
 						</content>
 					</subsection>
 					<subsection identifier="/us/usc/t2/s501/b">
@@ -11282,22 +11282,35 @@ SUBCHAPTER II—GENERAL PROVISIONS</column>
 					<subsection identifier="/us/usc/t2/s501/d">
 						<num>(d)</num>
 						<heading> Advisory opinions or consultations respecting franked mail for persons entitled to franking privilege; franking privilege regulations</heading>
-						<content>
-							<p>
-								The Commission shall provide guidance, assistance, advice, and counsel, through advisory opinions or consultations, in connection with the mailing or contemplated mailing of franked mail under section 3210, 3211, 3212, 3213(2), 3218, or 3219, in connection with the operation of section 3215, of title 39, and in connection with any other Federal law (other than any law which imposes any criminal penalty) or any rule of the House of Representatives relating to franked mail, upon the request of any Member of the House or Member-elect, Resident Commissioner or Resident Commissioner-elect, Delegate or Delegate-elect, any former Member of the House or former Member-elect, Resident Commissioner or Resident Commissioner-elect, Delegate or Delegate-elect, any surviving spouse of any of the foregoing (or any individual designated by the Clerk of the House under 
+						<paragraph identifier="/us/usc/t2/s501/d/1">
+							<num>(1)</num>
+							<content>
+								 The Commission shall provide guidance, assistance, advice, and counsel, through advisory opinions or consultations, in connection with the mailing or contemplated mailing of franked mail under section 3210, 3211, 3212, 3213(2), 3218, or 3219, in connection with the operation of section 3215, of title 39, and in connection with any other Federal law (other than any law which imposes any criminal penalty) or any rule of the House of Representatives relating to franked mail, upon the request of any Member of the House or Member-elect, Resident Commissioner or Resident Commissioner-elect, Delegate or Delegate-elect, any former Member of the House or former Member-elect, Resident Commissioner or Resident Commissioner-elect, Delegate or Delegate-elect, any surviving spouse of any of the foregoing (or any individual designated by the Clerk of the House under 
 								<ref href="/us/usc/t39/s3218">section 3218 of title 39</ref>
 								), or any other House official or former House official, entitled to send mail as franked mail under any of those sections. The Commission shall prescribe regulations governing the proper use of the franking privilege under those sections by such persons.
-							</p>
-						</content>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t2/s501/d/2">
+							<num>(2)</num>
+							<chapeau> In addition to the guidance, assistance, advice, and counsel described in paragraph (1), the Commission shall provide—</chapeau>
+							<subparagraph identifier="/us/usc/t2/s501/d/2/A">
+								<num>(A)</num>
+								<content> guidance, assistance, advice, and counsel, through advisory opinions or consultations, in connection with any law and with any rule or regulation of the House of Representatives governing the dissemination of mass communications other than franked mail; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t2/s501/d/2/B">
+								<num>(B)</num>
+								<content> guidance, assistance, advice, and counsel in connection with any law and with any rule or regulation of the House of Representatives governing the official content of other official communications of any quantity, whether solicited or unsolicited.</content>
+							</subparagraph>
+						</paragraph>
 					</subsection>
 					<subsection identifier="/us/usc/t2/s501/e">
 						<num>(e)</num>
 						<heading> Complaint of franked mail violations; investigation; notice and hearing; conclusiveness of findings; decision of Commission; judicial review; reference of certain violations to Committee on Standards of Official Conduct of the House for appropriate action and enforcement; administrative procedure regulations</heading>
 						<content>
 							<p>
-								Any complaint by any person that a violation of any section of title 39 referred to in subsection (d) of this section (or any other Federal law which does not include any criminal penalty or any rule of the House of Representatives relating to franked mail) is about to occur, or has occurred within the immediately preceding period of one year, by any person referred to in such subsection (d), shall contain pertinent factual material and shall conform to regulations prescribed by the Commission. The Commission, if it determines there is reasonable justification for the complaint, shall conduct an investigation of the matter, including an investigation of reports and statements filed by the complainant with respect to the matter which is the subject of the complaint. The Commission shall afford to the person who is the subject of the complaint due notice and, if it determines that there is substantial reason to believe that such violation has occurred or is about to occur, opportunity for all parties to participate in a hearing before the Commission. The Commission shall issue a written decision on each complaint under this subsection not later than thirty days after such a complaint has been filed or, if a hearing is held, not later than thirty days after the conclusion of such hearing. Such decision shall be based on written findings of fact in the case by the Commission. Such findings of fact by the Commission on which its decision is based are binding and conclusive for all judicial and administrative purposes, including purposes of any judicial challenge or review. Any judicial review of such decision, if ordered on any ground, shall be limited to matters of law. If the Commission finds in its written decision, that a serious and willful violation has occurred or is about to occur, it may refer such decision to the Committee on Standards of Official Conduct of the House of Representatives for appropriate action and enforcement by the committee concerned in accordance with applicable rules and precedents of the House and such other standards as may be prescribed by such committee. In the case of a former Member of the House or a former Member-elect, a former Resident Commissioner or Delegate or Resident Commissioner-elect or Delegate-elect, any surviving spouse of any of the foregoing (or any individual designated by the Clerk of the House under 
+								Any complaint that a violation of any provision of law or any rule or regulation of the House of Representatives to which subsection (d) applies is about to occur, or has occurred within the immediately preceding period of one year, by any person referred to in such subsection (d), shall contain pertinent factual material and shall conform to regulations prescribed by the Commission. The Commission, if it determines there is reasonable justification for the complaint, shall conduct an investigation of the matter, including an investigation of reports and statements filed by the complainant with respect to the matter which is the subject of the complaint. The Commission shall afford to the person who is the subject of the complaint due notice and, if it determines that there is substantial reason to believe that such violation has occurred or is about to occur, opportunity for all parties to participate in a hearing before the Commission. The Commission shall issue a written decision on each complaint under this subsection not later than thirty days after such a complaint has been filed or, if a hearing is held, not later than thirty days after the conclusion of such hearing. Such decision shall be based on written findings of fact in the case by the Commission. Such findings of fact by the Commission on which its decision is based are binding and conclusive for all judicial and administrative purposes, including purposes of any judicial challenge or review. Any judicial review of such decision, if ordered on any ground, shall be limited to matters of law. If the Commission finds in its written decision, that a serious and willful violation has occurred or is about to occur, it may refer such decision to the Committee on Standards of Official Conduct of the House of Representatives for appropriate action and enforcement by the committee concerned in accordance with applicable rules and precedents of the House and such other standards as may be prescribed by such committee. In the case of a former Member of the House or a former Member-elect, a former Resident Commissioner or Delegate or Resident Commissioner-elect or Delegate-elect, any surviving spouse of any of the foregoing (or any individual designated by the Clerk of the House under 
 								<ref href="/us/usc/t39/s3218">section 3218 of title 39</ref>
-								), or any other former House official, if the Commission finds in its written decision that any serious and willful violation has occurred or is about to occur, then the Commission may refer the matter to any appropriate law enforcement agency or official for appropriate remedial action. Notwithstanding any other provision of law, no court or administrative body in the United States or in any territory thereof shall have jurisdiction to entertain any civil action of any character concerning or related to a violation of the franking laws or an abuse of the franking privilege by any person listed under subsection (d) of this section as entitled to send mail as franked mail, except judicial review of the decisions of the Commission under this subsection. The Commission shall prescribe regulations for the holding of investigations and hearings, the conduct of proceedings, and the rendering of decisions under this subsection providing for equitable procedures and the protection of individual, public, and Government interests. The regulations shall, insofar as practicable, contain the substance of the administrative procedure provisions of sections 551–559, and 701–706, of title 5. These regulations shall govern matters under this subsection subject to judicial review thereof.
+								), or any other former House official, if the Commission finds in its written decision that any serious and willful violation has occurred or is about to occur, then the Commission may refer the matter to any appropriate law enforcement agency or official for appropriate remedial action. Notwithstanding any other provision of law, no court or administrative body in the United States or in any territory thereof shall have jurisdiction to entertain any civil action of any character concerning or related to a violation of any provision of law or any rule or regulation of the House of Representatives to which subsection (d) applies, except judicial review of the decisions of the Commission under this subsection. The Commission shall prescribe regulations for the holding of investigations and hearings, the conduct of proceedings, and the rendering of decisions under this subsection providing for equitable procedures and the protection of individual, public, and Government interests. The regulations shall, insofar as practicable, contain the substance of the administrative procedure provisions of sections 551–559, and 701–706, of title 5. These regulations shall govern matters under this subsection subject to judicial review thereof.
 							</p>
 						</content>
 					</subsection>
@@ -11314,6 +11327,31 @@ SUBCHAPTER II—GENERAL PROVISIONS</column>
 						<content>
 							<p>The Commission shall keep a complete record of all its actions, including a record of the votes on any question on which a record vote is demanded. All records, data, and files of the Commission shall be the property of the Commission and shall be kept in the offices of the Commission or such other places as the Commission may direct.</p>
 						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t2/s501/h">
+						<num>(h)</num>
+						<heading> Definition of mass communication</heading>
+						<chapeau>
+							In this section, the term “mass communication” means a mass mailing described in 
+							<ref href="/us/usc/t39/s3210/a/6/E">section 3210(a)(6)(E) of title 39</ref>
+							 or any other unsolicited communication of substantially identical content which is transmitted to 500 or more persons in a session of Congress, as provided under regulations of the Commission, except that such term does not include—
+						</chapeau>
+						<paragraph identifier="/us/usc/t2/s501/h/1">
+							<num>(1)</num>
+							<content> any communication from an individual described in subsection (d) to another individual described in subsection (d), a Senator, or any Federal, State, local, or Tribal government official;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t2/s501/h/2">
+							<num>(2)</num>
+							<content> any news release to the communications media;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t2/s501/h/3">
+							<num>(3)</num>
+							<content> any such mass mailing or unsolicited communication made in direct response to a communication from a person to whom the mass mailing or unsolicited communication was transmitted; or</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t2/s501/h/4">
+							<num>(4)</num>
+							<content> in the case of any such unsolicited communication which is transmitted in a digital format, a communication for which the cost of the content is less than a threshold amount established under regulations of the House Communications Standards Commission.</content>
+						</paragraph>
 					</subsection>
 				</section>
 				<section identifier="/us/usc/t2/s502">
@@ -11379,7 +11417,7 @@ SUBCHAPTER II—GENERAL PROVISIONS</column>
 						</paragraph>
 						<paragraph identifier="/us/usc/t2/s503/a/3">
 							<num>(3)</num>
-							<content> with respect to the House of Representatives, that in addition to any other report or information made available to the public (through the House Commission on Congressional Mailing Standards or otherwise) regarding the use of the frank, the Chief Administrative Officer of the House of Representatives shall include in the quarterly report of receipts and expenditures submitted to the House of Representatives a statement (based solely on data provided for that purpose by the Committee on House Oversight of the House of Representatives and the House Commission on Congressional Mailing Standards) of costs incurred for official mail by each person entitled to use the congressional frank.</content>
+							<content> with respect to the House of Representatives, that in addition to any other report or information made available to the public (through the House Communications Standards Commission or otherwise) regarding the use of the frank, the Chief Administrative Officer of the House of Representatives shall include in the quarterly report of receipts and expenditures submitted to the House of Representatives a statement (based solely on data provided for that purpose by the Committee on House Oversight of the House of Representatives and the House Communications Standards Commission) of costs incurred for official mail by each person entitled to use the congressional frank.</content>
 						</paragraph>
 					</subsection>
 					<subsection identifier="/us/usc/t2/s503/b">
@@ -11446,7 +11484,7 @@ SUBCHAPTER II—GENERAL PROVISIONS</column>
 							<subparagraph identifier="/us/usc/t2/s503/e/1/B">
 								<num>(B)</num>
 								<content>
-									 by the House Commission on Congressional Mailing Standards, with respect to matters under 
+									 by the House Communications Standards Commission, with respect to matters under 
 									<ref href="/us/usc/t39/s3210/a/6/D">section 3210(a)(6)(D) of title 39</ref>
 									.
 								</content>
@@ -11472,9 +11510,14 @@ SUBCHAPTER II—GENERAL PROVISIONS</column>
 					<subsection identifier="/us/usc/t2/s503/f">
 						<num>(f)</num>
 						<heading> Mass mailing; submission of samples or description of proposed mail matter; advisory opinion</heading>
-						<content>
-							<p>A Member of the House of Representatives shall, before making any mass mailing, submit a sample or description of the mail matter involved to the House Commission on Congressional Mailing Standards for an advisory opinion as to whether such proposed mailing is in compliance with applicable provisions of law, rule, or regulation.</p>
-						</content>
+						<paragraph identifier="/us/usc/t2/s503/f/1">
+							<num>(1)</num>
+							<content> Except as provided in paragraph (2), a Member of the House of Representatives shall, before making any mass communication, submit a sample or description of the matter involved to the House Communications Standards Commission for an advisory opinion as to whether such proposed communication is in compliance with applicable provisions of law, rule, or regulation.</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t2/s503/f/2">
+							<num>(2)</num>
+							<content> Paragraph (1) does not apply in the case of any type of mass communication which is designated as exempt from the requirements of such paragraph as provided under regulations of the House Communications Standards Commission.</content>
+						</paragraph>
 					</subsection>
 					<subsection identifier="/us/usc/t2/s503/g">
 						<num>(g)</num>
@@ -11482,15 +11525,39 @@ SUBCHAPTER II—GENERAL PROVISIONS</column>
 						<chapeau>As used in subsections (a) through (f)—</chapeau>
 						<paragraph identifier="/us/usc/t2/s503/g/1">
 							<num>(1)</num>
-							<content> the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress; and</content>
+							<content> the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress;</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t2/s503/g/2">
 							<num>(2)</num>
 							<content>
 								 the term “person entitled to use the congressional frank” means a Senator, Member of the House of Representatives, or other person authorized to use the frank under 
 								<ref href="/us/usc/t39/s3210/b">section 3210(b) of title 39</ref>
-								.
+								; and
 							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t2/s503/g/3">
+							<num>(3)</num>
+							<chapeau>
+								 the term “mass communication” means a mass mailing described in 
+								<ref href="/us/usc/t39/s3210/a/6/E">section 3210(a)(6)(E) of title 39</ref>
+								 or any other unsolicited communication of substantially identical content which is transmitted to 500 or more persons in a session of Congress, as provided under regulations of the House Communications Standards Commission, except that such term does not include—
+							</chapeau>
+							<subparagraph identifier="/us/usc/t2/s503/g/3/A">
+								<num>(A)</num>
+								<content> any communication from a Member of the House of Representatives to another Member of the House of Representatives, a Senator, or any Federal, State, or local government official;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t2/s503/g/3/B">
+								<num>(B)</num>
+								<content> any news release to the communications media;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t2/s503/g/3/C">
+								<num>(C)</num>
+								<content> any such mass mailing or unsolicited communication made in direct response to a communication from a person to whom the mass mailing or unsolicited communication was transmitted; or</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t2/s503/g/3/D">
+								<num>(D)</num>
+								<content> in the case of any such unsolicited communication which is transmitted in a digital format, a communication for which the cost of the content is less than a threshold amount established under regulations of the House Communications Standards Commission.</content>
+							</subparagraph>
 						</paragraph>
 					</subsection>
 					<subsection identifier="/us/usc/t2/s503/h">
@@ -11534,9 +11601,26 @@ SUBCHAPTER II—GENERAL PROVISIONS</column>
 					<subsection identifier="/us/usc/t2/s506/a">
 						<num>(a)</num>
 						<heading> Notice that mailing is at taxpayer expense</heading>
-						<content>
-							<p>Each mass mailing sent by a Member of the House of Representatives shall bear in a prominent place on its face, or on the envelope or outside cover or wrapper in which the mail matter is sent, the following notice: “this mailing was prepared, published, and mailed at taxpayer expense.”, or a notice to the same effect in words which may be prescribed under subsection (c). The notice shall be printed in a type size not smaller than 7-point.</p>
-						</content>
+						<paragraph identifier="/us/usc/t2/s506/a/1">
+							<num>(1)</num>
+							<content> Each mass mailing sent by a Member of the House of Representatives shall bear in a prominent place on its face, or on the envelope or outside cover or wrapper in which the mail matter is sent, one of the notices described in paragraph (2) or a notice to the same effect in words which may be prescribed under subsection (c). The notice shall be printed in a type size not smaller than 7-point.</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t2/s506/a/2">
+							<num>(2)</num>
+							<chapeau> The notices described in this paragraph are as follows:</chapeau>
+							<subparagraph identifier="/us/usc/t2/s506/a/2/A">
+								<num>(A)</num>
+								<content> “Paid for with official funds from the office of _____.”, with the blank filled in with the name of the Member sending the mailing.</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t2/s506/a/2/B">
+								<num>(B)</num>
+								<content> “Paid for by the funds authorized by the House of Representatives for District __ of _____.”, with the first blank filled in with the name of the congressional district number, and the second blank filled in with the name of the State, of the Member sending the mailing.</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t2/s506/a/2/C">
+								<num>(C)</num>
+								<content> “Paid for by official funds authorized by the House of Representatives.”</content>
+							</subparagraph>
+						</paragraph>
 					</subsection>
 					<subsection identifier="/us/usc/t2/s506/b">
 						<num>(b)</num>
@@ -19695,7 +19779,7 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 										<ref href="/us/usc/t42/s1321">42 U.S.C. 1321</ref>
 										 et seq.] and any advance appropriated to the Federal unemployment account pursuant to section 1203 of such Act [
 										<ref href="/us/usc/t42/s1323">42 U.S.C. 1323</ref>
-										], and
+										],
 									</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t2/s906/i/1/C">
@@ -19703,7 +19787,17 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 									<content>
 										 any payment made from the Federal Employees Compensation Account (as established under section 909 of such Act [
 										<ref href="/us/usc/t42/s1109">42 U.S.C. 1109</ref>
-										]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account,
+										]) for the purpose of carrying out chapter 85 of title 5 and funds appropriated or transferred to or otherwise deposited in such Account, and
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t2/s906/i/1/D">
+									<num>(D)</num>
+									<content>
+										 any payment made from the Railroad Unemployment Insurance Account (established by section 10 of the Railroad Unemployment Insurance Act [
+										<ref href="/us/usc/t45/s360">45 U.S.C. 360</ref>
+										]) for the purpose of carrying out the Railroad Unemployment Insurance Act [
+										<ref href="/us/usc/t45/s351">45 U.S.C. 351</ref>
+										 et seq.], and funds appropriated or transferred to or otherwise deposited in such Account,
 									</content>
 								</subparagraph>
 								<continuation>shall not be subject to reduction.</continuation>
@@ -24004,7 +24098,7 @@ SUBCHAPTER V—MISCELLANEOUS PROVISIONS</column>
 										<content>
 											 during the 12-month period referred to in section 102(a)(1) of the Family and Medical Leave Act of 1993 (
 											<ref href="/us/usc/t29/s2612/a/1">29 U.S.C. 2612(a)(1)</ref>
-											) and in addition to the administrative workweeks described in subparagraph (A), any additional paid vacation, personal, family, medical, or sick leave provided by the employing office to such employee.
+											) and in addition to the administrative workweeks described in subparagraph (A), any additional paid vacation, personal, family, medical, or accrued sick leave provided by the employing office to such employee.
 										</content>
 									</subparagraph>
 								</paragraph>
@@ -32088,7 +32182,7 @@ SUBCHAPTER I—GENERAL</column>
 							<column>
 								<ref href="/us/usc/t2/s1805">1805.</ref>
 							</column>
-							<column>Deputy Architect of the Capitol/Chief Operating Officer.</column>
+							<column>Deputy Architect of the Capitol.</column>
 						</tocItem>
 						<tocItem>
 							<column>
@@ -32560,7 +32654,7 @@ SUBCHAPTER V—CAPITOL-FLOWN FLAGS FOR FAMILIES OF FALLEN HEROES</column>
 						<num>§ 1803.</num>
 						<heading> Delegation of authority</heading>
 						<content>
-							<p>The Architect of the Capitol may delegate to the assistants of the Architect such authority of the Architect as the Architect may determine proper, except those authorities, duties, and responsibilities specifically assigned to the Deputy Architect of the Capitol by the Legislative Branch Appropriations Act, 2003.</p>
+							<p>The Architect of the Capitol may delegate the duties and authorities of the Architect to officers and employees of the Office of the Architect of the Capitol, as the Architect determines appropriate.</p>
 						</content>
 					</section>
 					<section identifier="/us/usc/t2/s1804">
@@ -32576,125 +32670,19 @@ SUBCHAPTER V—CAPITOL-FLOWN FLAGS FOR FAMILIES OF FALLEN HEROES</column>
 					</section>
 					<section identifier="/us/usc/t2/s1805">
 						<num>§ 1805.</num>
-						<heading> Deputy Architect of the Capitol/Chief Operating Officer</heading>
+						<heading> Deputy Architect of the Capitol</heading>
 						<subsection identifier="/us/usc/t2/s1805/a">
 							<num>(a)</num>
 							<heading> Establishment of Deputy Architect of the Capitol</heading>
 							<content>
-								<p>
-									There shall be a Deputy Architect of the Capitol who shall serve as the Chief Operating Officer of the Office of the Architect of the Capitol. The Deputy Architect of the Capitol shall be appointed by the Architect of the Capitol and shall report directly to the Architect of the Capitol and shall be subject to the authority of the Architect of the Capitol. The Architect of the Capitol shall appoint the Deputy Architect of the Capitol not later than 180 days after 
-									<date date="2003-02-20">February 20, 2003</date>
-									. The Architect of the Capitol shall consult with the Comptroller General or his designee before making the appointment.
-								</p>
+								<p>The Architect of the Capitol shall appoint a suitable individual to be the Deputy Architect of the Capitol. The Architect may delegate to the Deputy Architect such duties as the Architect determines are necessary or appropriate.</p>
 							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t2/s1805/b">
 							<num>(b)</num>
-							<heading> Qualifications</heading>
-							<content>
-								<p>The Deputy Architect of the Capitol shall have strong leadership skills and demonstrated ability in management, including in such areas as strategic planning, performance management, worker safety, customer satisfaction, and service quality.</p>
-							</content>
-						</subsection>
-						<subsection identifier="/us/usc/t2/s1805/c">
-							<num>(c)</num>
-							<heading> Responsibilities</heading>
-							<paragraph identifier="/us/usc/t2/s1805/c/1">
-								<num>(1)</num>
-								<heading> In general</heading>
-								<content>
-									<p>The Deputy Architect of the Capitol shall be responsible to the Architect of the Capitol for the overall direction, operation, and management of the Office of the Architect of the Capitol, including implementing the Office’s goals and mission; providing overall organization management to improve the Office’s performance; and assisting the Architect of the Capitol in promoting reform, and measuring results.</p>
-								</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t2/s1805/c/2">
-								<num>(2)</num>
-								<heading> Responsibilities</heading>
-								<chapeau>The Deputy Architect’s responsibilities include—</chapeau>
-								<subparagraph identifier="/us/usc/t2/s1805/c/2/A">
-									<num>(A)</num>
-									<content> developing, implementing, annually updating, and maintaining a long-term strategic plan covering a period of not less than 5 years for the Office of the Architect of the Capitol;</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t2/s1805/c/2/B">
-									<num>(B)</num>
-									<content> developing and implementing an annual performance plan that includes annual performance goals covering each of the general goals and objectives in the strategic plan and including to the extent practicable quantifiable performance measures for the annual goals;</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t2/s1805/c/2/C">
-									<num>(C)</num>
-									<content> proposing organizational changes and staffing needed to carry out the Office of the Architect of the Capitol’s mission and strategic and annual performance goals; and</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t2/s1805/c/2/D">
-									<num>(D)</num>
-									<content> reviewing and directing the operational functions of the Office of the Architect of the Capitol.</content>
-								</subparagraph>
-							</paragraph>
-						</subsection>
-						<subsection identifier="/us/usc/t2/s1805/d">
-							<num>(d)</num>
-							<heading> Additional responsibilities</heading>
-							<content>
-								<p>The Architect of the Capitol may delegate to the Deputy Architect such additional duties as the Architect determines are necessary or appropriate.</p>
-							</content>
-						</subsection>
-						<subsection identifier="/us/usc/t2/s1805/e">
-							<num>(e)</num>
-							<heading> Action plan</heading>
-							<paragraph identifier="/us/usc/t2/s1805/e/1">
-								<num>(1)</num>
-								<heading> In general</heading>
-								<content>
-									<p>No later than 90 days after the appointment, the Deputy Architect shall prepare and submit to the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate, an action plan describing the policies, procedures, and actions the Deputy Architect will implement and timeframes for carrying out the responsibilities under this section.</p>
-								</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t2/s1805/e/2">
-								<num>(2)</num>
-								<heading> Action plan</heading>
-								<chapeau>The action plan shall be—</chapeau>
-								<subparagraph identifier="/us/usc/t2/s1805/e/2/A">
-									<num>(A)</num>
-									<content> approved and signed by both the Architect of the Capitol and the Deputy Architect; and</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t2/s1805/e/2/B">
-									<num>(B)</num>
-									<content> developed concurrently and consistent with the development of a strategic plan.</content>
-								</subparagraph>
-							</paragraph>
-						</subsection>
-						<subsection identifier="/us/usc/t2/s1805/f">
-							<num>(f)</num>
-							<heading> Evaluation</heading>
-							<content>
-								<p>The Government Accountability Office shall evaluate annually the implementation of the action plan and provide the results of the evaluation to the Architect of the Capitol, the Committees on Appropriations of the House of Representatives and Senate and the Committee on Rules and Administration of the Senate.</p>
-							</content>
-						</subsection>
-						<subsection identifier="/us/usc/t2/s1805/g">
-							<num>(g)</num>
-							<heading> Removal</heading>
-							<content>
-								<p>The Deputy Architect of the Capitol may be removed by the Architect of the Capitol for misconduct or failure to meet performance goals set forth in the performance agreement in subsection (i). Upon the removal of the Deputy Architect of the Capitol, the Architect of the Capitol shall immediately notify in writing the Committees on Appropriations of the House of Representatives and Senate, and the Committee on Rules and Administration of the Senate, stating the specific reasons for the removal.</p>
-							</content>
-						</subsection>
-						<subsection identifier="/us/usc/t2/s1805/h">
-							<num>(h)</num>
 							<heading> Compensation</heading>
 							<content>
 								<p>The Deputy Architect of the Capitol shall be paid at an annual rate of pay to be determined by the Architect but not to exceed $1,500 less than the annual rate of pay for the Architect of the Capitol.</p>
-							</content>
-						</subsection>
-						<subsection identifier="/us/usc/t2/s1805/i">
-							<num>(i)</num>
-							<heading> Annual performance report</heading>
-							<content>
-								<p>The Deputy Architect of the Capitol shall prepare and transmit to the Architect of the Capitol an annual performance report. This report shall contain an evaluation of the extent to which the Office of the Architect of the Capitol met its goals and objectives.</p>
-							</content>
-						</subsection>
-						<subsection identifier="/us/usc/t2/s1805/j">
-							<num>(j)</num>
-							<heading> Termination of role</heading>
-							<content>
-								<p>
-									As of 
-									<date date="2006-10-01">October 1, 2006</date>
-									, the role of the Comptroller General and the Government Accountability Office, as established by this section, will cease.
-								</p>
 							</content>
 						</subsection>
 					</section>
@@ -36139,7 +36127,7 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 								<num>(c)</num>
 								<heading> Limit on amount of payments</heading>
 								<content>
-									<p>The total amount paid by the Capitol Police with respect to any individual under the program under this section may not exceed $60,000.</p>
+									<p>The total amount paid by the Capitol Police with respect to any individual under the program under this section may not exceed $80,000.</p>
 								</content>
 							</subsection>
 							<subsection identifier="/us/usc/t2/s1926/d">
@@ -45463,13 +45451,20 @@ Part B—Administration</column>
 							</subsection>
 							<subsection identifier="/us/usc/t2/s4536/b">
 								<num>(b)</num>
+								<heading> Lifetime limit on aggregate payments made on behalf of any individual</heading>
+								<content>
+									<p>The aggregate amount of payments made on behalf of any individual under the program under this section by all employing offices of the House of Representatives may not exceed $80,000.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s4536/c">
+								<num>(c)</num>
 								<heading> Regulations</heading>
 								<content>
 									<p>The Committee on House Administration shall promulgate such regulations as may be necessary to carry out the program under this section.</p>
 								</content>
 							</subsection>
-							<subsection identifier="/us/usc/t2/s4536/c">
-								<num>(c)</num>
+							<subsection identifier="/us/usc/t2/s4536/d">
+								<num>(d)</num>
 								<heading> Authorization of appropriations</heading>
 								<content>
 									<p>There are authorized to be appropriated such sums as may be necessary to carry out the program under this section during fiscal year 2003 and each succeeding fiscal year.</p>
@@ -46481,11 +46476,11 @@ Part B—Administration</column>
 										<chapeau>The amount of student loan payments made under service agreements under this section on behalf of an eligible employee may not exceed—</chapeau>
 										<clause identifier="/us/usc/t2/s4579/c/2/A/i">
 											<num>(i)</num>
-											<content> $500 in any month; or</content>
+											<content> $833 in any month; or</content>
 										</clause>
 										<clause identifier="/us/usc/t2/s4579/c/2/A/ii">
 											<num>(ii)</num>
-											<content> a total of $40,000.</content>
+											<content> a total of $80,000.</content>
 										</clause>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t2/s4579/c/2/B">
@@ -46817,11 +46812,11 @@ Part B—Administration</column>
 									<chapeau>There are authorized to be appropriated (or otherwise made available from appropriations) to carry out this section the following amounts for each fiscal year:</chapeau>
 									<subparagraph identifier="/us/usc/t2/s4579/h/1/A">
 										<num>(A)</num>
-										<content> For each employing office that is the personal office of a Senator, an amount equal to 2 percent of the total sums appropriated for the fiscal year involved for administrative and clerical salaries for such office.</content>
+										<content> For each employing office that is the personal office of a Senator, an amount equal to 2.5 percent of the total sums appropriated for the fiscal year involved for administrative and clerical salaries for such office.</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t2/s4579/h/1/B">
 										<num>(B)</num>
-										<content> For each other employing office, an amount equal to 2 percent of the total sums appropriated for the fiscal year involved for salaries for such office.</content>
+										<content> For each other employing office, an amount equal to 2.5 percent of the total sums appropriated for the fiscal year involved for salaries for such office.</content>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t2/s4579/h/2">
@@ -49437,7 +49432,7 @@ SUBCHAPTER III—EXPENSES AND ALLOWANCES</column>
 							<num>(a)</num>
 							<heading> In general</heading>
 							<content>
-								<p>There is established for the House of Representatives a single allowance, to be known as the “Members’ Representational Allowance”, which shall be available to support the conduct of the official and representational duties of a Member of the House of Representatives with respect to the district from which the Member is elected.</p>
+								<p>There is established for the House of Representatives a single allowance, to be known as the “Members’ Representational Allowance”, which shall be available to support the conduct of the official and representational duties of a Member or Member-elect of the House of Representatives with respect to the district from which the Member or Member-elect is elected.</p>
 							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t2/s5341/b">
@@ -49462,7 +49457,7 @@ SUBCHAPTER III—EXPENSES AND ALLOWANCES</column>
 							<num>(d)</num>
 							<heading> Regulations</heading>
 							<content>
-								<p>The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section.</p>
+								<p>The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section, including regulations establishing under subsection (a) the official and representational duties during a Congress of a Member-elect of the House of Representatives who is not an incumbent Member re-elected to the ensuing Congress.</p>
 							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t2/s5341/e">
@@ -49760,6 +49755,12 @@ SUBCHAPTER I—GENERAL</column>
 								<ref href="/us/usc/t2/s5512">5512.</ref>
 							</column>
 							<column>Use of available balances of expired appropriations.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t2/s5513">5513.</ref>
+							</column>
+							<column>House of Representatives Modernization Initiatives Account.</column>
 						</tocItem>
 						<header>
 							<column>
@@ -50167,7 +50168,7 @@ SUBCHAPTER IX—CORRECTIONS CALENDAR OFFICE</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t2/s5507/c/2">
 								<num>(2)</num>
-								<content> The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, “Allowances and Expenses”, the heading for any joint committee under the heading “Joint Items” (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), “Office of the Attending Physician”, “Allowance for Compensation of Interns in Member Offices”, and “Allowance for Compensation of Interns in House Leadership Offices”.</content>
+								<content> The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, “Allowances and Expenses”, the heading for any joint committee under the heading “Joint Items” (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), “Office of the Attending Physician”, “Allowance for Compensation of Interns in Member Offices”“Allowance for Compensation of Interns in House Leadership Offices”, and “House of Representatives Modernization Initiatives Account”.</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t2/s5507/d">
@@ -50389,6 +50390,43 @@ SUBCHAPTER IX—CORRECTIONS CALENDAR OFFICE</column>
 						<subsection identifier="/us/usc/t2/s5512/b">
 							<num>(b)</num>
 							<content> This section shall apply with respect to funds appropriated or otherwise made available in fiscal year 2020 and each succeeding fiscal year.</content>
+						</subsection>
+					</section>
+					<section identifier="/us/usc/t2/s5513">
+						<num>§ 5513.</num>
+						<heading> House of Representatives Modernization Initiatives Account</heading>
+						<subsection identifier="/us/usc/t2/s5513/a">
+							<num>(a)</num>
+							<heading> Establishment</heading>
+							<content>
+								<p>There is hereby established in the Treasury of the United States an account for the House of Representatives to be known as the “House of Representatives Modernization Initiatives Account” (hereafter in this section referred to as the “Account”).</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t2/s5513/b">
+							<num>(b)</num>
+							<heading> Use of funds</heading>
+							<content>
+								<p>Funds in the Account shall be used by the House of Representatives to carry out initiatives to modernize the operations of the House, including initiatives to promote administrative efficiencies and expand the use of innovative technologies in offices of the House.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t2/s5513/c">
+							<num>(c)</num>
+							<heading> Continuing availability of funds</heading>
+							<content>
+								<p>Funds in the Account are available without fiscal year limitation.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t2/s5513/d">
+							<num>(d)</num>
+							<heading> Omitted</heading>
+							<content/>
+						</subsection>
+						<subsection identifier="/us/usc/t2/s5513/e">
+							<num>(e)</num>
+							<heading> Effective date</heading>
+							<content>
+								<p>This section and the amendments made by this section shall apply with respect to fiscal year 2021 and each succeeding fiscal year.</p>
+							</content>
 						</subsection>
 					</section>
 				</subchapter>
@@ -54921,12 +54959,110 @@ SUBCHAPTER IV—CHAPLAIN</column>
 							<subsection identifier="/us/usc/t2/s6628/a">
 								<num>(a)</num>
 								<heading> In general</heading>
-								<content>
-									<p>The Office of the Sergeant at Arms and Doorkeeper of the United States Senate, and any officer, employee, or agent of the Office, shall not be treated as acquiring possession, custody, or control of any electronic mail or other electronic communication, data, or information by reason of its being transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established, maintained, or operated, or the use of electronic services provided, in whole or in part by the Office.</p>
-								</content>
+								<chapeau>In this section—</chapeau>
+								<paragraph identifier="/us/usc/t2/s6628/a/1">
+									<num>(1)</num>
+									<content> the term “agent of the Office of the SAA” includes a provider of electronic communication service or remote computing service commissioned or used through the Office of the SAA by a Senate office to provide such services to the Senate office;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s6628/a/2">
+									<num>(2)</num>
+									<content>
+										 the term “electronic communication service” has the meaning given that term in 
+										<ref href="/us/usc/t18/s2510">section 2510 of title 18</ref>
+										;
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s6628/a/3">
+									<num>(3)</num>
+									<content> the term “Office of the SAA” means the Office of the Sergeant at Arms and Doorkeeper of the Senate;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s6628/a/4">
+									<num>(4)</num>
+									<content> the term “provider for a Senate office” means a provider of electronic communication service or remote computing service directly commissioned or used by a Senate office to provide such services;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s6628/a/5">
+									<num>(5)</num>
+									<content>
+										 the term “remote computing service” has the meaning given that term in 
+										<ref href="/us/usc/t18/s2711">section 2711 of title 18</ref>
+										;
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s6628/a/6">
+									<num>(6)</num>
+									<content> the term “Senate data”, with respect to a Senate office, means any electronic mail or other electronic or data communication, other data (including metadata), or other information of the Senate office; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s6628/a/7">
+									<num>(7)</num>
+									<content> the term “Senate office” means a committee or office of the Senate, including a Senator, an officer of the Senate, or an employee of, intern at, or other agent of a committee or office of the Senate.</content>
+								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t2/s6628/b">
 								<num>(b)</num>
+								<heading> Treatment</heading>
+								<paragraph identifier="/us/usc/t2/s6628/b/1">
+									<num>(1)</num>
+									<heading> Retaining possession</heading>
+									<subparagraph identifier="/us/usc/t2/s6628/b/1/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>A Senate office shall be deemed to retain possession of any Senate data of the Senate office, without regard to the use by the Senate office of any individual or entity described in paragraph (2) for the purposes of any function or service described in paragraph (2).</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t2/s6628/b/1/B">
+										<num>(B)</num>
+										<heading> Rule of construction</heading>
+										<content>
+											<p>Subparagraph (A) shall not be construed to limit the use by an intended recipient of any Senate data from a Senate office.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s6628/b/2">
+									<num>(2)</num>
+									<heading> Sergeant at Arms and providers for a Senate office</heading>
+									<content>
+										<p>The Office of the SAA, any officer, employee, or agent of the Office of the SAA, and any provider for a Senate office shall not be treated as acquiring possession, custody, or control of any Senate data by reason of its being transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established, maintained, or operated, or the use of electronic services provided, in whole or in part by the Office of the SAA, the officer, employee, or agent of the Office of the SAA, or the provider for the Senate office.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s6628/c">
+								<num>(c)</num>
+								<heading> Notification</heading>
+								<content>
+									<p>Notwithstanding any other provision of law or rule of civil or criminal procedure, the Office of the SAA, any officer, employee, or agent of the Office of the SAA, and any provider for a Senate office that is providing services to or used by a Senate office shall not be barred, through operation of any court order or any statutory provision, from notifying the Senate office of any legal process seeking disclosure of Senate data of the Senate office that is transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established, maintained, or operated, or the use of electronic services provided, in whole or in part by the Office of the SAA, the officer, employee, or agent of the Office of the SAA, or the provider for a Senate office.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s6628/d">
+								<num>(d)</num>
+								<heading> Motions to quash or modify</heading>
+								<content>
+									<p>Upon a motion made promptly by a Senate office or provider for a Senate office, a court of competent jurisdiction shall quash or modify any legal process directed to the provider for a Senate office if compliance with the legal process would require the disclosure of Senate data of the Senate office.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s6628/e">
+								<num>(e)</num>
+								<heading> Information regarding implications of using providers</heading>
+								<content>
+									<p>The Office of the SAA, in consultation with the Senate Legal Counsel, shall provide information to each Senate office that commissions or uses a provider of electronic communication service or remote computing service to provide such services to the Senate office regarding the potential constitutional implications and the potential impact on privileges that may be asserted by the Senate office.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s6628/f">
+								<num>(f)</num>
+								<heading> Applicable privileges</heading>
+								<content>
+									<p>Nothing in this section shall be construed to limit or supersede any applicable privilege, immunity, or other objection that may apply to the disclosure of Senate data.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s6628/g">
+								<num>(g)</num>
+								<heading> Preemption</heading>
+								<content>
+									<p>Except as provided in this section, any provision of law or rule of civil or criminal procedure of any State, political subdivision, or agency thereof, which is inconsistent with this section shall be deemed to be preempted and superseded.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s6628/h">
+								<num>(h)</num>
 								<heading> Effective date</heading>
 								<content>
 									<p>This section shall apply to fiscal year 2005 and each fiscal year thereafter.</p>

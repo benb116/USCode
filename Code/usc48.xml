@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t48" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t48">
 	<main>
 		<title identifier="/us/usc/t48">
 			<num>Title 48—</num>
@@ -7911,10 +7911,7 @@ SUBCHAPTER III—MISCELLANEOUS</column>
 									</chapeau>
 									<clause identifier="/us/usc/t48/s1806/b/1/B/i">
 										<num>(i)</num>
-										<content>
-											 to perform service or labor on Guam or in the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contact 
-											 or subcontract for construction, repairs, renovations, or facility services that is directly connected to, or associated with, the military realignment occurring on Guam and in the Commonwealth; or
-										</content>
+										<content> to perform service or labor on Guam or in the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contract or subcontract for construction, repairs, renovations, or facility services that is directly connected to, supporting, associated with, or adversely affected by the military realignment occurring on Guam and in the Commonwealth, with priority given to federally funded military projects; or</content>
 									</clause>
 									<clause identifier="/us/usc/t48/s1806/b/1/B/ii">
 										<num>(ii)</num>
@@ -17692,9 +17689,8 @@ SUBCHAPTER VII—SENSE OF CONGRESS REGARDING PERMANENT, PRO-GROWTH FISCAL REFORM
 									<p>
 										Not later than 270 days after 
 										<date date="2016-06-30">June 30, 2016</date>
-										, the Administrator of the Small Business Administration shall develop and implement criteria and guidance on using a risk-based approach to requesting and verifying information from entities applying to be designated or recertified as qualified HUBZone small business concerns (as defined in 
-										<ref href="/us/usc/t15/s632/p/5">section 632(p)(5) of title 15</ref>
-										).
+										, the Administrator of the Small Business Administration shall develop and implement criteria and guidance on using a risk-based approach to requesting and verifying information from entities applying to be designated or recertified as qualified HUBZone small business concerns (as defined in section 632(p)(5) 
+										 of title 15).
 									</p>
 								</content>
 							</paragraph>

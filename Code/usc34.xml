@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t34" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t34">
 	<main>
 		<title identifier="/us/usc/t34">
 			<num>Title 34—</num>
@@ -5733,7 +5733,7 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t34/s10284/9/D">
 										<num>(D)</num>
-										<content> a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services; or</content>
+										<content> a member of a rescue squad or ambulance crew who, as authorized or licensed by law and by the applicable agency or entity, is engaging in rescue activity or in the provision of emergency medical services;</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t34/s10284/9/E">
 										<num>(E)</num>
@@ -5748,7 +5748,43 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 										</clause>
 										<clause identifier="/us/usc/t34/s10284/9/E/ii">
 											<num>(ii)</num>
-											<content> determined by the Secretary of Health and Human Services to be hazardous.</content>
+											<content> determined by the Secretary of Health and Human Services to be hazardous; or</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t34/s10284/9/F">
+										<num>(F)</num>
+										<chapeau> an employee or contractor of the Department of Energy who—</chapeau>
+										<clause identifier="/us/usc/t34/s10284/9/F/i">
+											<num>(i)</num>
+											<chapeau> is—</chapeau>
+											<subclause identifier="/us/usc/t34/s10284/9/F/i/I">
+												<num>(I)</num>
+												<content>
+													 a nuclear materials courier (as defined in 
+													<ref href="/us/usc/t5/s8331/27">section 8331(27) of title 5</ref>
+													); or
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t34/s10284/9/F/i/II">
+												<num>(II)</num>
+												<content> designated by the Secretary of Energy as a member of an emergency response team; and</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t34/s10284/9/F/ii">
+											<num>(ii)</num>
+											<chapeau> is performing official duties of the Department, pursuant to a deployment order issued by the Secretary, to protect the public, property, or the interests of the United States by—</chapeau>
+											<subclause identifier="/us/usc/t34/s10284/9/F/ii/I">
+												<num>(I)</num>
+												<content>
+													 assessing, locating, identifying, securing, rendering safe, or disposing of weapons of mass destruction (as defined in 
+													<ref href="/us/usc/t50/s2302">section 2302 of title 50</ref>
+													); or
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t34/s10284/9/F/ii/II">
+												<num>(II)</num>
+												<content> managing the immediate consequences of a radiological release or exposure.</content>
+											</subclause>
 										</clause>
 									</subparagraph>
 								</paragraph>
@@ -38454,7 +38490,7 @@ SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES</column>
 										<chapeau> compensatory damages awarded to a United States person in a final judgment—</chapeau>
 										<clause identifier="/us/usc/t34/s20144/c/2/A/i">
 											<num>(i)</num>
-											<content> issued by a United States district court under State or Federal law against a state sponsor of terrorism; and</content>
+											<content> issued by a United States district court under State or Federal law against a foreign state that was designated as a state sponsor of terrorism at the time the acts described in clause (ii) occurred or was so designated as a result of such acts; and</content>
 										</clause>
 										<clause identifier="/us/usc/t34/s20144/c/2/A/ii">
 											<num>(ii)</num>
@@ -38619,7 +38655,7 @@ SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES</column>
 										<num>(A)</num>
 										<heading> In general</heading>
 										<content>
-											<p>Except as provided in subparagraph (B), on January 1 of the second calendar year that begins after the date of the initial payments described in paragraph (1) if funds are available in the Fund, the Special Master shall authorize additional payments on a pro rata basis to those claimants with eligible claims under subsection (c)(2) and shall authorize additional payments for eligible claims annually thereafter if funds are available in the Fund.</p>
+											<p>Except as provided in subparagraphs (B) and (C), on January 1 of the second calendar year that begins after the date of the initial payments described in paragraph (1) if funds are available in the Fund, the Special Master shall authorize additional payments on a pro rata basis to those claimants with eligible claims under subsection (c)(2) and shall authorize additional payments for eligible claims annually thereafter if funds are available in the Fund.</p>
 										</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t34/s20144/d/4/B">
@@ -38634,6 +38670,51 @@ SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES</column>
 												.
 											</p>
 										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t34/s20144/d/4/C">
+										<num>(C)</num>
+										<heading> Lump sum catch-up payments for 9/11 victims, 9/11 spouses, and 9/11 dependents</heading>
+										<clause identifier="/us/usc/t34/s20144/d/4/C/i">
+											<num>(i)</num>
+											<heading> In general</heading>
+											<content>
+												<p>
+													Not later than 90 days after 
+													<date date="2020-12-27">December 27, 2020</date>
+													, and in accordance with clauses (i) and (ii) of subsection (d)(3)(A), the Comptroller General of the United States shall conduct an audit and publish in the Federal Register a notice of proposed lump sum catch-up payments to 9/11 victims, 9/11 spouses, and 9/11 dependents who have submitted applications in accordance with subparagraph (B) in amounts that, after receiving the lump sum catch-up payments, would result in the percentage of the claims of 9/11 victims, 9/11 spouses, and 9/11 dependents received from the Fund being equal to the percentage of the claims of 9/11 family members received from the Fund, as of 
+													<date date="2020-12-27">December 27, 2020</date>
+													.
+												</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t34/s20144/d/4/C/ii">
+											<num>(ii)</num>
+											<heading> Public comment</heading>
+											<content>
+												<p>The Comptroller General shall provide an opportunity for public comment for a 30-day period beginning on the date on which the notice is published under clause (i).</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t34/s20144/d/4/C/iii">
+											<num>(iii)</num>
+											<heading> Report</heading>
+											<chapeau>Not later than 30 days after the expiration comment period in clause (ii), the Comptroller General of the United States shall submit to the Committee on the Judiciary and the Committee on Appropriations of the Senate, the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, and the Special Master a report that includes the determination of the Comptroller General on—</chapeau>
+											<subclause identifier="/us/usc/t34/s20144/d/4/C/iii/I">
+												<num>(I)</num>
+												<content> the amount of the lump sum catch-up payment for each 9/11 victim;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t34/s20144/d/4/C/iii/II">
+												<num>(II)</num>
+												<content> the amount of the lump sum catch-up payment for each 9/11 spouse;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t34/s20144/d/4/C/iii/III">
+												<num>(III)</num>
+												<content> the amount of the lump sum catch-up payment for each 9/11 dependent; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t34/s20144/d/4/C/iii/IV">
+												<num>(IV)</num>
+												<content> the total amount of lump sum catch-up payments described in subclauses (I) through (III).</content>
+											</subclause>
+										</clause>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t34/s20144/d/5">
@@ -38831,7 +38912,7 @@ SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES</column>
 										<content>
 											<p>
 												Amounts in the Fund may not be obligated on or after 
-												<date date="2030-01-02">January 2, 2030</date>
+												<date date="2039-01-02">January 2, 2039</date>
 												.
 											</p>
 										</content>
@@ -38842,7 +38923,7 @@ SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES</column>
 										<content>
 											<p>
 												Effective on the day after all amounts authorized to be paid from the Fund under this section that were obligated before 
-												<date date="2030-01-02">January 2, 2030</date>
+												<date date="2039-01-02">January 2, 2039</date>
 												 are expended, any unobligated balances in the Fund shall be transferred, as appropriate, to either the Department of the Treasury Forfeiture Fund established under 
 												<ref href="/us/usc/t31/s9705">section 9705 of title 31</ref>
 												 or to the Department of Justice Assets Forfeiture Fund established under 
@@ -39020,7 +39101,7 @@ SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES</column>
 									<num>(6)</num>
 									<heading> Source other than this Fund</heading>
 									<content>
-										<p>The term “source other than this Fund” means all collateral sources, including life insurance, pension funds, death benefit programs, payments by Federal, State, or local governments, and court awarded compensation related to the act of international terrorism that gave rise to a claimant’s final judgment. The term “entitled or scheduled to receive” in subsection (d)(3)(B)(i) includes any potential recovery where that person or their representative is a party to any civil or administrative action pending in any court or agency of competent jurisdiction in which the party seeks to enforce the judgment giving rise to the application to the Fund.</p>
+										<p>The term “source other than this Fund” means all collateral sources, including life insurance, pension funds, death benefit programs, payments by Federal, State, or local governments, and court awarded compensation related to the act of international terrorism that gave rise to a claimant’s final judgment, except that the term does not include payments received in connection with an international claims agreement to which the United States is a state party or any other settlement of terrorism-related claims against Sudan. The term “entitled or scheduled to receive” in subsection (d)(3)(B)(i) includes any potential recovery where that person or their representative is a party to any civil or administrative action pending in any court or agency of competent jurisdiction in which the party seeks to enforce the judgment giving rise to the application to the Fund.</p>
 									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t34/s20144/j/7">
@@ -40654,7 +40735,7 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS</column>
 								<column>
 									<ref href="/us/usc/t34/s20503">20503.</ref>
 								</column>
-								<column>Grant program for notification and communications systems along highways for recovery of abducted children.</column>
+								<column>Grant program for notification and communications systems along highways and major transportation routes for recovery of abducted children.</column>
 							</tocItem>
 							<tocItem>
 								<column>
@@ -40686,15 +40767,15 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS</column>
 							<chapeau>In acting as the national coordinator of the AMBER Alert communications network, the Coordinator shall—</chapeau>
 							<paragraph identifier="/us/usc/t34/s20501/b/1">
 								<num>(1)</num>
-								<content> seek to eliminate gaps in the network, including gaps in areas of interstate travel;</content>
+								<content> seek to eliminate gaps in the network, including gaps in areas of interstate travel (including airports, maritime ports, border crossing areas and checkpoints, and ports of exit from the United States);</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s20501/b/2">
 								<num>(2)</num>
-								<content> work with States to encourage the development of additional elements (known as local AMBER plans) in the network;</content>
+								<content> work with States, territories of the United States, and tribal governments to encourage the development of additional elements (known as local AMBER plans) in the network;</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s20501/b/3">
 								<num>(3)</num>
-								<content> work with States to ensure appropriate regional coordination of various elements of the network; and</content>
+								<content> work with States, territories of the United States, and tribal governments to ensure appropriate regional coordination of various elements of the network; and</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s20501/b/4">
 								<num>(4)</num>
@@ -40720,7 +40801,7 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS</column>
 							<num>(d)</num>
 							<heading> Cooperation</heading>
 							<content>
-								<p>The Coordinator shall cooperate with the Secretary of Transportation and the Federal Communications Commission in carrying out activities under this section.</p>
+								<p>The Coordinator shall cooperate with the Secretary of Transportation, the Secretary of Homeland Security, and the Federal Communications Commission in carrying out activities under this section.</p>
 							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t34/s20501/e">
@@ -40760,15 +40841,15 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s20502/b/2">
 								<num>(2)</num>
-								<content> The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State and local law enforcement agencies), provide that appropriate information relating to the special needs of an abducted child (including health care needs) are disseminated to the appropriate law enforcement, public health, and other public officials.</content>
+								<content> The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State, territorial, tribal, and local law enforcement agencies), provide that appropriate information relating to the special needs of an abducted child (including health care needs) are disseminated to the appropriate law enforcement, public health, and other public officials.</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s20502/b/3">
 								<num>(3)</num>
-								<content> The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State and local law enforcement agencies), provide that the dissemination of an alert through the AMBER Alert communications network be limited to the geographic areas most likely to facilitate the recovery of the abducted child concerned.</content>
+								<content> The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State, territorial, tribal, and local law enforcement agencies), provide that the dissemination of an alert through the AMBER Alert communications network be limited to the geographic areas most likely to facilitate the recovery of the abducted child concerned.</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s20502/b/4">
 								<num>(4)</num>
-								<content> In carrying out activities under subsection (a), the Coordinator may not interfere with the current system of voluntary coordination between local broadcasters and State and local law enforcement agencies for purposes of the AMBER Alert communications network.</content>
+								<content> In carrying out activities under subsection (a), the Coordinator may not interfere with the current system of voluntary coordination between local broadcasters and State, territorial, tribal, and local law enforcement agencies for purposes of the AMBER Alert communications network.</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t34/s20502/c">
@@ -40776,22 +40857,22 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS</column>
 							<heading> Cooperation</heading>
 							<paragraph identifier="/us/usc/t34/s20502/c/1">
 								<num>(1)</num>
-								<content> The Coordinator shall cooperate with the Secretary of Transportation and the Federal Communications Commission in carrying out activities under this section.</content>
+								<content> The Coordinator shall cooperate with the Secretary of Transportation, the Secretary of Homeland Security, and the Federal Communications Commission in carrying out activities under this section.</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s20502/c/2">
 								<num>(2)</num>
-								<content> The Coordinator shall also cooperate with local broadcasters and State and local law enforcement agencies in establishing minimum standards under this section.</content>
+								<content> The Coordinator shall also cooperate with local broadcasters and State, territorial, tribal, and local law enforcement agencies in establishing minimum standards under this section.</content>
 							</paragraph>
 						</subsection>
 					</section>
 					<section identifier="/us/usc/t34/s20503">
 						<num>§ 20503.</num>
-						<heading> Grant program for notification and communications systems along highways for recovery of abducted children</heading>
+						<heading> Grant program for notification and communications systems along highways and major transportation routes for recovery of abducted children</heading>
 						<subsection identifier="/us/usc/t34/s20503/a">
 							<num>(a)</num>
 							<heading> Program required</heading>
 							<content>
-								<p>The Secretary of Transportation shall carry out a program to provide grants to States for the development or enhancement of notification or communications systems along highways for alerts and other information for the recovery of abducted children.</p>
+								<p>The Secretary of Transportation (referred to in this section as the “Secretary”) shall carry out a program to provide grants to States for the development or enhancement of notification or communications systems along highways and at airports, maritime ports, border crossing areas and checkpoints, and ports of exit from the United States for alerts and other information for the recovery of abducted children.</p>
 							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t34/s20503/b">
@@ -40801,7 +40882,7 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS</column>
 								<num>(1)</num>
 								<heading> In general</heading>
 								<content>
-									<p>The Secretary may make a grant to a State under this subsection for the development of a State program for the use of changeable message signs or other motorist information systems to notify motorists about abductions of children. The State program shall provide for the planning, coordination, and design of systems, protocols, and message sets that support the coordination and communication necessary to notify motorists about abductions of children.</p>
+									<p>The Secretary may make a grant to a State under this subsection for the development of a State program for the use of changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children. The State program shall provide for the planning, coordination, and design of systems, protocols, and message sets that support the coordination and communication necessary to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children.</p>
 								</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s20503/b/2">
@@ -40810,7 +40891,7 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS</column>
 								<chapeau>A grant under this subsection may be used by a State for the following purposes:</chapeau>
 								<subparagraph identifier="/us/usc/t34/s20503/b/2/A">
 									<num>(A)</num>
-									<content> To develop general policies and procedures to guide the use of changeable message signs or other motorist information systems to notify motorists about abductions of children.</content>
+									<content> To develop general policies and procedures to guide the use of changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children.</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t34/s20503/b/2/B">
 									<num>(B)</num>
@@ -40822,19 +40903,19 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t34/s20503/b/2/D">
 									<num>(D)</num>
-									<content> To plan secure and reliable communications systems and protocols among public safety and transportation agencies or modify existing communications systems to support the notification of motorists about abductions of children.</content>
+									<content> To plan secure and reliable communications systems and protocols among public safety and transportation agencies or modify existing communications systems to support the notification of motorists, aircraft passengers, ship passengers, and travelers about abductions of children.</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t34/s20503/b/2/E">
 									<num>(E)</num>
-									<content> To plan and design improved systems for communicating with motorists, including the capability for issuing wide area alerts to motorists.</content>
+									<content> To plan and design improved systems for communicating with motorists, aircraft passengers, ship passengers, and travelers, including the capability for issuing wide area alerts to motorists, aircraft passengers, ship passengers, and travelers.</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t34/s20503/b/2/F">
 									<num>(F)</num>
-									<content> To plan systems and protocols to facilitate the efficient issuance of child abduction notification and other key information to motorists during off-hours.</content>
+									<content> To plan systems and protocols to facilitate the efficient issuance of child abduction notification and other key information to motorists, aircraft passengers, ship passengers, and travelers during off-hours.</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t34/s20503/b/2/G">
 									<num>(G)</num>
-									<content> To provide training and guidance to transportation authorities to facilitate appropriate use of changeable message signs and other traveler information systems for the notification of motorists about abductions of children.</content>
+									<content> To provide training and guidance to transportation authorities to facilitate appropriate use of changeable message signs and other traveler information systems for the notification of motorists, aircraft passengers, ship passengers, and travelers about abductions of children.</content>
 								</subparagraph>
 							</paragraph>
 						</subsection>
@@ -40845,23 +40926,34 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS</column>
 								<num>(1)</num>
 								<heading> In general</heading>
 								<content>
-									<p>The Secretary may make a grant to a State under this subsection for the implementation of a program for the use of changeable message signs or other motorist information systems to notify motorists about abductions of children. A State shall be eligible for a grant under this subsection if the Secretary determines that the State has developed a State program in accordance with subsection (b).</p>
+									<p>The Secretary may make a grant to a State under this subsection for the implementation of a program for the use of changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children. A State shall be eligible for a grant under this subsection if the Secretary determines that the State has developed a State program in accordance with subsection (b).</p>
 								</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s20503/c/2">
 								<num>(2)</num>
 								<heading> Eligible activities</heading>
 								<content>
-									<p>A grant under this subsection may be used by a State to support the implementation of systems that use changeable message signs or other motorist information systems to notify motorists about abductions of children. Such support may include the purchase and installation of changeable message signs or other motorist information systems to notify motorists about abductions of children.</p>
+									<p>A grant under this subsection may be used by a State to support the implementation of systems that use changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children. Such support may include the purchase and installation of changeable message signs or other information systems to notify motorists, aircraft passengers, ship passengers, and travelers about abductions of children.</p>
 								</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t34/s20503/d">
 							<num>(d)</num>
 							<heading> Federal share</heading>
-							<content>
-								<p>The Federal share of the cost of any activities funded by a grant under this section may not exceed 80 percent.</p>
-							</content>
+							<paragraph identifier="/us/usc/t34/s20503/d/1">
+								<num>(1)</num>
+								<heading> In general</heading>
+								<content>
+									<p>Except as provided in paragraph (2), the Federal share of the cost of any activities funded by a grant under this section may not exceed 80 percent.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t34/s20503/d/2">
+								<num>(2)</num>
+								<heading> Waiver</heading>
+								<content>
+									<p>If the Secretary determines that American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, or the Virgin Islands of the United States is unable to comply with the requirement under paragraph (1), the Secretary shall waive such requirement.</p>
+								</content>
+							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t34/s20503/e">
 							<num>(e)</num>
@@ -40881,14 +40973,14 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS</column>
 							<num>(g)</num>
 							<heading> Definition</heading>
 							<content>
-								<p>In this section, the term “State” means any of the 50 States, the District of Columbia, or Puerto Rico.</p>
+								<p>In this chapter, the term “State” means any of the 50 States, the District of Columbia, American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory of the United States.</p>
 							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t34/s20503/h">
 							<num>(h)</num>
 							<heading> Authorization of appropriations</heading>
 							<content>
-								<p>There is authorized to be appropriated to the Secretary to carry out this section $20,000,000 for fiscal year 2004. Such amounts shall remain available until expended.</p>
+								<p>There is authorized to be appropriated to the Secretary to carry out this section $20,000,000 for each of fiscal years 2019 through 2023. Such amounts shall remain available until expended.</p>
 							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t34/s20503/i">
@@ -40948,7 +41040,7 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s20504/b/4">
 								<num>(4)</num>
-								<content> the integration of State or regional AMBER Alert communication plans with an Indian tribe; and</content>
+								<content> the integration of State or regional AMBER Alert communication plans with a territorial government or an Indian tribe; and</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s20504/b/5">
 								<num>(5)</num>
@@ -40962,14 +41054,14 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS</column>
 								<num>(1)</num>
 								<heading> In general</heading>
 								<content>
-									<p>Except as provided in paragraph (2), the Federal share of the cost of any activities funded by a grant under the program under subsection (a) may not exceed 50 percent.</p>
+									<p>Except as provided in paragraph (2), the Federal share of the cost of any activities funded by a grant under this section may not exceed 50 percent.</p>
 								</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s20504/c/2">
 								<num>(2)</num>
-								<heading> Waiver of Federal share</heading>
+								<heading> Waiver</heading>
 								<content>
-									<p>If the Attorney General determines that an Indian tribe does not have sufficient funds available to comply with the Federal share requirement under paragraph (1) for the cost of activities funded by a grant for the purpose described in subsection (b)(4), the Attorney General may increase the Federal share of the costs for such activities to the extent the Attorney General determines necessary.</p>
+									<p>If the Attorney General determines that American Samoa, Guam, the Northern Mariana Islands, Puerto Rico, the Virgin Islands of the United States, or an Indian tribe is unable to comply with the requirement under paragraph (1), the Attorney General shall waive such requirement.</p>
 								</content>
 							</paragraph>
 						</subsection>
@@ -40977,7 +41069,7 @@ SUBCHAPTER V—CHILD CARE WORKER EMPLOYEE BACKGROUND CHECKS</column>
 							<num>(d)</num>
 							<heading> Distribution of grant amounts on geographic basis</heading>
 							<content>
-								<p>The Attorney General shall, to the maximum extent practicable, ensure the distribution of grants under the program under subsection (a) on an equitable basis throughout the various regions of the United States.</p>
+								<p>The Attorney General shall, to the maximum extent practicable, ensure the distribution of grants under the program under subsection (a) on an equitable basis throughout the various regions of the United States, including territories of the United States.</p>
 							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t34/s20504/e">
@@ -55962,24 +56054,52 @@ SUBCHAPTER III—GRANTS TO STATE COURT SYSTEMS FOR THE IMPROVEMENT IN AUTOMATION
 								</paragraph>
 								<paragraph identifier="/us/usc/t34/s40911/b/2">
 									<num>(2)</num>
-									<heading> Department of Justice</heading>
-									<chapeau>The Attorney General shall—</chapeau>
+									<heading> Department of Defense</heading>
 									<subparagraph identifier="/us/usc/t34/s40911/b/2/A">
 										<num>(A)</num>
-										<content> ensure that any information submitted to, or maintained by, the Attorney General under this section is kept accurate and confidential, as required by the laws, regulations, policies, or procedures governing the applicable record system;</content>
+										<heading> In general</heading>
+										<content>
+											<p>
+												Not later than 3 business days after the final disposition of a judicial proceeding conducted within the Department of Defense, the Secretary of Defense shall make available to the Attorney General records which are relevant to a determination of whether a member of the Armed Forces involved in such proceeding is disqualified from possessing or receiving a firearm under subsection (g) or (n) of 
+												<ref href="/us/usc/t18/s922">section 922 of title 18</ref>
+												 for use in background checks performed by the National Instant Criminal Background Check System.
+											</p>
+										</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t34/s40911/b/2/B">
 										<num>(B)</num>
+										<heading> Judicial proceeding defined</heading>
+										<chapeau>In this paragraph, the term “judicial proceeding” means a hearing—</chapeau>
+										<clause identifier="/us/usc/t34/s40911/b/2/B/i">
+											<num>(i)</num>
+											<content> of which the person received actual notice; and</content>
+										</clause>
+										<clause identifier="/us/usc/t34/s40911/b/2/B/ii">
+											<num>(ii)</num>
+											<content> at which the person had an opportunity to participate with counsel.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s40911/b/3">
+									<num>(3)</num>
+									<heading> Department of Justice</heading>
+									<chapeau>The Attorney General shall—</chapeau>
+									<subparagraph identifier="/us/usc/t34/s40911/b/3/A">
+										<num>(A)</num>
+										<content> ensure that any information submitted to, or maintained by, the Attorney General under this section is kept accurate and confidential, as required by the laws, regulations, policies, or procedures governing the applicable record system;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t34/s40911/b/3/B">
+										<num>(B)</num>
 										<content> provide for the timely removal and destruction of obsolete and erroneous names and information from the National Instant Criminal Background Check System; and</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t34/s40911/b/2/C">
+									<subparagraph identifier="/us/usc/t34/s40911/b/3/C">
 										<num>(C)</num>
 										<chapeau> work with States to encourage the development of computer systems, which would permit electronic notification to the Attorney General when—</chapeau>
-										<clause identifier="/us/usc/t34/s40911/b/2/C/i">
+										<clause identifier="/us/usc/t34/s40911/b/3/C/i">
 											<num>(i)</num>
 											<content> a court order has been issued, lifted, or otherwise removed by order of the court; or</content>
 										</clause>
-										<clause identifier="/us/usc/t34/s40911/b/2/C/ii">
+										<clause identifier="/us/usc/t34/s40911/b/3/C/ii">
 											<num>(ii)</num>
 											<content> a person has been adjudicated as a mental defective or committed to a mental institution.</content>
 										</clause>

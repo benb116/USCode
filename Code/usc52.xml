@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t52" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t52">
 	<main>
 		<title identifier="/us/usc/t52">
 			<num>Title 52—</num>
@@ -114,6 +114,15 @@ Subtitle III—Federal Campaign Finance</column>
 							<ref href="/us/usc/t52/s30101">30101</ref>
 						</column>
 					</tocItem>
+				</layout>
+			</toc>
+			<toc>
+				<layout>
+					<header>
+						<column>
+							<b>Editorial Notes</b>
+						</column>
+					</header>
 				</layout>
 			</toc>
 			<subtitle identifier="/us/usc/t52/stI">
@@ -1662,6 +1671,12 @@ Subtitle III—Federal Campaign Finance</column>
 							</tocItem>
 							<tocItem>
 								<column>
+									<ref href="/us/usc/t52/s20301a">20301a.</ref>
+								</column>
+								<column>Duties of Secretary under Uniformed and Overseas Citizens Absentee Voting Act.</column>
+							</tocItem>
+							<tocItem>
+								<column>
 									<ref href="/us/usc/t52/s20302">20302.</ref>
 								</column>
 								<column>State responsibilities.</column>
@@ -1844,6 +1859,32 @@ Subtitle III—Federal Campaign Finance</column>
 							<heading> Authorization of appropriations for carrying out Federal Voting Assistance Program Improvements</heading>
 							<content>
 								<p>There are authorized to be appropriated to the Presidential designee such sums as are necessary for purposes of carrying out subsection (b)(10).</p>
+							</content>
+						</subsection>
+					</section>
+					<section identifier="/us/usc/t52/s20301a">
+						<num>§ 20301a.</num>
+						<heading> Duties of Secretary under Uniformed and Overseas Citizens Absentee Voting Act</heading>
+						<subsection identifier="/us/usc/t52/s20301a/a">
+							<num>(a)</num>
+							<heading> Ensuring ability of absent uniformed services voters serving at diplomatic and consular posts to receive and transmit balloting materials</heading>
+							<content>
+								<p>
+									In carrying out the Secretary’s duties as the Presidential designee under the Uniformed and Overseas Citizens Absentee Voting Act (
+									<ref href="/us/usc/t52/s20301">52 U.S.C. 20301</ref>
+									 et seq.), the Secretary shall take such actions as may be necessary, feasible, and practical to ensure that a uniformed services voter under such Act who is absent from the United States by reason of active duty or service at a diplomatic and consular post of the United States is able to receive and transmit balloting materials in the same manner and with the same rights and protections as a uniformed services voter under such Act who is absent from the United States by reason of active duty or service at a military installation.
+								</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t52/s20301a/b">
+							<num>(b)</num>
+							<heading> Effective date</heading>
+							<content>
+								<p>
+									This section shall apply with respect to elections held on or after 
+									<date date="2021-01-01">January 1, 2021</date>
+									.
+								</p>
 							</content>
 						</subsection>
 					</section>
@@ -2572,8 +2613,8 @@ Subtitle III—Federal Campaign Finance</column>
 						</subsection>
 						<subsection identifier="/us/usc/t52/s20308/b">
 							<num>(b)</num>
-							<heading> Annual report on effectiveness of activities and utilization of certain procedures</heading>
-							<chapeau>Not later than March 31 of each year, the Presidential designee shall transmit to the President and to the relevant committees of Congress a report containing the following information:</chapeau>
+							<heading> Biennial report on effectiveness of activities and utilization of certain procedures</heading>
+							<chapeau>Not later than September 30 of each odd-numbered year, the Presidential designee shall transmit to the President and to the relevant committees of Congress a report containing the following information with respect to the Federal elections held during the preceding calendar year:</chapeau>
 							<paragraph identifier="/us/usc/t52/s20308/b/1">
 								<num>(1)</num>
 								<content>
@@ -2601,7 +2642,7 @@ Subtitle III—Federal Campaign Finance</column>
 							<paragraph identifier="/us/usc/t52/s20308/b/3">
 								<num>(3)</num>
 								<content>
-									 In the case of a report submitted under this subsection in the year following a year in which a regularly scheduled general election for Federal office is held, a description of the utilization of the procedures for the collection and delivery of marked absentee ballots established pursuant to 
+									 A description of the utilization of the procedures for the collection and delivery of marked absentee ballots established pursuant to 
 									<ref href="/us/usc/t52/s20304">section 20304 of this title</ref>
 									, which shall include the number of marked absentee ballots collected and delivered under such procedures and the number of such ballots which were not delivered by the time of the closing of the polls on the date of the election (and the reasons such ballots were not so delivered).
 								</content>
@@ -8412,9 +8453,8 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS</column>
 												<heading> Agreements with Commissioner of Social Security</heading>
 												<content>
 													<p>
-														The official responsible for the State motor vehicle authority shall enter into an agreement with the Commissioner of Social Security under 
-														<ref href="/us/usc/t42/s405/r/8">section 405(r)(8) of title 42</ref>
-														 (as added by subparagraph (C)).
+														The official responsible for the State motor vehicle authority shall enter into an agreement with the Commissioner of Social Security under section 405(r)(8) 
+														 of title 42 (as added by subparagraph (C)).
 													</p>
 												</content>
 											</clause>

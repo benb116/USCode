@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t43" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t43">
 	<main>
 		<title identifier="/us/usc/t43">
 			<num>Title 43—</num>
@@ -5450,6 +5450,12 @@ SUBCHAPTER I—GENERAL PROVISIONS</column>
 						</tocItem>
 						<tocItem>
 							<column>
+								<ref href="/us/usc/t43/s390g–9">390g–9.</ref>
+							</column>
+							<column>Aquifer recharge flexibility.</column>
+						</tocItem>
+						<tocItem>
+							<column>
 								<ref href="/us/usc/t43/s390h">390h.</ref>
 							</column>
 							<column>Program to investigate reclamation and reuse of wastewater and groundwater; general authority.</column>
@@ -8946,9 +8952,24 @@ SUBCHAPTER LIV—TOUCHET DIVISION; WALLA WALLA PROJECT, OREGON-WASHINGTON</colum
 						<subsection identifier="/us/usc/t43/s390b–2/i">
 							<num>(i)</num>
 							<heading> Contributed funds</heading>
-							<content>
-								<p>The Secretary may receive and expend funds contributed by a non-Federal interest for the review and approval of a proposal submitted under subsection (a).</p>
-							</content>
+							<paragraph identifier="/us/usc/t43/s390b–2/i/1">
+								<num>(1)</num>
+								<heading> Contributed funds for corps projects</heading>
+								<content>
+									<p>The Secretary may may receive and expend funds contributed by a non-Federal interest for the review and approval of a proposal submitted under subsection (a).</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s390b–2/i/2">
+								<num>(2)</num>
+								<heading> Contributed funds for other federal reservoir projects</heading>
+								<content>
+									<p>
+										The Secretary is authorized to receive and expend funds from a non-Federal interest to formulate, review, or revise operational documents, pursuant to a proposal submitted in accordance subsection (a), for any reservoir for which the Secretary is authorized to prescribe regulations for the use of storage allocated for flood control or navigation pursuant to 
+										<ref href="/us/usc/t33/s709">section 709 of title 33</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t43/s390b–2/j">
 							<num>(j)</num>
@@ -9190,6 +9211,263 @@ SUBCHAPTER LIV—TOUCHET DIVISION; WALLA WALLA PROJECT, OREGON-WASHINGTON</colum
 							<num>(2)</num>
 							<content> the study or demonstration of the potential for the interstate transfer of water from the State of Arkansas.</content>
 						</paragraph>
+					</section>
+					<section identifier="/us/usc/t43/s390g–9">
+						<num>§ 390g–9.</num>
+						<heading> Aquifer recharge flexibility</heading>
+						<subsection identifier="/us/usc/t43/s390g–9/a">
+							<num>(a)</num>
+							<heading> Short title</heading>
+							<content>
+								<p>This section may be cited as the “Aquifer Recharge Flexibility Act”.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t43/s390g–9/b">
+							<num>(b)</num>
+							<heading> Definitions</heading>
+							<chapeau>In this section:</chapeau>
+							<paragraph identifier="/us/usc/t43/s390g–9/b/1">
+								<num>(1)</num>
+								<heading> Bureau</heading>
+								<content>
+									<p>The term “Bureau” means the Bureau of Reclamation.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s390g–9/b/2">
+								<num>(2)</num>
+								<heading> Commissioner</heading>
+								<content>
+									<p>The term “Commissioner” means the Commissioner of Reclamation.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s390g–9/b/3">
+								<num>(3)</num>
+								<heading> Eligible land</heading>
+								<chapeau>The term “eligible land”, with respect to a Reclamation project, means land that—</chapeau>
+								<subparagraph identifier="/us/usc/t43/s390g–9/b/3/A">
+									<num>(A)</num>
+									<content> is authorized to receive water under State law; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s390g–9/b/3/B">
+									<num>(B)</num>
+									<content> shares an aquifer with land located in the service area of the Reclamation project.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s390g–9/b/4">
+								<num>(4)</num>
+								<heading> Net water storage benefit</heading>
+								<chapeau>The term “net water storage benefit” means an increase in the volume of water that is—</chapeau>
+								<subparagraph identifier="/us/usc/t43/s390g–9/b/4/A">
+									<num>(A)</num>
+									<content> stored in 1 or more aquifers; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s390g–9/b/4/B">
+									<num>(B)</num>
+									<clause identifier="/us/usc/t43/s390g–9/b/4/B/i">
+										<num>(i)</num>
+										<content> available for use within the authorized service area of a Reclamation project; or</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s390g–9/b/4/B/ii">
+										<num>(ii)</num>
+										<content> stored on a long-term basis to avoid or reduce groundwater overdraft.</content>
+									</clause>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s390g–9/b/5">
+								<num>(5)</num>
+								<heading> Reclamation facility</heading>
+								<content>
+									<p>The term “Reclamation facility” means each of the infrastructure assets that are owned by the Bureau at a Reclamation project.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s390g–9/b/6">
+								<num>(6)</num>
+								<heading> Reclamation project</heading>
+								<content>
+									<p>
+										The term “Reclamation project” means any reclamation or irrigation project, including incidental features thereof, authorized by Federal reclamation law or the Act of 
+										<date date="1939-08-11">August 11, 1939</date>
+										 (commonly known as the “Water Conservation and Utilization Act”) (
+										<ref href="/us/stat/53/1418">53 Stat. 1418</ref>
+										, chapter 717; 
+										<ref href="/us/usc/t16/s590y">16 U.S.C. 590y</ref>
+										 et seq.), or constructed by the United States pursuant to such law, or in connection with which there is a repayment or water service contract executed by the United States pursuant to such law, or any project constructed by the Secretary through the Bureau for the reclamation of land.
+									</p>
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t43/s390g–9/c">
+							<num>(c)</num>
+							<heading> Flexibility to allow greater aquifer recharge in Western States</heading>
+							<paragraph identifier="/us/usc/t43/s390g–9/c/1">
+								<num>(1)</num>
+								<heading> Use of Reclamation facilities</heading>
+								<subparagraph identifier="/us/usc/t43/s390g–9/c/1/A">
+									<num>(A)</num>
+									<heading> In general</heading>
+									<chapeau>The Commissioner may allow the use of excess capacity in Reclamation facilities for aquifer recharge of non-Reclamation project water, subject to applicable rates, charges, and public participation requirements, on the condition that—</chapeau>
+									<clause identifier="/us/usc/t43/s390g–9/c/1/A/i">
+										<num>(i)</num>
+										<chapeau> the use—</chapeau>
+										<subclause identifier="/us/usc/t43/s390g–9/c/1/A/i/I">
+											<num>(I)</num>
+											<chapeau> shall not be implemented in a manner that is detrimental to—</chapeau>
+											<item identifier="/us/usc/t43/s390g–9/c/1/A/i/I/aa">
+												<num>(aa)</num>
+												<content> any power service or water contract for the Reclamation project; or</content>
+											</item>
+											<item identifier="/us/usc/t43/s390g–9/c/1/A/i/I/bb">
+												<num>(bb)</num>
+												<content> any obligations for fish, wildlife, or water quality protection applicable to the Reclamation project;</content>
+											</item>
+										</subclause>
+										<subclause identifier="/us/usc/t43/s390g–9/c/1/A/i/II">
+											<num>(II)</num>
+											<content> shall be consistent with water quality guidelines for the Reclamation project;</content>
+										</subclause>
+										<subclause identifier="/us/usc/t43/s390g–9/c/1/A/i/III">
+											<num>(III)</num>
+											<chapeau> shall comply with all applicable—</chapeau>
+											<item identifier="/us/usc/t43/s390g–9/c/1/A/i/III/aa">
+												<num>(aa)</num>
+												<content> Federal laws; and</content>
+											</item>
+											<item identifier="/us/usc/t43/s390g–9/c/1/A/i/III/bb">
+												<num>(bb)</num>
+												<content> policies of the Bureau; and</content>
+											</item>
+										</subclause>
+										<subclause identifier="/us/usc/t43/s390g–9/c/1/A/i/IV">
+											<num>(IV)</num>
+											<content> shall comply with all applicable State laws and policies; and</content>
+										</subclause>
+									</clause>
+									<clause identifier="/us/usc/t43/s390g–9/c/1/A/ii">
+										<num>(ii)</num>
+										<content> the non-Federal party to an existing contract for water or water capacity in a Reclamation facility consents to the use of the Reclamation facility under this subsection.</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s390g–9/c/1/B">
+									<num>(B)</num>
+									<heading> Effect on existing contracts</heading>
+									<chapeau>Nothing in this subsection affects a contract—</chapeau>
+									<clause identifier="/us/usc/t43/s390g–9/c/1/B/i">
+										<num>(i)</num>
+										<content>
+											 in effect on 
+											<date date="2020-12-27">December 27, 2020</date>
+											; and
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s390g–9/c/1/B/ii">
+										<num>(ii)</num>
+										<content> under which the use of excess capacity in a Bureau conveyance facility for carriage of non-Reclamation project water for aquifer recharge is allowed.</content>
+									</clause>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s390g–9/c/2">
+								<num>(2)</num>
+								<heading> Aquifer recharge on eligible land</heading>
+								<subparagraph identifier="/us/usc/t43/s390g–9/c/2/A">
+									<num>(A)</num>
+									<heading> In general</heading>
+									<chapeau>Subject to subparagraphs (C) and (D), the Secretary may contract with a holder of a water service or repayment contract for a Reclamation project to allow the contractor, in accordance with applicable State laws and policies—</chapeau>
+									<clause identifier="/us/usc/t43/s390g–9/c/2/A/i">
+										<num>(i)</num>
+										<content> to directly use water available under the contract for aquifer recharge on eligible land; or</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s390g–9/c/2/A/ii">
+										<num>(ii)</num>
+										<content> to enter into an agreement with an individual or entity to transfer water available under the contract for aquifer recharge on eligible land.</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s390g–9/c/2/B">
+									<num>(B)</num>
+									<heading> Authorized project use</heading>
+									<content>
+										<p>The use of a Reclamation facility for aquifer recharge under subparagraph (A) shall be considered an authorized use for the Reclamation project if requested by a holder of a water service or repayment contract for the Reclamation facility.</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s390g–9/c/2/C">
+									<num>(C)</num>
+									<heading> Modifications to contracts</heading>
+									<chapeau>The Secretary may contract with a holder of a water service or repayment contract for a Reclamation project under subparagraph (A) if the Secretary determines that a new contract or contract amendment described in that subparagraph is—</chapeau>
+									<clause identifier="/us/usc/t43/s390g–9/c/2/C/i">
+										<num>(i)</num>
+										<content> necessary to allow for the use of water available under the contract for aquifer recharge under this subsection;</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s390g–9/c/2/C/ii">
+										<num>(ii)</num>
+										<content> in the best interest of the Reclamation project and the United States; and</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s390g–9/c/2/C/iii">
+										<num>(iii)</num>
+										<content> approved by the contractor that is responsible for repaying the cost of construction, operations, and maintenance of the facility that delivers the water under the contract.</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s390g–9/c/2/D">
+									<num>(D)</num>
+									<heading> Requirements</heading>
+									<chapeau>The use of Reclamation facilities for the use or transfer of water for aquifer recharge under this subsection shall be subject to the requirements that—</chapeau>
+									<clause identifier="/us/usc/t43/s390g–9/c/2/D/i">
+										<num>(i)</num>
+										<content> the use or transfer shall not be implemented in a manner that materially impacts any power service or water contract for the Reclamation project; and</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s390g–9/c/2/D/ii">
+										<num>(ii)</num>
+										<chapeau> before the use or transfer, the Secretary shall determine that the use or transfer—</chapeau>
+										<subclause identifier="/us/usc/t43/s390g–9/c/2/D/ii/I">
+											<num>(I)</num>
+											<content> results in a net water storage benefit for the Reclamation project; or</content>
+										</subclause>
+										<subclause identifier="/us/usc/t43/s390g–9/c/2/D/ii/II">
+											<num>(II)</num>
+											<content> contributes to the recharge of an aquifer on eligible land; and</content>
+										</subclause>
+									</clause>
+									<clause identifier="/us/usc/t43/s390g–9/c/2/D/iii">
+										<num>(iii)</num>
+										<chapeau> the use or transfer complies with all applicable—</chapeau>
+										<subclause identifier="/us/usc/t43/s390g–9/c/2/D/iii/I">
+											<num>(I)</num>
+											<content> Federal laws and policies; and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t43/s390g–9/c/2/D/iii/II">
+											<num>(II)</num>
+											<content> interstate water compacts.</content>
+										</subclause>
+									</clause>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s390g–9/c/3">
+								<num>(3)</num>
+								<heading> Conveyance for aquifer recharge purposes</heading>
+								<content>
+									<p>The holder of a right-of-way, easement, permit, or other authorization to transport water across public land administered by the Bureau of Land Management may transport water for aquifer recharge purposes without requiring additional authorization from the Secretary where the use does not expand or modify the operation of the right-of-way, easement, permit, or other authorization across public land.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s390g–9/c/4">
+								<num>(4)</num>
+								<heading> Effect</heading>
+								<content>
+									<p>Nothing in this section creates, impairs, alters, or supersedes a Federal or State water right.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s390g–9/c/5">
+								<num>(5)</num>
+								<heading> Exemption</heading>
+								<content>
+									<p>This section shall not apply to the State of California.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s390g–9/c/6">
+								<num>(6)</num>
+								<heading> Advisory group</heading>
+								<content>
+									<p>The Secretary may participate in any State-led collaborative, multi-stakeholder advisory group created in any watershed the purpose of which is to monitor, review, and assess aquifer recharge activities.</p>
+								</content>
+							</paragraph>
+						</subsection>
 					</section>
 					<section identifier="/us/usc/t43/s390h">
 						<num>§ 390h.</num>
@@ -15141,6 +15419,253 @@ SUBCHAPTER LIV—TOUCHET DIVISION; WALLA WALLA PROJECT, OREGON-WASHINGTON</colum
 										 requires extraordinary operation and maintenance pursuant to paragraph (1), the Secretary may provide Federal funds on a nonreimbursable basis sufficient to cover 35 percent of the cost of the extraordinary operation and maintenance allocable to the transferred works operating entity, which is needed to minimize the risk of imminent harm. The remaining share of the Federal funds advanced by the Secretary for such work shall be repaid under subsection (b).
 									</p>
 								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t43/s510b/d">
+							<num>(d)</num>
+							<heading> Aging Infrastructure Account</heading>
+							<paragraph identifier="/us/usc/t43/s510b/d/1">
+								<num>(1)</num>
+								<heading> Establishment</heading>
+								<chapeau>There is established in the general fund of the Treasury a special account, to be known as the “Aging Infrastructure Account” (referred to in this subsection as the “Account”), to provide funds to, and provide for the extended repayment of the funds by, a transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs for the conduct of extraordinary operation and maintenance work at a project facility, which shall consist of—</chapeau>
+								<subparagraph identifier="/us/usc/t43/s510b/d/1/A">
+									<num>(A)</num>
+									<content>
+										 any amounts that are specifically appropriated to the Account under 
+										<ref href="/us/usc/t43/s510d">section 510d of this title</ref>
+										; and
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s510b/d/1/B">
+									<num>(B)</num>
+									<content> any amounts deposited in the Account under paragraph (3)(B).</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s510b/d/2">
+								<num>(2)</num>
+								<heading> Expenditures</heading>
+								<content>
+									<p>Subject to paragraphs (3) and (6), the Secretary may expend amounts in the Account to fund and provide for extended repayment of the funds for eligible projects identified in a report submitted under paragraph (5)(B).</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s510b/d/3">
+								<num>(3)</num>
+								<heading> Repayment contract</heading>
+								<subparagraph identifier="/us/usc/t43/s510b/d/3/A">
+									<num>(A)</num>
+									<heading> In general</heading>
+									<content>
+										<p>The Secretary may not expend amounts under paragraph (2) with respect to an eligible project described in that paragraph unless the transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs has entered into a contract to repay the amounts under subsection (b)(2).</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s510b/d/3/B">
+									<num>(B)</num>
+									<heading> Deposit of repaid funds</heading>
+									<content>
+										<p>Amounts repaid by a transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs receiving funds under a repayment contract entered into under this subsection shall be deposited in the Account and shall be available to the Secretary for expenditure, subject to paragraph (6), in accordance with this subsection, and without further appropriation.</p>
+									</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s510b/d/4">
+								<num>(4)</num>
+								<heading> Application for funding</heading>
+								<subparagraph identifier="/us/usc/t43/s510b/d/4/A">
+									<num>(A)</num>
+									<heading> In general</heading>
+									<content>
+										<p>Beginning with fiscal year 2022, not less than once per fiscal year, the Secretary shall accept, during an application period established by the Secretary, applications from transferred works operating entities or project beneficiaries responsible for payment of reimbursable costs for funds and extended repayment for eligible projects.</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s510b/d/4/B">
+									<num>(B)</num>
+									<heading> Eligible project</heading>
+									<chapeau>A project eligible for funding and extended repayment under this subsection is a project that—</chapeau>
+									<clause identifier="/us/usc/t43/s510b/d/4/B/i">
+										<num>(i)</num>
+										<content> qualifies as an extraordinary operation and maintenance work under this section;</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s510b/d/4/B/ii">
+										<num>(ii)</num>
+										<content> is for the major, non-recurring maintenance of a mission-critical asset; and</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s510b/d/4/B/iii">
+										<num>(iii)</num>
+										<content>
+											 is not eligible to be carried out or funded under the repayment provisions of 
+											<ref href="/us/usc/t43/s508/c">section 508(c) of this title</ref>
+											.
+										</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s510b/d/4/C">
+									<num>(C)</num>
+									<heading> Guidelines for applications</heading>
+									<chapeau>
+										Not later than 60 days after 
+										<date date="2020-12-27">December 27, 2020</date>
+										, the Secretary shall issue guidelines describing the information required to be provided in an application for funds and extended repayment under this subsection that require, at a minimum—
+									</chapeau>
+									<clause identifier="/us/usc/t43/s510b/d/4/C/i">
+										<num>(i)</num>
+										<content> a description of the project for which the funds are requested;</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s510b/d/4/C/ii">
+										<num>(ii)</num>
+										<content> the amount of funds requested;</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s510b/d/4/C/iii">
+										<num>(iii)</num>
+										<content> the repayment period requested by the transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs;</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s510b/d/4/C/iv">
+										<num>(iv)</num>
+										<content> alternative non-Federal funding options that have been evaluated;</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s510b/d/4/C/v">
+										<num>(v)</num>
+										<content> the financial justification for requesting an extended repayment period; and</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s510b/d/4/C/vi">
+										<num>(vi)</num>
+										<content> the financial records of the transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs.</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s510b/d/4/D">
+									<num>(D)</num>
+									<heading> Review by the Secretary</heading>
+									<chapeau>The Secretary shall review each application submitted under subparagraph (A)—</chapeau>
+									<clause identifier="/us/usc/t43/s510b/d/4/D/i">
+										<num>(i)</num>
+										<content> to determine whether the project is eligible for funds and an extended repayment period under this subsection;</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s510b/d/4/D/ii">
+										<num>(ii)</num>
+										<content> to determine if the project has been identified by the Bureau of Reclamation as part of the major rehabilitation and replacement of a project facility; and</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s510b/d/4/D/iii">
+										<num>(iii)</num>
+										<chapeau> to conduct a financial analysis of—</chapeau>
+										<subclause identifier="/us/usc/t43/s510b/d/4/D/iii/I">
+											<num>(I)</num>
+											<content> the project; and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t43/s510b/d/4/D/iii/II">
+											<num>(II)</num>
+											<content> repayment capability of the transferred works operating entity or project beneficiary responsible for repayment of reimbursable costs.</content>
+										</subclause>
+									</clause>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s510b/d/5">
+								<num>(5)</num>
+								<heading> Report</heading>
+								<chapeau>Not later than 90 days after the date on which an application period closes under paragraph (4)(A), the Secretary shall submit to the Committees on Energy and Natural Resources and Appropriations of the Senate and the Committees on Natural Resources and Appropriations of the House of Representatives a report that—</chapeau>
+								<subparagraph identifier="/us/usc/t43/s510b/d/5/A">
+									<num>(A)</num>
+									<content> describes the results of the Secretary’s review of each application under paragraph (4)(D), including a determination of whether the project is eligible;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s510b/d/5/B">
+									<num>(B)</num>
+									<content> identifies each project eligible for funds and extended repayment under this subsection;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s510b/d/5/C">
+									<num>(C)</num>
+									<chapeau> with respect to each eligible project identified under subparagraph (B), includes—</chapeau>
+									<clause identifier="/us/usc/t43/s510b/d/5/C/i">
+										<num>(i)</num>
+										<chapeau> a description of—</chapeau>
+										<subclause identifier="/us/usc/t43/s510b/d/5/C/i/I">
+											<num>(I)</num>
+											<content> the eligible project;</content>
+										</subclause>
+										<subclause identifier="/us/usc/t43/s510b/d/5/C/i/II">
+											<num>(II)</num>
+											<content> the anticipated cost and duration of the eligible project;</content>
+										</subclause>
+										<subclause identifier="/us/usc/t43/s510b/d/5/C/i/III">
+											<num>(III)</num>
+											<content> any remaining engineering or environmental compliance that is required before the eligible project commences;</content>
+										</subclause>
+										<subclause identifier="/us/usc/t43/s510b/d/5/C/i/IV">
+											<num>(IV)</num>
+											<content> any recommendations the Secretary may have concerning the plan or design of the project; and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t43/s510b/d/5/C/i/V">
+											<num>(V)</num>
+											<content> any conditions the Secretary may require for construction of the project;</content>
+										</subclause>
+									</clause>
+									<clause identifier="/us/usc/t43/s510b/d/5/C/ii">
+										<num>(ii)</num>
+										<chapeau> an analysis of—</chapeau>
+										<subclause identifier="/us/usc/t43/s510b/d/5/C/ii/I">
+											<num>(I)</num>
+											<content> the repayment period proposed in the application; and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t43/s510b/d/5/C/ii/II">
+											<num>(II)</num>
+											<content> if the Secretary recommends a minimum necessary repayment period that is different than the repayment period proposed in the application, the minimum necessary repayment period recommended by the Secretary; and</content>
+										</subclause>
+									</clause>
+									<clause identifier="/us/usc/t43/s510b/d/5/C/iii">
+										<num>(iii)</num>
+										<content> an analysis of alternative non-Federal funding options;</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s510b/d/5/D">
+									<num>(D)</num>
+									<content> describes the allocation of funds from deposits into the Account under paragraph (3)(B); and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s510b/d/5/E">
+									<num>(E)</num>
+									<content> describes the balance of funds in the Account as of the date of the report.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s510b/d/6">
+								<num>(6)</num>
+								<heading> Alternative allocation</heading>
+								<subparagraph identifier="/us/usc/t43/s510b/d/6/A">
+									<num>(A)</num>
+									<heading> In general</heading>
+									<content>
+										<p>Appropriations Acts may provide for alternate allocation of amounts reported pursuant to paragraph (5)(D) that are made available under this subsection.</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s510b/d/6/B">
+									<num>(B)</num>
+									<heading> Allocation by Secretary</heading>
+									<clause identifier="/us/usc/t43/s510b/d/6/B/i">
+										<num>(i)</num>
+										<heading> No alternate allocations</heading>
+										<content>
+											<p>If Congress has not enacted legislation establishing alternate allocations by the date on which the Act making full-year appropriations for energy and water development and related agencies for the applicable fiscal year is enacted into law, amounts made available under paragraph (1) shall be allocated by the Secretary.</p>
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s510b/d/6/B/ii">
+										<num>(ii)</num>
+										<heading> Insufficient alternate allocations</heading>
+										<content>
+											<p>If Congress enacts legislation establishing alternate allocations for amounts made available under paragraph (1) that are less than the full amount appropriated under that paragraph, the difference between the amount appropriated and the alternate allocation shall be allocated by the Secretary.</p>
+										</content>
+									</clause>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s510b/d/7">
+								<num>(7)</num>
+								<heading> Effect of subsection</heading>
+								<chapeau>Nothing in this subsection affects—</chapeau>
+								<subparagraph identifier="/us/usc/t43/s510b/d/7/A">
+									<num>(A)</num>
+									<content>
+										 any funding provided, or contracts entered into, under subsection (a) before 
+										<date date="2020-12-27">December 27, 2020</date>
+										; or
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s510b/d/7/B">
+									<num>(B)</num>
+									<content> the use of funds otherwise made available to the Secretary to carry out subsection (a).</content>
+								</subparagraph>
 							</paragraph>
 						</subsection>
 					</section>
@@ -23326,11 +23851,42 @@ SUBCHAPTER III—OUTER CONTINENTAL SHELF LANDS</column>
 							<heading> Constitution and United States laws; laws of adjacent States; publication of projected State lines; international boundary disputes; restriction on State taxation and jurisdiction</heading>
 							<paragraph identifier="/us/usc/t43/s1333/a/1">
 								<num>(1)</num>
-								<content>
-									 The Constitution and laws and civil and political jurisdiction of the United States are extended to the subsoil and seabed of the outer Continental Shelf and to all artificial islands, and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or any such installation or other device (other than a ship or vessel) for the purpose of transporting such resources, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State: 
-									<i>Provided, however</i>
-									, That mineral leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter.
-								</content>
+								<heading>
+									<inline>Jurisdiction of the united states on the outer continental shelf</inline>
+									.—
+								</heading>
+								<subparagraph identifier="/us/usc/t43/s1333/a/1/A">
+									<num>(A)</num>
+									<heading>
+										<inline>In general</inline>
+										.—
+									</heading>
+									<chapeau>The Constitution and laws and civil and political jurisdiction of the United States are extended, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State, to—</chapeau>
+									<clause identifier="/us/usc/t43/s1333/a/1/A/i">
+										<num>(i)</num>
+										<content> the subsoil and seabed of the outer Continental Shelf;</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s1333/a/1/A/ii">
+										<num>(ii)</num>
+										<content> all artificial islands on the outer Continental Shelf;</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s1333/a/1/A/iii">
+										<num>(iii)</num>
+										<content> installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources, including non-mineral energy resources; or</content>
+									</clause>
+									<clause identifier="/us/usc/t43/s1333/a/1/A/iv">
+										<num>(iv)</num>
+										<content> any such installation or other device (other than a ship or vessel) for the purpose of transporting or transmitting such resources.</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s1333/a/1/B">
+									<num>(B)</num>
+									<heading>
+										<inline>Leases issued exclusively under this act</inline>
+										.—
+									</heading>
+									<content>Mineral or energy leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter.</content>
+								</subparagraph>
 							</paragraph>
 							<paragraph identifier="/us/usc/t43/s1333/a/2">
 								<num>(2)</num>
@@ -27147,6 +27703,12 @@ SUBCHAPTER VIII—PUBLIC AIRPORTS</column>
 							</column>
 							<column>Unsworn written statements subject to penalties of presenting false claims.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t43/s1477">1477.</ref>
+							</column>
+							<column>Snow water supply forecasting.</column>
+						</tocItem>
 					</layout>
 				</toc>
 				<section identifier="/us/usc/t43/s1451">
@@ -28071,6 +28633,187 @@ SUBCHAPTER VIII—PUBLIC AIRPORTS</column>
 							.
 						</p>
 					</content>
+				</section>
+				<section identifier="/us/usc/t43/s1477">
+					<num>§ 1477.</num>
+					<heading> Snow water supply forecasting</heading>
+					<subsection identifier="/us/usc/t43/s1477/a">
+						<num>(a)</num>
+						<heading> Short title</heading>
+						<content>
+							<p>This section may be cited as the “Snow Water Supply Forecasting Program Authorization Act”.</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t43/s1477/b">
+						<num>(b)</num>
+						<heading> Definition of program</heading>
+						<content>
+							<p>In this section, the term “program” means the Snow Water Supply Forecasting Program established by subsection (c).</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t43/s1477/c">
+						<num>(c)</num>
+						<heading> Snow Water Supply Forecasting Program</heading>
+						<paragraph identifier="/us/usc/t43/s1477/c/1">
+							<num>(1)</num>
+							<heading> Program establishment</heading>
+							<content>
+								<p>The Snow Water Supply Forecasting Program is hereby established within the Department of the Interior.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s1477/c/2">
+							<num>(2)</num>
+							<heading> Program implementation</heading>
+							<chapeau>To implement the program, the Secretary shall—</chapeau>
+							<subparagraph identifier="/us/usc/t43/s1477/c/2/A">
+								<num>(A)</num>
+								<content> develop the program framework in coordination with other Federal agencies pursuant to subsection (d), culminating in the report required under subsection (d)(3); and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s1477/c/2/B">
+								<num>(B)</num>
+								<content> after submitting the report required by subsection (d)(3), implement activities to improve snowpack measurement in particular watersheds pursuant to subsection (e).</content>
+							</subparagraph>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t43/s1477/d">
+						<num>(d)</num>
+						<heading> Development of program framework in coordination with other Federal agencies</heading>
+						<paragraph identifier="/us/usc/t43/s1477/d/1">
+							<num>(1)</num>
+							<heading> Snowpack measurement data</heading>
+							<chapeau>When determining water supply forecasts or allocations to Federal water contractors, the Secretary, acting through the Commissioner of the Bureau of Reclamation, shall incorporate, to the greatest extent practicable, information from emerging technologies for snowpack measurement, such as—</chapeau>
+							<subparagraph identifier="/us/usc/t43/s1477/d/1/A">
+								<num>(A)</num>
+								<content> synthetic aperture radar;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s1477/d/1/B">
+								<num>(B)</num>
+								<content> laser altimetry; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s1477/d/1/C">
+								<num>(C)</num>
+								<content> other emerging technologies that the Secretary determines are likely to provide more accurate or timely snowpack measurement data.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s1477/d/2">
+							<num>(2)</num>
+							<heading> Coordination</heading>
+							<content>
+								<p>In carrying out paragraph (1), the Secretary shall coordinate data use and collection efforts with other Federal agencies that use or may benefit from the use of emerging technologies for snowpack measurement.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s1477/d/3">
+							<num>(3)</num>
+							<heading> Emerging technologies report</heading>
+							<chapeau>
+								Not later than 
+								<date date="2021-10-01">October 1, 2021</date>
+								, the Secretary shall submit to Congress a report that—
+							</chapeau>
+							<subparagraph identifier="/us/usc/t43/s1477/d/3/A">
+								<num>(A)</num>
+								<content> summarizes the use of emerging technologies pursuant to this section;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s1477/d/3/B">
+								<num>(B)</num>
+								<content> describes benefits derived from the use of technologies summarized under subparagraph (A) related to the environment and increased water supply reliability; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s1477/d/3/C">
+								<num>(C)</num>
+								<content> describes how Federal agencies will coordinate to implement emerging technologies.</content>
+							</subparagraph>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t43/s1477/e">
+						<num>(e)</num>
+						<heading> Program implementation</heading>
+						<paragraph identifier="/us/usc/t43/s1477/e/1">
+							<num>(1)</num>
+							<heading> Activities implementing framework</heading>
+							<content>
+								<p>After submitting the report required under subsection (d)(3), the Secretary shall participate with program partners in implementing activities to improve snowpack measurement in particular watersheds.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s1477/e/2">
+							<num>(2)</num>
+							<heading> Focus</heading>
+							<chapeau>The program shall focus on activities that will maintain, establish, expand, or advance snowpack measurement consistent with the report required by subsection (d)(3), with an emphasis on—</chapeau>
+							<subparagraph identifier="/us/usc/t43/s1477/e/2/A">
+								<num>(A)</num>
+								<content> enhancing activities in river basins to achieve improved snow and water supply forecasting results;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s1477/e/2/B">
+								<num>(B)</num>
+								<content>
+									 activities in river basins where snow water supply forecasting related activities described in this section are not occurring on 
+									<date date="2020-12-27">December 27, 2020</date>
+									; and
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s1477/e/2/C">
+								<num>(C)</num>
+								<content> demonstrating or testing new, or improving existing, snow and water supply forecasting technology.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s1477/e/3">
+							<num>(3)</num>
+							<heading> Information sharing</heading>
+							<content>
+								<p>The Secretary may provide information collected and analyzed under this section to program partners through appropriate mechanisms, including interagency agreements with Federal agencies, States, State agencies, or a combination thereof, leases, contracts, cooperative agreements, grants, loans, and memoranda of understanding.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s1477/e/4">
+							<num>(4)</num>
+							<heading> Program partners</heading>
+							<content>
+								<p>Program partners with whom the Secretary enters into cooperative agreements pursuant to paragraph (5) may include water districts, irrigation districts, water associations, universities, State agencies, other Federal agencies, private sector entities, non-governmental organizations, and other entities, as determined by the Secretary.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s1477/e/5">
+							<num>(5)</num>
+							<heading> Cooperative agreements</heading>
+							<chapeau>The Secretary may—</chapeau>
+							<subparagraph identifier="/us/usc/t43/s1477/e/5/A">
+								<num>(A)</num>
+								<content> enter into cooperative agreements with program partners to allow the program to be administered efficiently and cost effectively through cost-sharing or by providing additional in-kind resources necessary for program implementation; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s1477/e/5/B">
+								<num>(B)</num>
+								<content> provide nonreimbursable matching funding for programmatic and operational activities under this section in consultation with program partners.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s1477/e/6">
+							<num>(6)</num>
+							<heading> Environmental laws</heading>
+							<content>
+								<p>Nothing in this section shall modify any obligation of the Secretary to comply with applicable Federal and State environmental laws in carrying out this section.</p>
+							</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t43/s1477/f">
+						<num>(f)</num>
+						<heading> Program implementation report</heading>
+						<chapeau>
+							Not later than 4 years after 
+							<date date="2020-12-27">December 27, 2020</date>
+							, the Secretary shall submit a report to the Committee on Natural Resources and the Committee on Appropriations of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate, that includes—
+						</chapeau>
+						<paragraph identifier="/us/usc/t43/s1477/f/1">
+							<num>(1)</num>
+							<content> a list of basins and sub-basins for which snowpack measurement technologies are being used under the program, including a description of each technology used; and</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s1477/f/2">
+							<num>(2)</num>
+							<content> a list of Federal agencies and program partners participating in each basin or sub-basin listed in paragraph (1).</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t43/s1477/g">
+						<num>(g)</num>
+						<heading> Authorization of appropriations</heading>
+						<content>
+							<p>There is authorized to be appropriated to the Secretary to carry out this section $15,000,000, in the aggregate, for fiscal years 2022 through 2026.</p>
+						</content>
+					</subsection>
 				</section>
 			</chapter>
 			<chapter identifier="/us/usc/t43/ch32">
@@ -48593,7 +49336,7 @@ SUBCHAPTER III—GENERAL AND MISCELLANEOUS PROVISIONS</column>
 							<content>
 								<p>
 									The authorities established under this subchapter shall terminate on 
-									<date date="2020-09-30">September 30, 2020</date>
+									<date date="2021-09-30">September 30, 2021</date>
 									.
 								</p>
 							</content>
@@ -48788,7 +49531,7 @@ SUBCHAPTER III—GENERAL AND MISCELLANEOUS PROVISIONS</column>
 							<p>
 								Except as otherwise provided in 
 								<ref href="/us/usc/t43/s2243">section 2243 of this title</ref>
-								 (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $120,000,000 in total for the period of fiscal years 2006 through 2020.
+								 (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $120,000,000 in total for the period of fiscal years 2006 through 2021.
 							</p>
 						</content>
 					</section>
@@ -51494,6 +52237,12 @@ SUBCHAPTER I—ADMINISTRATION</column>
 							</column>
 							<column>Oregon and California Railroad revested lands and Coos Bay Wagon Road reconveyed lands.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t43/s2607">2607.</ref>
+							</column>
+							<column>Protection of Oregon and California Railroad grant lands.</column>
+						</tocItem>
 						<header>
 							<column>
 SUBCHAPTER II—DISPOSITION OF FUNDS</column>
@@ -51732,6 +52481,111 @@ SUBCHAPTER III—ADMINISTRATIVE JURISDICTION</column>
 								<num>(2)</num>
 								<content> with respect to the development of a new land use plan or the revision of or other significant change to an existing land use plan.</content>
 							</paragraph>
+						</subsection>
+					</section>
+					<section identifier="/us/usc/t43/s2607">
+						<num>§ 2607.</num>
+						<heading> Protection of Oregon and California Railroad grant lands</heading>
+						<subsection identifier="/us/usc/t43/s2607/a">
+							<num>(a)</num>
+							<heading> Definitions</heading>
+							<chapeau>For purposes of this section:</chapeau>
+							<paragraph identifier="/us/usc/t43/s2607/a/1">
+								<num>(1)</num>
+								<heading> O &amp; C land</heading>
+								<chapeau>The term “O &amp; C land” means the land (commonly known as “Oregon and California Railroadgrant land”) that—</chapeau>
+								<subparagraph identifier="/us/usc/t43/s2607/a/1/A">
+									<num>(A)</num>
+									<content>
+										 revested in the United States under the Act of 
+										<date date="1916-06-09">June 9, 1916</date>
+										 (
+										<ref href="/us/stat/39/218">39 Stat. 218</ref>
+										, chapter 137); and
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s2607/a/1/B">
+									<num>(B)</num>
+									<content>
+										 is managed by the Secretary of the Interior through the Bureau of Land Management under the Act of 
+										<date date="1937-08-28">August 28, 1937</date>
+										 (
+										<ref href="/us/usc/t43/s1181a">43 U.S.C. 1181a</ref>
+										 et seq.).
+									</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s2607/a/2">
+								<num>(2)</num>
+								<heading> CBWR land</heading>
+								<chapeau>The term “CBWR land” means the land (commonly known as “Coos Bay Wagon Road grant land”) that—</chapeau>
+								<subparagraph identifier="/us/usc/t43/s2607/a/2/A">
+									<num>(A)</num>
+									<content>
+										 was reconveyed to the United States under the Act of 
+										<date date="1919-02-26">February 26, 1919</date>
+										 (
+										<ref href="/us/stat/40/1179">40 Stat. 1179</ref>
+										, chapter 47); and
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t43/s2607/a/2/B">
+									<num>(B)</num>
+									<content>
+										 is managed by the Secretary of the Interior through the Bureau of Land Management under the Act of 
+										<date date="1937-08-28">August 28, 1937</date>
+										 (
+										<ref href="/us/usc/t43/s1181a">43 U.S.C. 1181a</ref>
+										 et seq.).
+									</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s2607/a/3">
+								<num>(3)</num>
+								<heading> Geographic area</heading>
+								<content>
+									<p>
+										The term “geographic area” means the area in the State of Oregon within the boundaries of theMedford District, Roseburg District, Eugene District, Salem District, Coos Bay District, and Klamath Resource Area of the Lakeview District of the Bureau of Land Management, as the districts and the resource area were constituted on 
+										<date date="1998-01-01">January 1, 1998</date>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t43/s2607/a/4">
+								<num>(4)</num>
+								<heading> Secretary</heading>
+								<content>
+									<p>The term “Secretary” means the Secretary of the Interior.</p>
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t43/s2607/b">
+							<num>(b)</num>
+							<heading> Policy of no net loss of O &amp; C land and CBWR land</heading>
+							<content>
+								<p>
+									In carrying out sales, purchases, and exchanges of land in the geographic area, the Secretary shall ensure that on 
+									<date date="2008-10-30">October 30, 2008</date>
+									, and on the expiration of each 10-year period thereafter, the number of acres of O &amp; C land and CBWR land in the geographic area is not less than the number of acres of such land on 
+									<date date="1998-10-30">October 30, 1998</date>
+									.
+								</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t43/s2607/c">
+							<num>(c)</num>
+							<heading> Relationship to Umpqua land exchange authority</heading>
+							<content>
+								<p>
+									Notwithstanding any other provision of this section, this section shall not apply to an exchange of land authorized pursuant to section 1028 of the Omnibus Parks and Public Lands Management Act of 1996 (
+									<ref href="/us/pl/104/333">Public Law 104–333</ref>
+									; 
+									<ref href="/us/stat/110/4231">110 Stat. 4231</ref>
+									), or any implementing legislation or administrative rule, if the land exchange is consistent with the memorandum of understanding between the Umpqua Land Exchange Project and the Association of Oregon and California Land Grant Counties dated 
+									<date date="1998-02-19">February 19, 1998</date>
+									.
+								</p>
+							</content>
 						</subsection>
 					</section>
 				</subchapter>
@@ -53862,6 +54716,431 @@ SUBCHAPTER III—ADMINISTRATIVE JURISDICTION</column>
 							<p>It is the sense of Congress that any Federal permitting and review processes required with respect to a conveyance of an eligible facility under this chapter should be completed with the maximum efficiency and effectiveness.</p>
 						</content>
 					</subsection>
+				</section>
+			</chapter>
+			<chapter identifier="/us/usc/t43/ch48">
+				<num>CHAPTER 48—</num>
+				<heading>RENEWABLE ENERGY PRODUCTION ON FEDERAL LAND</heading>
+				<toc>
+					<layout>
+						<header>
+							<column>Sec.</column>
+						</header>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t43/s3001">3001.</ref>
+							</column>
+							<column>Definitions.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t43/s3002">3002.</ref>
+							</column>
+							<column>Program to improve eligible project permit coordination.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t43/s3003">3003.</ref>
+							</column>
+							<column>Increasing economic certainty.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t43/s3004">3004.</ref>
+							</column>
+							<column>National goal for renewable energy production on Federal land.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t43/s3005">3005.</ref>
+							</column>
+							<column>Savings clause.</column>
+						</tocItem>
+					</layout>
+				</toc>
+				<section identifier="/us/usc/t43/s3001">
+					<num>§ 3001.</num>
+					<heading> Definitions</heading>
+					<chapeau>In this chapter:</chapeau>
+					<paragraph identifier="/us/usc/t43/s3001/1">
+						<num>(1)</num>
+						<heading> Covered land</heading>
+						<chapeau>The term “covered land” means land that is—</chapeau>
+						<subparagraph identifier="/us/usc/t43/s3001/1/A">
+							<num>(A)</num>
+							<content> Federal lands administered by the Secretary concerned; and</content>
+						</subparagraph>
+						<subparagraph identifier="/us/usc/t43/s3001/1/B">
+							<num>(B)</num>
+							<chapeau> not excluded from the development of geothermal, solar, or wind energy under—</chapeau>
+							<clause identifier="/us/usc/t43/s3001/1/B/i">
+								<num>(i)</num>
+								<content> a land use plan; or</content>
+							</clause>
+							<clause identifier="/us/usc/t43/s3001/1/B/ii">
+								<num>(ii)</num>
+								<content> other Federal law.</content>
+							</clause>
+						</subparagraph>
+					</paragraph>
+					<paragraph identifier="/us/usc/t43/s3001/2">
+						<num>(2)</num>
+						<heading> Federal land</heading>
+						<chapeau>The term “Federal land” means—</chapeau>
+						<subparagraph identifier="/us/usc/t43/s3001/2/A">
+							<num>(A)</num>
+							<content>
+								 public land as defined by section 103 of the Federal Land Policy Management Act of 1976 (
+								<ref href="/us/usc/t43/s1702">43 U.S.C. 1702</ref>
+								); or
+							</content>
+						</subparagraph>
+						<subparagraph identifier="/us/usc/t43/s3001/2/B">
+							<num>(B)</num>
+							<content>
+								 land of the National Forest System (as defined in 
+								<ref href="/us/usc/t16/s1609/a">section 1609(a) of title 16</ref>
+								).
+							</content>
+						</subparagraph>
+					</paragraph>
+					<paragraph identifier="/us/usc/t43/s3001/3">
+						<num>(3)</num>
+						<heading> Land use plan</heading>
+						<chapeau>The term “land use plan” means—</chapeau>
+						<subparagraph identifier="/us/usc/t43/s3001/3/A">
+							<num>(A)</num>
+							<content>
+								 for public land, a land use plan established under the Federal Land Policy and Management Act of 1976 (
+								<ref href="/us/usc/t43/s1701">43 U.S.C. 1701</ref>
+								 et seq.); and
+							</content>
+						</subparagraph>
+						<subparagraph identifier="/us/usc/t43/s3001/3/B">
+							<num>(B)</num>
+							<content>
+								 for National Forest System land, a land management plan approved, amended, or revised under 
+								<ref href="/us/usc/t16/s1604">section 1604 of title 16</ref>
+								.
+							</content>
+						</subparagraph>
+					</paragraph>
+					<paragraph identifier="/us/usc/t43/s3001/4">
+						<num>(4)</num>
+						<heading> Eligible project</heading>
+						<content>
+							<p>The term “eligible project” means a project carried out on covered land that uses wind, solar, or geothermal energy to generate energy.</p>
+						</content>
+					</paragraph>
+					<paragraph identifier="/us/usc/t43/s3001/5">
+						<num>(5)</num>
+						<heading> Secretary</heading>
+						<content>
+							<p>The term “Secretary” means the Secretary of the Interior.</p>
+						</content>
+					</paragraph>
+				</section>
+				<section identifier="/us/usc/t43/s3002">
+					<num>§ 3002.</num>
+					<heading> Program to improve eligible project permit coordination</heading>
+					<subsection identifier="/us/usc/t43/s3002/a">
+						<num>(a)</num>
+						<heading> Establishment</heading>
+						<content>
+							<p>The Secretary shall establish a national Renewable Energy Coordination Office and State, district, or field offices, as appropriate, with responsibility to establish and implement a program to improve Federal permit coordination with respect to eligible projects on covered land and such other activities as the Secretary determines necessary. In carrying out the program, the Secretary may temporarily assign qualified staff to Renewable Energy Coordination Offices to expedite the permitting of eligible projects.</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t43/s3002/b">
+						<num>(b)</num>
+						<heading> Memorandum of understanding</heading>
+						<paragraph identifier="/us/usc/t43/s3002/b/1">
+							<num>(1)</num>
+							<heading> In general</heading>
+							<chapeau>
+								Not later than 180 days after 
+								<date date="2020-12-27">December 27, 2020</date>
+								, the Secretary shall enter into a memorandum of understanding for purposes of this section with—
+							</chapeau>
+							<subparagraph identifier="/us/usc/t43/s3002/b/1/A">
+								<num>(A)</num>
+								<content> the Secretary of Agriculture;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/b/1/B">
+								<num>(B)</num>
+								<content> the Administrator of the Environmental Protection Agency; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/b/1/C">
+								<num>(C)</num>
+								<content> the Secretary of Defense.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s3002/b/2">
+							<num>(2)</num>
+							<heading> State and tribal participation</heading>
+							<content>
+								<p>
+									The Secretary may request the Governor of any interested State or any Tribal leader of any interested Indian Tribe (as defined in 
+									<ref href="/us/usc/t25/s5304">section 5304 of title 25</ref>
+									) to be a signatory to the memorandum of understanding under paragraph (1).
+								</p>
+							</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t43/s3002/c">
+						<num>(c)</num>
+						<heading> Designation of qualified staff</heading>
+						<paragraph identifier="/us/usc/t43/s3002/c/1">
+							<num>(1)</num>
+							<heading> In general</heading>
+							<chapeau>Not later than 30 days after the date on which the memorandum of understanding under subsection (b) is executed, all Federal signatories, as appropriate, shall identify for each of the Bureau of Land Management Renewable Energy Coordination Offices one or more employees who have expertise in the regulatory issues relating to the office in which the employee is employed, including, as applicable, particular expertise in—</chapeau>
+							<subparagraph identifier="/us/usc/t43/s3002/c/1/A">
+								<num>(A)</num>
+								<content>
+									 consultation regarding, and preparation of, biological opinions under 
+									<ref href="/us/usc/t16/s1536">section 1536 of title 16</ref>
+									;
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/c/1/B">
+								<num>(B)</num>
+								<content>
+									 permits under 
+									<ref href="/us/usc/t33/s1344">section 1344 of title 33</ref>
+									;
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/c/1/C">
+								<num>(C)</num>
+								<content>
+									 regulatory matters under the Clean Air Act (
+									<ref href="/us/usc/t42/s7401">42 U.S.C. 7401</ref>
+									 et seq.);
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/c/1/D">
+								<num>(D)</num>
+								<content>
+									 the Federal Land Policy and Management Act of 1976 (
+									<ref href="/us/usc/t43/s1701">43 U.S.C. 1701</ref>
+									 et seq.);
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/c/1/E">
+								<num>(E)</num>
+								<content>
+									 the Migratory Bird Treaty Act (
+									<ref href="/us/usc/t16/s703">16 U.S.C. 703</ref>
+									 et seq.);
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/c/1/F">
+								<num>(F)</num>
+								<content>
+									 the preparation of analyses under the National Environmental Policy Act of 1969 (
+									<ref href="/us/usc/t42/s4321">42 U.S.C. 4321</ref>
+									 et seq.);
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/c/1/G">
+								<num>(G)</num>
+								<content>
+									 implementation of the requirements of 
+									<ref href="/us/usc/t54/s306108">section 306108 of title 54</ref>
+									 (formerly known as section 106 of the National Historic Preservation Act);
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/c/1/H">
+								<num>(H)</num>
+								<content>
+									 planning under 
+									<ref href="/us/usc/t16/s472a">section 472a of title 16</ref>
+									;
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/c/1/I">
+								<num>(I)</num>
+								<content>
+									 developing geothermal resources under the Geothermal Steam Act of 1970 (
+									<ref href="/us/usc/t30/s1001">30 U.S.C. 1001</ref>
+									 et seq.);
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/c/1/J">
+								<num>(J)</num>
+								<content>
+									 the Act of 
+									<date date="1940-06-08">June 8, 1940</date>
+									 (
+									<ref href="/us/usc/t16/s668">16 U.S.C. 668</ref>
+									 et seq., popularly known as the Bald and Golden Eagle Protection Act); and
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/c/1/K">
+								<num>(K)</num>
+								<content> section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753 and 102101 of title 54 (previously known as the National Park Service Organic Act).</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s3002/c/2">
+							<num>(2)</num>
+							<heading> Duties</heading>
+							<chapeau>Each employee assigned under paragraph (1) shall—</chapeau>
+							<subparagraph identifier="/us/usc/t43/s3002/c/2/A">
+								<num>(A)</num>
+								<content> be responsible for addressing all issues relating to the jurisdiction of the home office or agency of the employee; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/c/2/B">
+								<num>(B)</num>
+								<content> participate as part of the team of personnel working on proposed energy projects, planning, monitoring, inspection, enforcement, and environmental analyses.</content>
+							</subparagraph>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t43/s3002/d">
+						<num>(d)</num>
+						<heading> Additional personnel</heading>
+						<content>
+							<p>
+								The Secretary may assign such additional personnel for the Bureau of Land Management Renewable Energy Coordination Offices as are necessary to ensure the effective implementation of any programs administered by the offices in accordance with the multiple use mandate of the Federal Land Policy and Management Act of 1976 (
+								<ref href="/us/usc/t43/s1701">43 U.S.C. 1701</ref>
+								 et seq.).
+							</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t43/s3002/e">
+						<num>(e)</num>
+						<heading> Transfer of funds</heading>
+						<chapeau>To facilitate the coordination and processing of eligible project permits on Federal land under the Renewable Energy Coordination Offices, the Secretary may authorize the expenditure or transfer of any funds that are necessary to—</chapeau>
+						<paragraph identifier="/us/usc/t43/s3002/e/1">
+							<num>(1)</num>
+							<content> the United States Fish and Wildlife Service;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s3002/e/2">
+							<num>(2)</num>
+							<content> the Bureau of Indian Affairs;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s3002/e/3">
+							<num>(3)</num>
+							<content> the Forest Service;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s3002/e/4">
+							<num>(4)</num>
+							<content> the Corps of Engineers;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s3002/e/5">
+							<num>(5)</num>
+							<content> the National Park Service;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s3002/e/6">
+							<num>(6)</num>
+							<content> the Environmental Protection Agency; or</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s3002/e/7">
+							<num>(7)</num>
+							<content> the Department of Defense.</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t43/s3002/f">
+						<num>(f)</num>
+						<heading> Report to Congress</heading>
+						<paragraph identifier="/us/usc/t43/s3002/f/1">
+							<num>(1)</num>
+							<heading> In general</heading>
+							<content>
+								<p>
+									Not later than February 1 of the first fiscal year beginning after 
+									<date date="2020-12-27">December 27, 2020</date>
+									, and each February 1 thereafter, the Secretary shall submit to the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the Senate and the Committee on Natural Resources of the House of Representatives a report describing the progress made under the program established under subsection (a) during the preceding year.
+								</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s3002/f/2">
+							<num>(2)</num>
+							<heading> Inclusions</heading>
+							<chapeau>Each report under this subsection shall include—</chapeau>
+							<subparagraph identifier="/us/usc/t43/s3002/f/2/A">
+								<num>(A)</num>
+								<content> projections for renewable energy production and capacity installations; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3002/f/2/B">
+								<num>(B)</num>
+								<content> a description of any problems relating to leasing, permitting, siting, or production.</content>
+							</subparagraph>
+						</paragraph>
+					</subsection>
+				</section>
+				<section identifier="/us/usc/t43/s3003">
+					<num>§ 3003.</num>
+					<heading> Increasing economic certainty</heading>
+					<subsection identifier="/us/usc/t43/s3003/a">
+						<num>(a)</num>
+						<heading> Considerations</heading>
+						<content>
+							<p>The Secretary may consider acreage rental rates, capacity fees, and other recurring annual fees in total when evaluating existing rates paid for the use of Federal land by eligible projects.</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t43/s3003/b">
+						<num>(b)</num>
+						<heading> Reductions in base rental rates</heading>
+						<chapeau>The Secretary may reduce acreage rental rates and capacity fees, or both, for existing and new wind and solar authorizations if the Secretary determines—</chapeau>
+						<paragraph identifier="/us/usc/t43/s3003/b/1">
+							<num>(1)</num>
+							<chapeau> that the existing rates—</chapeau>
+							<subparagraph identifier="/us/usc/t43/s3003/b/1/A">
+								<num>(A)</num>
+								<content> exceed fair market value;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3003/b/1/B">
+								<num>(B)</num>
+								<content> impose economic hardships;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3003/b/1/C">
+								<num>(C)</num>
+								<content> limit commercial interest in a competitive lease sale or right-of-way grant; or</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t43/s3003/b/1/D">
+								<num>(D)</num>
+								<content> are not competitively priced compared to other available land; or</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t43/s3003/b/2">
+							<num>(2)</num>
+							<content> that a reduced rental rate or capacity fee is necessary to promote the greatest use of wind and solar energy resources.</content>
+						</paragraph>
+					</subsection>
+				</section>
+				<section identifier="/us/usc/t43/s3004">
+					<num>§ 3004.</num>
+					<heading> National goal for renewable energy production on Federal land</heading>
+					<subsection identifier="/us/usc/t43/s3004/a">
+						<num>(a)</num>
+						<heading> In General</heading>
+						<content>
+							<p>
+								Not later than 
+								<date date="2022-09-01">September 1, 2022</date>
+								, the Secretary shall, in consultation with the Secretary of Agriculture and other heads of relevant Federal agencies, establish national goals for renewable energy production on Federal land.
+							</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t43/s3004/b">
+						<num>(b)</num>
+						<heading> Minimum production goal</heading>
+						<content>
+							<p>The Secretary shall seek to issue permits that, in total, authorize production of not less than 25 gigawatts of electricity from wind, solar, and geothermal energy projects by not later than 2025, through management of public lands and administration of Federal laws.</p>
+						</content>
+					</subsection>
+				</section>
+				<section identifier="/us/usc/t43/s3005">
+					<num>§ 3005.</num>
+					<heading> Savings clause</heading>
+					<content>
+						<p>
+							Notwithstanding any other provision of this chapter, the Secretary of the Interior and the Secretary of Agriculture shall continue to manage public lands under the principles of multiple use and sustained yield in accordance with the Federal Land Policy and Management Act of 1976 (
+							<ref href="/us/usc/t43/s1701">43 U.S.C. 1701</ref>
+							 et seq.) or the Forest and Rangeland Renewable Resources Planning Act of 1974 (
+							<ref href="/us/usc/t16/s1600">16 U.S.C. 1600</ref>
+							 et seq.), respectively, including for due consideration of mineral and nonrenewable energy-related projects and other nonrenewable energy uses, for the purposes of land use planning, permit processing, and conducting environmental reviews.
+						</p>
+					</content>
 				</section>
 			</chapter>
 			<chapter identifier="/us/usc/t43/ch49">

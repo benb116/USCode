@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t28" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t28">
 	<main>
 		<title identifier="/us/usc/t28">
 			<num>Title 28—</num>
@@ -11167,7 +11167,7 @@
 						<num>§ 527.</num>
 						<heading> Establishment of working capital fund</heading>
 						<content>
-							<p>There is hereby authorized to be established a working capital fund for the Department of Justice, which shall be available, without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Attorney General, with the approval of the Office of Management and Budget, determines may be performed more advantageously as central services. The capital of the fund shall consist of the amount of the fair and reasonable value of such inventories, equipment, and other assets and inventories on order pertaining to the services to be carried on by the fund as the Attorney General may transfer to the fund less related liabilities and unpaid obligations together with any appropriations made for the purpose of providing capital. The fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Department of Justice, other Federal agencies, and other sources authorized by law for supplies, materials, and services at rates which will recover the expenses of operations including accrual of annual leave and depreciation of plant and equipment of the fund. The fund shall also be credited with other receipts from sale or exchange of property or in payment for loss or damage to property held by the fund. There shall be transferred into the Treasury as miscellaneous receipts, as of the close of each fiscal year, any net income after making provisions for prior year losses, if any.</p>
+							<p>There is hereby authorized to be established a working capital fund for the Department of Justice, which shall be available, without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Attorney General, with the approval of the Office of Management and Budget, determines may be performed more advantageously as central services. The capital of the fund shall consist of the amount of the fair and reasonable value of such inventories, equipment, and other assets and inventories on order pertaining to the services to be carried on by the fund as the Attorney General may transfer to the fund less related liabilities and unpaid obligations together with any appropriations made for the purpose of providing capital. The fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of: (1) the Department of Justice, other Federal agencies, and other sources authorized by law for supplies, materials, and services; and (2) federally recognized tribes for supplies, materials, and services related to access to Federal law enforcement databases; at rates which will recover the expenses of operations including accrual of annual leave and depreciation of plant and equipment of the fund. The fund shall also be credited with other receipts from sale or exchange of property or in payment for loss or damage to property held by the fund. There shall be transferred into the Treasury as miscellaneous receipts, as of the close of each fiscal year, any net income after making provisions for prior year losses, if any.</p>
 						</content>
 					</section>
 					<section identifier="/us/usc/t28/s528">
@@ -23994,7 +23994,11 @@
 						<num>§ 1609.</num>
 						<heading> Immunity from attachment and execution of property of a foreign state</heading>
 						<content>
-							<p>Subject to existing international agreements to which the United States is a party at the time of enactment of this Act the property in the United States of a foreign state shall be immune from attachment arrest and execution except as provided in sections 1610 and 1611 of this chapter.</p>
+							<p>
+								Subject to existing international agreements to which the United States is a party at the time of enactment of this Act the property in the United States of a foreign state shall be immune from attachment 
+								 arrest 
+								 and execution except as provided in sections 1610 and 1611 of this chapter.
+							</p>
 						</content>
 					</section>
 					<section identifier="/us/usc/t28/s1610">
@@ -25989,7 +25993,7 @@ Amendments</column>
 						<heading> Payment of fees</heading>
 						<subsection identifier="/us/usc/t28/s1825/a">
 							<num>(a)</num>
-							<chapeau> In any case in which the United States or an officer or agency of the United States is a party, the United States marshal for the district shall pay all fees of witnesses on the certificate of the United States attorney or assistant United States attorney, and in the proceedings before a United States magistrate judge, on the certificate of such magistrate judge, except that any fees of defense witnesses, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the United States marshal for the district—</chapeau>
+							<chapeau> In any case in which the United States or an officer or agency of the United States is a party, the Attorney General shall pay all fees of witnesses on the certificate of the United States attorney or assistant United States attorney, and in the proceedings before a United States magistrate judge, on the certificate of such magistrate judge, except that any fees of defense witnesses, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the Attorney General—</chapeau>
 							<paragraph identifier="/us/usc/t28/s1825/a/1">
 								<num>(1)</num>
 								<content> on the certificate of a Federal public defender or assistant Federal public defender, in a criminal case in which the defendant is represented by such Federal public defender or assistant Federal public defender, and</content>
@@ -26008,7 +26012,7 @@ Amendments</column>
 							<chapeau>
 								 In proceedings in forma pauperis for a writ of habeas corpus, and in proceedings in forma pauperis under 
 								<ref href="/us/usc/t28/s2255">section 2255 of this title</ref>
-								, the United States marshal for the district shall pay, on the certificate of the district judge, all fees of witnesses for the party authorized to proceed in forma pauperis, except that any fees of witnesses for such party, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the United States marshal for the district—
+								, the Attorney General shall pay, on the certificate of the district judge, all fees of witnesses for the party authorized to proceed in forma pauperis, except that any fees of witnesses for such party, other than experts, appearing pursuant to subpoenas issued upon approval of the court, shall be paid by the Attorney General—
 							</chapeau>
 							<paragraph identifier="/us/usc/t28/s1825/b/1">
 								<num>(1)</num>
@@ -26028,7 +26032,7 @@ Amendments</column>
 							<content>
 								 Fees and mileage need not be tendered to a witness upon service of a subpoena issued on behalf of the United States or an officer or agency of the United States, upon service of a subpoena issued on behalf of a defendant represented by a Federal public defender, assistant Federal public defender, or other attorney appointed pursuant to 
 								<ref href="/us/usc/t18/s3006A">section 3006A of title 18</ref>
-								, or upon service of a subpoena issued on behalf of a party authorized to proceed in forma pauperis, if the payment of such fees and mileage is to be made by the United States marshal under this section.
+								, or upon service of a subpoena issued on behalf of a party authorized to proceed in forma pauperis, if the payment of such fees and mileage is to be made by the Attorney General under this section.
 							</content>
 						</subsection>
 					</section>
@@ -29996,7 +30000,10 @@ Amendments</column>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t28/s2342/3/B">
 								<num>(B)</num>
-								<content> the Federal Maritime Commission issued pursuant to section 305, 41304, 41308, or 41309 or chapter 421 or 441 of title 46;</content>
+								<content>
+									 the Federal Maritime Commission issued pursuant to section 305,
+									 41304, 41308, or 41309 or chapter 421 or 441 of title 46;
+								</content>
 							</subparagraph>
 						</paragraph>
 						<paragraph identifier="/us/usc/t28/s2342/4">

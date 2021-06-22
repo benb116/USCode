@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t5a" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t5a">
 	<appendix identifier="/us/usc/t5a">
 		<num>Title 5—APPENDIX</num>
 		<heading>FEDERAL ADVISORY COMMITTEE ACT</heading>
@@ -4346,6 +4346,72 @@
 							.—
 						</heading>
 						<content>The Chairperson of the Council shall maintain the records of the Integrity Committee.</content>
+					</paragraph>
+				</subsection>
+				<subsection identifier="/us/usc/t5a/pl/95/452/s11/e">
+					<num>(e)</num>
+					<heading> Oversight.gov.—</heading>
+					<paragraph identifier="/us/usc/t5a/pl/95/452/s11/e/1">
+						<num>(1)</num>
+						<heading>
+							<inline>Definition</inline>
+							.—
+						</heading>
+						<chapeau>In this subsection, the term “Office of Inspector General” means the Office of—</chapeau>
+						<subparagraph identifier="/us/usc/t5a/pl/95/452/s11/e/1/A">
+							<num>(A)</num>
+							<content> an Inspector General described in subparagraph (A), (B), or (I) of subsection (b)(1);</content>
+						</subparagraph>
+						<subparagraph identifier="/us/usc/t5a/pl/95/452/s11/e/1/B">
+							<num>(B)</num>
+							<content>
+								 the Special Inspector General for Afghanistan Reconstruction established under section 1229 of the National Defense Authorization Act for Fiscal Year 2008 (
+								<ref href="/us/pl/110/181">Public Law 110–181</ref>
+								; 
+								<ref href="/us/stat/122/379">122 Stat. 379</ref>
+								);
+							</content>
+						</subparagraph>
+						<subparagraph identifier="/us/usc/t5a/pl/95/452/s11/e/1/C">
+							<num>(C)</num>
+							<content>
+								 the Special Inspector General for the Troubled Asset Relief Plan established under section 121 of title I of the Emergency Economic Stabilization Act of 2008 (
+								<ref href="/us/usc/t12/s5231">12 U.S.C. 5231</ref>
+								); and
+							</content>
+						</subparagraph>
+						<subparagraph identifier="/us/usc/t5a/pl/95/452/s11/e/1/D">
+							<num>(D)</num>
+							<content>
+								 the Special Inspector General for Pandemic Recovery established under section 4018 of the CARES Act (
+								<ref href="/us/usc/t15/s9053">15 U.S.C. 9053</ref>
+								).
+							</content>
+						</subparagraph>
+					</paragraph>
+					<paragraph identifier="/us/usc/t5a/pl/95/452/s11/e/2">
+						<num>(2)</num>
+						<heading>
+							<inline>Establishment</inline>
+							.—
+						</heading>
+						<chapeau>The Council shall establish and maintain a website entitled “oversight.gov”—</chapeau>
+						<subparagraph identifier="/us/usc/t5a/pl/95/452/s11/e/2/A">
+							<num>(A)</num>
+							<content> to consolidate all public reports from each Office of Inspector General to improve the access of the public to any audit report, inspection report, or evaluation report (or portion of any such report) made by an Office of Inspector General; and</content>
+						</subparagraph>
+						<subparagraph identifier="/us/usc/t5a/pl/95/452/s11/e/2/B">
+							<num>(B)</num>
+							<content> that shall include any additional resources, information, and enhancements as the Council determines are necessary or desirable.</content>
+						</subparagraph>
+					</paragraph>
+					<paragraph identifier="/us/usc/t5a/pl/95/452/s11/e/3">
+						<num>(3)</num>
+						<heading>
+							<inline>Participation of offices of inspectors general</inline>
+							.—
+						</heading>
+						<content>Each Office of Inspector General that publishes an audit report, inspection report, or evaluation report (or portion of any such report) on the website of the Office of Inspector General shall, or in the case of the office of an Inspector General described in subparagraph (I) of subsection (b)(1) may, contemporaneously publish the report or portion thereof on oversight.gov in a manner prescribed by the Council.</content>
 					</paragraph>
 				</subsection>
 			</section>
@@ -8827,7 +8893,7 @@ TITLE V—GOVERNMENT-WIDE LIMITATIONS ON OUTSIDE EARNED INCOME AND EMPLOYMENT</c
 						, 
 						<ref href="/us/stat/120/1710">120 Stat. 1710</ref>
 						. See 
-						<ref href="/us/usc/t46/s301">section 301 of Title 46</ref>
+						<ref href="/us/usc/t46/s46101">section 46101 of Title 46</ref>
 						, Shipping.
 					</p>
 				</content>
@@ -12297,7 +12363,7 @@ TITLE V—GOVERNMENT-WIDE LIMITATIONS ON OUTSIDE EARNED INCOME AND EMPLOYMENT</c
 						<date date="2006-10-06">Oct. 6, 2006</date>
 						, 
 						<ref href="/us/stat/120/1710">120 Stat. 1710</ref>
-						. Section 101 related to creation of Federal Maritime Commission. Section 102 related to composition of the Commission. Section 103 related to transfer of functions to Commission. Section 104 related to transfer of functions to Chairman. Section 105 related to authority to delegate. See sections 301 et seq. of Title 46, Shipping.]
+						. Section 101 related to creation of Federal Maritime Commission. Section 102 related to composition of the Commission. Section 103 related to transfer of functions to Commission. Section 104 related to transfer of functions to Chairman. Section 105 related to authority to delegate. See sections 46101 et seq. of Title 46, Shipping.]
 					</p>
 					<p>Part II. Department of Commerce</p>
 					<p>

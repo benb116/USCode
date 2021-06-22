@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t3" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t3">
 	<main>
 		<title identifier="/us/usc/t3">
 			<num>Title 3—</num>
@@ -1587,6 +1587,18 @@ SUBCHAPTER IV—EFFECTIVE DATE</column>
 										<content> the term “eligible employee” as used in the Family and Medical Leave Act of 1993 means a covered employee who has been employed in any employing office for 12 months and for at least 1,250 hours of employment during the previous 12 months.</content>
 									</subparagraph>
 								</paragraph>
+								<paragraph identifier="/us/usc/t3/s412/a/3">
+									<num>(3)</num>
+									<heading>
+										<inline>Exception</inline>
+										.—
+									</heading>
+									<content>
+										Notwithstanding section 401(b)(2), the requirements of paragraph (2)(B) shall not apply with respect to leave under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1993 (
+										<ref href="/us/usc/t29/s2612/a/1">29 U.S.C. 2612(a)(1)</ref>
+										).
+									</content>
+								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t3/s412/b">
 								<num>(b)</num>
@@ -1599,9 +1611,51 @@ SUBCHAPTER IV—EFFECTIVE DATE</column>
 							<subsection identifier="/us/usc/t3/s412/c">
 								<num>(c)</num>
 								<heading>
-									<inline>Regulations To Implement Section.—</inline>
+									<inline>Special Rules for Substitution of Paid Leave.—</inline>
 								</heading>
 								<paragraph identifier="/us/usc/t3/s412/c/1">
+									<num>(1)</num>
+									<heading>
+										<inline>Substitution of paid leave</inline>
+										.—
+									</heading>
+									<content>
+										A covered employee may elect to substitute for any leave without pay under subparagraph (A) or (B) of section 102(a)(1) of the Family and Medical Leave Act of 1993 (
+										<ref href="/us/usc/t29/s2612/a/1">29 U.S.C. 2612(a)(1)</ref>
+										) any paid leave which is available to such employee for that purpose.
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t3/s412/c/2">
+									<num>(2)</num>
+									<heading>
+										<inline>Available leave</inline>
+										.—
+									</heading>
+									<content>
+										The paid leave that is available to a covered employee for purposes of paragraph (1) is leave of the type and in the amount available to an employee under 
+										<ref href="/us/usc/t5/s6382/d/2/B">section 6382(d)(2)(B) of title 5</ref>
+										, United States Code, for substitution for leave without pay under subparagraph (A) or (B) of section 6382(a)(1) of such title.
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t3/s412/c/3">
+									<num>(3)</num>
+									<heading>
+										<inline>Consistency with title 5</inline>
+										.—
+									</heading>
+									<content>
+										Paid leave shall be substituted under this subsection in a manner that is consistent with the requirements in 
+										<ref href="/us/usc/t5/s6382/d/2">section 6382(d)(2) of title 5</ref>
+										, United States Code, except that a reference in that section to an employing agency shall be considered to be a reference to an employing office, and subparagraph (E) of that section shall not apply.
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t3/s412/d">
+								<num>(d)</num>
+								<heading>
+									<inline>Regulations To Implement Section.—</inline>
+								</heading>
+								<paragraph identifier="/us/usc/t3/s412/d/1">
 									<num>(1)</num>
 									<heading>
 										<inline>In general</inline>
@@ -1609,43 +1663,47 @@ SUBCHAPTER IV—EFFECTIVE DATE</column>
 									</heading>
 									<content>The President, or the designee of the President, shall issue regulations to implement this section.</content>
 								</paragraph>
-								<paragraph identifier="/us/usc/t3/s412/c/2">
+								<paragraph identifier="/us/usc/t3/s412/d/2">
 									<num>(2)</num>
 									<heading>
 										<inline>Agency regulations</inline>
 										.—
 									</heading>
 									<chapeau>The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsections (a) and (b)—</chapeau>
-									<subparagraph identifier="/us/usc/t3/s412/c/2/A">
+									<subparagraph identifier="/us/usc/t3/s412/d/2/A">
 										<num>(A)</num>
-										<content> except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section; and</content>
+										<content> except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section;</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t3/s412/c/2/B">
+									<subparagraph identifier="/us/usc/t3/s412/d/2/B">
 										<num>(B)</num>
 										<chapeau> except that the President or designee may, at the discretion of the President or designee, issue regulations to implement a provision of subchapter V of chapter 63 of title 5, United States Code, that applies to employees in the executive branch of the Federal Government in lieu of an analogous statutory provision referred to in subsection (a) or (b), if the issuance of such regulations—</chapeau>
-										<clause identifier="/us/usc/t3/s412/c/2/B/i">
+										<clause identifier="/us/usc/t3/s412/d/2/B/i">
 											<num>(i)</num>
 											<content> would be equally effective for the implementation of the rights and protections under this section; and</content>
 										</clause>
-										<clause identifier="/us/usc/t3/s412/c/2/B/ii">
+										<clause identifier="/us/usc/t3/s412/d/2/B/ii">
 											<num>(ii)</num>
-											<content> would promote uniformity in the application of Federal law to employees in the executive branch of the Federal Government.</content>
+											<content> would promote uniformity in the application of Federal law to employees in the executive branch of the Federal Government; and</content>
 										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t3/s412/d/2/C">
+										<num>(C)</num>
+										<content> except that the President or designee shall issue regulations to implement subsection (c) in accordance with the requirements of that subsection.</content>
 									</subparagraph>
 								</paragraph>
 							</subsection>
-							<subsection identifier="/us/usc/t3/s412/d">
-								<num>(d)</num>
+							<subsection identifier="/us/usc/t3/s412/e">
+								<num>(e)</num>
 								<heading>
 									<inline>Effective Date</inline>
 									.—
 								</heading>
 								<chapeau>Subsections (a) and (b) shall take effect on the earlier of—</chapeau>
-								<paragraph identifier="/us/usc/t3/s412/d/1">
+								<paragraph identifier="/us/usc/t3/s412/e/1">
 									<num>(1)</num>
-									<content> the effective date of regulations issued under subsection (c); or</content>
+									<content> the effective date of regulations issued under subsection (c) (as in effect on the date of enactment of the Presidential and Executive Office Accountability Act); or</content>
 								</paragraph>
-								<paragraph identifier="/us/usc/t3/s412/d/2">
+								<paragraph identifier="/us/usc/t3/s412/e/2">
 									<num>(2)</num>
 									<content>
 										<date date="1998-10-01">October 1, 1998</date>

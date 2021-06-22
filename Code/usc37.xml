@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t37" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t37">
 	<main>
 		<title identifier="/us/usc/t37">
 			<num>Title 37—</num>
@@ -159,11 +159,11 @@
 					</paragraph>
 					<paragraph identifier="/us/usc/t37/s101/3">
 						<num>(3)</num>
-						<content> The term “uniformed services” means the Army, Navy, Air Force, Marine Corps, Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service.</content>
+						<content> The term “uniformed services” means the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, National Oceanic and Atmospheric Administration, and Public Health Service.</content>
 					</paragraph>
 					<paragraph identifier="/us/usc/t37/s101/4">
 						<num>(4)</num>
-						<content> The term “armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.</content>
+						<content> The term “armed forces” means the Army, Navy, Air Force, Marine Corps, Space Force,and Coast Guard.</content>
 					</paragraph>
 					<paragraph identifier="/us/usc/t37/s101/5">
 						<num>(5)</num>
@@ -178,7 +178,7 @@
 						</subparagraph>
 						<subparagraph identifier="/us/usc/t37/s101/5/C">
 							<num>(C)</num>
-							<content> the Secretary of the Air Force, with respect to matters concerning the Air Force;</content>
+							<content> the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force;</content>
 						</subparagraph>
 						<subparagraph identifier="/us/usc/t37/s101/5/D">
 							<num>(D)</num>
@@ -455,219 +455,226 @@
 					<heading> Pay grades: assignment to; general rules</heading>
 					<subsection identifier="/us/usc/t37/s201/a">
 						<num>(a)</num>
-						<content>
-							 For the purpose of computing their basic pay, commissioned officers of the uniformed services (other than commissioned warrant officers) are assigned by the grade or rank in which serving to the following pay grades:
-							<table>
-								<colgroup>
-									<col/>
-									<col/>
-									<col/>
-									<col/>
-								</colgroup>
-								<thead>
-									<tr>
-										<th>
-											<p>Pay grade</p>
-										</th>
-										<th>
-											<p>Army, Air Force, and Marine Corps</p>
-										</th>
-										<th>
-											<p>Navy, Coast Guard, and</p>
-											<p>National Oceanic and Atmospheric Administration</p>
-										</th>
-										<th>
-											<p>Public Health Service</p>
-										</th>
-									</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<td>
-											<p>
-												<span>O–10</span>
-											</p>
-										</td>
-										<td>
-											<p>
-												<span>General</span>
-											</p>
-										</td>
-										<td>
-											<p>
-												<span>Admiral</span>
-											</p>
-										</td>
-										<td>
-											<p>Assistant Secretary for Health.</p>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<p>
-												<span>O–9</span>
-											</p>
-										</td>
-										<td>
-											<p>Lieutenant general</p>
-										</td>
-										<td>
-											<p>
-												<span>Vice admiral</span>
-											</p>
-										</td>
-										<td>
-											<p>Surgeon General.</p>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<p>
-												<span>O–8</span>
-											</p>
-										</td>
-										<td>
-											<p>Major general</p>
-										</td>
-										<td>
-											<p>
-												<span>Rear admiral</span>
-											</p>
-										</td>
-										<td>
-											<p>Deputy Surgeon General.</p>
-											<p>Assistant Surgeon General having rank of major general.</p>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<p>
-												<span>O–7</span>
-											</p>
-										</td>
-										<td>
-											<p>Brigadier general</p>
-										</td>
-										<td>
-											<p>Rear admiral (lower half)</p>
-										</td>
-										<td>
-											<p>Assistant Surgeon General having rank of brigadier general.</p>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<p>
-												<span>O–6</span>
-											</p>
-										</td>
-										<td>
-											<p>
-												<span>Colonel</span>
-											</p>
-										</td>
-										<td>
-											<p>
-												<span>Captain</span>
-											</p>
-										</td>
-										<td>
-											<p>Director grade.</p>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<p>
-												<span>O–5</span>
-											</p>
-										</td>
-										<td>
-											<p>Lieutenant colonel</p>
-										</td>
-										<td>
-											<p>
-												<span>Commander</span>
-											</p>
-										</td>
-										<td>
-											<p>Senior grade.</p>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<p>
-												<span>O–4</span>
-											</p>
-										</td>
-										<td>
-											<p>
-												<span>Major</span>
-											</p>
-										</td>
-										<td>
-											<p>Lieutenant commander</p>
-										</td>
-										<td>
-											<p>Full grade.</p>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<p>
-												<span>O–3</span>
-											</p>
-										</td>
-										<td>
-											<p>
-												<span>Captain</span>
-											</p>
-										</td>
-										<td>
-											<p>
-												<span>Lieutenant</span>
-											</p>
-										</td>
-										<td>
-											<p>Senior assistant grade.</p>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<p>
-												<span>O–2</span>
-											</p>
-										</td>
-										<td>
-											<p>1st lieu­tenant</p>
-										</td>
-										<td>
-											<p>Lieutenant (junior grade)</p>
-										</td>
-										<td>
-											<p>Assistant grade.</p>
-										</td>
-									</tr>
-									<tr>
-										<td>
-											<p>
-												<span>O–1</span>
-											</p>
-										</td>
-										<td>
-											<p>2d lieu­tenant</p>
-										</td>
-										<td>
-											<p>
-												<span>Ensign</span>
-											</p>
-										</td>
-										<td>
-											<p>Junior assistant grade.</p>
-										</td>
-									</tr>
-								</tbody>
-							</table>
-						</content>
+						<paragraph identifier="/us/usc/t37/s201/a/1">
+							<num>(1)</num>
+							<content>
+								 Subject to paragraph (2), for the purpose of computing their basic pay, commissioned officers of the uniformed services (other than commissioned warrant officers) are assigned by the grade or rank in which serving to the following pay grades:
+								<table>
+									<colgroup>
+										<col/>
+										<col/>
+										<col/>
+										<col/>
+									</colgroup>
+									<thead>
+										<tr>
+											<th>
+												<p>Pay grade</p>
+											</th>
+											<th>
+												<p>Army, Air Force, and Marine Corps</p>
+											</th>
+											<th>
+												<p>Navy, Coast Guard, and</p>
+												<p>National Oceanic and Atmospheric Administration</p>
+											</th>
+											<th>
+												<p>Public Health Service</p>
+											</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>
+												<p>
+													<span>O–10</span>
+												</p>
+											</td>
+											<td>
+												<p>
+													<span>General</span>
+												</p>
+											</td>
+											<td>
+												<p>
+													<span>Admiral</span>
+												</p>
+											</td>
+											<td>
+												<p>Assistant Secretary for Health.</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p>
+													<span>O–9</span>
+												</p>
+											</td>
+											<td>
+												<p>Lieutenant general</p>
+											</td>
+											<td>
+												<p>
+													<span>Vice admiral</span>
+												</p>
+											</td>
+											<td>
+												<p>Surgeon General.</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p>
+													<span>O–8</span>
+												</p>
+											</td>
+											<td>
+												<p>Major general</p>
+											</td>
+											<td>
+												<p>
+													<span>Rear admiral</span>
+												</p>
+											</td>
+											<td>
+												<p>Deputy Surgeon General.</p>
+												<p>Assistant Surgeon General having rank of major general.</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p>
+													<span>O–7</span>
+												</p>
+											</td>
+											<td>
+												<p>Brigadier general</p>
+											</td>
+											<td>
+												<p>Rear admiral (lower half)</p>
+											</td>
+											<td>
+												<p>Assistant Surgeon General having rank of brigadier general.</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p>
+													<span>O–6</span>
+												</p>
+											</td>
+											<td>
+												<p>
+													<span>Colonel</span>
+												</p>
+											</td>
+											<td>
+												<p>
+													<span>Captain</span>
+												</p>
+											</td>
+											<td>
+												<p>Director grade.</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p>
+													<span>O–5</span>
+												</p>
+											</td>
+											<td>
+												<p>Lieutenant colonel</p>
+											</td>
+											<td>
+												<p>
+													<span>Commander</span>
+												</p>
+											</td>
+											<td>
+												<p>Senior grade.</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p>
+													<span>O–4</span>
+												</p>
+											</td>
+											<td>
+												<p>
+													<span>Major</span>
+												</p>
+											</td>
+											<td>
+												<p>Lieutenant commander</p>
+											</td>
+											<td>
+												<p>Full grade.</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p>
+													<span>O–3</span>
+												</p>
+											</td>
+											<td>
+												<p>
+													<span>Captain</span>
+												</p>
+											</td>
+											<td>
+												<p>
+													<span>Lieutenant</span>
+												</p>
+											</td>
+											<td>
+												<p>Senior assistant grade.</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p>
+													<span>O–2</span>
+												</p>
+											</td>
+											<td>
+												<p>1st lieu­tenant</p>
+											</td>
+											<td>
+												<p>Lieutenant (junior grade)</p>
+											</td>
+											<td>
+												<p>Assistant grade.</p>
+											</td>
+										</tr>
+										<tr>
+											<td>
+												<p>
+													<span>O–1</span>
+												</p>
+											</td>
+											<td>
+												<p>2d lieu­tenant</p>
+											</td>
+											<td>
+												<p>
+													<span>Ensign</span>
+												</p>
+											</td>
+											<td>
+												<p>Junior assistant grade.</p>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t37/s201/a/2">
+							<num>(2)</num>
+							<content> For the purpose of computing their basic pay, commissioned officers of the Space Force are assigned to the pay grades in the table in paragraph (1) by grade or rank in the Air Force that is equivalent to the grade or rank in which such officers are serving in the Space Force.</content>
+						</paragraph>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s201/b">
 						<num>(b)</num>
@@ -1245,7 +1252,7 @@
 						</paragraph>
 						<paragraph identifier="/us/usc/t37/s206/a/2">
 							<num>(2)</num>
-							<content> for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe; or</content>
+							<content> for the performance of such other equivalent training, instruction, duty, or appropriate duties, as the Secretary may prescribe;</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t37/s206/a/3">
 							<num>(3)</num>
@@ -1268,8 +1275,12 @@
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t37/s206/a/3/C">
 								<num>(C)</num>
-								<content> in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training.</content>
+								<content> in line of duty while remaining overnight immediately before the commencement of inactive-duty training, or while remaining overnight, between successive periods of inactive-duty training, at or in the vicinity of the site of the inactive-duty training; or</content>
 							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t37/s206/a/4">
+							<num>(4)</num>
+							<content> for each of six days for each period during which the member is on maternity leave.</content>
 						</paragraph>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s206/b">
@@ -1477,6 +1488,10 @@
 						</paragraph>
 						<paragraph identifier="/us/usc/t37/s210/c/5">
 							<num>(5)</num>
+							<content> The senior enlisted advisor of the Space Force.</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t37/s210/c/6">
+							<num>(6)</num>
 							<content> The Master Chief Petty Officer of the Coast Guard.</content>
 						</paragraph>
 					</subsection>
@@ -9460,7 +9475,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							</heading>
 							<content>
 								No agreement may be entered into under this section after 
-								<date date="2020-12-31">December 31, 2020</date>
+								<date date="2021-12-31">December 31, 2021</date>
 								.
 							</content>
 						</subsection>
@@ -9614,7 +9629,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							</heading>
 							<content>
 								No agreement may be entered into under this section after 
-								<date date="2020-12-31">December 31, 2020</date>
+								<date date="2021-12-31">December 31, 2021</date>
 								.
 							</content>
 						</subsection>
@@ -9778,7 +9793,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							</heading>
 							<content>
 								No agreement may be entered into under this section after 
-								<date date="2020-12-31">December 31, 2020</date>
+								<date date="2021-12-31">December 31, 2021</date>
 								.
 							</content>
 						</subsection>
@@ -10048,7 +10063,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							</heading>
 							<content>
 								No agreement may be entered into under this section after 
-								<date date="2020-12-31">December 31, 2020</date>
+								<date date="2021-12-31">December 31, 2021</date>
 								.
 							</content>
 						</subsection>
@@ -10394,31 +10409,31 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 								<chapeau>The Secretary concerned shall determine the amounts of a bonus or incentive pay to be paid under this section, except that—</chapeau>
 								<subparagraph identifier="/us/usc/t37/s335/e/1/A">
 									<num>(A)</num>
-									<content> a health professions bonus paid under paragraph (1) of subsection (a) may not exceed $30,000 for each 12-month period of obligated service agreed to under subsection (f);</content>
+									<content> a health professions bonus paid under paragraph (1) of subsection (a) may not exceed $100,000 for each 12-month period of obligated service agreed to under subsection (f);</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t37/s335/e/1/B">
 									<num>(B)</num>
-									<content> a health professions bonus paid under paragraph (2) of subsection (a) may not exceed $100,000 for each 12-month period of obligated service agreed to under subsection (f);</content>
+									<content> a health professions bonus paid under paragraph (2) of subsection (a) may not exceed $200,000 for each 12-month period of obligated service agreed to under subsection (f);</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t37/s335/e/1/C">
 									<num>(C)</num>
-									<content> a health professions bonus paid under paragraph (3) of subsection (a) may not exceed $75,000 for each 12-month period of obligated service agreed to under subsection (f);</content>
+									<content> a health professions bonus paid under paragraph (3) of subsection (a) may not exceed $150,000 for each 12-month period of obligated service agreed to under subsection (f);</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t37/s335/e/1/D">
 									<num>(D)</num>
 									<chapeau> health professions incentive pay under subsection (b) may be paid monthly and may not exceed, in any 12-month period—</chapeau>
 									<clause identifier="/us/usc/t37/s335/e/1/D/i">
 										<num>(i)</num>
-										<content> $100,000 for medical officers and dental officers; and</content>
+										<content> $200,000 for medical officers and dental officers; and</content>
 									</clause>
 									<clause identifier="/us/usc/t37/s335/e/1/D/ii">
 										<num>(ii)</num>
-										<content> $15,000 for officers in other health professions; and</content>
+										<content> $50,000 for officers in other health professions; and</content>
 									</clause>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t37/s335/e/1/E">
 									<num>(E)</num>
-									<content> board certification incentive pay under subsection (c) may not exceed $6,000 for each 12-month period an officer remains certified in the designated health profession specialty or skill.</content>
+									<content> board certification incentive pay under subsection (c) may not exceed $15,000 for each 12-month period an officer remains certified in the designated health profession specialty or skill.</content>
 								</subparagraph>
 							</paragraph>
 							<paragraph identifier="/us/usc/t37/s335/e/2">
@@ -10585,7 +10600,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							</heading>
 							<content>
 								No agreement may be entered into under this section after 
-								<date date="2020-12-31">December 31, 2020</date>
+								<date date="2021-12-31">December 31, 2021</date>
 								.
 							</content>
 						</subsection>
@@ -10673,7 +10688,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							</heading>
 							<content>
 								No agreement under this section may be entered into after 
-								<date date="2020-12-31">December 31, 2020</date>
+								<date date="2021-12-31">December 31, 2021</date>
 								.
 							</content>
 						</subsection>
@@ -10720,11 +10735,11 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t37/s351/b/2">
 								<num>(2)</num>
-								<content> In the case of a member who performs a designated hazardous duty, as described in subsection (a)(2), hazardous duty pay may not exceed $250 per month.</content>
+								<content> In the case of a member who performs a designated hazardous duty, as described in subsection (a)(2), hazardous duty pay may not exceed $275 per month.</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t37/s351/b/3">
 								<num>(3)</num>
-								<content> In the case of a member who performs duty in a foreign area designated as an imminent danger area, as described in subsection (a)(3), hazardous duty pay may not exceed $250 per month.</content>
+								<content> In the case of a member who performs duty in a foreign area designated as an imminent danger area, as described in subsection (a)(3), hazardous duty pay may not exceed $275 per month.</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t37/s351/c">
@@ -10752,7 +10767,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 									<chapeau> in the case of hazardous duty pay payable under paragraph (1) of subsection (a), the Secretary concerned—</chapeau>
 									<clause identifier="/us/usc/t37/s351/c/2/A/i">
 										<num>(i)</num>
-										<content> shall prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month; or</content>
+										<content> may prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month; or</content>
 									</clause>
 									<clause identifier="/us/usc/t37/s351/c/2/A/ii">
 										<num>(ii)</num>
@@ -10761,7 +10776,22 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t37/s351/c/2/B">
 									<num>(B)</num>
-									<content> in the case of hazardous duty pay payable under paragraph (2) or (3) of subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month.</content>
+									<chapeau> in the case of hazardous duty pay payable under paragraph (2) of subsection (a), the Secretary concerned—</chapeau>
+									<clause identifier="/us/usc/t37/s351/c/2/B/i">
+										<num>(i)</num>
+										<content> may prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month; and</content>
+									</clause>
+									<clause identifier="/us/usc/t37/s351/c/2/B/ii">
+										<num>(ii)</num>
+										<content>
+											 in the case of member 
+											 who performs hazardous duty specifically designated by the Secretary concerned, shall pay the member hazardous duty pay in an amount not to exceed the maximum amount of hazardous duty pay that would be payable to the member under subsection (b)(2) for the entire month, regardless of the duration of the qualifying service.
+										</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t37/s351/c/2/C">
+									<num>(C)</num>
+									<content> In the case of hazardous duty pay payable under paragraph (3) of subsection (a), the Secretary concerned may prorate the payment amount to reflect the duration of the member’s actual qualifying service during the month.</content>
 								</subparagraph>
 							</paragraph>
 						</subsection>
@@ -10819,7 +10849,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							</heading>
 							<content>
 								No hazardous duty pay under this section may be paid after 
-								<date date="2020-12-31">December 31, 2020</date>
+								<date date="2021-12-31">December 31, 2021</date>
 								.
 							</content>
 						</subsection>
@@ -10983,7 +11013,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							</heading>
 							<content>
 								No agreement may be entered into under this section after 
-								<date date="2020-12-31">December 31, 2020</date>
+								<date date="2021-12-31">December 31, 2021</date>
 								.
 							</content>
 						</subsection>
@@ -11215,7 +11245,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							</heading>
 							<content>
 								No agreement may be entered into under this section after 
-								<date date="2020-12-31">December 31, 2020</date>
+								<date date="2021-12-31">December 31, 2021</date>
 								.
 							</content>
 						</subsection>
@@ -11521,7 +11551,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							</heading>
 							<content>
 								No bonus may be paid under this section with respect to any reenlistment, or voluntary extension of an enlistment, in the armed forces entered into after 
-								<date date="2020-12-31">December 31, 2020</date>
+								<date date="2021-12-31">December 31, 2021</date>
 								, and no agreement under this section may be entered into after that date.
 							</content>
 						</subsection>
@@ -11949,7 +11979,20 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 						<tocItem>
 							<column>
 								[
-								<ref href="/us/usc/t37/s404">404</ref>
+								<ref href="/us/usc/t37/s404">404.</ref>
+							</column>
+							<column>Repealed.]</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t37/s405">405.</ref>
+							</column>
+							<column>Travel and transportation allowances: per diem while on duty outside the continental United States.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								[
+								<ref href="/us/usc/t37/s406">406</ref>
 								 to 
 								<ref href="/us/usc/t37/s412">412.</ref>
 							</column>
@@ -12070,11 +12113,15 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 						<tocItem>
 							<column>
 								[
-								<ref href="/us/usc/t37/s434">434</ref>
-								, 
-								<ref href="/us/usc/t37/s435">435.</ref>
+								<ref href="/us/usc/t37/s434">434.</ref>
 							</column>
 							<column>Repealed.]</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t37/s435">435.</ref>
+							</column>
+							<column>Funeral honors duty: allowance.</column>
 						</tocItem>
 						<tocItem>
 							<column>
@@ -12738,7 +12785,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 								<num>(E)</num>
 								<content>
 									 An increase in the rates of basic allowance for housing for an area may not be prescribed under this paragraph or continue after 
-									<date date="2020-12-31">December 31, 2020</date>
+									<date date="2021-12-31">December 31, 2021</date>
 									.
 								</content>
 							</subparagraph>
@@ -13172,6 +13219,26 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 						</heading>
 						<content>In the case of a member who is assigned to duty at a location or under circumstances that make it necessary for the member to be reassigned under the conditions of low-cost or no-cost permanent change of station or permanent change of assignment, the member may be treated for the purposes of this section as if the member were not reassigned if the Secretary concerned determines that it would be inequitable to base the member’s entitlement to, and amount of, a basic allowance for housing on the cost of housing in the area to which the member is reassigned.</content>
 					</subsection>
+					<subsection identifier="/us/usc/t37/s403/p">
+						<num>(p)</num>
+						<heading>
+							<inline>Information on Rights and Protections Under Servicemembers Civil Relief Act</inline>
+							.—
+						</heading>
+						<chapeau>
+							The Secretary concerned shall provide to each member of a uniformed service who receives a basic allowance for housing under this section information on the rights and protections available to such member under the Servicemembers Civil Relief Act (
+							<ref href="/us/usc/t50/s3901">50 U.S.C. 3901</ref>
+							 et seq.)—
+						</chapeau>
+						<paragraph identifier="/us/usc/t37/s403/p/1">
+							<num>(1)</num>
+							<content> when such member first receives such basic allowance for housing; and</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t37/s403/p/2">
+							<num>(2)</num>
+							<content> each time such member receives a permanent change of station.</content>
+						</paragraph>
+					</subsection>
 				</section>
 				<section identifier="/us/usc/t37/s403a">
 					<num>§ 403a.</num>
@@ -13547,6 +13614,69 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 						</paragraph>
 					</subsection>
 				</section>
+				<section identifier="/us/usc/t37/s405">
+					<num>§ 405.</num>
+					<heading> Travel and transportation allowances: per diem while on duty outside the continental United States</heading>
+					<subsection identifier="/us/usc/t37/s405/a">
+						<num>(a)</num>
+						<heading>
+							<inline>Per Diem Authorized</inline>
+							.—
+						</heading>
+						<content>Without regard to the monetary limitation of this title, the Secretary concerned may pay a per diem to a member of the uniformed services who is on duty outside of the continental United States, whether or not the member is in a travel status. The Secretary may pay the per diem in advance of the accrual of the per diem.</content>
+					</subsection>
+					<subsection identifier="/us/usc/t37/s405/b">
+						<num>(b)</num>
+						<heading>
+							<inline>Determination of Per Diem</inline>
+							.—
+						</heading>
+						<content>In determining the per diem to be paid under this section, the Secretary concerned shall consider all elements of the cost of living to members of the uniformed services under the Secretary’s jurisdiction and their dependents, including the cost of quarters, subsistence, and other necessary incidental expenses. However, dependents may not be considered in determining the per diem allowance for a member in a travel status.</content>
+					</subsection>
+					<subsection identifier="/us/usc/t37/s405/c">
+						<num>(c)</num>
+						<heading>
+							<inline>Treatment of Housing Cost and Allowance</inline>
+							.—
+						</heading>
+						<content>Housing cost and allowance may be disregarded in prescribing a station cost of living allowance under this section.</content>
+					</subsection>
+					<subsection identifier="/us/usc/t37/s405/d">
+						<num>(d)</num>
+						<heading>
+							<inline>Unusual or Extraordinary Expenses</inline>
+							.—
+						</heading>
+						<paragraph identifier="/us/usc/t37/s405/d/1">
+							<num>(1)</num>
+							<chapeau> The Secretary concerned may reimburse a member of the uniformed services on duty as described in subsection (a) or (e) for an unusual or extraordinary expense incurred by the member incident to such duty that—</chapeau>
+							<subparagraph identifier="/us/usc/t37/s405/d/1/A">
+								<num>(A)</num>
+								<content> is directly related to the conditions or location of the duty or the location of the member’s dependents;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t37/s405/d/1/B">
+								<num>(B)</num>
+								<content> is of a nature or a magnitude not normally incurred by members of the uniformed services on duty inside the continental United States; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t37/s405/d/1/C">
+								<num>(C)</num>
+								<content> is not included in the per diem determined under subsection (b) as payable to the member under subsection (a) or (e).</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t37/s405/d/2">
+							<num>(2)</num>
+							<content> Any reimbursement provided to a member under paragraph (1) is in addition to a per diem payable to that member under subsection (a) or (e).</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t37/s405/e">
+						<num>(e)</num>
+						<heading>
+							<inline>Payment of Allowance Based on Overseas Location of Dependents</inline>
+							.—
+						</heading>
+						<content>In the case of a member assigned to duty inside the continental United States whose dependents continue to reside outside the continental United States, the Secretary concerned may pay the member a per diem under this section based on the location of the dependents and provide reimbursement under subsection (d) for an unusual or extraordinary expense incurred by the dependents if the Secretary determines that such payment or reimbursement is in the best interest of the member or the member’s dependents and in the best interest of the United States.</content>
+					</subsection>
+				</section>
 				<section identifier="/us/usc/t37/s413">
 					<num>§ 413.</num>
 					<heading> Chairman and Vice Chairman of the Joint Chiefs of Staff</heading>
@@ -13582,7 +13712,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 						</paragraph>
 						<paragraph identifier="/us/usc/t37/s414/a/5">
 							<num>(5)</num>
-							<content> $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Commandant of the Coast Guard, or Chief of the National Guard Bureau.</content>
+							<content> $4,000 a year, in place of any other personal money allowance authorized by this section, while serving as Chief of Staff of the Army, Chief of Naval Operations, Chief of Staff of the Air Force, Commandant of the Marine Corps, Chief of Space Operations, Commandant of the Coast Guard, or Chief of the National Guard Bureau.</content>
 						</paragraph>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s414/b">
@@ -13591,7 +13721,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							<inline>Allowance for Senior Enlisted Members</inline>
 							.—
 						</heading>
-						<content>In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.</content>
+						<content>In addition to other pay or allowances authorized by this title, a noncommissioned officer is entitled to a personal money allowance of $2,000 a year while serving as the Sergeant Major of the Army, the Master Chief Petty Officer of the Navy, the Chief Master Sergeant of the Air Force, the Sergeant Major of the Marine Corps, the senior enlisted advisor of the Space Force, the Master Chief Petty Officer of the Coast Guard, the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau.</content>
 					</subsection>
 				</section>
 				<section identifier="/us/usc/t37/s415">
@@ -13729,7 +13859,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 						<num>(d)</num>
 						<paragraph identifier="/us/usc/t37/s418/d/1">
 							<num>(1)</num>
-							<content> In the case of athletic footwear needed by members of the Army, Navy, Air Force, or Marine Corps upon their initial entry into the armed forces, the Secretary of Defense shall furnish such footwear directly to the members instead of providing a cash allowance to the members for the purchase of such footwear.</content>
+							<content> In the case of athletic footwear needed by members of the Army, Navy, Air Force, Marine Corps, or Space Force upon their initial entry into the armed forces, the Secretary of Defense shall furnish such footwear directly to the members instead of providing a cash allowance to the members for the purchase of such footwear.</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t37/s418/d/2">
 							<num>(2)</num>
@@ -13761,7 +13891,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 						</paragraph>
 						<paragraph identifier="/us/usc/t37/s418/d/4">
 							<num>(4)</num>
-							<content> This subsection does not apply to the furnishing of athletic footwear to members of the Army, the Navy, the Air Force, or the Marine Corps upon their initial entry into the armed forces, or prohibit the provision of a cash allowance to such members for such purpose, if the Secretary of Defense determines that compliance with paragraph (2) would result in a sole source contract for procurement of athletic footwear for the purpose stated in paragraph (1) because there would be only a sole certified source of supply for such footwear.</content>
+							<content> This subsection does not apply to the furnishing of athletic footwear to members of the Army, the Navy, the Air Force, the Marine Corps, or the Space Force upon their initial entry into the armed forces, or prohibit the provision of a cash allowance to such members for such purpose, if the Secretary of Defense determines that compliance with paragraph (2) would result in a sole source contract for procurement of athletic footwear for the purpose stated in paragraph (1) because there would be only a sole certified source of supply for such footwear.</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t37/s418/d/5">
 							<num>(5)</num>
@@ -13919,7 +14049,7 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t37/s427/a/1/B">
 								<num>(B)</num>
-								<content> he is on duty on board a ship away from the home port of the ship for a continuous period of more than 30 days; or</content>
+								<content> he is on duty on board a ship away from the home port of the ship (or under orders to remain on board the ship while at the home port) for a continuous period of more than 30 days; or</content>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t37/s427/a/1/C">
 								<num>(C)</num>
@@ -14071,6 +14201,43 @@ SUBCHAPTER III—GENERAL PROVISIONS</column>
 							<num>(2)</num>
 							<content> Payment of a stipend to a member of the Individual Ready Reserve under this section for participation in screening shall be made on or after the date of participation in such screening, but not later than 30 days after such date.</content>
 						</paragraph>
+					</subsection>
+				</section>
+				<section identifier="/us/usc/t37/s435">
+					<num>§ 435.</num>
+					<heading> Funeral honors duty: allowance</heading>
+					<subsection identifier="/us/usc/t37/s435/a">
+						<num>(a)</num>
+						<heading>
+							<inline>Allowance Authorized</inline>
+							.—
+						</heading>
+						<paragraph identifier="/us/usc/t37/s435/a/1">
+							<num>(1)</num>
+							<content>
+								 The Secretary concerned may authorize payment of an allowance to a member of the Ready Reserve for any day on which the member performs at least two hours of funeral honors duty pursuant to 
+								<ref href="/us/usc/t10/s12503">section 12503 of title 10</ref>
+								 or 
+								<ref href="/us/usc/t32/s115">section 115 of title 32</ref>
+								.
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t37/s435/a/2">
+							<num>(2)</num>
+							<content>
+								 The Secretary concerned may also authorize payment of that allowance to a member of the armed forces in a retired status for any day on which the member serves in a funeral honors detail under 
+								<ref href="/us/usc/t10/s1491">section 1491 of title 10</ref>
+								, if the time required for service in such detail (including time for preparation) is not less than two hours. The amount of an allowance paid to a member under this paragraph shall be in addition to any other compensation to which the member may be entitled under this title or title 10 or 38.
+							</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t37/s435/b">
+						<num>(b)</num>
+						<heading>
+							<inline>Amount</inline>
+							.—
+						</heading>
+						<content>The daily rate of an allowance under this section is $50.</content>
 					</subsection>
 				</section>
 				<section identifier="/us/usc/t37/s436">
@@ -14616,9 +14783,10 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW</column>
 						</tocItem>
 						<tocItem>
 							<column>
+								[
 								<ref href="/us/usc/t37/s475">475.</ref>
 							</column>
-							<column>Travel and transportation allowances: per diem while on duty outside the continental United States.</column>
+							<column>Transferred.]</column>
 						</tocItem>
 						<tocItem>
 							<column>
@@ -14796,19 +14964,11 @@ SUBCHAPTER III—TRAVEL AND TRANSPORTATION AUTHORITIES—OLD LAW</column>
 						</tocItem>
 						<tocItem>
 							<column>
+								[
 								<ref href="/us/usc/t37/s495">495.</ref>
 							</column>
-							<column>Funeral honors duty: allowance.</column>
+							<column>Transferred.]</column>
 						</tocItem>
-						<header>
-							<column>
-								<b>Editorial Notes</b>
-							</column>
-						</header>
-						<header>
-							<column>
-Amendments</column>
-						</header>
 					</layout>
 				</toc>
 				<subchapter identifier="/us/usc/t37/ch8/schI">
@@ -15146,7 +15306,7 @@ Amendments</column>
 							<chapeau>Travel and transportation allowances which may be provided under subsection (a) include the following:</chapeau>
 							<paragraph identifier="/us/usc/t37/s452/c/1">
 								<num>(1)</num>
-								<content> Allowances for transportation, lodging, and meals.</content>
+								<content> Allowances for transportation (including fares and tolls, without regard to distance travelled), lodging, and meals.</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t37/s452/c/2">
 								<num>(2)</num>
@@ -15158,6 +15318,10 @@ Amendments</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t37/s452/c/4">
 								<num>(4)</num>
+								<content> Passport and visa fees required for foreign travel.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t37/s452/c/5">
+								<num>(5)</num>
 								<content> Other related miscellaneous expenses.</content>
 							</paragraph>
 						</subsection>
@@ -15315,6 +15479,49 @@ Amendments</column>
 								<ref href="/us/usc/t37/s464">section 464 of this title</ref>
 								.
 							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t37/s453/g">
+							<num>(g)</num>
+							<heading>
+								<inline>Reimbursement of Qualifying Spouse Relicensing Costs Incident to a Member’s Permanent Change of Station or Assignment</inline>
+								.—
+							</heading>
+							<paragraph identifier="/us/usc/t37/s453/g/1">
+								<num>(1)</num>
+								<chapeau> From amounts otherwise made available for a fiscal year to provide travel and transportation allowances under this chapter, the Secretary concerned may reimburse a member of the uniformed services for qualified relicensing costs of the spouse of the member when—</chapeau>
+								<subparagraph identifier="/us/usc/t37/s453/g/1/A">
+									<num>(A)</num>
+									<content> the member is reassigned, either as a permanent change of station or permanent change of assignment, between duty stations located in separate jurisdictions with unique licensing or certification requirements and authorities; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t37/s453/g/1/B">
+									<num>(B)</num>
+									<content> the movement of the member’s dependents is authorized at the expense of the United States under this section as part of the reassignment.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t37/s453/g/2">
+								<num>(2)</num>
+								<content> Reimbursement provided to a member under this subsection may not exceed $1000 in connection with each reassignment described in paragraph (1).</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t37/s453/g/3">
+								<num>(3)</num>
+								<content>
+									 No reimbursement may be provided under this subsection for qualified relicensing costs paid or incurred after 
+									<date date="2024-12-31">December 31, 2024</date>
+									.
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t37/s453/g/4">
+								<num>(4)</num>
+								<chapeau> In this subsection, the term “qualified relicensing costs” means costs, including exam, continuing education courses, and registration fees, incurred by the spouse of a member if—</chapeau>
+								<subparagraph identifier="/us/usc/t37/s453/g/4/A">
+									<num>(A)</num>
+									<content> the spouse was licensed or certified in a profession during the member’s previous duty assignment and requires a new license or certification to engage in that profession in a new jurisdiction because of movement described in paragraph (1)(B) in connection with the member’s change in duty location pursuant to reassignment described in paragraph (1)(A); and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t37/s453/g/4/B">
+									<num>(B)</num>
+									<content> the costs were incurred or paid to secure or maintain the license or certification from the new jurisdiction in connection with such reassignment.</content>
+								</subparagraph>
+							</paragraph>
 						</subsection>
 					</section>
 					<section identifier="/us/usc/t37/s454">
@@ -16101,77 +16308,6 @@ Amendments</column>
 							<content>No payment or reimbursement may be provided under this section with respect to an authorized absence that begins after the travel authorities transition expiration date.</content>
 						</subsection>
 					</section>
-					<section identifier="/us/usc/t37/s475">
-						<num>§ 475.</num>
-						<heading> Travel and transportation allowances: per diem while on duty outside the continental United States</heading>
-						<subsection identifier="/us/usc/t37/s475/a">
-							<num>(a)</num>
-							<heading>
-								<inline>Per Diem Authorized</inline>
-								.—
-							</heading>
-							<content>Without regard to the monetary limitation of this title, the Secretary concerned may pay a per diem to a member of the uniformed services who is on duty outside of the continental United States, whether or not the member is in a travel status. The Secretary may pay the per diem in advance of the accrual of the per diem.</content>
-						</subsection>
-						<subsection identifier="/us/usc/t37/s475/b">
-							<num>(b)</num>
-							<heading>
-								<inline>Determination of Per Diem</inline>
-								.—
-							</heading>
-							<content>In determining the per diem to be paid under this section, the Secretary concerned shall consider all elements of the cost of living to members of the uniformed services under the Secretary’s jurisdiction and their dependents, including the cost of quarters, subsistence, and other necessary incidental expenses. However, dependents may not be considered in determining the per diem allowance for a member in a travel status.</content>
-						</subsection>
-						<subsection identifier="/us/usc/t37/s475/c">
-							<num>(c)</num>
-							<heading>
-								<inline>Treatment of Housing Cost and Allowance</inline>
-								.—
-							</heading>
-							<content>Housing cost and allowance may be disregarded in prescribing a station cost of living allowance under this section.</content>
-						</subsection>
-						<subsection identifier="/us/usc/t37/s475/d">
-							<num>(d)</num>
-							<heading>
-								<inline>Unusual or Extraordinary Expenses</inline>
-								.—
-							</heading>
-							<paragraph identifier="/us/usc/t37/s475/d/1">
-								<num>(1)</num>
-								<chapeau> The Secretary concerned may reimburse a member of the uniformed services on duty as described in subsection (a) or (e) for an unusual or extraordinary expense incurred by the member incident to such duty that—</chapeau>
-								<subparagraph identifier="/us/usc/t37/s475/d/1/A">
-									<num>(A)</num>
-									<content> is directly related to the conditions or location of the duty or the location of the member’s dependents;</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t37/s475/d/1/B">
-									<num>(B)</num>
-									<content> is of a nature or a magnitude not normally incurred by members of the uniformed services on duty inside the continental United States; and</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t37/s475/d/1/C">
-									<num>(C)</num>
-									<content> is not included in the per diem determined under subsection (b) as payable to the member under subsection (a) or (e).</content>
-								</subparagraph>
-							</paragraph>
-							<paragraph identifier="/us/usc/t37/s475/d/2">
-								<num>(2)</num>
-								<content> Any reimbursement provided to a member under paragraph (1) is in addition to a per diem payable to that member under subsection (a) or (e).</content>
-							</paragraph>
-						</subsection>
-						<subsection identifier="/us/usc/t37/s475/e">
-							<num>(e)</num>
-							<heading>
-								<inline>Payment of Allowance Based on Overseas Location of Dependents</inline>
-								.—
-							</heading>
-							<content>In the case of a member assigned to duty inside the continental United States whose dependents continue to reside outside the continental United States, the Secretary concerned may pay the member a per diem under this section based on the location of the dependents and provide reimbursement under subsection (d) for an unusual or extraordinary expense incurred by the dependents if the Secretary determines that such payment or reimbursement is in the best interest of the member or the member’s dependents and in the best interest of the United States.</content>
-						</subsection>
-						<subsection identifier="/us/usc/t37/s475/f">
-							<num>(f)</num>
-							<heading>
-								<inline>Termination</inline>
-								.—
-							</heading>
-							<content>During and after the travel authorities expiration date, no per diem may be paid under this section for any period.</content>
-						</subsection>
-					</section>
 					<section identifier="/us/usc/t37/s475a">
 						<num>§ 475a.</num>
 						<heading> Travel and transportation allowances: departure allowances</heading>
@@ -16668,7 +16804,10 @@ Amendments</column>
 						</subsection>
 						<subsection identifier="/us/usc/t37/s476/c">
 							<num>(c)</num>
-							<chapeau> The allowances and transportation authorized by subsections (a) and (b) are in addition to those authorized by sections 403(c), 474, and 475 of this title and are—</chapeau>
+							<chapeau>
+								 The allowances and transportation authorized by subsections (a) and (b) are in addition to those authorized by sections 403(c), 474, and 475 
+								 of this title and are—
+							</chapeau>
 							<paragraph identifier="/us/usc/t37/s476/c/1">
 								<num>(1)</num>
 								<content> subject to such conditions and limitations;</content>
@@ -16947,65 +17086,6 @@ Amendments</column>
 							<paragraph identifier="/us/usc/t37/s476/o/2">
 								<num>(2)</num>
 								<content> in a case covered by this section when such orders are not issued, with respect to a movement of baggage or household effects that begins after such date.</content>
-							</paragraph>
-						</subsection>
-						<subsection identifier="/us/usc/t37/s476/p">
-							<num>(p)</num>
-							<paragraph identifier="/us/usc/t37/s476/p/1">
-								<num>(1)</num>
-								<chapeau> From amounts otherwise made available for a fiscal year to provide travel and transportation allowances under this chapter, the Secretary concerned may reimburse a member of the uniformed services for qualified relicensing costs of the spouse of the member when—</chapeau>
-								<subparagraph identifier="/us/usc/t37/s476/p/1/A">
-									<num>(A)</num>
-									<content> the member is reassigned, either as a permanent change of station or permanent change of assignment, from a duty station in one State to a duty station in another State; and</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t37/s476/p/1/B">
-									<num>(B)</num>
-									<content> the movement of the member’s dependents is authorized at the expense of the United States under this section as part of the reassignment.</content>
-								</subparagraph>
-							</paragraph>
-							<paragraph identifier="/us/usc/t37/s476/p/2">
-								<num>(2)</num>
-								<content> Reimbursement provided to a member under this subsection may not exceed $1,000 in connection with each reassignment described in paragraph (1).</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t37/s476/p/3">
-								<num>(3)</num>
-								<chapeau>
-									 Not later than 
-									<date date="2021-12-31">December 31, 2021</date>
-									, the Secretary of Defense, in consultation with the Secretary of Homeland Security with respect to the Coast Guard, shall submit to the congressional defense committees, the Committee on Homeland Security and Government Affairs of the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report—
-								</chapeau>
-								<subparagraph identifier="/us/usc/t37/s476/p/3/A">
-									<num>(A)</num>
-									<content> describing the extent to which the reimbursement authority provided by this subsection has been used;</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t37/s476/p/3/B">
-									<num>(B)</num>
-									<content> containing a recommendation by the Secretaries regarding whether the authority should be extended beyond the date specified in paragraph (4); and</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t37/s476/p/3/C">
-									<num>(C)</num>
-									<content> an analysis of whether the maximum reimbursement amount under paragraph (2) is sufficient to cover the average costs of relicensing described in paragraph (1).</content>
-								</subparagraph>
-							</paragraph>
-							<paragraph identifier="/us/usc/t37/s476/p/4">
-								<num>(4)</num>
-								<content>
-									 No reimbursement may be provided under this subsection for qualified relicensing costs paid or incurred after 
-									<date date="2024-12-31">December 31, 2024</date>
-									.
-								</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t37/s476/p/5">
-								<num>(5)</num>
-								<chapeau> In this subsection, the term “qualified relicensing costs” means costs, including exam and registration fees, that—</chapeau>
-								<subparagraph identifier="/us/usc/t37/s476/p/5/A">
-									<num>(A)</num>
-									<content> are imposed by the State of the new duty station to secure a license or certification to engage in the same profession that the spouse of the member engaged in while in the State of the original duty station; and</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t37/s476/p/5/B">
-									<num>(B)</num>
-									<content> are paid or incurred by the member or spouse to secure the license or certification from the State of the new duty station after the date on which the orders directing the reassignment described in paragraph (1) are issued.</content>
-								</subparagraph>
 							</paragraph>
 						</subsection>
 					</section>
@@ -17643,7 +17723,10 @@ Amendments</column>
 						<heading> Travel and transportation allowances: administrative provisions</heading>
 						<subsection identifier="/us/usc/t37/s481/a">
 							<num>(a)</num>
-							<content> For the administration of sections 474(a), (b), and (d)–(f), 474a, 475, 475a, 476(a)–(f), 477, 479, and 480 of this title, the Secretaries concerned shall prescribe regulations that are, as far as practicable, uniform for all of the uniformed services.</content>
+							<content>
+								 For the administration of sections 474(a), (b), and (d)–(f), 474a, 475,
+								 475a, 476(a)–(f), 477, 479, and 480 of this title, the Secretaries concerned shall prescribe regulations that are, as far as practicable, uniform for all of the uniformed services.
+							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t37/s481/b">
 							<num>(b)</num>
@@ -17920,12 +18003,12 @@ Amendments</column>
 						<subsection identifier="/us/usc/t37/s481f/d">
 							<num>(d)</num>
 							<heading>
-								<inline>Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Overseas</inline>
+								<inline>Travel And Transportation Allowances In Connection With Transfer Ceremonies of Members of the Armed Forces Who Die Overseas</inline>
 								.—
 							</heading>
 							<paragraph identifier="/us/usc/t37/s481f/d/1">
 								<num>(1)</num>
-								<chapeau> The Secretary of the military department concerned may provide round trip transportation to ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas (including during a humanitarian relief operation) to the following:</chapeau>
+								<chapeau> The Secretary of the military department concerned may provide round trip travel and transportation allowances in connection with ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas (including during a humanitarian relief operation) to the following:</chapeau>
 								<subparagraph identifier="/us/usc/t37/s481f/d/1/A">
 									<num>(A)</num>
 									<content> The primary next of kin of the member.</content>
@@ -18211,7 +18294,7 @@ Amendments</column>
 								<inline>Eligibility</inline>
 								.—
 							</heading>
-							<chapeau>A member of the Army, Navy, Air Force, or Marine Corps or an employee of the Department of Defense may be reimbursed under subsection (a) for parking expenses while—</chapeau>
+							<chapeau>A member of the Army, Navy, Air Force, Marine Corps, or Space Force or an employee of the Department of Defense may be reimbursed under subsection (a) for parking expenses while—</chapeau>
 							<paragraph identifier="/us/usc/t37/s481i/b/1">
 								<num>(1)</num>
 								<content> assigned to duty at a recruiting facility of the armed forces;</content>
@@ -18936,51 +19019,6 @@ Amendments</column>
 							<content>No reimbursement may be provided under this section for expenses incurred after the travel authorities transition expiration date.</content>
 						</subsection>
 					</section>
-					<section identifier="/us/usc/t37/s495">
-						<num>§ 495.</num>
-						<heading> Funeral honors duty: allowance</heading>
-						<subsection identifier="/us/usc/t37/s495/a">
-							<num>(a)</num>
-							<heading>
-								<inline>Allowance Authorized</inline>
-								.—
-							</heading>
-							<paragraph identifier="/us/usc/t37/s495/a/1">
-								<num>(1)</num>
-								<content>
-									 The Secretary concerned may authorize payment of an allowance to a member of the Ready Reserve for any day on which the member performs at least two hours of funeral honors duty pursuant to 
-									<ref href="/us/usc/t10/s12503">section 12503 of title 10</ref>
-									 or 
-									<ref href="/us/usc/t32/s115">section 115 of title 32</ref>
-									.
-								</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t37/s495/a/2">
-								<num>(2)</num>
-								<content>
-									 The Secretary concerned may also authorize payment of that allowance to a member of the armed forces in a retired status for any day on which the member serves in a funeral honors detail under 
-									<ref href="/us/usc/t10/s1491">section 1491 of title 10</ref>
-									, if the time required for service in such detail (including time for preparation) is not less than two hours. The amount of an allowance paid to a member under this paragraph shall be in addition to any other compensation to which the member may be entitled under this title or title 10 or 38.
-								</content>
-							</paragraph>
-						</subsection>
-						<subsection identifier="/us/usc/t37/s495/b">
-							<num>(b)</num>
-							<heading>
-								<inline>Amount</inline>
-								.—
-							</heading>
-							<content>The daily rate of an allowance under this section is $50.</content>
-						</subsection>
-						<subsection identifier="/us/usc/t37/s495/c">
-							<num>(c)</num>
-							<heading>
-								<inline>Termination</inline>
-								.—
-							</heading>
-							<content>No allowance may be paid under this section for any day after the travel authorities transition expiration date.</content>
-						</subsection>
-					</section>
 				</subchapter>
 			</chapter>
 			<chapter identifier="/us/usc/t37/ch9">
@@ -19048,7 +19086,7 @@ Amendments</column>
 						<num>(b)</num>
 						<paragraph identifier="/us/usc/t37/s501/b/1">
 							<num>(1)</num>
-							<content> A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration, who has accrued leave to his credit at the time of his discharge, is entitled to be paid in cash or by a check on the Treasurer of the United States for such leave on the basis of the basic pay to which he was entitled on the date of discharge.</content>
+							<content> A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who has accrued leave to the member’s credit at the time of the member’s discharge, is entitled to be paid in cash or by a check on the Treasurer of the United States for such leave on the basis of the basic pay to which the member was entitled on the date of discharge.</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t37/s501/b/2">
 							<num>(2)</num>
@@ -19079,7 +19117,7 @@ Amendments</column>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t37/s501/b/5/C">
 								<num>(C)</num>
-								<content> by a retired member of the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps or a member of the Fleet Reserve or Fleet Marine Corps Reserve while the member is serving on active duty in support of a contingency operation; or</content>
+								<content> by a retired member of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force or a member of the Fleet Reserve or Fleet Marine Corps Reserve while the member is serving on active duty in support of a contingency operation; or</content>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t37/s501/b/5/D">
 								<num>(D)</num>
@@ -19118,7 +19156,7 @@ Amendments</column>
 						<num>(e)</num>
 						<paragraph identifier="/us/usc/t37/s501/e/1">
 							<num>(1)</num>
-							<content> A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration who is discharged under other than honorable conditions forfeits all accrued leave to his credit at the time of his discharge.</content>
+							<content> A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration who is discharged under other than honorable conditions forfeits all accrued leave to his credit at the time of his discharge.</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t37/s501/e/2">
 							<num>(2)</num>
@@ -19170,9 +19208,9 @@ Amendments</column>
 					<subsection identifier="/us/usc/t37/s502/a">
 						<num>(a)</num>
 						<content>
-							 A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent because of sickness or wounds, or who is directed by the Secretary concerned, or his designated representative, to be absent from duty to await orders pending disability retirement proceedings for a period that is longer than the leave authorized by 
+							 A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent because of sickness or wounds, or who is directed by the Secretary concerned, or the Secretary’s designated representative, to be absent from duty to await orders pending disability retirement proceedings for a period that is longer than the leave authorized by 
 							<ref href="/us/usc/t10/s701">section 701 of title 10</ref>
-							, is entitled to the pay and allowances to which he would be entitled if he were not so absent. A member who is absent with leave for any other reason for not longer than the leave authorized by that section is entitled to the same pay and allowances to which he would be entitled if he were not on leave, and to any additional allowances otherwise provided by law for members on leave.
+							, is entitled to the pay and allowances to which the member would be entitled if the member were not so absent. A member who is absent with leave for any other reason for not longer than the leave authorized by that section is entitled to the same pay and allowances to which the member would be entitled if the member were not on leave, and to any additional allowances otherwise provided by law for members on leave.
 						</content>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s502/b">
@@ -19180,9 +19218,9 @@ Amendments</column>
 						<content>
 							 Except as provided in subsection (a) and 
 							<ref href="/us/usc/t10/s701/h">section 701(h) of title 10</ref>
-							, a member who is authorized by the Secretary concerned, or his designated representative, to be absent for a period that is longer than the leave authorized by 
+							, a member who is authorized by the Secretary concerned, or the Secretary’s designated representative, to be absent for a period that is longer than the leave authorized by 
 							<ref href="/us/usc/t10/s701">section 701 of title 10</ref>
-							 is not entitled to pay or allowances during the part of his absence that is more than the number of days’ leave authorized by that section.
+							 is not entitled to pay or allowances during the part of the member’s absence that is more than the number of days’ leave authorized by that section.
 						</content>
 					</subsection>
 				</section>
@@ -19191,7 +19229,7 @@ Amendments</column>
 					<heading> Absence without leave or over leave</heading>
 					<subsection identifier="/us/usc/t37/s503/a">
 						<num>(a)</num>
-						<content> A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent without leave or over leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.</content>
+						<content> A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent without leave or over leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.</content>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s503/b">
 						<num>(b)</num>
@@ -19954,7 +19992,7 @@ Amendments</column>
 							<column>
 								<ref href="/us/usc/t37/s701">701.</ref>
 							</column>
-							<column>Members of the Army, Navy, Air Force, and Marine Corps; contract surgeons.</column>
+							<column>Members of the Army, Navy, Air Force, Marine Corps, and Space Force; contract surgeons.</column>
 						</tocItem>
 						<tocItem>
 							<column>
@@ -19998,22 +20036,22 @@ Amendments</column>
 				</toc>
 				<section identifier="/us/usc/t37/s701">
 					<num>§ 701.</num>
-					<heading> Members of the Army, Navy, Air Force, and Marine Corps; contract surgeons</heading>
+					<heading> Members of the Army, Navy, Air Force, Marine Corps, and Space Force; contract surgeons</heading>
 					<subsection identifier="/us/usc/t37/s701/a">
 						<num>(a)</num>
-						<content> Under regulations prescribed by the Secretary of the military department concerned, a commissioned officer of the Army, Navy, Air Force, or Marine Corps may transfer or assign his pay account, when due and payable.</content>
+						<content> Under regulations prescribed by the Secretary of the military department concerned, a commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force may transfer or assign the officer’s pay account, when due and payable.</content>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s701/b">
 						<num>(b)</num>
-						<content> A contract surgeon, or contract dental surgeon, of the Army, Navy, or Air Force, on duty in Alaska, Hawaii, the Philippine Islands, or Puerto Rico, may transfer or assign his pay account, when due and payable, under the regulations prescribed under subsection (a).</content>
+						<content> A contract surgeon, or contract dental surgeon, of the Army, Navy, or Air Force, on duty in Alaska, Hawaii, the Philippine Islands, or Puerto Rico, may transfer or assign the person’s pay account, when due and payable, under the regulations prescribed under subsection (a).</content>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s701/c">
 						<num>(c)</num>
-						<content> An enlisted member of the Army, Navy, Air Force, or Marine Corps may not assign his pay, and if he does so, the assignment is void.</content>
+						<content> An enlisted member of the Army, Navy, Air Force, Marine Corps, or Space Force may not assign the member’s pay, and if the member does so, the assignment is void.</content>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s701/d">
 						<num>(d)</num>
-						<content> Under regulations prescribed by the Secretary of Defense, a member of the Army, Navy, Air Force, or Marine Corps and a contract surgeon of the Army, Navy, or Air Force may make allotments from the pay of the member or surgeon for the purpose of supporting relatives or for any other purpose that the Secretary considers proper. Such allotments may include a maximum of six allotments considered to be discretionary under such regulations. For a member or former member entitled to retired or retainer pay, a maximum of six discretionary allotments authorized during active military service may be continued into retired status, and new discretionary allotments may be authorized so long as the total number of discretionary allotments does not exceed six.</content>
+						<content> Under regulations prescribed by the Secretary of Defense, a member of the Army, Navy, Air Force, Marine Corps, or Space Force and a contract surgeon of the Army, Navy, or Air Force may make allotments from the pay of the member or surgeon for the purpose of supporting relatives or for any other purpose that the Secretary considers proper. Such allotments may include a maximum of six allotments considered to be discretionary under such regulations. For a member or former member entitled to retired or retainer pay, a maximum of six discretionary allotments authorized during active military service may be continued into retired status, and new discretionary allotments may be authorized so long as the total number of discretionary allotments does not exceed six.</content>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s701/e">
 						<num>(e)</num>
@@ -20079,7 +20117,7 @@ Amendments</column>
 							<column>
 								<ref href="/us/usc/t37/s803">803.</ref>
 							</column>
-							<column>Commissioned officers of Army or Air Force: forfeiture of pay when dropped from rolls.</column>
+							<column>Commissioned officers of the Army, Air Force, or Space Force: forfeiture of pay when dropped from rolls.</column>
 						</tocItem>
 						<tocItem>
 							<column>
@@ -20096,15 +20134,15 @@ Amendments</column>
 					<num>§ 802.</num>
 					<heading> Forfeiture of pay during absence from duty due to disease from intemperate use of alcohol or drugs</heading>
 					<content>
-						<p>A member of the Army, Navy, Air Force, or Marine Corps, on active duty who is absent from his regular duties for a continuous period of more than one day because of disease that is directly caused by and immediately follows his intemperate use of alcoholic liquor or habit-forming drugs is not entitled to pay for the period of that absence. However, a member whose pay is forfeited for more than one month is entitled to $5 for personal expenses for each full month that his pay is forfeited. Determinations of periods and causes of absence under this section shall be made as prescribed by the Secretary concerned, and are final.</p>
+						<p>A member of the Army, Navy, Air Force, Marine Corps, or Space Force, on active duty who is absent from the member’s regular duties for a continuous period of more than one day because of disease that is directly caused by and immediately follows the member’s intemperate use of alcoholic liquor or habit-forming drugs is not entitled to pay for the period of that absence. However, a member whose pay is forfeited for more than one month is entitled to $5 for personal expenses for each full month that the member’s pay is forfeited. Determinations of periods and causes of absence under this section shall be made as prescribed by the Secretary concerned, and are final.</p>
 					</content>
 				</section>
 				<section identifier="/us/usc/t37/s803">
 					<num>§ 803.</num>
-					<heading> Commissioned officers of Army or Air Force: forfeiture of pay when dropped from rolls</heading>
+					<heading> Commissioned officers of the Army, Air Force, or Space Force: forfeiture of pay when dropped from rolls</heading>
 					<content>
 						<p>
-							A commissioned officer of the Army or the Air Force who is dropped from the rolls under 
+							A commissioned officer of the Army, the Air Force, or the Space Force who is dropped from the rolls under 
 							<ref href="/us/usc/t10/s1161/b">section 1161(b) of title 10</ref>
 							 for absence without authority for three months forfeits all pay due or to become due.
 						</p>
@@ -20166,7 +20204,7 @@ Amendments</column>
 							<column>
 								<ref href="/us/usc/t37/s908">908.</ref>
 							</column>
-							<column>Employment of reserves and retired members by foreign governments.</column>
+							<column>Reserves and retired members: acceptance of employment, payments, and awards from foreign governments.</column>
 						</tocItem>
 						<tocItem>
 							<column>
@@ -20233,7 +20271,7 @@ Amendments</column>
 					<heading> Extension of enlistment: effect on pay and allowances</heading>
 					<content>
 						<p>
-							A member of the Army, Navy, Air Force, Marine Corps, or Coast Guard, as the case may be, who extends his enlistment under 
+							A member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, who extends his enlistment under 
 							<ref href="/us/usc/t10/s509">section 509 of title 10</ref>
 							 is entitled to the same pay and allowances as though he had reenlisted. For the purposes of determining entitlement to reenlistment bonus or to travel and transportation allowances upon discharge, all such extensions of an enlistment are considered one continuous extension.
 						</p>
@@ -20389,21 +20427,21 @@ Amendments</column>
 				</section>
 				<section identifier="/us/usc/t37/s908">
 					<num>§ 908.</num>
-					<heading> Employment of reserves and retired members by foreign governments</heading>
+					<heading> Reserves and retired members: acceptance of employment, payments, and awards from foreign governments</heading>
 					<subsection identifier="/us/usc/t37/s908/a">
 						<num>(a)</num>
 						<heading>
 							<inline>Congressional Consent</inline>
 							.—
 						</heading>
-						<chapeau>Subject to subsection (b), Congress consents to the following persons accepting civil employment (and compensation for that employment) for which the consent of Congress is required by the last paragraph of section 9 of article I of the Constitution, related to acceptance of emoluments, offices, or titles from a foreign government:</chapeau>
+						<chapeau>Subject to subsections (b) and (c), Congress consents to the following persons accepting civil employment (and compensation for that employment), accepting payment for speeches, travel, meals, lodging, or registration fees, or accepting a non-cash award, for which the consent of Congress is required by the last paragraph of section 9 of article I of the Constitution, related to acceptance of emoluments, offices, or titles from a foreign government:</chapeau>
 						<paragraph identifier="/us/usc/t37/s908/a/1">
 							<num>(1)</num>
 							<content> Retired members of the uniformed services.</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t37/s908/a/2">
 							<num>(2)</num>
-							<content> Members of a reserve component of the armed forces.</content>
+							<content> Members of a reserve component of the armed forces, except members serving on active duty under a call or order to active duty for a period in excess of 30 days.</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t37/s908/a/3">
 							<num>(3)</num>
@@ -20416,7 +20454,7 @@ Amendments</column>
 					<subsection identifier="/us/usc/t37/s908/b">
 						<num>(b)</num>
 						<heading>
-							<inline>Approval Required</inline>
+							<inline>Approval Required for Employment and Compensation</inline>
 							.—
 						</heading>
 						<content>A person described in subsection (a) may accept employment or compensation described in that subsection only if the Secretary concerned and the Secretary of State approve the employment.</content>
@@ -20424,13 +20462,40 @@ Amendments</column>
 					<subsection identifier="/us/usc/t37/s908/c">
 						<num>(c)</num>
 						<heading>
-							<inline>Annual Reports on Approvals for Retired General and Flag Officers</inline>
+							<inline>Approval Required for Certain Payments and Awards</inline>
 							.—
 						</heading>
-						<content>Not later than January 31 each year, the Secretaries of the military departments, after consulting with the Secretary of State, shall jointly submit to the Committees on Armed Services of the Senate and House of Representatives a report on each approval under subsection (b) for employment or compensation described in subsection (a) for a retired member of the armed forces in general or flag officer grade that was issued during the preceding year.</content>
+						<content>A person described in subsection (a) may accept payment for speeches, travel, meals, lodging, or registration fees described in that subsection, or accept a non-cash award described in that subsection, only if the Secretary concerned approves the payment or award.</content>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s908/d">
 						<num>(d)</num>
+						<heading>
+							<inline>Annual Reports on Approvals for Retired General and Flag Officers</inline>
+							.—
+						</heading>
+						<paragraph identifier="/us/usc/t37/s908/d/1">
+							<num>(1)</num>
+							<content> Not later than January 31 each year, the Secretaries of the military departments, after consulting with the Secretary of State, shall jointly submit to the Committees on Armed Services of the Senate and House of Representatives a report on each approval under subsection (b) for employment or compensation described in subsection (a), and each approval under subsection (c) for a payment or award described in subsection (a), for a retired member of the armed forces in general or flag officer grade that was issued during the preceding year.</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t37/s908/d/2">
+							<num>(2)</num>
+							<chapeau> The report under paragraph (1) on an approval described in that paragraph with respect to an officer shall set forth the following:</chapeau>
+							<subparagraph identifier="/us/usc/t37/s908/d/2/A">
+								<num>(A)</num>
+								<content> The foreign government providing the employment or compensation or payment or award.</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t37/s908/d/2/B">
+								<num>(B)</num>
+								<content> The duties, if any, to be performed in connection with the employment or compensation or payment or award.</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t37/s908/d/2/C">
+								<num>(C)</num>
+								<content> The total amount of compensation, if any, or payment to be provided.</content>
+							</subparagraph>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t37/s908/e">
+						<num>(e)</num>
 						<heading>
 							<inline>Military Service in Foreign Armed Forces</inline>
 							.—
@@ -20607,7 +20672,7 @@ Amendments</column>
 						</heading>
 						<content>
 							No payment shall be made to a member under this section for months beginning after 
-							<date date="2020-12-31">December 31, 2020</date>
+							<date date="2021-12-31">December 31, 2021</date>
 							, unless the entitlement of the member to payments under this section commenced on or before that date.
 						</content>
 					</subsection>
@@ -20649,7 +20714,7 @@ Amendments</column>
 							<column>
 								<ref href="/us/usc/t37/s1005">1005.</ref>
 							</column>
-							<column>Army and Air Force: prompt payments required.</column>
+							<column>Army, Air Force, and Space Force: prompt payments required.</column>
 						</tocItem>
 						<tocItem>
 							<column>
@@ -20784,9 +20849,9 @@ Amendments</column>
 				</section>
 				<section identifier="/us/usc/t37/s1005">
 					<num>§ 1005.</num>
-					<heading> Army and Air Force: prompt payments required</heading>
+					<heading> Army, Air Force, and Space Force: prompt payments required</heading>
 					<content>
-						<p>Members of the Army and of the Air Force shall be paid at such times that arrears will at no time be more than two months, unless circumstances make further arrears unavoidable.</p>
+						<p>Members of the Army, the Air Force, and the Space Force shall be paid at such times that arrears will at no time be more than two months, unless circumstances make further arrears unavoidable.</p>
 					</content>
 				</section>
 				<section identifier="/us/usc/t37/s1006">
@@ -20888,7 +20953,7 @@ Amendments</column>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s1007/b">
 						<num>(b)</num>
-						<content> An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.</content>
+						<content> An amount due to the United States from an enlisted member of the Army, the Air Force, or the Space Force for articles sold to the member on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due the member after the sale is reported.</content>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s1007/c">
 						<num>(c)</num>
@@ -20971,19 +21036,19 @@ Amendments</column>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s1007/d">
 						<num>(d)</num>
-						<content> Subject to subsection (c), an amount due the United States from an enlisted member of the Army or the Air Force may be deducted from his pay on final statement, or from his savings on his clothing allowance.</content>
+						<content> Subject to subsection (c), an amount due the United States from an enlisted member of the Army, the Air Force, or the Space Force may be deducted from the member’s pay on final statement, or from the member’s savings on his clothing allowance.</content>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s1007/e">
 						<num>(e)</num>
-						<content> The amount of any damage, or cost of repairs, to arms or equipment caused by the abuse or negligence of a member of the Army, Navy, Air Force, or Marine Corps, as the case may be, who had the care of, or was using, the property when it was damaged, shall be deducted from his pay.</content>
+						<content> The amount of any damage, or cost of repairs, to arms or equipment caused by the abuse or negligence of a member of the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, who had the care of, or was using, the property when it was damaged, shall be deducted from his pay.</content>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s1007/f">
 						<num>(f)</num>
-						<content> If, upon final settlement of the accounts of an officer of the Army or the Air Force charged with the issue of an article of military supply, there is a deficiency of that article, or if an article of military supply with whose issue an officer is charged is damaged, the value of the lost article or the amount of the damage shall be charged against the officer and deducted from his monthly pay, unless he shows to the satisfaction of the Secretary of the Army or the Secretary of the Air Force, as the case may be, by one or more affidavits setting forth the circumstances, that he was not at fault.</content>
+						<content> If, upon final settlement of the accounts of an officer of the Army, the Air Force, or the Space Force charged with the issue of an article of military supply, there is a deficiency of that article, or if an article of military supply with whose issue an officer is charged is damaged, the value of the lost article or the amount of the damage shall be charged against the officer and deducted from the officer’s monthly pay, unless the officer shows to the satisfaction of the Secretary of the Army or the Secretary of the Air Force, as the case may be, by one or more affidavits setting forth the circumstances, that the officer was not at fault.</content>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s1007/g">
 						<num>(g)</num>
-						<content> An amount due the United States from an officer of the Army or the Air Force for rations bought on credit, and for articles bought on credit under section 4621(a)(1) or 9621(a)(1) of title 10, shall be deducted from the next pay due that officer after the sale is reported.</content>
+						<content> An amount due the United States from an officer of the Army, the Air Force, or the Space Force for rations bought on credit, and for articles bought on credit under section 4621(a)(1) or 9621(a)(1) of title 10, shall be deducted from the next pay due that officer after the sale is reported.</content>
 					</subsection>
 					<subsection identifier="/us/usc/t37/s1007/h">
 						<num>(h)</num>
@@ -21016,7 +21081,7 @@ Amendments</column>
 						</paragraph>
 						<paragraph identifier="/us/usc/t37/s1007/i/3">
 							<num>(3)</num>
-							<content> The Secretary of Defense or, in the case of the Coast Guard, the Commandant, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.</content>
+							<content> The Secretary of Defense or, in the case of the Coast Guard, the Commandant, after consultation with the Chief Operating Officer of the Armed Forces Retirement Home, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t37/s1007/i/4">
 							<num>(4)</num>

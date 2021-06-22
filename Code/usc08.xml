@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t8" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t8">
 	<main>
 		<title identifier="/us/usc/t8">
 			<num>Title 8—</num>
@@ -30157,7 +30157,7 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 									<content>
 										 the number who have been issued a Notice to Appear pursuant to 
 										<ref href="/us/usc/t8/s1229">section 1229 of this title</ref>
-										, disaggregated by single adults and members of family units;
+										, disaggregated by single adults and members of family units; 
 									</content>
 								</subparagraph>
 							</paragraph>
@@ -36050,6 +36050,13 @@ SUBCHAPTER IV—GENERAL PROVISIONS</column>
 										</p>
 									</content>
 								</subparagraph>
+								<subparagraph identifier="/us/usc/t8/s1612/b/2/G">
+									<num>(G)</num>
+									<heading> Medicaid exception for citizens of freely associated states</heading>
+									<content>
+										<p>With respect to eligibility for benefits for the designated Federal program defined in paragraph (3)(C) (relating to the Medicaid program), paragraph (1) shall not apply to any individual who lawfully resides in 1 of the 50 States or the District of Columbia in accordance with the Compacts of Free Association between the Government of the United States and the Governments of the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau and shall not apply, at the option of the Governor of Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa as communicated to the Secretary of Health and Human Services in writing, to any individual who lawfully resides in the respective territory in accordance with such Compacts.</p>
+									</content>
+								</subparagraph>
 							</paragraph>
 							<paragraph identifier="/us/usc/t8/s1612/b/3">
 								<num>(3)</num>
@@ -36185,6 +36192,19 @@ SUBCHAPTER IV—GENERAL PROVISIONS</column>
 										.
 									</content>
 								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t8/s1613/b/3">
+								<num>(3)</num>
+								<heading> Exception for citizens of freely associated states</heading>
+								<content>
+									<p>
+										An individual described in 
+										<ref href="/us/usc/t8/s1612/b/2/G">section 1612(b)(2)(G) of this title</ref>
+										, but only with respect to the designated Federal program defined in 
+										<ref href="/us/usc/t8/s1612/b/3/C">section 1612(b)(3)(C) of this title</ref>
+										.
+									</p>
+								</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t8/s1613/c">
@@ -37004,13 +37024,22 @@ SUBCHAPTER IV—GENERAL PROVISIONS</column>
 									<ref href="/us/usc/t8/s1153/a/7">8 U.S.C. 1153(a)(7)</ref>
 									] as in effect prior to 
 									<date date="1980-04-01">April 1, 1980</date>
-									; 
-									 or
+									,
 								</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t8/s1641/b/7">
 								<num>(7)</num>
-								<content> an alien who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980).</content>
+								<content> an alien who is a Cuban and Haitian entrant (as defined in section 501(e) of the Refugee Education Assistance Act of 1980), or</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t8/s1641/b/8">
+								<num>(8)</num>
+								<content>
+									 an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in 
+									<ref href="/us/usc/t8/s1612/b/2/G">section 1612(b)(2)(G) of this title</ref>
+									, but only with respect to the designated Federal program defined in 
+									<ref href="/us/usc/t8/s1612/b/3/C">section 1612(b)(3)(C) of this title</ref>
+									 (relating to the Medicaid program).
+								</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t8/s1641/c">

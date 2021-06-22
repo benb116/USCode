@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t47" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t47">
 	<main>
 		<title identifier="/us/usc/t47">
 			<num>Title 47—</num>
@@ -15027,10 +15027,7 @@ SUBCHAPTER VII—BROADBAND DATA</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t47/s325/b/7/C">
 										<num>(C)</num>
-										<chapeau>
-											<sup>1</sup>
-											 “qualified MVPD buying group” means an entity that, with respect to a negotiation with a large station group for retransmission consent under this section—
-										</chapeau>
+										<chapeau> “qualified MVPD buying group” means an entity that, with respect to a negotiation with a large station group for retransmission consent under this section—</chapeau>
 										<clause identifier="/us/usc/t47/s325/b/7/C/i">
 											<num>(i)</num>
 											<chapeau> negotiates on behalf of two or more multichannel video programming distributors—</chapeau>
@@ -15058,10 +15055,7 @@ SUBCHAPTER VII—BROADBAND DATA</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t47/s325/b/7/D">
 										<num>(D)</num>
-										<chapeau>
-											<sup>1</sup>
-											 “large station group” means a group of television broadcast stations that—
-										</chapeau>
+										<chapeau> “large station group” means a group of television broadcast stations that—</chapeau>
 										<clause identifier="/us/usc/t47/s325/b/7/D/i">
 											<num>(i)</num>
 											<content> are directly or indirectly under common de jure control permitted by the regulations of the Commission;</content>
@@ -15078,7 +15072,6 @@ SUBCHAPTER VII—BROADBAND DATA</column>
 									<subparagraph identifier="/us/usc/t47/s325/b/7/E">
 										<num>(E)</num>
 										<content>
-											<sup>1</sup>
 											 “local market” has the meaning given such term in 
 											<ref href="/us/usc/t17/s122/j">section 122(j) of title 17</ref>
 											; and
@@ -15087,7 +15080,6 @@ SUBCHAPTER VII—BROADBAND DATA</column>
 									<subparagraph identifier="/us/usc/t47/s325/b/7/F">
 										<num>(F)</num>
 										<content>
-											<sup>1</sup>
 											 “multichannel video programming distributor” has the meaning given such term in 
 											<ref href="/us/usc/t47/s522">section 522 of this title</ref>
 											.
@@ -27079,7 +27071,7 @@ SUBCHAPTER VII—BROADBAND DATA</column>
 										) [
 										<ref href="/us/usc/t43/s1601">43 U.S.C. 1601</ref>
 										 et seq.] 
-										 for the support or implementation of 9–1–1 or enhanced 9–1–1 services, provided that the fee or charge is obligated or expended only in support of 9–1–1 and enhanced 9–1–1 services, or enhancements of such services, as specified in the provision of State or local law adopting the fee or charge. For each class of subscribers to IP-enabled voice services, the fee or charge may not exceed the amount of any such fee or charge applicable to the same class of subscribers to telecommunications services.
+										 for the support or implementation of 9–1–1 or enhanced 9–1–1 services, provided that the fee or charge is obligated or expended only in support of 9–1–1 and enhanced 9–1–1 services, or enhancements of such services, consistent with the purposes and functions designated in the final rules issued under paragraph (3) as purposes and functions for which the obligation or expenditure of such a fee or charge is acceptable. For each class of subscribers to IP-enabled voice services, the fee or charge may not exceed the amount of any such fee or charge applicable to the same class of subscribers to telecommunications services.
 									</p>
 								</content>
 							</paragraph>
@@ -27087,8 +27079,116 @@ SUBCHAPTER VII—BROADBAND DATA</column>
 								<num>(2)</num>
 								<heading> Fee accountability report</heading>
 								<content>
-									<p>To ensure efficiency, transparency, and accountability in the collection and expenditure of a fee or charge for the support or implementation of 9–1–1 or enhanced 9–1–1 services, the Commission shall submit a report within 1 year after the date of enactment of the New and Emerging Technologies 911 Improvement Act of 2008, and annually thereafter, to the Committee on Commerce, Science and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives detailing the status in each State of the collection and distribution of such fees or charges, and including findings on the amount of revenues obligated or expended by each State or political subdivision thereof for any purpose other than the purpose for which any such fees or charges are specified.</p>
+									<p>To ensure efficiency, transparency, and accountability in the collection and expenditure of a fee or charge for the support or implementation of 9–1–1 or enhanced 9–1–1 services, the Commission shall submit a report within 1 year after the date of enactment of the New and Emerging Technologies 911 Improvement Act of 2008, and annually thereafter, to the Committee on Commerce, Science and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives detailing the status in each State of the collection and distribution of such fees or charges, and including findings on the amount of revenues obligated or expended by each State or political subdivision thereof for any purpose or function other than the purposes and functions designated in the final rules issued under paragraph (3) as purposes and functions for which the obligation or expenditure of any such fees or charges is acceptable.</p>
 								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t47/s615a–1/f/3">
+								<num>(3)</num>
+								<heading> Acceptable obligations or expenditures</heading>
+								<subparagraph identifier="/us/usc/t47/s615a–1/f/3/A">
+									<num>(A)</num>
+									<heading> Rules required</heading>
+									<content>
+										<p>
+											In order to prevent diversion of 9–1–1 fees or charges, the Commission shall, not later than 180 days after 
+											<date date="2020-12-27">December 27, 2020</date>
+											, issue final rules designating purposes and functions for which the obligation or expenditure of 9–1–1 fees or charges, by any State or taxing jurisdiction authorized to impose such a fee or charge, is acceptable.
+										</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s615a–1/f/3/B">
+									<num>(B)</num>
+									<heading> Purposes and functions</heading>
+									<content>
+										<p>The purposes and functions designated under subparagraph (A) shall be limited to the support and implementation of 9–1–1 services provided by or in the State or taxing jurisdiction imposing the fee or charge and operational expenses of public safety answering points within such State or taxing jurisdiction. In designating such purposes and functions, the Commission shall consider the purposes and functions that States and taxing jurisdictions specify as the intended purposes and functions for the 9–1–1 fees or charges of such States and taxing jurisdictions, and determine whether such purposes and functions directly support providing 9–1–1 services.</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s615a–1/f/3/C">
+									<num>(C)</num>
+									<heading> Consultation required</heading>
+									<content>
+										<p>The Commission shall consult with public safety organizations and States and taxing jurisdictions as part of any proceeding under this paragraph.</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s615a–1/f/3/D">
+									<num>(D)</num>
+									<heading> Definitions</heading>
+									<chapeau>In this paragraph:</chapeau>
+									<clause identifier="/us/usc/t47/s615a–1/f/3/D/i">
+										<num>(i)</num>
+										<heading> 9–1–1 fee or charge</heading>
+										<content>
+											<p>The term “9–1–1 fee or charge” means a fee or charge applicable to commercial mobile services or IP-enabled voice services specifically designated by a State or taxing jurisdiction for the support or implementation of 9–1–1 services.</p>
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s615a–1/f/3/D/ii">
+										<num>(ii)</num>
+										<heading> 9–1–1 services</heading>
+										<content>
+											<p>
+												The term “9–1–1 services” has the meaning given such term in 
+												<ref href="/us/usc/t47/s942/e">section 942(e) of this title</ref>
+												.
+											</p>
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s615a–1/f/3/D/iii">
+										<num>(iii)</num>
+										<heading> State or taxing jurisdiction</heading>
+										<content>
+											<p>
+												The term “State or taxing jurisdiction” means a State, political subdivision thereof, Indian Tribe, or village or regional corporation serving a region established pursuant to the Alaska Native Claims Settlement Act (
+												<ref href="/us/usc/t43/s1601">43 U.S.C. 1601</ref>
+												 et seq.).
+											</p>
+										</content>
+									</clause>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t47/s615a–1/f/4">
+								<num>(4)</num>
+								<heading> Participation</heading>
+								<content>
+									<p>
+										If a State or taxing jurisdiction (as defined in paragraph (3)(D)) receives a grant under 
+										<ref href="/us/usc/t47/s942">section 942 of this title</ref>
+										 after 
+										<date date="2020-12-27">December 27, 2020</date>
+										, such State or taxing jurisdiction shall, as a condition of receiving such grant, provide the information requested by the Commission to prepare the report required by paragraph (2).
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t47/s615a–1/f/5">
+								<num>(5)</num>
+								<heading> Petition regarding additional purposes and functions</heading>
+								<subparagraph identifier="/us/usc/t47/s615a–1/f/5/A">
+									<num>(A)</num>
+									<heading> In general</heading>
+									<content>
+										<p>A State or taxing jurisdiction (as defined in paragraph (3)(D)) may submit to the Commission a petition for a determination that an obligation or expenditure of a 9–1–1 fee or charge (as defined in such paragraph) by such State or taxing jurisdiction for a purpose or function other than a purpose or function designated under paragraph (3)(A) should be treated as such a purpose or function. If the Commission finds that the State or taxing jurisdiction has provided sufficient documentation to make the demonstration described in subparagraph (B), the Commission shall grant such petition.</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s615a–1/f/5/B">
+									<num>(B)</num>
+									<heading> Demonstration described</heading>
+									<chapeau>The demonstration described in this subparagraph is a demonstration that the purpose or function—</chapeau>
+									<clause identifier="/us/usc/t47/s615a–1/f/5/B/i">
+										<num>(i)</num>
+										<content> supports public safety answering point functions or operations; or</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s615a–1/f/5/B/ii">
+										<num>(ii)</num>
+										<chapeau> has a direct impact on the ability of a public safety answering point to—</chapeau>
+										<subclause identifier="/us/usc/t47/s615a–1/f/5/B/ii/I">
+											<num>(I)</num>
+											<content> receive or respond to 9–1–1 calls; or</content>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s615a–1/f/5/B/ii/II">
+											<num>(II)</num>
+											<content> dispatch emergency responders.</content>
+										</subclause>
+									</clause>
+								</subparagraph>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t47/s615a–1/g">
@@ -27132,6 +27232,13 @@ SUBCHAPTER VII—BROADBAND DATA</column>
 							<heading> Rule of construction</heading>
 							<content>
 								<p>Nothing in the New and Emerging Technologies 911 Improvement Act of 2008 shall be construed as altering, delaying, or otherwise limiting the ability of the Commission to enforce the Federal actions taken or rules adopted obligating an IP-enabled voice service provider to provide 9–1–1 or enhanced 9–1–1 service as of the date of enactment of the New and Emerging Technologies 911 Improvement Act of 2008.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t47/s615a–1/j">
+							<num>(j)</num>
+							<heading> Severability clause</heading>
+							<content>
+								<p>If any provision of this section or the application thereof to any person or circumstance is held invalid, the remainder of this section and the application of such provision to other persons or circumstances shall not be affected thereby.</p>
 							</content>
 						</subsection>
 					</section>
@@ -30471,6 +30578,12 @@ SUBCHAPTER I—ORGANIZATION AND FUNCTIONS</column>
 							</column>
 							<column>Omitted.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t47/s906">906.</ref>
+							</column>
+							<column>Wireless supply chain innovation and multilateral security.</column>
+						</tocItem>
 						<header>
 							<column>
 SUBCHAPTER II—TRANSFER OF AUCTIONABLE FREQUENCIES</column>
@@ -31127,6 +31240,492 @@ SUBCHAPTER III—MISCELLANEOUS</column>
 									, neither the Secretary, the Assistant Secretary, nor any officer or employee of the NTIA shall solicit any gift or bequest of property, both real and personal, from any entity for the purpose of furthering the authorized functions of the NTIA if such solicitation would create a conflict of interest or an appearance of a conflict of interest.
 								</p>
 							</content>
+						</subsection>
+					</section>
+					<section identifier="/us/usc/t47/s906">
+						<num>§ 906.</num>
+						<heading> Wireless supply chain innovation and multilateral security</heading>
+						<subsection identifier="/us/usc/t47/s906/a">
+							<num>(a)</num>
+							<heading> Communications technology security funds</heading>
+							<paragraph identifier="/us/usc/t47/s906/a/1">
+								<num>(1)</num>
+								<heading> Public Wireless Supply Chain Innovation Fund</heading>
+								<subparagraph identifier="/us/usc/t47/s906/a/1/A">
+									<num>(A)</num>
+									<heading> Establishment</heading>
+									<clause identifier="/us/usc/t47/s906/a/1/A/i">
+										<num>(i)</num>
+										<heading> In general</heading>
+										<content>
+											<p>There is established in the Treasury of the United States a trust fund to be known as the “Public Wireless Supply Chain Innovation Fund” (referred to in this paragraph as the “Innovation Fund”).</p>
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/1/A/ii">
+										<num>(ii)</num>
+										<heading> Availability</heading>
+										<subclause identifier="/us/usc/t47/s906/a/1/A/ii/I">
+											<num>(I)</num>
+											<heading> In general</heading>
+											<content>
+												<p>Amounts appropriated to the Innovation Fund shall remain available through the end of the tenth fiscal year beginning after the date on which funds are appropriated to the Fund.</p>
+											</content>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/1/A/ii/II">
+											<num>(II)</num>
+											<heading> Remainder to Treasury</heading>
+											<content>
+												<p>Any amounts remaining in the Innovation Fund after the end of the tenth fiscal year beginning after the date of appropriation shall be deposited in the general fund of the Treasury.</p>
+											</content>
+										</subclause>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/a/1/B">
+									<num>(B)</num>
+									<heading> Use of Fund</heading>
+									<clause identifier="/us/usc/t47/s906/a/1/B/i">
+										<num>(i)</num>
+										<heading> In general</heading>
+										<content>
+											<p>Amounts appropriated to the Innovation Fund shall be available to the Secretary, acting through the NTIA Administrator, to make grants on a competitive basis under this paragraph in such amounts as the Secretary, acting through the NTIA Administrator, determines appropriate, subject to clause (ii).</p>
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/1/B/ii">
+										<num>(ii)</num>
+										<heading> Limitation on grant amounts</heading>
+										<content>
+											<p>The amount of a grant awarded under this paragraph to a recipient for a specific research focus area may not exceed $50,000,000.</p>
+										</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/a/1/C">
+									<num>(C)</num>
+									<heading> Administration of Fund</heading>
+									<chapeau>The Secretary, acting through the NTIA Administrator, in consultation with the Commission, the Under Secretary of Commerce for Standards and Technology, the Secretary of Homeland Security, the Secretary of Defense, and the Director of the Intelligence Advanced Research Projects Activity of the Office of the Director of National Intelligence, shall establish criteria for grants awarded under this paragraph, by the NTIA Administrator and administer the Innovation Fund, to support the following:</chapeau>
+									<clause identifier="/us/usc/t47/s906/a/1/C/i">
+										<num>(i)</num>
+										<content> Promoting and deploying technology, including software, hardware, and microprocessing technology, that will enhance competitiveness in the fifth-generation (commonly known as “5G”) and successor wireless technology supply chains that use open and interoperable interface radio access networks.</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/1/C/ii">
+										<num>(ii)</num>
+										<content> Accelerating commercial deployments of open interface standards-based compatible, interoperable equipment, such as equipment developed pursuant to the standards set forth by organizations such as the O-RAN Alliance, the Telecom Infra Project, 3GPP, the Open-RAN Software Community, or any successor organizations.</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/1/C/iii">
+										<num>(iii)</num>
+										<content> Promoting and deploying compatibility of new 5G equipment with future open standards-based, interoperable equipment.</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/1/C/iv">
+										<num>(iv)</num>
+										<content> Managing integration of multi-vendor network environments.</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/1/C/v">
+										<num>(v)</num>
+										<content> Identifying objective criteria to define equipment as compliant with open standards for multi-vendor network equipment interoperability.</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/1/C/vi">
+										<num>(vi)</num>
+										<content> Promoting and deploying security features enhancing the integrity and availability of equipment in multi-vendor networks.</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/1/C/vii">
+										<num>(vii)</num>
+										<content> Promoting and deploying network function virtualization to facilitate multi-vendor interoperability and a more diverse vendor market.</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/a/1/D">
+									<num>(D)</num>
+									<heading> Nonduplication</heading>
+									<content>
+										<p>To the greatest extent practicable, the Secretary, acting through the NTIA Administrator, shall ensure that any research funded by a grant awarded under this paragraph avoids duplication of other Federal or private sector research.</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/a/1/E">
+									<num>(E)</num>
+									<heading> Timing</heading>
+									<content>
+										<p>Not later than one year after the date on which funds are appropriated to the Innovation Fund, the Secretary, acting through the NTIA Administrator, shall begin awarding grants under this paragraph.</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/a/1/F">
+									<num>(F)</num>
+									<heading> Federal advisory body</heading>
+									<clause identifier="/us/usc/t47/s906/a/1/F/i">
+										<num>(i)</num>
+										<heading> Establishment</heading>
+										<content>
+											<p>The Secretary, acting through the NTIA Administrator, and in consultation with the Under Secretary of Commerce for Standards and Technology, shall establish a Federal advisory committee, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), composed of government and private sector experts, to advise the Secretary and the NTIA Administrator on the administration of the Innovation Fund.</p>
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/1/F/ii">
+										<num>(ii)</num>
+										<heading> Composition</heading>
+										<chapeau>The advisory committee established under clause (i) shall be composed of—</chapeau>
+										<subclause identifier="/us/usc/t47/s906/a/1/F/ii/I">
+											<num>(I)</num>
+											<chapeau> representatives from—</chapeau>
+											<item identifier="/us/usc/t47/s906/a/1/F/ii/I/aa">
+												<num>(aa)</num>
+												<content> the Commission;</content>
+											</item>
+											<item identifier="/us/usc/t47/s906/a/1/F/ii/I/bb">
+												<num>(bb)</num>
+												<content> the Department of Defense;</content>
+											</item>
+											<item identifier="/us/usc/t47/s906/a/1/F/ii/I/cc">
+												<num>(cc)</num>
+												<content> the Intelligence Advanced Research Projects Activity of the Office of the Director of National Intelligence;</content>
+											</item>
+											<item identifier="/us/usc/t47/s906/a/1/F/ii/I/dd">
+												<num>(dd)</num>
+												<content> the National Institute of Standards and Technology;</content>
+											</item>
+											<item identifier="/us/usc/t47/s906/a/1/F/ii/I/ee">
+												<num>(ee)</num>
+												<content> the Department of State;</content>
+											</item>
+											<item identifier="/us/usc/t47/s906/a/1/F/ii/I/ff">
+												<num>(ff)</num>
+												<content> the National Science Foundation;</content>
+											</item>
+											<item identifier="/us/usc/t47/s906/a/1/F/ii/I/gg">
+												<num>(gg)</num>
+												<content> the Department of Homeland Security; and</content>
+											</item>
+											<item identifier="/us/usc/t47/s906/a/1/F/ii/I/hh">
+												<num>(hh)</num>
+												<content> the National Telecommunications and Information Administration; and</content>
+											</item>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/1/F/ii/II">
+											<num>(II)</num>
+											<content> other representatives from the private and public sectors, at the discretion of the NTIA Administrator.</content>
+										</subclause>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/1/F/iii">
+										<num>(iii)</num>
+										<heading> Duties</heading>
+										<chapeau>The advisory committee established under clause (i) shall advise the Secretary and the NTIA Administrator on technology developments to help inform—</chapeau>
+										<subclause identifier="/us/usc/t47/s906/a/1/F/iii/I">
+											<num>(I)</num>
+											<content> the strategic direction of the Innovation Fund; and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/1/F/iii/II">
+											<num>(II)</num>
+											<content> efforts of the Federal Government to promote a more secure, diverse, sustainable, and competitive supply chain.</content>
+										</subclause>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/a/1/G">
+									<num>(G)</num>
+									<heading> Reports to Congress</heading>
+									<clause identifier="/us/usc/t47/s906/a/1/G/i">
+										<num>(i)</num>
+										<heading> Initial report</heading>
+										<chapeau>
+											Not later than 180 days after 
+											<date date="2021-01-01">January 1, 2021</date>
+											, the Secretary, acting through the NTIA Administrator, shall submit to the relevant committees of Congress a report with—
+										</chapeau>
+										<subclause identifier="/us/usc/t47/s906/a/1/G/i/I">
+											<num>(I)</num>
+											<content> additional recommendations on promoting the competitiveness and sustainability of trusted suppliers in the wireless supply chain; and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/1/G/i/II">
+											<num>(II)</num>
+											<content> any additional authorities needed to facilitate the timely adoption of open standards-based equipment, including authority to provide loans, loan guarantees, and other forms of credit extension that would maximize the use of funds.</content>
+										</subclause>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/1/G/ii">
+										<num>(ii)</num>
+										<heading> Annual report</heading>
+										<chapeau>For each fiscal year for which amounts in the Innovation Fund are available under this paragraph, the Secretary, acting through the NTIA Administrator, shall submit to Congress a report that—</chapeau>
+										<subclause identifier="/us/usc/t47/s906/a/1/G/ii/I">
+											<num>(I)</num>
+											<content> describes how, and to whom, amounts in the Innovation Fund have been deployed;</content>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/1/G/ii/II">
+											<num>(II)</num>
+											<content> details the progress of the Secretary and the NTIA Administrator in meeting the objectives described in subparagraph (C); and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/1/G/ii/III">
+											<num>(III)</num>
+											<content> includes any additional information that the Secretary and the NTIA Administrator determine appropriate.</content>
+										</subclause>
+									</clause>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t47/s906/a/2">
+								<num>(2)</num>
+								<heading> Multilateral Telecommunications Security Fund</heading>
+								<subparagraph identifier="/us/usc/t47/s906/a/2/A">
+									<num>(A)</num>
+									<heading> Establishment of Fund</heading>
+									<clause identifier="/us/usc/t47/s906/a/2/A/i">
+										<num>(i)</num>
+										<heading> In general</heading>
+										<content>
+											<p>There is established in the Treasury of the United States a trust fund to be known as the “Multilateral Telecommunications Security Fund”.</p>
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/2/A/ii">
+										<num>(ii)</num>
+										<heading> Use of Fund</heading>
+										<content>
+											<p>Amounts appropriated to the Multilateral Telecommunications Security Fund shall be available to the Secretary of State to make expenditures under this paragraph in such amounts as the Secretary of State determines appropriate.</p>
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/2/A/iii">
+										<num>(iii)</num>
+										<heading> Availability</heading>
+										<subclause identifier="/us/usc/t47/s906/a/2/A/iii/I">
+											<num>(I)</num>
+											<heading> In general</heading>
+											<chapeau>Amounts appropriated to the Multilateral Telecommunications Security Fund—</chapeau>
+											<item identifier="/us/usc/t47/s906/a/2/A/iii/I/aa">
+												<num>(aa)</num>
+												<content> shall remain available through the end of the tenth fiscal year beginning after the date of appropriation; and</content>
+											</item>
+											<item identifier="/us/usc/t47/s906/a/2/A/iii/I/bb">
+												<num>(bb)</num>
+												<content> may only be allocated upon the Secretary of State reaching an arrangement or agreement with foreign government partners to participate in the common funding mechanism described in subparagraph (B).</content>
+											</item>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/2/A/iii/II">
+											<num>(II)</num>
+											<heading> Remainder to Treasury</heading>
+											<content>
+												<p>
+													Any amounts remaining in the Multilateral Telecommunications Security Fund after the end of the tenth fiscal year beginning after 
+													<date date="2021-01-01">January 1, 2021</date>
+													 shall be deposited in the general fund of the Treasury.
+												</p>
+											</content>
+										</subclause>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/a/2/B">
+									<num>(B)</num>
+									<heading> Administration of Fund</heading>
+									<chapeau>The Secretary of State, in consultation with the NTIA Administrator, the Secretary of Homeland Security, the Secretary of Defense, the Secretary of the Treasury, the Director of National Intelligence, and the Commission, is authorized to establish a common funding mechanism, in coordination with foreign partners, that uses amounts from the Multilateral Telecommunications Security Fund to support the development and adoption of secure and trusted telecommunications technologies. In creating and sustaining a common funding mechanism, the Secretary of State should leverage United States funding in order to secure commitments and contributions from trusted foreign partners such as the United Kingdom, Canada, Australia, New Zealand, and Japan, and should prioritize the following objectives:</chapeau>
+									<clause identifier="/us/usc/t47/s906/a/2/B/i">
+										<num>(i)</num>
+										<content> Advancing research and development of secure and trusted communications technologies.</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/2/B/ii">
+										<num>(ii)</num>
+										<content> Strengthening supply chains.</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/2/B/iii">
+										<num>(iii)</num>
+										<content> Promoting the use of trusted vendors.</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/a/2/C">
+									<num>(C)</num>
+									<heading> Annual report to Congress</heading>
+									<chapeau>
+										Not later than 1 year after 
+										<date date="2021-01-01">January 1, 2021</date>
+										, and annually thereafter for each fiscal year during which amounts in the Multilateral Telecommunications Security Fund are available, the Secretary of State shall submit to the relevant committees of Congress a report on the status and progress of the funding mechanism established under subparagraph (B), including—
+									</chapeau>
+									<clause identifier="/us/usc/t47/s906/a/2/C/i">
+										<num>(i)</num>
+										<content> any funding commitments from foreign partners, including each specific amount committed;</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/2/C/ii">
+										<num>(ii)</num>
+										<content> governing criteria for use of the Multilateral Telecommunications Security Fund;</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/2/C/iii">
+										<num>(iii)</num>
+										<chapeau> an account of—</chapeau>
+										<subclause identifier="/us/usc/t47/s906/a/2/C/iii/I">
+											<num>(I)</num>
+											<content> how, and to whom, funds have been deployed;</content>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/2/C/iii/II">
+											<num>(II)</num>
+											<content> amounts remaining in the Multilateral Telecommunications Security Fund; and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/2/C/iii/III">
+											<num>(III)</num>
+											<content> the progress of the Secretary of State in meeting the objective described in subparagraph (B); and</content>
+										</subclause>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/2/C/iv">
+										<num>(iv)</num>
+										<content> additional authorities needed to enhance the effectiveness of the Multilateral Telecommunications Security Fund in achieving the security goals of the United States.</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/a/2/D">
+									<num>(D)</num>
+									<heading> Notifications to be provided by the Fund</heading>
+									<clause identifier="/us/usc/t47/s906/a/2/D/i">
+										<num>(i)</num>
+										<heading> In general</heading>
+										<content>
+											<p>Not later than 15 days prior to the Fund making a financial commitment associated with the provision of expenditures under subparagraph (A)(ii) in an amount in excess of $1,000,000, the Secretary of State shall submit to the appropriate congressional committees a report in writing that contains the information required by clause (ii).</p>
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/2/D/ii">
+										<num>(ii)</num>
+										<heading> Information required</heading>
+										<chapeau>The information required by this clause includes—</chapeau>
+										<subclause identifier="/us/usc/t47/s906/a/2/D/ii/I">
+											<num>(I)</num>
+											<content> the amount of each such expenditure;</content>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/2/D/ii/II">
+											<num>(II)</num>
+											<content> an identification of the recipient or beneficiary; and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/2/D/ii/III">
+											<num>(III)</num>
+											<content> a description of the project or activity and the purpose to be achieved of an expenditure by the Fund.</content>
+										</subclause>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/2/D/iii">
+										<num>(iii)</num>
+										<heading> Arrangements or agreements</heading>
+										<content>
+											<p>The Secretary of State shall notify the appropriate congressional committees not later than 30 days after entering into a new bilateral or multilateral arrangement or agreement described in subparagraph (A)(iii)(I)(bb).</p>
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t47/s906/a/2/D/iv">
+										<num>(iv)</num>
+										<heading> Appropriate congressional committees defined</heading>
+										<chapeau>In this subparagraph, the term “appropriate congressional committees” means—</chapeau>
+										<subclause identifier="/us/usc/t47/s906/a/2/D/iv/I">
+											<num>(I)</num>
+											<content> the Committee on Foreign Relations of the Senate;</content>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/2/D/iv/II">
+											<num>(II)</num>
+											<content> the Committee on Appropriations of the Senate;</content>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/2/D/iv/III">
+											<num>(III)</num>
+											<content> the Committee on Foreign Affairs of the House of Representatives; and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t47/s906/a/2/D/iv/IV">
+											<num>(IV)</num>
+											<content> the Committee on Appropriations of the House of Representatives.</content>
+										</subclause>
+									</clause>
+								</subparagraph>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t47/s906/b">
+							<num>(b)</num>
+							<heading> Promoting United States leadership in international organizations and communications standards-setting bodies</heading>
+							<paragraph identifier="/us/usc/t47/s906/b/1">
+								<num>(1)</num>
+								<heading> In general</heading>
+								<chapeau>The Secretary of State, the Secretary of Commerce, and the Chairman of the Commission, or their designees, shall consider how to enhance representation of the United States at international forums that set standards for 5G networks and for future generations of wireless communications networks, including—</chapeau>
+								<subparagraph identifier="/us/usc/t47/s906/b/1/A">
+									<num>(A)</num>
+									<content> the International Telecommunication Union (commonly known as “ITU”);</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/b/1/B">
+									<num>(B)</num>
+									<content> the International Organization for Standardization (commonly known as “ISO”);</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/b/1/C">
+									<num>(C)</num>
+									<content> the Inter-American Telecommunication Commission (commonly known as “CITEL”); and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/b/1/D">
+									<num>(D)</num>
+									<content> the voluntary standards organizations that develop protocols for wireless devices and other equipment, such as the 3GPP and the Institute of Electrical and Electronics Engineers (commonly known as “IEEE”).</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t47/s906/b/2">
+								<num>(2)</num>
+								<heading> Annual report</heading>
+								<content>
+									<p>The Secretary of State, the Secretary of Commerce, and the Chairman of the Commission shall jointly submit to the relevant committees of Congress an annual report on the progress made under paragraph (1).</p>
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t47/s906/c">
+							<num>(c)</num>
+							<heading> Definitions</heading>
+							<chapeau> In this section:</chapeau>
+							<paragraph identifier="/us/usc/t47/s906/c/1">
+								<num>(1)</num>
+								<content> The term “3GPP” means the Third Generation Partnership Project.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t47/s906/c/2">
+								<num>(2)</num>
+								<content> The term “5G network” means a radio network as described by 3GPP Release 15 or higher.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t47/s906/c/3">
+								<num>(3)</num>
+								<content> The term “Commission” means the Federal Communications Commission.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t47/s906/c/4">
+								<num>(4)</num>
+								<content> The term “NTIA Administrator” means the Assistant Secretary of Commerce for Communications and Information.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t47/s906/c/5">
+								<num>(5)</num>
+								<content> The term “Open-RAN” means the Open Radio Access Network approach to standardization adopted by the O-RAN Alliance, Telecom Infra Project, or 3GPP, or any similar set of open standards for multi-vendor network equipment interoperability.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t47/s906/c/6">
+								<num>(6)</num>
+								<chapeau> The term “relevant committees of Congress” means—</chapeau>
+								<subparagraph identifier="/us/usc/t47/s906/c/6/A">
+									<num>(A)</num>
+									<content> the Select Committee on Intelligence of the Senate;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/c/6/B">
+									<num>(B)</num>
+									<content> the Committee on Foreign Relations of the Senate;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/c/6/C">
+									<num>(C)</num>
+									<content> the Committee on Homeland Security and Governmental Affairs of the Senate;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/c/6/D">
+									<num>(D)</num>
+									<content> the Committee on Armed Services of the Senate;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/c/6/E">
+									<num>(E)</num>
+									<content> the Committee on Commerce, Science, and Transportation of the Senate;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/c/6/F">
+									<num>(F)</num>
+									<content> the Committee on Appropriations of the Senate;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/c/6/G">
+									<num>(G)</num>
+									<content> the Permanent Select Committee on Intelligence of the House of Representatives;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/c/6/H">
+									<num>(H)</num>
+									<content> the Committee on Foreign Affairs of the House of Representatives;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/c/6/I">
+									<num>(I)</num>
+									<content> the Committee on Homeland Security of the House of Representatives;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/c/6/J">
+									<num>(J)</num>
+									<content> the Committee on Armed Services of the House of Representatives;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/c/6/K">
+									<num>(K)</num>
+									<content> the Committee on Energy and Commerce of the House of Representatives; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t47/s906/c/6/L">
+									<num>(L)</num>
+									<content> the Committee on Appropriations of the House of Representatives.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t47/s906/c/7">
+								<num>(7)</num>
+								<content> The term “Secretary” means the Secretary of Commerce.</content>
+							</paragraph>
 						</subsection>
 					</section>
 				</subchapter>
@@ -34493,6 +35092,12 @@ SUBCHAPTER II—TELECOMMUNICATIONS CARRIER COMPLIANCE PAYMENTS</column>
 							</column>
 							<column>Funding.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t47/s1206">1206.</ref>
+							</column>
+							<column>Reliable emergency alert distribution improvement.</column>
+						</tocItem>
 					</layout>
 				</toc>
 				<section identifier="/us/usc/t47/s1201">
@@ -34583,9 +35188,15 @@ SUBCHAPTER II—TELECOMMUNICATIONS CARRIER COMPLIANCE PAYMENTS</column>
 							<subparagraph identifier="/us/usc/t47/s1201/b/2/E">
 								<num>(E)</num>
 								<heading> Consumer choice technology</heading>
-								<content>
-									<p>Any commercial mobile service licensee electing to transmit emergency alerts may offer subscribers the capability of preventing the subscriber’s device from receiving such alerts, or classes of such alerts, other than an alert issued by the President. Within 2 years after the Commission completes the proceeding under paragraph (1), the Commission shall examine the issue of whether a commercial mobile service provider should continue to be permitted to offer its subscribers such capability. The Commission shall submit a report with its recommendations to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.</p>
-								</content>
+								<chapeau>Any commercial mobile service licensee electing to transmit emergency alerts may offer subscribers the capability of preventing the subscriber’s device from receiving such alerts, or classes of such alerts, other than an alert issued by—</chapeau>
+								<clause identifier="/us/usc/t47/s1201/b/2/E/i">
+									<num>(i)</num>
+									<content> the President; or</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1201/b/2/E/ii">
+									<num>(ii)</num>
+									<content> the Administrator of the Federal Emergency Management Agency.</content>
+								</clause>
 							</subparagraph>
 						</paragraph>
 					</subsection>
@@ -34955,6 +35566,230 @@ SUBCHAPTER II—TELECOMMUNICATIONS CARRIER COMPLIANCE PAYMENTS</column>
 						</content>
 					</subsection>
 				</section>
+				<section identifier="/us/usc/t47/s1206">
+					<num>§ 1206.</num>
+					<heading> Reliable emergency alert distribution improvement</heading>
+					<subsection identifier="/us/usc/t47/s1206/a">
+						<num>(a)</num>
+						<heading> Wireless emergency alerts system offerings</heading>
+						<paragraph identifier="/us/usc/t47/s1206/a/1">
+							<num>(1)</num>
+							<heading> Omitted</heading>
+							<content/>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1206/a/2">
+							<num>(2)</num>
+							<heading> Regulations</heading>
+							<content>
+								<p>
+									Not later than 180 days after 
+									<date date="2021-01-01">January 1, 2021</date>
+									, the Commission, in consultation with the Administrator, shall adopt regulations to implement the amendment made by paragraph (1)(B).
+								</p>
+							</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1206/b">
+						<num>(b)</num>
+						<heading> State emergency alert system plans and emergency communications committees</heading>
+						<paragraph identifier="/us/usc/t47/s1206/b/1">
+							<num>(1)</num>
+							<heading> State emergency communications committee</heading>
+							<chapeau>
+								Not later than 180 days after 
+								<date date="2021-01-01">January 1, 2021</date>
+								, the Commission shall adopt regulations that—
+							</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1206/b/1/A">
+								<num>(A)</num>
+								<chapeau> encourage the chief executive of each State—</chapeau>
+								<clause identifier="/us/usc/t47/s1206/b/1/A/i">
+									<num>(i)</num>
+									<content> to establish an SECC if the State does not have an SECC; or</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1206/b/1/A/ii">
+									<num>(ii)</num>
+									<content> if the State has an SECC, to review the composition and governance of the SECC;</content>
+								</clause>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1206/b/1/B">
+								<num>(B)</num>
+								<chapeau> provide that—</chapeau>
+								<clause identifier="/us/usc/t47/s1206/b/1/B/i">
+									<num>(i)</num>
+									<chapeau> each SECC, not less frequently than annually, shall—</chapeau>
+									<subclause identifier="/us/usc/t47/s1206/b/1/B/i/I">
+										<num>(I)</num>
+										<content> meet to review and update its State EAS Plan;</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1206/b/1/B/i/II">
+										<num>(II)</num>
+										<content> certify to the Commission that the SECC has met as required under subclause (I); and</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1206/b/1/B/i/III">
+										<num>(III)</num>
+										<content> submit to the Commission an updated State EAS Plan; and</content>
+									</subclause>
+								</clause>
+								<clause identifier="/us/usc/t47/s1206/b/1/B/ii">
+									<num>(ii)</num>
+									<chapeau> not later than 60 days after the date on which the Commission receives an updated State EAS Plan under clause (i)(III), the Commission shall—</chapeau>
+									<subclause identifier="/us/usc/t47/s1206/b/1/B/ii/I">
+										<num>(I)</num>
+										<content> approve or disapprove the updated State EAS Plan; and</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1206/b/1/B/ii/II">
+										<num>(II)</num>
+										<content> notify the chief executive of the State of the Commission’s approval or disapproval of such plan, and reason therefor; and</content>
+									</subclause>
+								</clause>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1206/b/1/C">
+								<num>(C)</num>
+								<content> establish a State EAS Plan content checklist for SECCs to use when reviewing and updating a State EAS Plan for submission to the Commission under subparagraph (B)(i).</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1206/b/2">
+							<num>(2)</num>
+							<heading> Consultation</heading>
+							<content>
+								<p>The Commission shall consult with the Administrator regarding the adoption of regulations under paragraph (1)(C).</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1206/b/3">
+							<num>(3)</num>
+							<heading> Definitions</heading>
+							<chapeau>In this subsection—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1206/b/3/A">
+								<num>(A)</num>
+								<content> the term “SECC” means a State Emergency Communications Committee;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1206/b/3/B">
+								<num>(B)</num>
+								<content> the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1206/b/3/C">
+								<num>(C)</num>
+								<content> the term “State EAS Plan” means a State Emergency Alert System Plan.</content>
+							</subparagraph>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1206/c">
+						<num>(c)</num>
+						<heading> False alert reporting</heading>
+						<content>
+							<p>
+								Not later than 180 days after 
+								<date date="2021-01-01">January 1, 2021</date>
+								, the Commission, in consultation with the Administrator, shall complete a rulemaking proceeding to establish a system to receive from the Administrator or State, Tribal, or local governments reports of false alerts under the Emergency Alert System or the Wireless Emergency Alerts System for the purpose of recording such false alerts and examining the causes of such false alerts.
+							</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1206/d">
+						<num>(d)</num>
+						<heading> Repeating emergency alert system messages for national security</heading>
+						<paragraph identifier="/us/usc/t47/s1206/d/1">
+							<num>(1)</num>
+							<heading> In general</heading>
+							<chapeau>
+								Not later than 180 days after 
+								<date date="2021-01-01">January 1, 2021</date>
+								, the Commission, in consultation with the Administrator, shall complete a rulemaking proceeding to modify the Emergency Alert System to provide for repeating Emergency Alert System messages while an alert remains pending that is issued by—
+							</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1206/d/1/A">
+								<num>(A)</num>
+								<content> the President;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1206/d/1/B">
+								<num>(B)</num>
+								<content> the Administrator; or</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1206/d/1/C">
+								<num>(C)</num>
+								<content> any other entity determined appropriate under the circumstances by the Commission, in consultation with the Administrator.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1206/d/2">
+							<num>(2)</num>
+							<heading> Scope of rulemaking</heading>
+							<chapeau>Paragraph (1) shall—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1206/d/2/A">
+								<num>(A)</num>
+								<content> apply to warnings of national security events, meaning emergencies of national significance, such as a missile threat, terror attack, or other act of war or threat to public safety; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1206/d/2/B">
+								<num>(B)</num>
+								<content> not apply to more typical warnings, such as a weather alert, AMBER Alert, or disaster alert.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1206/d/3">
+							<num>(3)</num>
+							<heading> Rule of construction</heading>
+							<chapeau>Nothing in this subsection shall be construed to impair, limit, or otherwise change—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1206/d/3/A">
+								<num>(A)</num>
+								<content> the authority of the President granted by law to alert and warn the public; or</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1206/d/3/B">
+								<num>(B)</num>
+								<content> the role of the President as commander-in-chief with respect to the identification, dissemination, notification, or alerting of information of missile threats against the United States, or threats to public safety.</content>
+							</subparagraph>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1206/e">
+						<num>(e)</num>
+						<heading> Internet and online streaming services emergency alert examination</heading>
+						<paragraph identifier="/us/usc/t47/s1206/e/1">
+							<num>(1)</num>
+							<heading> Study</heading>
+							<content>
+								<p>
+									Not later than 180 days after 
+									<date date="2021-01-01">January 1, 2021</date>
+									, and after providing public notice and opportunity for comment, the Commission shall complete an inquiry to examine the feasibility of updating the Emergency Alert System to enable or improve alerts to consumers provided through the internet, including through streaming services.
+								</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1206/e/2">
+							<num>(2)</num>
+							<heading> Report</heading>
+							<chapeau>Not later than 90 days after completing the inquiry under paragraph (1), the Commission shall submit a report on the findings and conclusions of the inquiry to—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1206/e/2/A">
+								<num>(A)</num>
+								<content> the Committee on Commerce, Science, and Transportation of the Senate; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1206/e/2/B">
+								<num>(B)</num>
+								<content> the Committee on Energy and Commerce of the House of Representatives.</content>
+							</subparagraph>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1206/f">
+						<num>(f)</num>
+						<heading> Definitions</heading>
+						<chapeau>In this section—</chapeau>
+						<paragraph identifier="/us/usc/t47/s1206/f/1">
+							<num>(1)</num>
+							<content> the term “Administrator” means the Administrator of the Federal Emergency Management Agency;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1206/f/2">
+							<num>(2)</num>
+							<content> the term “Commission” means the Federal Communications Commission;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1206/f/3">
+							<num>(3)</num>
+							<content> the term “Emergency Alert System” means the national public warning system, the rules for which are set forth in part 11 of title 47, Code of Federal Regulations (or any successor regulation); and</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1206/f/4">
+							<num>(4)</num>
+							<content>
+								 the term “Wireless Emergency Alerts System” means the wireless national public warning system established under the Warning, Alert, and Response Network Act (
+								<ref href="/us/usc/t47/s1201">47 U.S.C. 1201</ref>
+								 et seq.), the rules for which are set forth in part 10 of title 47, Code of Federal Regulations (or any successor regulation).
+							</content>
+						</paragraph>
+					</subsection>
+				</section>
 			</chapter>
 			<chapter identifier="/us/usc/t47/ch12">
 				<num>CHAPTER 12—</num>
@@ -34993,6 +35828,24 @@ SUBCHAPTER II—TELECOMMUNICATIONS CARRIER COMPLIANCE PAYMENTS</column>
 								<ref href="/us/usc/t47/s1305">1305.</ref>
 							</column>
 							<column>Broadband Technology Opportunities Program.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t47/s1306">1306.</ref>
+							</column>
+							<column>Connecting minority communities.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t47/s1307">1307.</ref>
+							</column>
+							<column>Office of Internet Connectivity and Growth.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t47/s1308">1308.</ref>
+							</column>
+							<column>Interagency agreement.</column>
 						</tocItem>
 					</layout>
 				</toc>
@@ -35770,6 +36623,1108 @@ SUBCHAPTER II—TELECOMMUNICATIONS CARRIER COMPLIANCE PAYMENTS</column>
 						</content>
 					</subsection>
 				</section>
+				<section identifier="/us/usc/t47/s1306">
+					<num>§ 1306.</num>
+					<heading> Connecting minority communities</heading>
+					<subsection identifier="/us/usc/t47/s1306/a">
+						<num>(a)</num>
+						<heading> Definitions</heading>
+						<chapeau>In this section:</chapeau>
+						<paragraph identifier="/us/usc/t47/s1306/a/1">
+							<num>(1)</num>
+							<heading> Anchor community</heading>
+							<subparagraph identifier="/us/usc/t47/s1306/a/1/A">
+								<num>(A)</num>
+								<heading> In general</heading>
+								<chapeau>The term “anchor community” means any area that—</chapeau>
+								<clause identifier="/us/usc/t47/s1306/a/1/A/i">
+									<num>(i)</num>
+									<content> except as provided in subparagraph (B), is not more than 15 miles from a historically Black college or university, a Tribal College or University, or a Minority-serving institution; and</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/a/1/A/ii">
+									<num>(ii)</num>
+									<content>
+										 has an estimated median annual household income of not more than 250 percent of the poverty line, as that term is defined in 
+										<ref href="/us/usc/t42/s9902/2">section 9902(2) of title 42</ref>
+										.
+									</content>
+								</clause>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/1/B">
+								<num>(B)</num>
+								<heading> Certain Tribal Colleges or Universities</heading>
+								<content>
+									<p>With respect to a Tribal College or University that is located on land held in trust by the United States, the Assistant Secretary, in consultation with the Secretary of the Interior, may establish a different maximum distance for the purposes of subparagraph (A)(i) if the Assistant Secretary is able to ensure that, in establishing that different maximum distance, each anchor community that is established as a result of that action is statistically comparable to other anchor communities described in subparagraph (A).</p>
+								</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/2">
+							<num>(2)</num>
+							<heading> Assistant Secretary</heading>
+							<content>
+								<p>The term “Assistant Secretary” means the Assistant Secretary of Commerce for Communications and Information.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/3">
+							<num>(3)</num>
+							<heading> Broadband internet access service</heading>
+							<content>
+								<p>The term “broadband internet access service” has the meaning given the term in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/4">
+							<num>(4)</num>
+							<heading> Commission</heading>
+							<content>
+								<p>The term “Commission” means the Federal Communications Commission.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/5">
+							<num>(5)</num>
+							<heading> Connected device</heading>
+							<content>
+								<p>The term “connected device” means a laptop computer, tablet computer, or similar device that is capable of connecting to broadband internet access service.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/6">
+							<num>(6)</num>
+							<heading> Director</heading>
+							<content>
+								<p>The term “Director” means the Director of the Office.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/7">
+							<num>(7)</num>
+							<heading> Eligible equipment</heading>
+							<chapeau>The term “eligible equipment” means—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1306/a/7/A">
+								<num>(A)</num>
+								<content> a Wi-Fi hotspot;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/7/B">
+								<num>(B)</num>
+								<content> a modem;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/7/C">
+								<num>(C)</num>
+								<content> a router;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/7/D">
+								<num>(D)</num>
+								<content> a device that combines a modem and router;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/7/E">
+								<num>(E)</num>
+								<content> a connected device; or</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/7/F">
+								<num>(F)</num>
+								<content> any other equipment used to provide access to broadband internet access service.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/8">
+							<num>(8)</num>
+							<heading> Eligible recipient</heading>
+							<chapeau>The term “eligible recipient” means—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1306/a/8/A">
+								<num>(A)</num>
+								<content> a historically Black college or university;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/8/B">
+								<num>(B)</num>
+								<content> a Tribal College or University;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/8/C">
+								<num>(C)</num>
+								<content> a Minority-serving institution; or</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/8/D">
+								<num>(D)</num>
+								<chapeau> a consortium that is led by a historically Black college or university, a Tribal College or University, or a Minority-serving institution and that also includes—</chapeau>
+								<clause identifier="/us/usc/t47/s1306/a/8/D/i">
+									<num>(i)</num>
+									<content> a minority business enterprise; or</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/a/8/D/ii">
+									<num>(ii)</num>
+									<content>
+										 an organization described in 
+										<ref href="/us/usc/t26/s501/c/3">section 501(c)(3) of title 26</ref>
+										 and exempt from tax under section 501(a) of such title.
+									</content>
+								</clause>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/9">
+							<num>(9)</num>
+							<heading> Historically Black college or university</heading>
+							<content>
+								<p>
+									The term “historically Black college or university” has the meaning given the term “part B institution” in 
+									<ref href="/us/usc/t20/s1061">section 1061 of title 20</ref>
+									.
+								</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/10">
+							<num>(10)</num>
+							<heading> Minority-serving institution</heading>
+							<chapeau>The term “Minority-serving institution” means any of the following:</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1306/a/10/A">
+								<num>(A)</num>
+								<content>
+									 An Alaska Native-serving institution, as that term is defined in 
+									<ref href="/us/usc/t20/s1059d/b">section 1059d(b) of title 20</ref>
+									.
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/10/B">
+								<num>(B)</num>
+								<content>
+									 A Native Hawaiian-serving institution, as that term is defined in 
+									<ref href="/us/usc/t20/s1059d/b">section 1059d(b) of title 20</ref>
+									.
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/10/C">
+								<num>(C)</num>
+								<content>
+									 A Hispanic-serving institution, as that term is defined in 
+									<ref href="/us/usc/t20/s1101a/a">section 1101a(a) of title 20</ref>
+									.
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/10/D">
+								<num>(D)</num>
+								<content>
+									 A Predominantly Black institution, as that term is defined in 
+									<ref href="/us/usc/t20/s1067q/c">section 1067q(c) of title 20</ref>
+									).
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/10/E">
+								<num>(E)</num>
+								<content>
+									 An Asian American and Native American Pacific Islander-serving institution, as that term is defined in 
+									<ref href="/us/usc/t20/s1059g/b">section 1059g(b) of title 20</ref>
+									.
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/10/F">
+								<num>(F)</num>
+								<content>
+									 A Native American-serving, nontribal institution, as that term is defined in 
+									<ref href="/us/usc/t20/s1059f/b">section 1059f(b) of title 20</ref>
+									.
+								</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/11">
+							<num>(11)</num>
+							<heading> Minority business enterprise</heading>
+							<content>
+								<p>The term “minority business enterprise” has the meaning given the term in section 1400.2 of title 15, Code of Federal Regulations, or any successor regulation.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/12">
+							<num>(12)</num>
+							<heading> Office</heading>
+							<content>
+								<p>The term “Office” means the Office of Minority Broadband Initiatives established pursuant to subsection (b)(1).</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/13">
+							<num>(13)</num>
+							<heading> Pilot Program</heading>
+							<content>
+								<p>The term “Pilot Program” means the Connecting Minority Communities Pilot Program established under the rules promulgated by the Assistant Secretary under subsection (c)(1).</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/14">
+							<num>(14)</num>
+							<heading> Tribal College or University</heading>
+							<content>
+								<p>
+									The term “Tribal College or University” has the meaning given the term in 
+									<ref href="/us/usc/t20/s1059c/b">section 1059c(b) of title 20</ref>
+									.
+								</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/15">
+							<num>(15)</num>
+							<heading> Wi-Fi</heading>
+							<content>
+								<p>The term “Wi-Fi” means a wireless networking protocol based on Institute of Electrical and Electronics Engineers standard 802.11, or any successor standard.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/a/16">
+							<num>(16)</num>
+							<heading> Wi-Fi hotspot</heading>
+							<chapeau>The term “Wi-Fi hotspot” means a device that is capable of—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1306/a/16/A">
+								<num>(A)</num>
+								<content> receiving broadband internet access service; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/a/16/B">
+								<num>(B)</num>
+								<content> sharing broadband internet access service with another device through the use of Wi-Fi.</content>
+							</subparagraph>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1306/b">
+						<num>(b)</num>
+						<heading> Office of Minority Broadband Initiatives</heading>
+						<paragraph identifier="/us/usc/t47/s1306/b/1">
+							<num>(1)</num>
+							<heading> Establishment</heading>
+							<content>
+								<p>
+									Not later than 180 days after 
+									<date date="2020-12-27">December 27, 2020</date>
+									, the Assistant Secretary shall establish within the National Telecommunications and Information Administration the Office of Minority Broadband Initiatives.
+								</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/b/2">
+							<num>(2)</num>
+							<heading> Director</heading>
+							<content>
+								<p>The Office shall be headed by the Director of the Office of Minority Broadband Initiatives, who shall be appointed by the Assistant Secretary.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/b/3">
+							<num>(3)</num>
+							<heading> Duties</heading>
+							<chapeau>The Office, acting through the Director, shall—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1306/b/3/A">
+								<num>(A)</num>
+								<content> collaborate with Federal agencies that carry out broadband internet access service support programs to determine how to expand access to broadband internet access service and other digital opportunities in anchor communities;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/b/3/B">
+								<num>(B)</num>
+								<chapeau> collaborate with State, local, and Tribal governments, historically Black colleges or universities, Tribal Colleges or Universities, Minority-serving institutions, and stakeholders in the communications, education, business, and technology fields to—</chapeau>
+								<clause identifier="/us/usc/t47/s1306/b/3/B/i">
+									<num>(i)</num>
+									<chapeau> promote—</chapeau>
+									<subclause identifier="/us/usc/t47/s1306/b/3/B/i/I">
+										<num>(I)</num>
+										<content> initiatives relating to broadband internet access service connectivity for anchor communities; and</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/b/3/B/i/II">
+										<num>(II)</num>
+										<content> digital opportunities for anchor communities;</content>
+									</subclause>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/b/3/B/ii">
+									<num>(ii)</num>
+									<chapeau> develop recommendations to promote the rapid, expanded deployment of broadband internet access service to unserved historically Black colleges or universities, Tribal Colleges or Universities, Minority-serving institutions, and anchor communities, including to—</chapeau>
+									<subclause identifier="/us/usc/t47/s1306/b/3/B/ii/I">
+										<num>(I)</num>
+										<content> students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions; and</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/b/3/B/ii/II">
+										<num>(II)</num>
+										<content> senior citizens and veterans who live in anchor communities;</content>
+									</subclause>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/b/3/B/iii">
+									<num>(iii)</num>
+									<chapeau> promote activities that would accelerate the adoption of broadband internet access service (including any associated equipment or personnel necessary to access and use that service, such as modems, routers, devices that combine a modem and a router, Wi-Fi hotspots, and connected devices)—</chapeau>
+									<subclause identifier="/us/usc/t47/s1306/b/3/B/iii/I">
+										<num>(I)</num>
+										<content> by students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions; and</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/b/3/B/iii/II">
+										<num>(II)</num>
+										<content> within anchor communities;</content>
+									</subclause>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/b/3/B/iv">
+									<num>(iv)</num>
+									<content> upon request, provide assistance to historically Black colleges or universities, Tribal Colleges or Universities, Minority-serving institutions, and leaders from anchor communities with respect to navigating Federal programs dealing with broadband internet access service;</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/b/3/B/v">
+									<num>(v)</num>
+									<content> promote digital literacy skills, including by providing opportunities for virtual or in-person digital literacy training and education;</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/b/3/B/vi">
+									<num>(vi)</num>
+									<content> promote professional development opportunity partnerships between industry and historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions to help ensure that information technology personnel and students of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions have the skills needed to work with new and emerging technologies with respect to broadband internet access service; and</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/b/3/B/vii">
+									<num>(vii)</num>
+									<chapeau> explore how to leverage investment in infrastructure with respect to broadband internet access service to—</chapeau>
+									<subclause identifier="/us/usc/t47/s1306/b/3/B/vii/I">
+										<num>(I)</num>
+										<content> expand connectivity with respect to that service in anchor communities and by students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions;</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/b/3/B/vii/II">
+										<num>(II)</num>
+										<content>
+											 encourage investment in communities that have been designated as qualified opportunity zones under 
+											<ref href="/us/usc/t26/s1400Z–1">section 1400Z–1 of title 26</ref>
+											; and
+										</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/b/3/B/vii/III">
+										<num>(III)</num>
+										<content> serve as a catalyst for adoption of that service, so as to promote job growth and economic development and deployment of advanced technologies; and</content>
+									</subclause>
+								</clause>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/b/3/C">
+								<num>(C)</num>
+								<content>
+									 assume any functions carried out under the Minority Broadband Initiative of the National Telecommunications and Information Administration, as of the day before 
+									<date date="2020-12-27">December 27, 2020</date>
+									.
+								</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/b/4">
+							<num>(4)</num>
+							<heading> Reports</heading>
+							<subparagraph identifier="/us/usc/t47/s1306/b/4/A">
+								<num>(A)</num>
+								<heading> In general</heading>
+								<chapeau>Not later than 1 year after the date on which the Assistant Secretary establishes the Office under paragraph (1), and annually thereafter, the Assistant Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—</chapeau>
+								<clause identifier="/us/usc/t47/s1306/b/4/A/i">
+									<num>(i)</num>
+									<chapeau> for the year covered by the report, details the work of the Office in expanding access to fixed and mobile broadband internet access service—</chapeau>
+									<subclause identifier="/us/usc/t47/s1306/b/4/A/i/I">
+										<num>(I)</num>
+										<content> at historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions, including by expanding that access to students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions; and</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/b/4/A/i/II">
+										<num>(II)</num>
+										<content> within anchor communities; and</content>
+									</subclause>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/b/4/A/ii">
+									<num>(ii)</num>
+									<chapeau> identifies barriers to providing access to broadband internet access service—</chapeau>
+									<subclause identifier="/us/usc/t47/s1306/b/4/A/ii/I">
+										<num>(I)</num>
+										<content> at historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions, including to students, faculty, and staff of historically Black colleges or universities, Tribal Colleges or Universities, and Minority-serving institutions; and</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/b/4/A/ii/II">
+										<num>(II)</num>
+										<content> within anchor communities.</content>
+									</subclause>
+								</clause>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/b/4/B">
+								<num>(B)</num>
+								<heading> Public availability</heading>
+								<content>
+									<p>Not later than 30 days after the date on which the Assistant Secretary submits a report under subparagraph (A), the Assistant Secretary shall, to the extent feasible, make that report publicly available.</p>
+								</content>
+							</subparagraph>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1306/c">
+						<num>(c)</num>
+						<heading> Connecting Minority Communities Pilot Program</heading>
+						<paragraph identifier="/us/usc/t47/s1306/c/1">
+							<num>(1)</num>
+							<heading> Rules required</heading>
+							<subparagraph identifier="/us/usc/t47/s1306/c/1/A">
+								<num>(A)</num>
+								<heading> In general</heading>
+								<chapeau>
+									Not later than 45 days after 
+									<date date="2020-12-27">December 27, 2020</date>
+									, the Assistant Secretary shall promulgate rules establishing the Connecting Minority Communities Pilot Program, the purpose of which shall be to provide grants to eligible recipients in anchor communities for the purchase of broadband internet access service or any eligible equipment, or to hire and train information technology personnel—
+								</chapeau>
+								<clause identifier="/us/usc/t47/s1306/c/1/A/i">
+									<num>(i)</num>
+									<content> in the case of an eligible recipient described in subparagraph (A), (B), or (C) of subsection (a)(8), to facilitate educational instruction and learning, including through remote instruction;</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/c/1/A/ii">
+									<num>(ii)</num>
+									<content> in the case of an eligible recipient described in subsection (a)(8)(D)(i), to operate the minority business enterprise; or</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/c/1/A/iii">
+									<num>(iii)</num>
+									<content> in the case of an eligible recipient described in subsection (a)(8)(D)(ii), to operate the organization.</content>
+								</clause>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/c/1/B">
+								<num>(B)</num>
+								<heading> Content</heading>
+								<chapeau>The rules promulgated under subparagraph (A) shall—</chapeau>
+								<clause identifier="/us/usc/t47/s1306/c/1/B/i">
+									<num>(i)</num>
+									<content> establish a method for identifying which eligible recipients in anchor communities have the greatest unmet financial needs;</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/c/1/B/ii">
+									<num>(ii)</num>
+									<chapeau> ensure that grants under the Pilot Program are made—</chapeau>
+									<subclause identifier="/us/usc/t47/s1306/c/1/B/ii/I">
+										<num>(I)</num>
+										<content> to eligible recipients identified under the method established under clause (i); and</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/c/1/B/ii/II">
+										<num>(II)</num>
+										<content> in a manner that best achieves the purposes of the Pilot Program;</content>
+									</subclause>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/c/1/B/iii">
+									<num>(iii)</num>
+									<chapeau> require that an eligible recipient described in subparagraph (A), (B), or (C) of subsection (a)(8) that receives a grant to provide broadband internet access service or eligible equipment to students prioritizes students who—</chapeau>
+									<subclause identifier="/us/usc/t47/s1306/c/1/B/iii/I">
+										<num>(I)</num>
+										<content>
+											 are eligible to receive a Federal Pell Grant under 
+											<ref href="/us/usc/t20/s1070a">section 1070a of title 20</ref>
+											;
+										</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/c/1/B/iii/II">
+										<num>(II)</num>
+										<content> are recipients of any other need-based financial aid from the Federal Government, a State, or that eligible recipient;</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/c/1/B/iii/III">
+										<num>(III)</num>
+										<content> are qualifying low-income consumers for the purposes of the program carried out under subpart E of part 54 of title 47, Code of Federal Regulations, or any successor regulations;</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/c/1/B/iii/IV">
+										<num>(IV)</num>
+										<content>
+											 are low-income individuals, as that term is defined in 
+											<ref href="/us/usc/t20/s1058/g">section 1058(g) of title 20</ref>
+											; or
+										</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/c/1/B/iii/V">
+										<num>(V)</num>
+										<content>
+											 have been approved to receive unemployment insurance benefits under any Federal or State law since 
+											<date date="2020-03-01">March 1, 2020</date>
+											;
+										</content>
+									</subclause>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/c/1/B/iv">
+									<num>(iv)</num>
+									<chapeau> provide that a recipient of a grant under the Pilot Program—</chapeau>
+									<subclause identifier="/us/usc/t47/s1306/c/1/B/iv/I">
+										<num>(I)</num>
+										<content> shall use eligible equipment for a purpose that the recipient considers to be appropriate, subject to any restriction provided in those rules (or any successor rules);</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/c/1/B/iv/II">
+										<num>(II)</num>
+										<content> if the recipient lends, or otherwise provides, eligible equipment to students or patrons, shall prioritize lending or providing to such individuals that the recipient believes do not have access to that equipment, subject to any restriction provided in those rules (or any successor rules); and</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/c/1/B/iv/III">
+										<num>(III)</num>
+										<content> may not sell or otherwise transfer eligible equipment in exchange for any thing (including a service) of value;</content>
+									</subclause>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/c/1/B/v">
+									<num>(v)</num>
+									<chapeau> include audit requirements that—</chapeau>
+									<subclause identifier="/us/usc/t47/s1306/c/1/B/v/I">
+										<num>(I)</num>
+										<content> ensure that a recipient of a grant made under the Pilot Program uses grant funds in compliance with the requirements of this section and the overall purpose of the Pilot Program; and</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1306/c/1/B/v/II">
+										<num>(II)</num>
+										<content> prevent waste, fraud, and abuse in the operation of the Pilot Program;</content>
+									</subclause>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/c/1/B/vi">
+									<num>(vi)</num>
+									<content> provide that not less than 40 percent of the amount of the grants made under the Pilot Program are made to Historically Black colleges or universities; and</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1306/c/1/B/vii">
+									<num>(vii)</num>
+									<content> provide that not less than 20 percent of the amount of the grants made under the Pilot Program are made to eligible recipients described in subparagraphs (A), (B), and (C) of subsection (a)(8) to provide broadband internet access service or eligible equipment to students of those eligible recipients.</content>
+								</clause>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/c/2">
+							<num>(2)</num>
+							<heading> Fund</heading>
+							<subparagraph identifier="/us/usc/t47/s1306/c/2/A">
+								<num>(A)</num>
+								<heading> Establishment</heading>
+								<content>
+									<p>There is established in the Treasury of the United States a fund to be known as the Connecting Minority Communities Fund.</p>
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/c/2/B">
+								<num>(B)</num>
+								<heading> Use of Fund</heading>
+								<content>
+									<p>Amounts in the Connecting Minority Communities Fund established under subparagraph (A) shall be available to the Assistant Secretary to provide support under the rules promulgated under paragraph (1).</p>
+								</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/c/3">
+							<num>(3)</num>
+							<heading> Interagency coordination</heading>
+							<content>
+								<p>When making grants under the Pilot Program, the Assistant Secretary shall coordinate with other Federal agencies, including the Commission, the National Science Foundation, and the Department of Education, to ensure the efficient expenditure of Federal funds, including by preventing multiple expenditures of Federal funds for the same purpose.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/c/4">
+							<num>(4)</num>
+							<heading> Audits</heading>
+							<subparagraph identifier="/us/usc/t47/s1306/c/4/A">
+								<num>(A)</num>
+								<heading> In general</heading>
+								<content>
+									<p>For each of fiscal years 2021 and 2022, the Inspector General of the Department of Commerce shall conduct an audit of the Pilot Program according to the requirements established under paragraph (1)(B)(v).</p>
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/c/4/B">
+								<num>(B)</num>
+								<heading> Report</heading>
+								<content>
+									<p>After completing each audit conducted under subparagraph (A), the Inspector General of the Department of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that details the findings of the audit.</p>
+								</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/c/5">
+							<num>(5)</num>
+							<heading> Direct appropriation</heading>
+							<content>
+								<p>
+									There is appropriated, out of amounts in the Treasury not otherwise appropriated, for the fiscal year ending 
+									<date date="2021-09-30">September 30, 2021</date>
+									, to remain available until expended, $285,000,000 to the Connecting Minority Communities Fund established under paragraph (2).
+								</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/c/6">
+							<num>(6)</num>
+							<heading> Termination</heading>
+							<content>
+								<p>Except with respect to the report required under paragraph (7) and the authority of the Secretary of Commerce and the Inspector General of the Department of Commerce described in paragraph (8), the Pilot Program, including all reporting requirements under this section, shall terminate on the date on which the amounts made available to carry out the Pilot Program are fully expended.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/c/7">
+							<num>(7)</num>
+							<heading> Report</heading>
+							<chapeau>Not later than 90 days after the date on which the Pilot Program terminates under paragraph (6), the Assistant Secretary, after consulting with eligible recipients that received grants under the Pilot Program, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1306/c/7/A">
+								<num>(A)</num>
+								<content> describes the manner in which the Pilot Program was carried out;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/c/7/B">
+								<num>(B)</num>
+								<content> identifies each eligible recipient that received a grant under the Pilot Program; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/c/7/C">
+								<num>(C)</num>
+								<content> contains information regarding the effectiveness of the Pilot Program, including lessons learned in carrying out the Pilot Program and recommendations for future action.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1306/c/8">
+							<num>(8)</num>
+							<heading> Savings provision</heading>
+							<chapeau>The termination of the Pilot Program under paragraph (6) shall not limit, alter, or affect the ability of the Secretary of Commerce or the Inspector General of the Department of Commerce to—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1306/c/8/A">
+								<num>(A)</num>
+								<content> investigate waste, fraud, and abuse with respect to the Pilot Program; or</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1306/c/8/B">
+								<num>(B)</num>
+								<content> recover funds that are misused under the Pilot Program.</content>
+							</subparagraph>
+						</paragraph>
+					</subsection>
+				</section>
+				<section identifier="/us/usc/t47/s1307">
+					<num>§ 1307.</num>
+					<heading> Office of Internet Connectivity and Growth</heading>
+					<subsection identifier="/us/usc/t47/s1307/a">
+						<num>(a)</num>
+						<heading> Short title</heading>
+						<content>
+							<p>This section may be cited as the “Advancing Critical Connectivity Expands Service, Small Business Resources, Opportunities, Access, and Data Based on Assessed Need and Demand Act” or the “ACCESS BROADBAND Act”.</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1307/b">
+						<num>(b)</num>
+						<heading> Establishment</heading>
+						<content>
+							<p>
+								Not later than 180 days after 
+								<date date="2020-12-27">December 27, 2020</date>
+								, the Assistant Secretary shall establish the Office of Internet Connectivity and Growth within the National Telecommunications and Information Administration.
+							</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1307/c">
+						<num>(c)</num>
+						<heading> Duties</heading>
+						<paragraph identifier="/us/usc/t47/s1307/c/1">
+							<num>(1)</num>
+							<heading> Outreach</heading>
+							<chapeau>The Office shall—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1307/c/1/A">
+								<num>(A)</num>
+								<content> connect with communities that need access to high-speed internet and improved digital inclusion efforts through various forms of outreach and communication techniques;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/c/1/B">
+								<num>(B)</num>
+								<content> hold regional workshops across the country to share best practices and effective strategies for promoting broadband access and adoption;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/c/1/C">
+								<num>(C)</num>
+								<content> develop targeted broadband training and presentations for various demographic communities through various media;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/c/1/D">
+								<num>(D)</num>
+								<content> develop and distribute publications (including toolkits, primers, manuals, and white papers) providing guidance, strategies, and insights to communities as the communities develop strategies to expand broadband access and adoption; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/c/1/E">
+								<num>(E)</num>
+								<content> as applicable in carrying out subparagraphs (A) through (D), coordinate with State agencies that provide similar broadband investments, outreach, and coordination through Federal programs.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1307/c/2">
+							<num>(2)</num>
+							<heading> Tracking of Federal dollars</heading>
+							<subparagraph identifier="/us/usc/t47/s1307/c/2/A">
+								<num>(A)</num>
+								<heading> Broadband infrastructure</heading>
+								<content>
+									<p>The Office shall track the construction and use of and access to any broadband infrastructure built using any Federal support in a central database.</p>
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/c/2/B">
+								<num>(B)</num>
+								<heading> Accounting mechanism</heading>
+								<content>
+									<p>The Office shall develop a streamlined accounting mechanism by which any agency offering a Federal broadband support program and the Commission for any Universal Service Fund Program shall provide the information described in subparagraph (A) in a standardized and efficient fashion.</p>
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/c/2/C">
+								<num>(C)</num>
+								<heading> Report</heading>
+								<chapeau>
+									Not later than 1 year after 
+									<date date="2020-12-27">December 27, 2020</date>
+									, and every year thereafter, the Office shall make public on the website of the Office and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the following:
+								</chapeau>
+								<clause identifier="/us/usc/t47/s1307/c/2/C/i">
+									<num>(i)</num>
+									<content> A description of the work of the Office for the previous year and the number of residents of the United States that received broadband as result of Federal broadband support programs and the Universal Service Fund Programs.</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1307/c/2/C/ii">
+									<num>(ii)</num>
+									<content> A description of how many residents of the United States were provided broadband by which universal service mechanism or which Federal broadband support program.</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1307/c/2/C/iii">
+									<num>(iii)</num>
+									<content> An estimate of the economic impact of such broadband deployment efforts on local economies, including any effect on small businesses or jobs.</content>
+								</clause>
+							</subparagraph>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1307/d">
+						<num>(d)</num>
+						<heading> Relation to current broadband activities of NTIA</heading>
+						<content>
+							<p>
+								The Assistant Secretary shall assign to the Office all activities performed by the National Telecommunications and Information Administration as of 
+								<date date="2020-12-27">December 27, 2020</date>
+								, that are similar to the activities required to be conducted by the Office under this section.
+							</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1307/e">
+						<num>(e)</num>
+						<heading> Streamlined applications for support</heading>
+						<paragraph identifier="/us/usc/t47/s1307/e/1">
+							<num>(1)</num>
+							<heading> Agency consultation</heading>
+							<content>
+								<p>The Office shall consult with any agency offering a Federal broadband support program to streamline and standardize the applications process for financial assistance or grants for such program.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1307/e/2">
+							<num>(2)</num>
+							<heading> Agency streamlining</heading>
+							<content>
+								<p>Any agency offering a Federal broadband support program shall amend the applications of the agency for broadband support, to the extent practicable and as necessary, to streamline and standardize applications for Federal broadband support programs across the Government.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1307/e/3">
+							<num>(3)</num>
+							<heading> Single application</heading>
+							<content>
+								<p>To the greatest extent practicable, the Office shall seek to create one application that may be submitted to apply for all, or substantially all, Federal broadband support programs.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1307/e/4">
+							<num>(4)</num>
+							<heading> Website required</heading>
+							<content>
+								<p>
+									Not later than 180 days after 
+									<date date="2020-12-27">December 27, 2020</date>
+									, the Office shall create a central website through which potential applicants can learn about and apply for support through any Federal broadband support program.
+								</p>
+							</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1307/f">
+						<num>(f)</num>
+						<heading> Coordination of support</heading>
+						<paragraph identifier="/us/usc/t47/s1307/f/1">
+							<num>(1)</num>
+							<heading> In general</heading>
+							<chapeau>To ensure that Federal support for broadband deployment is being distributed in an efficient, technology-neutral, and financially sustainable manner, and that a program does not duplicate any other Federal broadband support program or any Universal Service Fund high-cost program—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1307/f/1/A">
+								<num>(A)</num>
+								<content> any agency that offers a Federal broadband support program shall coordinate with the Office consistent with the goals described in paragraph (2); and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/f/1/B">
+								<num>(B)</num>
+								<content> the Office, with respect to Federal broadband support programs, and the Commission, with respect to the Universal Service Fund high-cost programs, shall coordinate with each other consistent with the goals described in paragraph (2).</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1307/f/2">
+							<num>(2)</num>
+							<heading> Goals</heading>
+							<chapeau>The goals of any coordination conducted pursuant to this subsection are the following:</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1307/f/2/A">
+								<num>(A)</num>
+								<content> Serving the largest number of unserved locations in the United States and ensuring all residents of the United States have access to high-speed broadband.</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/f/2/B">
+								<num>(B)</num>
+								<content> Promoting the most job and economic growth for all residents of the United States.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1307/f/3">
+							<num>(3)</num>
+							<heading> Broadband availability maps</heading>
+							<content>
+								<p>The Office and the Commission shall consult the broadband availability maps produced by the Commission when coordinating under paragraph (1).</p>
+							</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1307/g">
+						<num>(g)</num>
+						<heading> Definitions</heading>
+						<chapeau>In this section:</chapeau>
+						<paragraph identifier="/us/usc/t47/s1307/g/1">
+							<num>(1)</num>
+							<heading> Agency</heading>
+							<content>
+								<p>
+									The term “agency” has the meaning given that term in 
+									<ref href="/us/usc/t5/s551">section 551 of title 5</ref>
+									.
+								</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1307/g/2">
+							<num>(2)</num>
+							<heading> Assistant Secretary</heading>
+							<content>
+								<p>The term “Assistant Secretary” means the Assistant Secretary of Commerce for Communications and Information.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1307/g/3">
+							<num>(3)</num>
+							<heading> Commission</heading>
+							<content>
+								<p>The term “Commission” means the Federal Communications Commission.</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1307/g/4">
+							<num>(4)</num>
+							<heading> Federal broadband support program</heading>
+							<chapeau>The term “Federal broadband support program” does not include any Universal Service Fund Program and means any of the following programs (or any other similar Federal program) to the extent the program offers broadband internet service, support for broadband deployment, or programs for promoting broadband access and adoption for various demographic communities through various media for residential, commercial, community providers, or academic establishments:</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1307/g/4/A">
+								<num>(A)</num>
+								<content> The Telecommunications and Technology Program of the Appalachian Regional Commission.</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/g/4/B">
+								<num>(B)</num>
+								<content>
+									 The Telecommunications Infrastructure Loan and Loan Guarantee Program established under the Rural Electrification Act of 1936 [
+									<ref href="/us/usc/t7/s901">7 U.S.C. 901</ref>
+									 et seq.], the rural broadband access program established under title VI of that Act (
+									<ref href="/us/usc/t7/s950bb">7 U.S.C. 950bb</ref>
+									 et seq.), the initiative under section 306F of that Act (
+									<ref href="/us/usc/t7/s936f">7 U.S.C. 936f</ref>
+									), the Community Connect Grant Program established under section 604 of that Act (
+									<ref href="/us/usc/t7/s950bb–3">7 U.S.C. 950bb–3</ref>
+									), the broadband loan and grant pilot program authorized under section 779 of division A of the Consolidated Appropriations Act, 2018 (
+									<ref href="/us/pl/115/141">Public Law 115–141</ref>
+									; 
+									<ref href="/us/stat/132/399">132 Stat. 399</ref>
+									) (commonly known as the “Rural eConnectivity Pilot Program” or the “ReConnect Program”), and the Distance Learning and Telemedicine Program under chapter 1 of subtitle D of title XXIII of the Food, Agriculture, Conservation, and Trade Act of 1990 (
+									<ref href="/us/usc/t7/s950aaa">7 U.S.C. 950aaa</ref>
+									 et seq.).
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/g/4/C">
+								<num>(C)</num>
+								<content>
+									 Community facility direct and guaranteed loans under 
+									<ref href="/us/usc/t7/s1926/a">section 1926(a) of title 7</ref>
+									, community facility grants under paragraph (19), (20), or (21) of 
+									<ref href="/us/usc/t7/s1926/a">section 1926(a) of title 7</ref>
+									, and the Rural Community Development Initiative authorized under the heading “Rural Housing Service—Rural Community Facilities Program Account” under title III of division B of the Further Consolidated Appropriations Act, 2020 (
+									<ref href="/us/pl/116/94">Public Law 116–94</ref>
+									; 
+									<ref href="/us/stat/133/2629">133 Stat. 2629</ref>
+									).
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/g/4/D">
+								<num>(D)</num>
+								<content> The Public Works and Economic Adjustment Assistance Programs and the Planning and Local Technical Assistance Programs of the Economic Development Administration of the Department of Commerce.</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/g/4/E">
+								<num>(E)</num>
+								<content> The Community Development Block Grants and Section 108 Loan Guarantees Programs, the Funds for Public Housing Authorities: Capital Fund and Operating Fund, the Multifamily Housing Programs, the Indian Community Development Block Grant Program, the Indian Housing Block Grant Program, the Title VI Loan Guarantee Program, the Choice Neighborhoods Program, the HOME Investment Partnerships Program, the Housing Trust Fund, and the Housing Opportunities for Persons with AIDS Program of the Department of Housing and Urban Development.</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/g/4/F">
+								<num>(F)</num>
+								<content> The American Job Centers of the Employment and Training Administration of the Department of Labor.</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/g/4/G">
+								<num>(G)</num>
+								<content> The Library Services and Technology Grant Programs of the Institute of Museum and Library Services.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1307/g/5">
+							<num>(5)</num>
+							<heading> Office</heading>
+							<content>
+								<p>The term “Office” means the Office of Internet Connectivity and Growth established pursuant to subsection (b).</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1307/g/6">
+							<num>(6)</num>
+							<heading> Universal Service Fund high-cost programs</heading>
+							<chapeau>The term “Universal Service Fund high-cost programs” means—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1307/g/6/A">
+								<num>(A)</num>
+								<content> the program for Universal Service Support for High-Cost Areas set forth under subpart D of part 54 of title 47, Code of Federal Regulations, or any successor thereto;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/g/6/B">
+								<num>(B)</num>
+								<content> the Rural Digital Opportunity Fund set forth under subpart J of part 54 of title 47, Code of Federal Regulations, or any successor thereto;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/g/6/C">
+								<num>(C)</num>
+								<content> the Interstate Common Line Support Mechanism for Rate-of-Return Carriers set forth under subpart K of part 54 of title 47, Code of Federal Regulations, or any successor thereto;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/g/6/D">
+								<num>(D)</num>
+								<content> the Mobility Fund and 5G Fund set forth under subpart L of part 54 of title 47, Code of Federal Regulations, or any successor thereto; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1307/g/6/E">
+								<num>(E)</num>
+								<content> the High Cost Loop Support for Rate-of-Return Carriers program set forth under subpart M of part 54 of title 47, Code of Federal Regulations, or any successor thereto.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1307/g/7">
+							<num>(7)</num>
+							<heading> Universal Service Fund Program</heading>
+							<content>
+								<p>
+									The term “Universal Service Fund Program” means any program authorized under 
+									<ref href="/us/usc/t47/s254">section 254 of this title</ref>
+									 to help deploy broadband.
+								</p>
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1307/g/8">
+							<num>(8)</num>
+							<heading> Universal service mechanism</heading>
+							<content>
+								<p>The term “universal service mechanism” means any funding stream provided by a Universal Service Fund Program to support broadband access.</p>
+							</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1307/h">
+						<num>(h)</num>
+						<heading> Rule of construction</heading>
+						<content>
+							<p>
+								Nothing in this section is intended to alter or amend any provision of 
+								<ref href="/us/usc/t47/s254">section 254 of this title</ref>
+								.
+							</p>
+						</content>
+					</subsection>
+				</section>
+				<section identifier="/us/usc/t47/s1308">
+					<num>§ 1308.</num>
+					<heading> Interagency agreement</heading>
+					<subsection identifier="/us/usc/t47/s1308/a">
+						<num>(a)</num>
+						<heading> Short title</heading>
+						<content>
+							<p>This section may be cited as the “Broadband Interagency Coordination Act of 2020”.</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1308/b">
+						<num>(b)</num>
+						<heading> Interagency agreement</heading>
+						<paragraph identifier="/us/usc/t47/s1308/b/1">
+							<num>(1)</num>
+							<heading> Definitions</heading>
+							<chapeau>In this section—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1308/b/1/A">
+								<num>(A)</num>
+								<chapeau> the term “covered agency” means—</chapeau>
+								<clause identifier="/us/usc/t47/s1308/b/1/A/i">
+									<num>(i)</num>
+									<content> the Federal Communications Commission;</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1308/b/1/A/ii">
+									<num>(ii)</num>
+									<content> the Department of Agriculture; and</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1308/b/1/A/iii">
+									<num>(iii)</num>
+									<content> the National Telecommunications and Information Administration; and</content>
+								</clause>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1308/b/1/B">
+								<num>(B)</num>
+								<chapeau> the term “high-cost programs” means—</chapeau>
+								<clause identifier="/us/usc/t47/s1308/b/1/B/i">
+									<num>(i)</num>
+									<content> the program for Universal Service Support for High-Cost Areas set forth under subpart D of part 54 of title 47, Code of Federal Regulations, or any successor thereto;</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1308/b/1/B/ii">
+									<num>(ii)</num>
+									<content> the Rural Digital Opportunity Fund set forth under subpart J of part 54 of title 47, Code of Federal Regulations, or any successor thereto;</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1308/b/1/B/iii">
+									<num>(iii)</num>
+									<content> the Interstate Common Line Support Mechanism for Rate-of-Return Carriers set forth under subpart K of part 54 of title 47, Code of Federal Regulations, or any successor thereto;</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1308/b/1/B/iv">
+									<num>(iv)</num>
+									<content> the Mobility Fund and 5G Fund set forth under subpart L of part 54 of title 47, Code of Federal Regulations, or any successor thereto; and</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1308/b/1/B/v">
+									<num>(v)</num>
+									<content> the High Cost Loop Support for Rate-of-Return Carriers program set forth under subpart M of part 54 of title 47, Code of Federal Regulations, or any successor thereto.</content>
+								</clause>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1308/b/2">
+							<num>(2)</num>
+							<heading> Interagency agreement</heading>
+							<chapeau>
+								Not later than 180 days after 
+								<date date="2020-12-27">December 27, 2020</date>
+								, the heads of the covered agencies shall enter into an interagency agreement requiring coordination between the covered agencies for the distribution of funds for broadband deployment under—
+							</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1308/b/2/A">
+								<num>(A)</num>
+								<content> the high-cost programs;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1308/b/2/B">
+								<num>(B)</num>
+								<content> the programs administered by the Rural Utilities Service of the Department of Agriculture and the Department of Agriculture; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1308/b/2/C">
+								<num>(C)</num>
+								<content> the programs administered by or coordinated through the National Telecommunications and Information Administration.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1308/b/3">
+							<num>(3)</num>
+							<heading> Requirements</heading>
+							<chapeau>In entering into an interagency agreement with respect to the programs described in paragraph (2), the heads of the covered agencies shall—</chapeau>
+							<subparagraph identifier="/us/usc/t47/s1308/b/3/A">
+								<num>(A)</num>
+								<content> require that the covered agencies share information with each other about existing or planned projects that have received or will receive funds under the programs described in paragraph (2) for new broadband deployment;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1308/b/3/B">
+								<num>(B)</num>
+								<chapeau> provide that—</chapeau>
+								<clause identifier="/us/usc/t47/s1308/b/3/B/i">
+									<num>(i)</num>
+									<chapeau> subject to clause (ii), upon request from another covered agency with authority to award or authorize any funds for new broadband deployment in a project area, a covered agency shall provide the other covered agency with any information the covered agency possesses regarding, with respect to the project area—</chapeau>
+									<subclause identifier="/us/usc/t47/s1308/b/3/B/i/I">
+										<num>(I)</num>
+										<content> each entity that provides broadband service in the area;</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1308/b/3/B/i/II">
+										<num>(II)</num>
+										<content> levels of broadband service provided in the area, including the speed of broadband service and the technology provided;</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1308/b/3/B/i/III">
+										<num>(III)</num>
+										<content> the geographic scope of broadband service coverage in the area; and</content>
+									</subclause>
+									<subclause identifier="/us/usc/t47/s1308/b/3/B/i/IV">
+										<num>(IV)</num>
+										<content> each entity that has received or will receive funds under the programs described in paragraph (2) to provide broadband service in the area; and</content>
+									</subclause>
+								</clause>
+								<clause identifier="/us/usc/t47/s1308/b/3/B/ii">
+									<num>(ii)</num>
+									<content> if a covered agency designates any information provided to another covered agency under clause (i) as confidential, the other covered agency shall protect the confidentiality of that information;</content>
+								</clause>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1308/b/3/C">
+								<num>(C)</num>
+								<content> consider basing the distribution of funds for broadband deployment under the programs described in paragraph (2) on standardized data regarding broadband coverage; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1308/b/3/D">
+								<num>(D)</num>
+								<content> provide that the interagency agreement shall be updated periodically, except that the scope of the agreement with respect to the Federal Communications Commission may not expand beyond the high-cost programs.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t47/s1308/b/4">
+							<num>(4)</num>
+							<heading> Assessment of agreement</heading>
+							<subparagraph identifier="/us/usc/t47/s1308/b/4/A">
+								<num>(A)</num>
+								<heading> Public comment</heading>
+								<chapeau>Not later than 1 year after entering into the interagency agreement required under paragraph (2), the Federal Communications Commission shall seek public comment on—</chapeau>
+								<clause identifier="/us/usc/t47/s1308/b/4/A/i">
+									<num>(i)</num>
+									<content> the effectiveness of the interagency agreement in facilitating efficient use of funds for broadband deployment;</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1308/b/4/A/ii">
+									<num>(ii)</num>
+									<content> the availability of Tribal, State, and local data regarding broadband deployment and the inclusion of that data in interagency coordination; and</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1308/b/4/A/iii">
+									<num>(iii)</num>
+									<content> modifications to the interagency agreement that would improve the efficacy of interagency coordination.</content>
+								</clause>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1308/b/4/B">
+								<num>(B)</num>
+								<heading> Assessment; report</heading>
+								<chapeau>
+									Not later than 18 months after 
+									<date date="2020-12-27">December 27, 2020</date>
+									, the Federal Communications Commission shall—
+								</chapeau>
+								<clause identifier="/us/usc/t47/s1308/b/4/B/i">
+									<num>(i)</num>
+									<content> review and assess the comments received under subparagraph (A); and</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1308/b/4/B/ii">
+									<num>(ii)</num>
+									<content> submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report detailing any findings and recommendations from the assessment conducted under clause (i).</content>
+								</clause>
+							</subparagraph>
+						</paragraph>
+					</subsection>
+				</section>
 			</chapter>
 			<chapter identifier="/us/usc/t47/ch13">
 				<num>CHAPTER 13—</num>
@@ -35823,7 +37778,7 @@ SUBCHAPTER I—REALLOCATION OF PUBLIC SAFETY SPECTRUM</column>
 							<column>
 								<ref href="/us/usc/t47/s1413">1413.</ref>
 							</column>
-							<column>470–512 MHz public safety spectrum.</column>
+							<column>Repealed.</column>
 						</tocItem>
 						<header>
 							<column>
@@ -36477,45 +38432,6 @@ SUBCHAPTER V—NEXT GENERATION 9–1–1 ADVANCEMENT ACT OF 2012</column>
 						<content>
 							<p>The Commission may allow the narrowband spectrum to be used in a flexible manner, including usage for public safety broadband communications, subject to such technical and interference protection measures as the Commission may require.</p>
 						</content>
-					</section>
-					<section identifier="/us/usc/t47/s1413">
-						<num>§ 1413.</num>
-						<heading> 470–512 MHz public safety spectrum</heading>
-						<subsection identifier="/us/usc/t47/s1413/a">
-							<num>(a)</num>
-							<heading> In general</heading>
-							<chapeau>
-								Not later than 9 years after 
-								<date date="2012-02-22">February 22, 2012</date>
-								, the Commission shall—
-							</chapeau>
-							<paragraph identifier="/us/usc/t47/s1413/a/1">
-								<num>(1)</num>
-								<content> reallocate the spectrum in the 470–512 MHz band (referred to in this section as the “T-Band spectrum”) currently used by public safety eligibles as identified in section 90.303 of title 47, Code of Federal Regulations; and</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t47/s1413/a/2">
-								<num>(2)</num>
-								<content>
-									 begin a system of competitive bidding under 
-									<ref href="/us/usc/t47/s309/j">section 309(j) of this title</ref>
-									 to grant new initial licenses for the use of the spectrum described in paragraph (1).
-								</content>
-							</paragraph>
-						</subsection>
-						<subsection identifier="/us/usc/t47/s1413/b">
-							<num>(b)</num>
-							<heading> Auction proceeds</heading>
-							<content>
-								<p>Proceeds (including deposits and upfront payments from successful bidders) from the competitive bidding system described in subsection (a)(2) shall be available to the Assistant Secretary to make grants in such sums as necessary to cover relocation costs for the relocation of public safety entities from the T-Band spectrum.</p>
-							</content>
-						</subsection>
-						<subsection identifier="/us/usc/t47/s1413/c">
-							<num>(c)</num>
-							<heading> Relocation</heading>
-							<content>
-								<p>Relocation shall be completed not later than 2 years after the date on which the system of competitive bidding described in subsection (a)(2) is completed.</p>
-							</content>
-						</subsection>
 					</section>
 				</subchapter>
 				<subchapter identifier="/us/usc/t47/ch13/schII">
@@ -40768,7 +42684,7 @@ SUBCHAPTER V—NEXT GENERATION 9–1–1 ADVANCEMENT ACT OF 2012</column>
 						<chapeau>The Commission may not make a reimbursement under the Program to a provider of advanced communications service unless the provider—</chapeau>
 						<paragraph identifier="/us/usc/t47/s1603/b/1">
 							<num>(1)</num>
-							<content> has 2,000,000 or fewer customers; and</content>
+							<content> has 10,000,000 or fewer customers; and</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t47/s1603/b/2">
 							<num>(2)</num>
@@ -40784,23 +42700,25 @@ SUBCHAPTER V—NEXT GENERATION 9–1–1 ADVANCEMENT ACT OF 2012</column>
 							<chapeau>A recipient of a reimbursement under the Program shall use reimbursement funds solely for the purposes of—</chapeau>
 							<subparagraph identifier="/us/usc/t47/s1603/c/1/A">
 								<num>(A)</num>
-								<chapeau> permanently removing covered communications equipment or services purchased, rented, leased, or otherwise obtained before—</chapeau>
+								<chapeau> permanently removing covered communications equipment or services purchased, rented, leased, or otherwise obtained—</chapeau>
 								<clause identifier="/us/usc/t47/s1603/c/1/A/i">
 									<num>(i)</num>
 									<content>
-										 in the case of any covered communications equipment or services that are on the initial list published under 
-										<ref href="/us/usc/t47/s1601/a">section 1601(a) of this title</ref>
-										, 
-										<date date="2018-08-14">August 14, 2018</date>
-										; or
+										 as defined in the Report and Order of the Commission in the matter of Protecting Against National Security Threats to the Communications Supply Chain Through FCC Programs (FCC 19–121; WC Docket No. 18–89; adopted 
+										<date date="2019-11-22">November 22, 2019</date>
+										) (in this section referred to as the “Report and Order”); or
 									</content>
 								</clause>
 								<clause identifier="/us/usc/t47/s1603/c/1/A/ii">
 									<num>(ii)</num>
 									<content>
-										 in the case of any covered communications equipment or services that are not on the initial list published under 
-										<ref href="/us/usc/t47/s1601/a">section 1601(a) of this title</ref>
-										, the date that is 60 days after the date on which the Commission places such equipment or services on the list required by such section;
+										 as determined to be covered by both the process of the Report and Order and the Designation Orders of the Commission on 
+										<date date="2020-06-30">June 30, 2020</date>
+										 (DA 20–690; PS Docket No. 19–351; adopted 
+										<date date="2020-06-30">June 30, 2020</date>
+										) (DA 20–691; PS Docket No. 19–352; adopted 
+										<date date="2020-06-30">June 30, 2020</date>
+										) (in this section collectively referred to as the “Designation Orders”);
 									</content>
 								</clause>
 							</subparagraph>
@@ -40822,20 +42740,14 @@ SUBCHAPTER V—NEXT GENERATION 9–1–1 ADVANCEMENT ACT OF 2012</column>
 								<chapeau> use reimbursement funds to remove, replace, or dispose of any covered communications equipment or service purchased, rented, leased, or otherwise obtained on or after—</chapeau>
 								<clause identifier="/us/usc/t47/s1603/c/2/A/i">
 									<num>(i)</num>
-									<content>
-										 in the case of any covered communications equipment or service that is on the initial list published under 
-										<ref href="/us/usc/t47/s1601/a">section 1601(a) of this title</ref>
-										, 
-										<date date="2018-08-14">August 14, 2018</date>
-										; or
-									</content>
+									<content> publication of the Report and Order; or</content>
 								</clause>
 								<clause identifier="/us/usc/t47/s1603/c/2/A/ii">
 									<num>(ii)</num>
 									<content>
-										 in the case of any covered communications equipment or service that is not on the initial list published under 
-										<ref href="/us/usc/t47/s1601/a">section 1601(a) of this title</ref>
-										, the date that is 60 days after the date on which the Commission places such equipment or service on the list required by such section; or
+										 in the case of covered communications equipment that only became covered pursuant to the Designation Orders, 
+										<date date="2020-06-30">June 30, 2020</date>
+										; or
 									</content>
 								</clause>
 							</subparagraph>
@@ -40988,7 +42900,7 @@ SUBCHAPTER V—NEXT GENERATION 9–1–1 ADVANCEMENT ACT OF 2012</column>
 								<num>(A)</num>
 								<heading> In general</heading>
 								<content>
-									<p>The Commission shall make reasonable efforts to ensure that reimbursement funds are distributed equitably among all applicants for reimbursements under the Program according to the needs of the applicants, as identified by the applications of the applicants.</p>
+									<p>Subject to subparagraph (C), the Commission shall make reasonable efforts to ensure that reimbursement funds are distributed equitably among all applicants for reimbursements under the Program according to the needs of the applicants, as identified by the applications of the applicants.</p>
 								</content>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t47/s1603/d/5/B">
@@ -41002,6 +42914,35 @@ SUBCHAPTER V—NEXT GENERATION 9–1–1 ADVANCEMENT ACT OF 2012</column>
 								<clause identifier="/us/usc/t47/s1603/d/5/B/ii">
 									<num>(ii)</num>
 									<content> the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate.</content>
+								</clause>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t47/s1603/d/5/C">
+								<num>(C)</num>
+								<heading> Priority for allocation</heading>
+								<chapeau>
+									On and after 
+									<date date="2020-12-27">December 27, 2020</date>
+									, the Commission shall allocate sufficient reimbursement funds—
+								</chapeau>
+								<clause identifier="/us/usc/t47/s1603/d/5/C/i">
+									<num>(i)</num>
+									<content>
+										 first, to approved applicants that have 2,000,000 or fewer customers, for removal and replacement of covered communications equipment, as defined in 
+										<ref href="/us/usc/t47/s1608">section 1608 of this title</ref>
+										 or as designated by the process set forth in the Report and Order;
+									</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1603/d/5/C/ii">
+									<num>(ii)</num>
+									<content>
+										 after funds have been allocated to all applicants described in clause (i), to approved applicants that are accredited public or private non-commercial educational institutions providing their own facilities-based educational broadband service, as defined in section 27.4 of title 47, Code of Federal Regulations, or any successor regulation, for removal and replacement of covered communications equipment, as defined in 
+										<ref href="/us/usc/t47/s1608">section 1608 of this title</ref>
+										 or as designated by the process set forth in the Report and Order; and
+									</content>
+								</clause>
+								<clause identifier="/us/usc/t47/s1603/d/5/C/iii">
+									<num>(iii)</num>
+									<content> after funds have been allocated to all applicants described in clause (ii), to any remaining approved applicants determined to be eligible for reimbursement under the Program.</content>
 								</clause>
 							</subparagraph>
 						</paragraph>
@@ -41244,6 +43185,13 @@ SUBCHAPTER V—NEXT GENERATION 9–1–1 ADVANCEMENT ACT OF 2012</column>
 								<ref href="/us/usc/t47/s254">section 254 of this title</ref>
 								.
 							</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t47/s1603/k">
+						<num>(k)</num>
+						<heading> Limitation</heading>
+						<content>
+							<p>In carrying out this section, the Commission may not expend more than $1,900,000,000.</p>
 						</content>
 					</subsection>
 				</section>
@@ -41626,9 +43574,23 @@ SUBCHAPTER V—NEXT GENERATION 9–1–1 ADVANCEMENT ACT OF 2012</column>
 					<paragraph identifier="/us/usc/t47/s1608/10">
 						<num>(10)</num>
 						<heading> Provider of advanced communications service</heading>
-						<content>
-							<p>The term “provider of advanced communications service” means a person who provides advanced communications service to United States customers.</p>
-						</content>
+						<chapeau>The term “provider of advanced communications service”—</chapeau>
+						<subparagraph identifier="/us/usc/t47/s1608/10/A">
+							<num>(A)</num>
+							<content> means a person who provides advanced communications service to United States customers; and</content>
+						</subparagraph>
+						<subparagraph identifier="/us/usc/t47/s1608/10/B">
+							<num>(B)</num>
+							<chapeau> includes—</chapeau>
+							<clause identifier="/us/usc/t47/s1608/10/B/i">
+								<num>(i)</num>
+								<content> accredited public or private noncommercial educational institutions, providing their own facilities-based educational broadband service, as defined in section 27.4 of title 47, Code of Federal Regulations, or any successor regulation; and</content>
+							</clause>
+							<clause identifier="/us/usc/t47/s1608/10/B/ii">
+								<num>(ii)</num>
+								<content> health care providers and libraries providing advanced communications service.</content>
+							</clause>
+						</subparagraph>
 					</paragraph>
 					<paragraph identifier="/us/usc/t47/s1608/11">
 						<num>(11)</num>

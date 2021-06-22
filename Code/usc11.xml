@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t11" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t11">
 	<main>
 		<title identifier="/us/usc/t11">
 			<num>Title 11—</num>
@@ -5236,11 +5236,30 @@ SUBCHAPTER IV—ADMINISTRATIVE POWERS</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t11/s365/d/3">
 								<num>(3)</num>
-								<content>
-									 The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding 
-									<ref href="/us/usc/t11/s503/b/1">section 503(b)(1) of this title</ref>
-									. The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period. This subsection shall not be deemed to affect the trustee’s obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor’s rights under such lease or under this title.
-								</content>
+								<subparagraph identifier="/us/usc/t11/s365/d/3/A">
+									<num>(A)</num>
+									<content>
+										 The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding 
+										<ref href="/us/usc/t11/s503/b/1">section 503(b)(1) of this title</ref>
+										. The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period, except as provided in subparagraph (B). This subsection shall not be deemed to affect the trustee’s obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor’s rights under such lease or under this title.
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t11/s365/d/3/B">
+									<num>(B)</num>
+									<chapeau> In a case under subchapter V of chapter 11, the time for performance of an obligation described in subparagraph (A) arising under any unexpired lease of nonresidential real property may be extended by the court if the debtor is experiencing or has experienced a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic until the earlier of—</chapeau>
+									<clause identifier="/us/usc/t11/s365/d/3/B/i">
+										<num>(i)</num>
+										<content> the date that is 60 days after the date of the order for relief, which may be extended by the court for an additional period of 60 days if the court determines that the debtor is continuing to experience a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic; or</content>
+									</clause>
+									<clause identifier="/us/usc/t11/s365/d/3/B/ii">
+										<num>(ii)</num>
+										<content> the date on which the lease is assumed or rejected under this section.</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t11/s365/d/3/C">
+									<num>(C)</num>
+									<content> An obligation described in subparagraph (A) for which an extension is granted under subparagraph (B) shall be treated as an administrative expense described in section 507(a)(2) for the purpose of section 1191(e).</content>
+								</subparagraph>
 							</paragraph>
 							<paragraph identifier="/us/usc/t11/s365/d/4">
 								<num>(4)</num>
@@ -5249,7 +5268,7 @@ SUBCHAPTER IV—ADMINISTRATIVE POWERS</column>
 									<chapeau> Subject to subparagraph (B), an unexpired lease of nonresidential real property under which the debtor is the lessee shall be deemed rejected, and the trustee shall immediately surrender that nonresidential real property to the lessor, if the trustee does not assume or reject the unexpired lease by the earlier of—</chapeau>
 									<clause identifier="/us/usc/t11/s365/d/4/A/i">
 										<num>(i)</num>
-										<content> the date that is 120 days after the date of the order for relief; or</content>
+										<content> the date that is 210 days after the date of the order for relief; or</content>
 									</clause>
 									<clause identifier="/us/usc/t11/s365/d/4/A/ii">
 										<num>(ii)</num>
@@ -5260,7 +5279,7 @@ SUBCHAPTER IV—ADMINISTRATIVE POWERS</column>
 									<num>(B)</num>
 									<clause identifier="/us/usc/t11/s365/d/4/B/i">
 										<num>(i)</num>
-										<content> The court may extend the period determined under subparagraph (A), prior to the expiration of the 120-day period, for 90 days on the motion of the trustee or lessor for cause.</content>
+										<content> The court may extend the period determined under subparagraph (A), prior to the expiration of the 210-day period, for 90 days on the motion of the trustee or lessor for cause.</content>
 									</clause>
 									<clause identifier="/us/usc/t11/s365/d/4/B/ii">
 										<num>(ii)</num>
@@ -5644,6 +5663,22 @@ SUBCHAPTER IV—ADMINISTRATIVE POWERS</column>
 								<content> Notwithstanding any other provision of law, with respect to a case subject to this subsection, a utility may recover or set off against a security deposit provided to the utility by the debtor before the date of the filing of the petition without notice or order of the court.</content>
 							</paragraph>
 						</subsection>
+						<subsection identifier="/us/usc/t11/s366/d">
+							<num>(d)</num>
+							<chapeau> Notwithstanding any other provision of this section, a utility may not alter, refuse, or discontinue service to a debtor who does not furnish adequate assurance of payment under this section if the debtor—</chapeau>
+							<paragraph identifier="/us/usc/t11/s366/d/1">
+								<num>(1)</num>
+								<content> is an individual;</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t11/s366/d/2">
+								<num>(2)</num>
+								<content> makes a payment to the utility for any debt owed to the utility for service provided during the 20-day period beginning on the date of the order for relief; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t11/s366/d/3">
+								<num>(3)</num>
+								<content> after the date on which the 20-day period beginning on the date of the order for relief ends, makes a payment to the utility for services provided during the pendency of case when such a payment becomes due.</content>
+							</paragraph>
+						</subsection>
 					</section>
 				</subchapter>
 			</chapter>
@@ -5947,6 +5982,72 @@ SUBCHAPTER III—THE ESTATE</column>
 								) and, if so filed, shall be allowed as a single claim.
 							</content>
 						</subsection>
+						<subsection identifier="/us/usc/t11/s501/f">
+							<num>(f)</num>
+							<paragraph identifier="/us/usc/t11/s501/f/1">
+								<num>(1)</num>
+								<chapeau> In this subsection—</chapeau>
+								<subparagraph identifier="/us/usc/t11/s501/f/1/A">
+									<num>(A)</num>
+									<content>
+										 the term “CARES forbearance claim” means a supplemental claim for the amount of a Federally backed mortgage loan or a Federally backed multifamily mortgage loan that was not received by an eligible creditor during the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act (
+										<ref href="/us/usc/t15/s9056">15 U.S.C. 9056</ref>
+										, 9057);
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t11/s501/f/1/B">
+									<num>(B)</num>
+									<content>
+										 the term “eligible creditor” means a servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (
+										<ref href="/us/usc/t12/s2605/i">12 U.S.C. 2605(i)</ref>
+										) with a claim for a Federally backed mortgage loan or a Federally backed multifamily mortgage loan of the debtor that is provided for by a plan under section 1322(b)(5);
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t11/s501/f/1/C">
+									<num>(C)</num>
+									<content>
+										 the term “Federally backed mortgage loan” has the meaning given the term in section 4022(a) of the CARES Act (
+										<ref href="/us/usc/t15/s9056/a">15 U.S.C. 9056(a)</ref>
+										); and
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t11/s501/f/1/D">
+									<num>(D)</num>
+									<content>
+										 the term “Federally backed multifamily mortgage loan” has the meaning given the term in section 4023(f) of the CARES Act (
+										<ref href="/us/usc/t15/s9057/f">15 U.S.C. 9057(f)</ref>
+										).
+									</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t11/s501/f/2">
+								<num>(2)</num>
+								<subparagraph identifier="/us/usc/t11/s501/f/2/A">
+									<num>(A)</num>
+									<content> Only an eligible creditor may file a supplemental proof of claim for a CARES forbearance claim.</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t11/s501/f/2/B">
+									<num>(B)</num>
+									<chapeau>
+										 If an underlying mortgage loan obligation has been modified or deferred by an agreement of the debtor and an eligible creditor of the mortgage loan in connection with a mortgage forbearance granted under section 4022 or 4023 of the CARES Act (
+										<ref href="/us/usc/t15/s9056">15 U.S.C. 9056</ref>
+										, 9057) in order to cure mortgage payments forborne under the forbearance, the proof of claim filed under subparagraph (A) shall include—
+									</chapeau>
+									<clause identifier="/us/usc/t11/s501/f/2/B/i">
+										<num>(i)</num>
+										<content> the relevant terms of the modification or deferral;</content>
+									</clause>
+									<clause identifier="/us/usc/t11/s501/f/2/B/ii">
+										<num>(ii)</num>
+										<content> for a modification or deferral that is in writing, a copy of the modification or deferral; and</content>
+									</clause>
+									<clause identifier="/us/usc/t11/s501/f/2/B/iii">
+										<num>(iii)</num>
+										<content> a description of the payments to be deferred until the date on which the mortgage loan matures.</content>
+									</clause>
+								</subparagraph>
+							</paragraph>
+						</subsection>
 					</section>
 					<section identifier="/us/usc/t11/s502">
 						<num>§ 502.</num>
@@ -6032,11 +6133,23 @@ SUBCHAPTER III—THE ESTATE</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t11/s502/b/9">
 								<num>(9)</num>
-								<content>
-									 proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of 
-									<ref href="/us/usc/t11/s726/a">section 726(a) of this title</ref>
-									 or under the Federal Rules of Bankruptcy Procedure, except that a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide, and except that in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required.
-								</content>
+								<chapeau> proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) or under the Federal Rules of Bankruptcy Procedure, except that—</chapeau>
+								<subparagraph identifier="/us/usc/t11/s502/b/9/A">
+									<num>(A)</num>
+									<content> a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t11/s502/b/9/B">
+									<num>(B)</num>
+									<content> in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t11/s502/b/9/C">
+									<num>(C)</num>
+									<content>
+										 a CARES forbearance claim (as defined in section 501(f)(1)) shall be timely filed if the claim is filed before the date that is 120 days after the expiration of the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act (
+										<ref href="/us/usc/t15/s9056">15 U.S.C. 9056</ref>
+										, 9057).
+									</content>
+								</subparagraph>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t11/s502/c">
@@ -6724,7 +6837,7 @@ SUBCHAPTER III—THE ESTATE</column>
 						</subsection>
 						<subsection identifier="/us/usc/t11/s507/d">
 							<num>(d)</num>
-							<content> An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.</content>
+							<content> An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), or (a)(9) or subparagraphs (A) through (E) and (G) of subsection (a)(8) of this section is not subrogated to the right of the holder of such claim to priority under such subsection or subparagraph.</content>
 						</subsection>
 					</section>
 					<section identifier="/us/usc/t11/s508">
@@ -8748,6 +8861,14 @@ SUBCHAPTER III—THE ESTATE</column>
 								<content> In this section, “student loan program” means any program operated under title IV of the Higher Education Act of 1965 or a similar program operated under State or local law.</content>
 							</paragraph>
 						</subsection>
+						<subsection identifier="/us/usc/t11/s525/d">
+							<num>(d)</num>
+							<content>
+								 A person may not be denied relief under sections 4022 through 4024 of the CARES Act (
+								<ref href="/us/usc/t15/s9056">15 U.S.C. 9056</ref>
+								, 9057, 9058) because the person is or has been a debtor under this title.
+							</content>
+						</subsection>
 					</section>
 					<section identifier="/us/usc/t11/s526">
 						<num>§ 526.</num>
@@ -9216,7 +9337,7 @@ SUBCHAPTER III—THE ESTATE</column>
 									<num>(B)</num>
 									<content> under an agreement with a money order issuer that prohibits the commingling of such proceeds with property of the debtor (notwithstanding that, contrary to the agreement, the proceeds may have been commingled with property of the debtor),</content>
 								</subparagraph>
-								<continuation>unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition; or</continuation>
+								<continuation>unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition;</continuation>
 							</paragraph>
 							<paragraph identifier="/us/usc/t11/s541/b/10">
 								<num>(10)</num>
@@ -9240,10 +9361,15 @@ SUBCHAPTER III—THE ESTATE</column>
 								<subparagraph identifier="/us/usc/t11/s541/b/10/C">
 									<num>(C)</num>
 									<content>
-										 in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.
+										 in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225; 
 										<sup>2</sup>
+										 or
 									</content>
 								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t11/s541/b/11">
+								<num>(11)</num>
+								<content> recovery rebates made under section 6428 of the Internal Revenue Code of 1986.</content>
 							</paragraph>
 							<continuation>Paragraph (4) shall not be construed to exclude from the estate any consideration the debtor retains, receives, or is entitled to receive for transferring an interest in liquid or gaseous hydrocarbons pursuant to a farmout agreement.</continuation>
 						</subsection>
@@ -9602,7 +9728,7 @@ SUBCHAPTER III—THE ESTATE</column>
 						</subsection>
 						<subsection identifier="/us/usc/t11/s547/b">
 							<num>(b)</num>
-							<chapeau> Except as provided in subsections (c) and (i) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party’s known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—</chapeau>
+							<chapeau> Except as provided in subsections (c), (i), and (j) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party’s known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—</chapeau>
 							<paragraph identifier="/us/usc/t11/s547/b/1">
 								<num>(1)</num>
 								<content> to or for the benefit of a creditor;</content>
@@ -9813,6 +9939,113 @@ SUBCHAPTER III—THE ESTATE</column>
 						<subsection identifier="/us/usc/t11/s547/i">
 							<num>(i)</num>
 							<content> If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.</content>
+						</subsection>
+						<subsection identifier="/us/usc/t11/s547/j">
+							<num>(j)</num>
+							<paragraph identifier="/us/usc/t11/s547/j/1">
+								<num>(1)</num>
+								<chapeau> In this subsection:</chapeau>
+								<subparagraph identifier="/us/usc/t11/s547/j/1/A">
+									<num>(A)</num>
+									<chapeau> The term “covered payment of rental arrearages” means a payment of arrearages that—</chapeau>
+									<clause identifier="/us/usc/t11/s547/j/1/A/i">
+										<num>(i)</num>
+										<chapeau> is made in connection with an agreement or arrangement—</chapeau>
+										<subclause identifier="/us/usc/t11/s547/j/1/A/i/I">
+											<num>(I)</num>
+											<content> between the debtor and a lessor to defer or postpone the payment of rent and other periodic charges under a lease of nonresidential real property; and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t11/s547/j/1/A/i/II">
+											<num>(II)</num>
+											<content>
+												 made or entered into on or after 
+												<date date="2020-03-13">March 13, 2020</date>
+												;
+											</content>
+										</subclause>
+									</clause>
+									<clause identifier="/us/usc/t11/s547/j/1/A/ii">
+										<num>(ii)</num>
+										<content>
+											 does not exceed the amount of rental and other periodic charges agreed to under the lease of nonresidential real property described in clause (i)(I) before 
+											<date date="2020-03-13">March 13, 2020</date>
+											; and
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t11/s547/j/1/A/iii">
+										<num>(iii)</num>
+										<chapeau> does not include fees, penalties, or interest in an amount greater than the amount of fees, penalties, or interest—</chapeau>
+										<subclause identifier="/us/usc/t11/s547/j/1/A/iii/I">
+											<num>(I)</num>
+											<content> scheduled to be paid under the lease of nonresidential real property described in clause (i)(I); or</content>
+										</subclause>
+										<subclause identifier="/us/usc/t11/s547/j/1/A/iii/II">
+											<num>(II)</num>
+											<content>
+												 that the debtor would owe if the debtor had made every payment due under the lease of nonresidential real property described in clause (i)(I) on time and in full before 
+												<date date="2020-03-13">March 13, 2020</date>
+												.
+											</content>
+										</subclause>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t11/s547/j/1/B">
+									<num>(B)</num>
+									<chapeau> The term “covered payment of supplier arrearages” means a payment of arrearages that—</chapeau>
+									<clause identifier="/us/usc/t11/s547/j/1/B/i">
+										<num>(i)</num>
+										<chapeau> is made in connection with an agreement or arrangement—</chapeau>
+										<subclause identifier="/us/usc/t11/s547/j/1/B/i/I">
+											<num>(I)</num>
+											<content> between the debtor and a supplier of goods or services to defer or postpone the payment of amounts due under an executory contract for goods or services; and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t11/s547/j/1/B/i/II">
+											<num>(II)</num>
+											<content>
+												 made or entered into on or after 
+												<date date="2020-03-13">March 13, 2020</date>
+												;
+											</content>
+										</subclause>
+									</clause>
+									<clause identifier="/us/usc/t11/s547/j/1/B/ii">
+										<num>(ii)</num>
+										<content>
+											 does not exceed the amount due under the executory contract described in clause (i)(I) before 
+											<date date="2020-03-13">March 13, 2020</date>
+											; and
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t11/s547/j/1/B/iii">
+										<num>(iii)</num>
+										<chapeau> does not include fees, penalties, or interest in an amount greater than the amount of fees, penalties, or interest—</chapeau>
+										<subclause identifier="/us/usc/t11/s547/j/1/B/iii/I">
+											<num>(I)</num>
+											<content> scheduled to be paid under the executory contract described in clause (i)(I); or</content>
+										</subclause>
+										<subclause identifier="/us/usc/t11/s547/j/1/B/iii/II">
+											<num>(II)</num>
+											<content>
+												 that the debtor would owe if the debtor had made every payment due under the executory contract described in clause (i)(I) on time and in full before 
+												<date date="2020-03-13">March 13, 2020</date>
+												.
+											</content>
+										</subclause>
+									</clause>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t11/s547/j/2">
+								<num>(2)</num>
+								<chapeau> The trustee may not avoid a transfer under this section for—</chapeau>
+								<subparagraph identifier="/us/usc/t11/s547/j/2/A">
+									<num>(A)</num>
+									<content> a covered payment of rental arrearages; or</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t11/s547/j/2/B">
+									<num>(B)</num>
+									<content> a covered payment of supplier arrearages.</content>
+								</subparagraph>
+							</paragraph>
 						</subsection>
 					</section>
 					<section identifier="/us/usc/t11/s548">
@@ -19532,6 +19765,33 @@ Amendments</column>
 								<content> there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).</content>
 							</paragraph>
 						</subsection>
+						<subsection identifier="/us/usc/t11/s1328/i">
+							<num>(i)</num>
+							<chapeau> Subject to subsection (d), after notice and a hearing, the court may grant a discharge of debts dischargeable under subsection (a) to a debtor who has not completed payments to the trustee or a creditor holding a security interest in the principal residence of the debtor if—</chapeau>
+							<paragraph identifier="/us/usc/t11/s1328/i/1">
+								<num>(1)</num>
+								<content>
+									 the debtor defaults on not more than 3 monthly payments due on a residential mortgage under section 1322(b)(5) on or after 
+									<date date="2020-03-13">March 13, 2020</date>
+									, to the trustee or creditor caused by a material financial hardship due, directly or indirectly, by the coronavirus disease 2019 (COVID–19) pandemic; or
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t11/s1328/i/2">
+								<num>(2)</num>
+								<subparagraph identifier="/us/usc/t11/s1328/i/2/A">
+									<num>(A)</num>
+									<content> the plan provides for the curing of a default and maintenance of payments on a residential mortgage under section 1322(b)(5); and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t11/s1328/i/2/B">
+									<num>(B)</num>
+									<content>
+										 the debtor has entered into a forbearance agreement or loan modification agreement with the holder or servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (
+										<ref href="/us/usc/t12/s2605/i">12 U.S.C. 2605(i)</ref>
+										) of the mortgage described in subparagraph (A).
+									</content>
+								</subparagraph>
+							</paragraph>
+						</subsection>
 					</section>
 					<section identifier="/us/usc/t11/s1329">
 						<num>§ 1329.</num>
@@ -19620,6 +19880,17 @@ Amendments</column>
 							<paragraph identifier="/us/usc/t11/s1329/d/3">
 								<num>(3)</num>
 								<content> Sections 1322(a), 1322(b), 1323(c), and the requirements of section 1325(a) shall apply to any modification under paragraph (1).</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t11/s1329/e">
+							<num>(e)</num>
+							<paragraph identifier="/us/usc/t11/s1329/e/1">
+								<num>(1)</num>
+								<content> A debtor of a case for which a creditor files a proof of claim under section 501(f) may file a request for a modification of the plan to provide for the proof of claim.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t11/s1329/e/2">
+								<num>(2)</num>
+								<content> If the debtor does not file a request for a modification of the plan under paragraph (1) on or before the date that is 30 days after the date on which a creditor files a claim under section 501(f), after notice, the court, on a motion of the court or on a motion of the United States trustee, the trustee, a bankruptcy administrator, or any party in interest, may request a modification of the plan to provide for the proof of claim.</content>
 							</paragraph>
 						</subsection>
 					</section>

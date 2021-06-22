@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc identifier="/us/usc/t51" xml:lang="en" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd">
+<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t51">
 	<main>
 		<title identifier="/us/usc/t51">
 			<num>Title 51—</num>
@@ -1066,10 +1066,10 @@ Amendments</column>
 							<subsection identifier="/us/usc/t51/s20113/l">
 								<num>(l)</num>
 								<heading>
-									<inline>Detailing Members of Armed Services</inline>
+									<inline>Detailing Members of Armed Forces</inline>
 									.—
 								</heading>
-								<content>In the performance of its functions, the Administration is authorized, with the approval of the President, to enter into cooperative agreements under which members of the Army, Navy, Air Force, and Marine Corps may be detailed by the appropriate Secretary for services in the performance of functions under this chapter to the same extent as that to which they might be lawfully assigned in the Department of Defense.</content>
+								<content>In the performance of its functions, the Administration is authorized, with the approval of the President, to enter into cooperative agreements under which members of the Army, Navy, Air Force, Marine Corps, and Space Force may be detailed by the appropriate Secretary for services in the performance of functions under this chapter to the same extent as that to which they might be lawfully assigned in the Department of Defense.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t51/s20113/m">
 								<num>(m)</num>

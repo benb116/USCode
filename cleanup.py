@@ -21,7 +21,7 @@ titles = [
 ]
 
 removeTags = ['note', 'notes', 'sourceCredit', 'doc', 'dc', 'meta', 'property', 'ref']
-removeAttr = ['style', 'class', 'id', 'role', 'value', 'border', 'xmlns', 'width']
+removeAttr = ['style', 'class', 'id', 'role', 'value', 'border', 'xmlns', 'width', 'xmlns:xsi', 'xml:lang', 'xmlns:dcterms', 'xsi:schemaLocation', 'xmlns:dc']
 removeStatus = ['repealed', 'omitted', 'transferred', 'reserved', 'renumbered']
 
 def cleanTitle(name):
@@ -52,7 +52,7 @@ def cleanTitle(name):
     out2 = os.linesep.join([s for s in out.splitlines() if s])
 
     f = open(codedir+name, "w")
-    f.write(out2)
+    f.write(out2.encode('utf-8'))
     f.close()
 
 def stripAttr(node):

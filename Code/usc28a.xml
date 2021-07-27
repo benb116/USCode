@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="usctitle.css"?>
-<uscDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xsi:schemaLocation="http://xml.house.gov/schemas/uslm/1.0 USLM-1.0.15.xsd" xml:lang="en" identifier="/us/usc/t28a">
+<uscDoc identifier="/us/usc/t28a">
 	<appendix identifier="/us/usc/t28a">
 		<num>Title 28—APPENDIX</num>
 		<heading>JUDICIAL PERSONNEL FINANCIAL DISCLOSURE REQUIREMENTS</heading>
@@ -466,7 +466,7 @@ APPENDIX OF FORMS</column>
 						<content> Upon filing a notice of appeal, the appellant must pay the district clerk all required fees. The district clerk receives the appellate docket fee on behalf of the court of appeals.</content>
 					</subsection>
 				</courtRule>
-				<courtRule status="unknown" identifier="/us/usc/t28a/courtRules/App/rule3.1">
+				<courtRule identifier="/us/usc/t28a/courtRules/App/rule3.1" status="unknown">
 					<num>[Rule 3.1.</num>
 					<heading>
 						 Appeal from a Judgment of a Magistrate Judge in a Civil Case] (Abrogated 
@@ -894,7 +894,7 @@ APPENDIX OF FORMS</column>
 						</paragraph>
 					</subsection>
 				</courtRule>
-				<courtRule status="unknown" identifier="/us/usc/t28a/courtRules/App/rule5.1">
+				<courtRule identifier="/us/usc/t28a/courtRules/App/rule5.1" status="unknown">
 					<num>[Rule 5.1.</num>
 					<heading>
 						 Appeal by Leave under 28 U.S.C. § 636(c)(5)] (Abrogated 

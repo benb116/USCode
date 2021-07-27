@@ -8,6 +8,7 @@ Use cleanup.py to strip and clean
 Some parts of some laws add brand new material (i.e. not in an specific section)
     Maybe have a "Statutes at Large" folder for material that hasn't been classified
     As classification tables come out, move material from SAL to USC
+        Squash classification commits with creation commits
 
 Much of a law is CRUD operations on existing law
     Often CRUD is specified in reference to public laws (as amended), not to USC

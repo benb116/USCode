@@ -50,3 +50,6 @@
     } \after the <nth> <phrase>\
     is repealed
 }
+
+"Section 6103(a) of title 5, United States Code, is amended by inserting after the item relating to Memorial Day the following:
+“ Juneteenth National Independence Day, June 19.”."

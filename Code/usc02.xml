@@ -18203,11 +18203,15 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 								</chapeau>
 								<clause identifier="/us/usc/t2/s901a/6/C/i">
 									<num>(i)</num>
-									<content> with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and</content>
+									<content> with respect to the first 5 ½ months in which such order is effective for such fiscal year, the payment reduction shall be 2.0 percent;</content>
 								</clause>
 								<clause identifier="/us/usc/t2/s901a/6/C/ii">
 									<num>(ii)</num>
-									<content> with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.</content>
+									<content> with respect to the 6-month period beginning on the day after the last day of the period described in clause (i) in which such order is so effective for such fiscal year, the payment reduction shall be 4.0 percent; and</content>
+								</clause>
+								<clause identifier="/us/usc/t2/s901a/6/C/iii">
+									<num>(iii)</num>
+									<content> with respect to the remaining ½ month in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.</content>
 								</clause>
 							</subparagraph>
 						</paragraph>
@@ -19682,7 +19686,10 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 									</clause>
 									<clause identifier="/us/usc/t2/s906/g/2/B/ii">
 										<num>(ii)</num>
-										<content> allowances provided members of the uniformed services under sections 403a and 475 of such title, and</content>
+										<content>
+											 allowances provided members of the uniformed services under sections 403a and 475 
+											 of such title, and
+										</content>
 									</clause>
 									<clause identifier="/us/usc/t2/s906/g/2/B/iii">
 										<num>(iii)</num>
@@ -19706,6 +19713,7 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 								<num>(1)</num>
 								<content>
 									 Notwithstanding any other provision of this title,
+									<sup>1</sup>
 									 administrative expenses incurred by the departments and agencies, including independent agencies, of the Federal Government in connection with any program, project, activity, or account shall be subject to reduction pursuant to an order issued under 
 									<ref href="/us/usc/t2/s904">section 904 of this title</ref>
 									, without regard to any exemption, exception, limitation, or special rule which is otherwise applicable with respect to such program, project, activity, or account under this subchapter.

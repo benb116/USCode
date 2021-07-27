@@ -6306,11 +6306,13 @@ SUBCHAPTER IV—RAILROAD RETIREMENT ACT OF 1974</column>
 									, and for registration periods beginning after 
 									<date date="2020-12-26">December 26, 2020</date>
 									, but on or before 
-									<date date="2021-03-14">March 14, 2021</date>
+									<date date="2021-09-06">September 6, 2021</date>
 									, a recovery benefit shall be payable to a qualified employee with respect to any registration period in which the employee received unemployment benefits under paragraph (1)(A), and in any registration period in which the employee did not receive unemployment benefits due to the limitation in subsection (c)(1)(B) or due to reaching the maximum number of days of benefits in the benefit year beginning 
 									<date date="2019-07-01">July 1, 2019</date>
 									, or 
 									<date date="2020-07-01">July 1, 2020</date>
+									, or 
+									<date date="2021-07-01">July 1, 2021</date>
 									, under subsection (c)(1)(A). No recovery benefits shall be payable under this section upon the exhaustion of the funds appropriated under subparagraph (B) for payment of benefits under this subparagraph. For registration periods beginning on or after 
 									<date date="2020-04-01">April 1, 2020</date>
 									, but on or before 
@@ -6318,7 +6320,7 @@ SUBCHAPTER IV—RAILROAD RETIREMENT ACT OF 1974</column>
 									, the recovery benefit payable under this subparagraph shall be in the amount of $1,200. For registration periods beginning after 
 									<date date="2020-12-26">December 26, 2020</date>
 									, but on or before 
-									<date date="2021-03-14">March 14, 2021</date>
+									<date date="2021-09-06">September 6, 2021</date>
 									, the recovery benefit payable under this subparagraph shall be in the amount of $600.
 								</content>
 							</subparagraph>
@@ -6403,12 +6405,12 @@ SUBCHAPTER IV—RAILROAD RETIREMENT ACT OF 1974</column>
 									<chapeau>Subject to clause (iii), in the case of an employee who has 10 or more years of service (as so defined), with respect to extended unemployment benefits—</chapeau>
 									<subclause identifier="/us/usc/t45/s352/c/2/D/i/I">
 										<num>(I)</num>
-										<content> subparagraph (A) shall be applied by substituting “185 days of unemployment” for “65 days of unemployment”; and</content>
+										<content> subparagraph (A) shall be applied by substituting “330 days of unemployment” for “65 days of unemployment”; and</content>
 									</subclause>
 									<subclause identifier="/us/usc/t45/s352/c/2/D/i/II">
 										<num>(II)</num>
 										<content>
-											 subparagraph (B) shall be applied by inserting “(or, in the case of unemployment benefits, 19 consecutive 14-day periods, except that no extended benefit period shall end before 6 consecutive 14-day periods after the date of enactment of the Continued Assistance for Unemployed Workers Act of 2020 
+											 subparagraph (B) shall be applied by inserting “(or, in the case of unemployment benefits, 33 consecutive 14-day periods, except that no extended benefit period shall end before 20 consecutive 14-day periods after the date of enactment of the Continued Assistance for Unemployed Workers Act of 2020 
 											 have elapsed)” after “7 consecutive 14-day periods”.
 										</content>
 									</subclause>
@@ -6419,12 +6421,12 @@ SUBCHAPTER IV—RAILROAD RETIREMENT ACT OF 1974</column>
 									<chapeau>Subject to clause (iii), in the case of an employee who has less than 10 years of service (as so defined), with respect to extended unemployment benefits, this paragraph shall apply to such an employee in the same manner as this paragraph would apply to an employee described in clause (i) if such clause had not been enacted and if—</chapeau>
 									<level identifier="/us/usc/t45/s352/c/2/D/ii/A">
 										<num>(A)</num>
-										<content> subparagraph (A) were applied by substituting “120 days of unemployment” for “65 days of unemployment”; and</content>
+										<content> subparagraph (A) were applied by substituting “265 days of unemployment” for “65 days of unemployment”; and</content>
 									</level>
 									<level identifier="/us/usc/t45/s352/c/2/D/ii/B">
 										<num>(B)</num>
 										<content>
-											 subparagraph (B) were applied by inserting “(or, in the case of unemployment benefits, 12 consecutive 14-day periods, except that no extended benefit period shall end before 6 consecutive 14-day periods after the date of enactment of the Continued Assistance for Unemployed Workers Act of 2020 
+											 subparagraph (B) were applied by inserting “(or, in the case of unemployment benefits, 27 consecutive 14-day periods, except that no extended benefit period shall end before 20 consecutive 14-day periods after the date of enactment of the Continued Assistance for Unemployed Workers Act of 2020 
 											<sup>1</sup>
 											 have elapsed)” after “7 consecutive 14-day periods”.
 										</content>
@@ -6438,11 +6440,9 @@ SUBCHAPTER IV—RAILROAD RETIREMENT ACT OF 1974</column>
 											The provisions of clauses (i) and (ii) shall apply to an employee who received normal benefits for days of unemployment under this chapter during the period beginning 
 											<date date="2019-07-01">July 1, 2019</date>
 											, and ending on 
-											<date date="2021-06-30">June 30, 2021</date>
-											, except that the provisions of clauses (i) and (ii) shall not apply to any employee whose extended benefit period under subparagraph (B) begins after 
-											<date date="2021-03-14">March 14, 2021</date>
-											, and shall not apply to any employee with respect to any registration period beginning after 
-											<date date="2021-04-05">April 5, 2021</date>
+											<date date="2022-06-30">June 30, 2022</date>
+											, except that the provisions of clauses (i) and (ii) shall not apply to any employee with respect to any registration period beginning after 
+											<date date="2021-09-06">September 6, 2021</date>
 											..
 											 Notwithstanding the preceding sentence, no benefits shall be payable under this subparagraph and clauses (i) and (ii) shall no longer be applicable upon the exhaustion of the funds appropriated under clause (v) for payment of benefits under this subparagraph.
 										</p>
@@ -6463,7 +6463,7 @@ SUBCHAPTER IV—RAILROAD RETIREMENT ACT OF 1974</column>
 									<num>(v)</num>
 									<heading> Appropriation</heading>
 									<content>
-										<p>Out of any funds in the Treasury not otherwise appropriated, there are appropriated $20,000,000 to cover the cost of additional extended unemployment benefits provided under this subparagraph, to remain available until expended. In addition to the amount appropriated by the preceding sentence, out of any funds in the Treasury not otherwise appropriated, there are appropriated $175,000,000 to cover the cost of additional extended unemployment benefits provided under this subparagraph, to remain available until expended.</p>
+										<p>Out of any funds in the Treasury not otherwise appropriated, there are appropriated $20,000,000 to cover the cost of additional extended unemployment benefits provided under this subparagraph, to remain available until expended. In addition to the amount appropriated by the preceding sentence, out of any funds in the Treasury not otherwise appropriated, there are appropriated $175,000,000 to cover the cost of additional extended unemployment benefits provided under this subparagraph, to remain available until expended. In addition to the amount appropriated by the preceding two sentences, out of any funds in the Treasury not otherwise appropriated, there are appropriated $2,000,000 to cover the cost of additional extended unemployment benefits provided under this subparagraph, to remain available until expended.</p>
 									</content>
 								</clause>
 							</subparagraph>

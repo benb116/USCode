@@ -2287,7 +2287,7 @@ Part A—Cybersecurity and Infrastructure Security</column>
 							<column>
 								<ref href="/us/usc/t6/s652a">652a.</ref>
 							</column>
-							<column>Sector risk management agencies.</column>
+							<column>Sector Risk Management Agencies.</column>
 						</tocItem>
 						<tocItem>
 							<column>
@@ -18110,7 +18110,7 @@ Part B—Critical Infrastructure Information</column>
 										</subclause>
 										<subclause identifier="/us/usc/t6/s321m/b/2/E/i/II">
 											<num>(II)</num>
-											<content> by anySector Risk Management Agency, as defined under Homeland Security Presidential Directive–7; and</content>
+											<content> by any Sector Risk Management Agency, as defined under Homeland Security Presidential Directive–7; and</content>
 										</subclause>
 									</clause>
 									<clause identifier="/us/usc/t6/s321m/b/2/E/ii">
@@ -23348,18 +23348,14 @@ Part B—Critical Infrastructure Information</column>
 							</subsection>
 							<subsection identifier="/us/usc/t6/s453b/g">
 								<num>(g)</num>
-								<heading>
-									<i> Applicability to contracts and subcontracts for procurement of commercial products</i>
-								</heading>
+								<heading> Applicability to contracts and subcontracts for procurement of commercial products</heading>
 								<content>
 									<p>
-										<i>
-											This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding 
-											<ref href="/us/usc/t41/s1906">section 1906 of title 41</ref>
-											, with the exception of commercial products listed under subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this section, “commercial product” shall be as defined in 
-											<ref href="/us/usc/t41/s103">section 103 of title 41</ref>
-											.
-										</i>
+										This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding 
+										<ref href="/us/usc/t41/s1906">section 1906 of title 41</ref>
+										, with the exception of commercial products listed under subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this section, “commercial product” shall be as defined in 
+										<ref href="/us/usc/t41/s103">section 103 of title 41</ref>
+										.
 									</p>
 								</content>
 							</subsection>
@@ -34416,7 +34412,7 @@ Part B—Critical Infrastructure Information</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t6/s651/5">
 								<num>(5)</num>
-								<heading> Sector risk management agency</heading>
+								<heading> Sector Risk Management Agency</heading>
 								<content>
 									<p>The term “Sector Risk Management Agency” means a Federal department or agency, designated by law or presidential directive, with responsibility for providing institutional knowledge and specialized expertise of a sector, as well as leading, facilitating, or supporting programs and associated activities of its designated critical infrastructure sector in the all hazards environment in coordination with the Department.</p>
 								</content>
@@ -34930,7 +34926,7 @@ Part B—Critical Infrastructure Information</column>
 						</section>
 						<section identifier="/us/usc/t6/s652a">
 							<num>§ 652a.</num>
-							<heading> Sector risk management agencies</heading>
+							<heading> Sector Risk Management Agencies</heading>
 							<subsection identifier="/us/usc/t6/s652a/a">
 								<num>(a)</num>
 								<heading> Definitions</heading>
@@ -35168,12 +35164,20 @@ Part B—Critical Infrastructure Information</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s652a/c/3">
 									<num>(3)</num>
-									<heading>
-										 References Any reference to a Sector Specific Agency (including any permutations or conjugations thereof) in any law, regulation, map, document, record, or other paper of the United States shall be deemed to—(A) be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector; and(B) have the meaning give such term in 
-										<ref href="/us/usc/t6/s651/5">section 651(5) of this title</ref>
-										.
-									</heading>
-									<content/>
+									<heading> References</heading>
+									<chapeau>Any reference to a Sector Specific Agency (including any permutations or conjugations thereof) in any law, regulation, map, document, record, or other paper of the United States shall be deemed to—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s652a/c/3/A">
+										<num>(A)</num>
+										<content> be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s652a/c/3/B">
+										<num>(B)</num>
+										<content>
+											 have the meaning give such term in 
+											<ref href="/us/usc/t6/s651/5">section 651(5) of this title</ref>
+											.
+										</content>
+									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s652a/c/4">
 									<num>(4)</num>

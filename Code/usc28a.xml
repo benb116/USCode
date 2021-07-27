@@ -466,7 +466,7 @@ APPENDIX OF FORMS</column>
 						<content> Upon filing a notice of appeal, the appellant must pay the district clerk all required fees. The district clerk receives the appellate docket fee on behalf of the court of appeals.</content>
 					</subsection>
 				</courtRule>
-				<courtRule identifier="/us/usc/t28a/courtRules/App/rule3.1" status="unknown">
+				<courtRule status="unknown" identifier="/us/usc/t28a/courtRules/App/rule3.1">
 					<num>[Rule 3.1.</num>
 					<heading>
 						 Appeal from a Judgment of a Magistrate Judge in a Civil Case] (Abrogated 
@@ -894,7 +894,7 @@ APPENDIX OF FORMS</column>
 						</paragraph>
 					</subsection>
 				</courtRule>
-				<courtRule identifier="/us/usc/t28a/courtRules/App/rule5.1" status="unknown">
+				<courtRule status="unknown" identifier="/us/usc/t28a/courtRules/App/rule5.1">
 					<num>[Rule 5.1.</num>
 					<heading>
 						 Appeal by Leave under 28 U.S.C. § 636(c)(5)] (Abrogated 

@@ -2446,11 +2446,23 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t8/s1101/a/27/D">
 									<num>(D)</num>
-									<content>
-										 an immigrant who is an employee, or an honorably retired former employee, of the United States Government abroad, or of the American Institute in Taiwan, and who has performed faithful service for a total of fifteen years, or more, and his accompanying spouse and children: 
-										<i>Provided</i>
-										, That the principal officer of a Foreign Service establishment (or, in the case of the American Institute in Taiwan, the Director thereof), in his discretion, shall have recommended the granting of special immigrant status to such alien in exceptional circumstances and the Secretary of State approves such recommendation and finds that it is in the national interest to grant such status;
-									</content>
+									<chapeau> an immigrant who—</chapeau>
+									<clause identifier="/us/usc/t8/s1101/a/27/D/i">
+										<num>(i)</num>
+										<content>
+											 is an employee, or an honorably retired former employee, of the United States Government abroad, or of the American Institute in Taiwan, and who has performed faithful service for a total of fifteen years, or more, and his accompanying spouse and children: 
+											<i>Provided</i>
+											, That the principal officer of a Foreign Service establishment (or, in the case of the American Institute in Taiwan, the Director thereof), in his discretion, shall have recommended the granting of special immigrant status to such alien in exceptional circumstances and the Secretary of State approves such recommendation and finds that it is in the national interest to grant such status; or
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t8/s1101/a/27/D/ii">
+										<num>(ii)</num>
+										<content>
+											 is the surviving spouse or child of an employee of the United States Government abroad: 
+											<i>Provided</i>
+											, That the employee performed faithful service for a total of not less than 15 years or was killed in the line of duty;
+										</content>
+									</clause>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t8/s1101/a/27/E">
 									<num>(E)</num>

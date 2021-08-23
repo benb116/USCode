@@ -69,8 +69,7 @@ def stripAttr(node):
         stripAttr(child)
 
 
-for fn in titles:
-    cleanTitle(fn)
-# cleanTitle(titles[3])
-
+# for fn in titles:
+    # cleanTitle(fn)
+cleanTitle('usc50A.xml')
 

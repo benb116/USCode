@@ -52,7 +52,7 @@ def cleanTitle(name):
     out2 = os.linesep.join([s for s in out.splitlines() if s])
 
     f = open(codedir+name, "w")
-    f.write(out2.encode('utf-8'))
+    f.write(out2)
     f.close()
 
 def stripAttr(node):

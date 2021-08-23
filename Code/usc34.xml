@@ -35686,7 +35686,7 @@ SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES</column>
 									<content>
 										 any money ordered to be paid into the Fund under 
 										<ref href="/us/usc/t18/s3671/c/2">section 3671(c)(2) of title 18</ref>
-										; and
+										;
 									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t34/s20101/b/5">
@@ -35698,7 +35698,19 @@ SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t34/s20101/b/5/B">
 										<num>(B)</num>
-										<content> is conditioned upon or would require the expenditure of appropriated funds that are not available to the Office for Victims of Crime.</content>
+										<content> is conditioned upon or would require the expenditure of appropriated funds that are not available to the Office for Victims of Crime; and</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s20101/b/6">
+									<num>(6)</num>
+									<chapeau> any funds that would otherwise be deposited in the general fund of the Treasury collected pursuant to—</chapeau>
+									<subparagraph identifier="/us/usc/t34/s20101/b/6/A">
+										<num>(A)</num>
+										<content> a deferred prosecution agreement; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t34/s20101/b/6/B">
+										<num>(B)</num>
+										<content> a non-prosecution agreement.</content>
 									</subparagraph>
 								</paragraph>
 							</subsection>
@@ -35847,7 +35859,7 @@ SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES</column>
 								<num>(e)</num>
 								<heading> Amounts awarded and unspent</heading>
 								<content>
-									<p>Any amount awarded as part of a grant under this subchapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director. Any remaining unobligated sums shall be returned to the Fund.</p>
+									<p>Any amount awarded as part of a grant under this subchapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General. Any remaining unobligated sums shall be returned to the Fund.</p>
 								</content>
 							</subsection>
 							<subsection identifier="/us/usc/t34/s20101/f">
@@ -35909,14 +35921,18 @@ SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES</column>
 								<heading> Authority of Director; grants</heading>
 								<paragraph identifier="/us/usc/t34/s20102/a/1">
 									<num>(1)</num>
-									<content> Except as provided in paragraph (2), the Director shall make an annual grant from the Fund to an eligible crime victim compensation program of 40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years of the amounts awarded during the preceding fiscal year, other than amounts awarded for property damage. Except as provided in paragraph (3), a grant under this section shall be used by such program only for awards of compensation.</content>
+									<content> Except as provided in paragraph (2), the Director shall make an annual grant from the Fund to an eligible crime victim compensation program of 75 percent of the amounts awarded during the preceding fiscal year, other than amounts awarded for property damage. Except as provided in paragraph (3), a grant under this section shall be used by such program only for awards of compensation.</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t34/s20102/a/2">
 									<num>(2)</num>
-									<content> If the sums available in the Fund for grants under this section are insufficient to provide grants of 40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years as provided in paragraph (1), the Director shall make, from the sums available, a grant to each eligible crime victim compensation program so that all such programs receive the same percentage of the amounts awarded by such program during the preceding fiscal year, other than amounts awarded for property damage.</content>
+									<content> If the sums available in the Fund for grants under this section are insufficient to provide grants as provided in paragraph (1), the Director shall make, from the sums available, a grant to each eligible crime victim compensation program so that all such programs receive the same percentage of the amounts awarded by such program during the preceding fiscal year, other than amounts awarded for property damage.</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t34/s20102/a/3">
 									<num>(3)</num>
+									<content> For the purposes of calculating amounts awarded in the previous fiscal year under this subsection, the Director shall not require eligible crime victim compensation programs to deduct recovery costs or collections from restitution or from subrogation for payment under a civil lawsuit.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s20102/a/4">
+									<num>(4)</num>
 									<content> Not more than 5 percent of a grant made under this section may be used for training purposes and the administration of the State crime victim compensation program receiving the grant.</content>
 								</paragraph>
 							</subsection>
@@ -35942,7 +35958,7 @@ SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t34/s20102/b/2">
 									<num>(2)</num>
-									<content> such program promotes victim cooperation with the reasonable requests of law enforcement authorities;</content>
+									<content> such program promotes victim cooperation with the reasonable requests of law enforcement authorities, except if a program determines such cooperation may be impacted due to a victim’s age, physical condition, psychological state, cultural or linguistic barriers, or any other health or safety concern that jeopardizes the victim’s wellbeing;</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t34/s20102/b/3">
 									<num>(3)</num>
@@ -36009,12 +36025,16 @@ SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES</column>
 									<content>
 										 the term “compensable crime” means a crime the victims of which are eligible for compensation under the eligible crime victim compensation program, and includes crimes, whose victims suffer death or personal injury, that are described in 
 										<ref href="/us/usc/t18/s247">section 247 of title 18</ref>
-										, driving while intoxicated, and domestic violence; and
+										, driving while intoxicated, and domestic violence;
 									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t34/s20102/d/4">
 									<num>(4)</num>
-									<content> the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, and any other possession or territory of the United States.</content>
+									<content> the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, and any other possession or territory of the United States; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s20102/d/5">
+									<num>(5)</num>
+									<content> the term “recovery costs” means expenses for personnel directly involved in the recovery efforts to obtain collections from restitution or from subrogation for payment under a civil law suit.</content>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t34/s20102/e">
@@ -36101,6 +36121,37 @@ SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES</column>
 								<paragraph identifier="/us/usc/t34/s20103/a/6">
 									<num>(6)</num>
 									<content> An agency of the Federal Government performing local law enforcement functions in and on behalf of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, or any other territory or possession of the United States may qualify as an eligible crime victim assistance program for the purpose of grants under this subsection, or for the purpose of grants under subsection (c)(1).</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s20103/a/7">
+									<num>(7)</num>
+									<subparagraph identifier="/us/usc/t34/s20103/a/7/A">
+										<num>(A)</num>
+										<content> Each chief executive may waive a matching requirement imposed by the Director, in accordance with subparagraph (B), as a condition for the receipt of funds under any program to provide assistance to victims of crimes authorized under this subchapter. The chief executive shall report to the Director the approval of any waiver of the matching requirement.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t34/s20103/a/7/B">
+										<num>(B)</num>
+										<chapeau> Each chief executive shall establish and make public, a policy including—</chapeau>
+										<clause identifier="/us/usc/t34/s20103/a/7/B/i">
+											<num>(i)</num>
+											<content> the manner in which an eligible crime victim assistance program can request a match waiver;</content>
+										</clause>
+										<clause identifier="/us/usc/t34/s20103/a/7/B/ii">
+											<num>(ii)</num>
+											<content> the criteria used to determine eligibility of the match waiver; and</content>
+										</clause>
+										<clause identifier="/us/usc/t34/s20103/a/7/B/iii">
+											<num>(iii)</num>
+											<content> the process for decision making and notifying the eligible crime victim assistance program of the decision.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s20103/a/8">
+									<num>(8)</num>
+									<content>
+										 Beginning on the date a national emergency is declared under the National Emergencies Act (
+										<ref href="/us/usc/t50/s1601">50 U.S.C. 1601</ref>
+										 et seq.) with respect to a pandemic and ending on the date that is one year after the date of the end of such national emergency, each chief executive shall issue waivers for any matching requirement, in its entirety, for all eligible crime victim assistance programs contracted to provide services at that time.
+									</content>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t34/s20103/b">

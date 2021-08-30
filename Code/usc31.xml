@@ -9389,7 +9389,10 @@ SUBCHAPTER VII—CENTER FOR AUDIT EXCELLENCE</column>
 							</heading>
 							<paragraph identifier="/us/usc/t31/s1122/a/1">
 								<num>(1)</num>
-								<heading> Definitions.—</heading>
+								<heading>
+									<inline>Definitions</inline>
+									.—
+								</heading>
 								<chapeau>For purposes of this subsection—</chapeau>
 								<subparagraph identifier="/us/usc/t31/s1122/a/1/A">
 									<num>(A)</num>
@@ -29116,7 +29119,7 @@ SUBCHAPTER V—MISCELLANEOUS</column>
 										<content>
 											The Secretary may, in addition to the coins produced under subsections (r) and (w), mint for issuance during the one-year period beginning 
 											<date date="2026-01-01">January 1, 2026</date>
-											, $1 dollar coins with designs emblematic of the United States semiquincentennial.
+											, $1 dollar [sic] coins with designs emblematic of the United States semiquincentennial.
 										</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t31/s5112/y/1/D">
@@ -34422,7 +34425,10 @@ SUBCHAPTER IV—PROHIBITION ON FUNDING OF UNLAWFUL INTERNET GAMBLING</column>
 									<chapeau>In this subsection:</chapeau>
 									<subparagraph identifier="/us/usc/t31/s5318/q/3/A">
 										<num>(A)</num>
-										<heading> Appropriate state bank supervisor.—</heading>
+										<heading>
+											<inline>Appropriate state bank supervisor</inline>
+											.—
+										</heading>
 										<content>The term “appropriate State bank supervisor” means the Chairman or members of the State Liaison Committee of the Financial Institutions Examination Council.</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t31/s5318/q/3/B">

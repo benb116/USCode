@@ -34920,6 +34920,12 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 						</tocItem>
 						<tocItem>
 							<column>
+								<ref href="/us/usc/t2/s1965a">1965a.</ref>
+							</column>
+							<column>Prohibition on use of funds for installation of permanent fencing on Capitol Grounds.</column>
+						</tocItem>
+						<tocItem>
+							<column>
 								<ref href="/us/usc/t2/s1966">1966.</ref>
 							</column>
 							<column>Protection of Members of Congress, officers of Congress, and members of their families.</column>
@@ -36904,6 +36910,17 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 								<content> All annual leave and sick leave standing to the credit of an individual immediately before such individual is transferred under paragraph (1) shall be credited to such individual, without adjustment, in the new position of the individual.</content>
 							</paragraph>
 						</subsection>
+					</section>
+					<section identifier="/us/usc/t2/s1965a">
+						<num>§ 1965a.</num>
+						<heading> Prohibition on use of funds for installation of permanent fencing on Capitol Grounds</heading>
+						<content>
+							<p>
+								None of the funds made available in this or any other Act in prior fiscal years, this fiscal year, or any fiscal year thereafter may be used to install permanent, above-ground fencing around the perimeter, or any portion thereof, of the United States Capitol Grounds, as described in 
+								<ref href="/us/usc/t40/s5102">section 5102 of title 40</ref>
+								, United States Code.
+							</p>
+						</content>
 					</section>
 					<section identifier="/us/usc/t2/s1966">
 						<num>§ 1966.</num>
@@ -50176,7 +50193,10 @@ SUBCHAPTER IX—CORRECTIONS CALENDAR OFFICE</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t2/s5507/c/2">
 								<num>(2)</num>
-								<content> The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, “Allowances and Expenses”, the heading for any joint committee under the heading “Joint Items” (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), “Office of the Attending Physician”, “Allowance for Compensation of Interns in Member Offices”“Allowance for Compensation of Interns in House Leadership Offices”, and “House of Representatives Modernization Initiatives Account”.</content>
+								<content>
+									 The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, “Allowances and Expenses”, the heading for any joint committee under the heading “Joint Items” (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), “Office of the Attending Physician”, “Allowance for Compensation of Interns in Member Offices” 
+									 “Allowance for Compensation of Interns in House Leadership Offices”, and “House of Representatives Modernization Initiatives Account”.
+								</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t2/s5507/d">

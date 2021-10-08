@@ -3513,7 +3513,7 @@ SUBCHAPTER IV—ADMINISTRATIVE POWERS</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t11/s330/e/3">
 								<num>(3)</num>
-								<content> For fiscal years 2021 through 2026, the Chapter 7 Trustee Fund shall be available to pay the trustee serving in a case that is filed under chapter 7 or a case that is converted to a chapter 7 case in the most recent fiscal year (referred to in this subsection as a “chapter 7 case”) the amount described in paragraph (4) for the chapter 7 case in which the trustee has rendered services in that fiscal year.</content>
+								<content> For fiscal years 2021 through 2026, the Chapter 7 Trustee Fund shall be available to pay the trustee serving in a case that is filed under chapter 7 or a case that is converted to a chapter 7 case in the most recent fiscal year (referred to in this subsection as a “chapter 7 case”) the amount described in paragraph (4) for the chapter 7 case in which the trustee has rendered services.</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t11/s330/e/4">
 								<num>(4)</num>
@@ -6000,7 +6000,8 @@ SUBCHAPTER III—THE ESTATE</column>
 									<content>
 										 the term “eligible creditor” means a servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (
 										<ref href="/us/usc/t12/s2605/i">12 U.S.C. 2605(i)</ref>
-										) with a claim for a Federally backed mortgage loan or a Federally backed multifamily mortgage loan of the debtor that is provided for by a plan under section 1322(b)(5);
+										) 
+										 with a claim for a Federally backed mortgage loan or a Federally backed multifamily mortgage loan of the debtor that is provided for by a plan under section 1322(b)(5);
 									</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t11/s501/f/1/C">
@@ -19787,7 +19788,8 @@ Amendments</column>
 									<content>
 										 the debtor has entered into a forbearance agreement or loan modification agreement with the holder or servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (
 										<ref href="/us/usc/t12/s2605/i">12 U.S.C. 2605(i)</ref>
-										) of the mortgage described in subparagraph (A).
+										) 
+										 of the mortgage described in subparagraph (A).
 									</content>
 								</subparagraph>
 							</paragraph>

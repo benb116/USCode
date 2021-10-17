@@ -19427,7 +19427,7 @@ Part B—Critical Infrastructure Information</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t6/s322/c/3">
 								<num>(3)</num>
-								<heading> Budget of the president</heading>
+								<heading> Budget of the President</heading>
 								<content>
 									<p>
 										The President may include the information described in paragraph (2)(B) in the budget required to be submitted by the President under 
@@ -35173,7 +35173,8 @@ Part B—Critical Infrastructure Information</column>
 									<subparagraph identifier="/us/usc/t6/s652a/c/3/B">
 										<num>(B)</num>
 										<content>
-											 have the meaning give such term in 
+											 have the meaning give 
+											 such term in 
 											<ref href="/us/usc/t6/s651/5">section 651(5) of this title</ref>
 											.
 										</content>
@@ -37504,7 +37505,10 @@ Part B—Critical Infrastructure Information</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s665a/c/2/B">
 										<num>(B)</num>
-										<content> be a socially disadvantaged individual (as that term in defined in section 124.103 of title 13, Code of Federal Regulations, or successor regulation); and</content>
+										<content>
+											 be a socially disadvantaged individual (as that term in 
+											 defined in section 124.103 of title 13, Code of Federal Regulations, or successor regulation); and
+										</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s665a/c/2/C">
 										<num>(C)</num>

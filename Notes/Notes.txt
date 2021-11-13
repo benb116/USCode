@@ -79,3 +79,33 @@ When a new bill is introduced
 ** There are two identifier="/us/usc/t42/s5105/a/4" **
 
 Each title of the Code is subdivided into a combination of smaller units such as subtitles, chapters, subchapters, parts, subparts, and sections, not necessarily in that order. Sections are often subdivided into a combination of smaller units such as subsections, paragraphs, subparagraphs, clauses, subclauses, and items. In the case of a positive law title, the units are determined by Congress in the laws that enact and later amend the title. In the case of a non-positive law title, the organization of the title since 1926 has been determined by the editors of the Code and has generally followed the organization of the underlying acts as much as possible.
+
+(d) Special Rule For Amendments.—On the date of enactment of H.R. 3684 (117th Congress)—
+    (1) subsections (a), (b), and (c) of this section, the amendments made by such subsections, section 201 of the Surface Transportation Extension Act of 2021 (Public Law 117–44), and the amendments made by such section shall cease to be effective;
+    (2) the text of the laws amended by subsections (a), (b), and (c) of this section and section 201 of the Surface Transportation Extension Act of 2021 (Public Law 117–44) shall revert back so as to read as the text read on September 30, 2021; and
+    (3) the amendments made by H.R. 3684 (117th Congress) shall be executed as if this section and section 201 of the Surface Transportation Extension Act had not been enacted.
+    If H.R. 3684 (117th Congress) is enacted before the date of enactment of this Act, this Act shall not take effect and the provisions of this Act shall not be executed.
+
+Maintain a folder of all public laws
+Evaluate a new law
+    Add the law to the PL folder
+    If it tries to modify an existing PL
+        Look up PL ID# based on short title
+        Make edits to existing PL
+            If no PL text found, find USC section and edit that
+
+Enactment dates and termination dates
+    Specific dates
+    When another bill is enacted, creation
+
+    Pub. L. 117–52, §4(d), Oct. 31, 2021, 135 Stat. 410 , provided that: "On the date of enactment of H.R. 3684 (117th Congress)-
+
+    "(1) subsections (a), (b), and (c) of this section [amending this section and sections 9504 and 9508 of this title], the amendments made by such subsections, section 201 of the Surface Transportation Extension Act of 2021 (Public Law 117–44) [amending this section and sections 9504 and 9508 of this title], and the amendments made by such section shall cease to be effective;
+
+    "(2) the text of the laws amended by subsections (a), (b), and (c) of this section and section 201 of the Surface Transportation Extension Act of 2021 (Public Law 117–44) shall revert back so as to read as the text read on September 30, 2021; and
+
+    "(3) the amendments made by H.R. 3684 (117th Congress) shall be executed as if this section and section 201 of the Surface Transportation Extension Act had not been enacted."
+
+    Pub. L. 117–44, title II, §201(d), Oct. 2, 2021, 135 Stat. 386 , which provided that section 201 of Pub. L. 117–44 would cease to be effective on the date of enactment of H.R. 3684 (117th Congress), was repealed by Pub. L. 117–52, §4(e), Oct. 31, 2021, 135 Stat. 410 .
+
+Make a "family tree" of laws editing other laws

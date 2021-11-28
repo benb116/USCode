@@ -109,3 +109,21 @@ Enactment dates and termination dates
     Pub. L. 117–44, title II, §201(d), Oct. 2, 2021, 135 Stat. 386 , which provided that section 201 of Pub. L. 117–44 would cease to be effective on the date of enactment of H.R. 3684 (117th Congress), was repealed by Pub. L. 117–52, §4(e), Oct. 31, 2021, 135 Stat. 410 .
 
 Make a "family tree" of laws editing other laws
+
+Laws can be added to the code as statutory notes
+    Laws in topics of positive title may be added as stat notes, or the law may directly modify the code
+    Laws in topics of non-positive title may be added as stat notes or added as new parts of the code
+
+STEPS
+    Get texts of all public laws
+    Build amendment tree
+    In chronological order
+        If PL is parent of another PL, add it to public law folder
+            Add only free-standing provisions?
+        If PL has a parent, modify the parents
+        IF PL enacts a title as positive law, add it to positive law folder
+
+Acts making into positive law generally repeal existing acts (or parts of existing acts)
+
+
+Short titles can be amended

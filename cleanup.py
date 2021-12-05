@@ -71,8 +71,5 @@ def stripAttr(node):
 
 # for fn in titles:
     # cleanTitle(fn)
-cleanTitle('usc21.xml')
-cleanTitle('usc22.xml')
-cleanTitle('usc47.xml')
-cleanTitle('usc50.xml')
+cleanTitle('usc38.xml')
 

@@ -945,7 +945,7 @@ PART IX. GENERAL PROVISIONS</column>
 					</tocItem>
 					<tocItem>
 						<column>9036.</column>
-						<column>Notice and Service Generally.</column>
+						<column>Notice and Service by Electronic Transmission.</column>
 					</tocItem>
 					<tocItem>
 						<column>9037.</column>
@@ -2112,7 +2112,7 @@ APPENDIX: LENGTH LIMITS STATED IN PART VIII OF THE FEDERAL RULES OF BANKRUPTCY P
 						<subsection identifier="/us/usc/t11a/courtRules/Bankr/rule2002/h">
 							<num>(h)</num>
 							<heading>
-								<inline>Notices to Creditors Whose Claims are Filed</inline>
+								<inline>Notices to Creditors Whose Claims Are Filed</inline>
 								.
 							</heading>
 							<paragraph identifier="/us/usc/t11a/courtRules/Bankr/rule2002/h/1">
@@ -2415,7 +2415,7 @@ APPENDIX: LENGTH LIMITS STATED IN PART VIII OF THE FEDERAL RULES OF BANKRUPTCY P
 								<inline>Conditions of Release</inline>
 								.
 							</heading>
-							<content> In determining what conditions will reasonably assure attendance or obedience under subdivision (a) of this rule or appearance under subdivision (b) of this rule, the court shall be governed by the provisions and policies of title 18, U.S.C., § 3146(a) and (b).</content>
+							<content> In determining what conditions will reasonably assure attendance or obedience under subdivision (a) of this rule or appearance under subdivision (b) of this rule, the court shall be governed by the relevant provisions and policies of title 18 U.S.C. § 3142.</content>
 						</subsection>
 					</courtRule>
 					<courtRule identifier="/us/usc/t11a/courtRules/Bankr/rule2006">
@@ -3706,7 +3706,7 @@ APPENDIX: LENGTH LIMITS STATED IN PART VIII OF THE FEDERAL RULES OF BANKRUPTCY P
 									</clause>
 									<clause identifier="/us/usc/t11a/courtRules/Bankr/rule3007/a/2/A/ii">
 										<num>(ii)</num>
-										<content> if the objection is to a claim of an insured depository institution, in the manner provided by Rule 7004(h).</content>
+										<content> if the objection is to a claim of an insured depository institution as defined in section 3 of the Federal Deposit Insurance Act, in the manner provided in Rule 7004(h).</content>
 									</clause>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t11a/courtRules/Bankr/rule3007/a/2/B">
@@ -5913,15 +5913,23 @@ APPENDIX: LENGTH LIMITS STATED IN PART VIII OF THE FEDERAL RULES OF BANKRUPTCY P
 								<inline>Required Disclosure</inline>
 								.
 							</heading>
-							<content> Any corporation that is a party to an adversary proceeding, other than the debtor or a governmental unit, shall file two copies of a statement that identifies any corporation, other than a governmental unit, that directly or indirectly owns 10% or more of any class of the corporation’s equity interests, or states that there are no entities to report under this subdivision.</content>
+							<content> Any nongovernmental corporation that is a party to an adversary proceeding, other than the debtor, shall file a statement that identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock or states that there is no such corporation. The same requirement applies to a nongovernmental corporation that seeks to intervene.</content>
 						</subsection>
 						<subsection identifier="/us/usc/t11a/courtRules/Bankr/rule7007.1/b">
 							<num>(b)</num>
 							<heading>
-								<inline>Time for Filing</inline>
+								<inline>Time for Filing; Supplemental Filing</inline>
 								.
 							</heading>
-							<content> A party shall file the statement required under Rule 7007.1(a) with its first appearance, pleading, motion, response, or other request addressed to the court. A party shall file a supplemental statement promptly upon any change in circumstances that this rule requires the party to identify or disclose.</content>
+							<chapeau> The corporate ownership statement shall:</chapeau>
+							<paragraph identifier="/us/usc/t11a/courtRules/Bankr/rule7007.1/b/1">
+								<num>(1)</num>
+								<content> be filed with the corporation’s first appearance, pleading, motion, response, or other request addressed to the court; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t11a/courtRules/Bankr/rule7007.1/b/2">
+								<num>(2)</num>
+								<content> be supplemented whenever the information required by this rule changes.</content>
+							</paragraph>
 						</subsection>
 					</courtRule>
 					<courtRule identifier="/us/usc/t11a/courtRules/Bankr/rule7008">
@@ -10031,10 +10039,68 @@ APPENDIX: LENGTH LIMITS STATED IN PART VIII OF THE FEDERAL RULES OF BANKRUPTCY P
 					</courtRule>
 					<courtRule identifier="/us/usc/t11a/courtRules/Bankr/rule9036">
 						<num>Rule 9036.</num>
-						<heading> Notice and Service Generally</heading>
-						<content>
-							<p>Whenever these rules require or permit sending a notice or serving a paper by mail, the clerk, or some other person as the court or these rules may direct, may send the notice to—or serve the paper on—a registered user by filing it with the court’s electronic-filing system. Or it may be sent to any person by other electronic means that the person consented to in writing. In either of these events, service or notice is complete upon filing or sending but is not effective if the filer or sender receives notice that it did not reach the person to be served. This rule does not apply to any pleading or other paper required to be served in accordance with Rule 7004.</p>
-						</content>
+						<heading> Notice and Service by Electronic Transmission</heading>
+						<subsection identifier="/us/usc/t11a/courtRules/Bankr/rule9036/a">
+							<num>(a)</num>
+							<heading>
+								<inline>In General</inline>
+								.
+							</heading>
+							<content> This rule applies whenever these rules require or permit sending a notice or serving a paper by mail or other means.</content>
+						</subsection>
+						<subsection identifier="/us/usc/t11a/courtRules/Bankr/rule9036/b">
+							<num>(b)</num>
+							<heading>
+								<inline>Notices From and Service by the Court</inline>
+								.
+							</heading>
+							<paragraph identifier="/us/usc/t11a/courtRules/Bankr/rule9036/b/1">
+								<num>(1)</num>
+								<content>
+									<i>Registered Users</i>
+									. The clerk may send notice to or serve a registered user by filing the notice or paper with the court’s electronic-filing system.
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t11a/courtRules/Bankr/rule9036/b/2">
+								<num>(2)</num>
+								<chapeau>
+									<i>All Recipients</i>
+									. For any recipient, the clerk may send notice or serve a paper by electronic means that the recipient consented to in writing, including by designating an electronic address for receipt of notices. But these exceptions apply:
+								</chapeau>
+								<subparagraph identifier="/us/usc/t11a/courtRules/Bankr/rule9036/b/2/A">
+									<num>(A)</num>
+									<content> if the recipient has registered an electronic address with the Administrative Office of the United States Courts’ bankruptcy-noticing program, the clerk shall send the notice to or serve the paper at that address; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t11a/courtRules/Bankr/rule9036/b/2/B">
+									<num>(B)</num>
+									<content> if an entity has been designated by the Director of the Administrative Office of the United States Courts as a high-volume paper-notice recipient, the clerk may send the notice to or serve the paper electronically at an address designated by the Director, unless the entity has designated an address under § 342(e) or (f) of the Code.</content>
+								</subparagraph>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t11a/courtRules/Bankr/rule9036/c">
+							<num>(c)</num>
+							<heading>
+								<inline>Notices From and Service by an Entity</inline>
+								.
+							</heading>
+							<content> An entity may send notice or serve a paper in the same manner that the clerk does under (b), excluding (b)(2)(A) and (B).</content>
+						</subsection>
+						<subsection identifier="/us/usc/t11a/courtRules/Bankr/rule9036/d">
+							<num>(d)</num>
+							<heading>
+								<inline>Completing Notice or Service</inline>
+								.
+							</heading>
+							<content> Electronic notice or service is complete upon filing or sending but is not effective if the filer or sender receives notice that it did not reach the person to be served. It is the recipient’s responsibility to keep its electronic address current with the clerk.</content>
+						</subsection>
+						<subsection identifier="/us/usc/t11a/courtRules/Bankr/rule9036/e">
+							<num>(e)</num>
+							<heading>
+								<inline>Inapplicability</inline>
+								.
+							</heading>
+							<content> This rule does not apply to any paper required to be served in accordance with Rule 7004.</content>
+						</subsection>
 					</courtRule>
 					<courtRule identifier="/us/usc/t11a/courtRules/Bankr/rule9037">
 						<num>Rule 9037.</num>

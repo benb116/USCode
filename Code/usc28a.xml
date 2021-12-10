@@ -301,8 +301,12 @@ APPENDIX OF FORMS</column>
 						<column>Form</column>
 					</header>
 					<tocItem>
-						<column>1.</column>
-						<column>Notice of Appeal to a Court of Appeals From a Judgment or Order of a District Court.</column>
+						<column>1A.</column>
+						<column>Notice of Appeal to a Court of Appeals From a Judgment of a District Court.</column>
+					</tocItem>
+					<tocItem>
+						<column>1B.</column>
+						<column>Notice of Appeal to a Court of Appeals From an Appealable Order of a District Court.</column>
 					</tocItem>
 					<tocItem>
 						<column>2.</column>
@@ -420,7 +424,7 @@ APPENDIX OF FORMS</column>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t28a/courtRules/App/rule3/c/1/B">
 								<num>(B)</num>
-								<content> designate the judgment, order, or part thereof being appealed; and</content>
+								<content> designate the judgment—or the appealable order—from which the appeal is taken; and</content>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t28a/courtRules/App/rule3/c/1/C">
 								<num>(C)</num>
@@ -437,11 +441,31 @@ APPENDIX OF FORMS</column>
 						</paragraph>
 						<paragraph identifier="/us/usc/t28a/courtRules/App/rule3/c/4">
 							<num>(4)</num>
-							<content> An appeal must not be dismissed for informality of form or title of the notice of appeal, or for failure to name a party whose intent to appeal is otherwise clear from the notice.</content>
+							<content> The notice of appeal encompasses all orders that, for purposes of appeal, merge into the designated judgment or appealable order. It is not necessary to designate those orders in the notice of appeal.</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t28a/courtRules/App/rule3/c/5">
 							<num>(5)</num>
-							<content> Form 1 in the Appendix of Forms is a suggested form of a notice of appeal.</content>
+							<chapeau> In a civil case, a notice of appeal encompasses the final judgment, whether or not that judgment is set out in a separate document under Federal Rule of Civil Procedure 58, if the notice designates:</chapeau>
+							<subparagraph identifier="/us/usc/t28a/courtRules/App/rule3/c/5/A">
+								<num>(A)</num>
+								<content> an order that adjudicates all remaining claims and the rights and liabilities of all remaining parties; or</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t28a/courtRules/App/rule3/c/5/B">
+								<num>(B)</num>
+								<content> an order described in Rule 4(a)(4)(A).</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t28a/courtRules/App/rule3/c/6">
+							<num>(6)</num>
+							<content> An appellant may designate only part of a judgment or appealable order by expressly stating that the notice of appeal is so limited. Without such an express statement, specific designations do not limit the scope of the notice of appeal.</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t28a/courtRules/App/rule3/c/7">
+							<num>(7)</num>
+							<content>  An appeal must not be dismissed for informality of form or title of the notice of appeal, for failure to name a party whose intent to appeal is otherwise clear from the notice, or for failure to properly designate the judgment if the notice of appeal was filed after entry of the judgment and designates an order that merged into that judgment.</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t28a/courtRules/App/rule3/c/8">
+							<num>(8)</num>
+							<content> Forms 1A and 1B in the Appendix of Forms are suggested forms of notices of appeal.</content>
 						</paragraph>
 					</subsection>
 					<subsection identifier="/us/usc/t28a/courtRules/App/rule3/d">
@@ -927,11 +951,11 @@ APPENDIX OF FORMS</column>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t28a/courtRules/App/rule6/b/1/B">
 								<num>(B)</num>
-								<content> the reference in Rule 3(c) to “Form 1 in the Appendix of Forms” must be read as a reference to Form 5;</content>
+								<content> the reference in Rule 3(c) to “Forms 1A and 1B in the Appendix of Forms” must be read as a reference to Form 5;</content>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t28a/courtRules/App/rule6/b/1/C">
 								<num>(C)</num>
-								<content> when the appeal is from a bankruptcy appellate panel, “district court,” as used in any applicable rule, means “appellate panel”; and</content>
+								<content> when the appeal is from a bankruptcy appellate panel, “district court,” as used inany applicable rule, means “appellate panel”; and</content>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t28a/courtRules/App/rule6/b/1/D">
 								<num>(D)</num>
@@ -4010,12 +4034,12 @@ APPENDIX OF FORMS</column>
 			</title>
 			<level>
 				<heading>APPENDIX OF FORMS</heading>
-				<level identifier="/us/usc/t28a/courtRules/App/1">
-					<num>Form 1</num>
-					<heading>. Notice of Appeal to a Court of Appeals From a Judgment or Order of a District Court</heading>
+				<level identifier="/us/usc/t28a/courtRules/App/1A">
+					<num>Form 1A</num>
+					<heading>. Notice of Appeal to a Court of Appeals From a Judgment of a District Court</heading>
 					<content>
 						<p>United States District Court for the ____ District of ______</p>
-						<p>File Number ____</p>
+						<p>Docket Number ____</p>
 						<p>A.B., Plaintiff</p>
 						<p>v.</p>
 						<p>
@@ -4023,7 +4047,7 @@ APPENDIX OF FORMS</column>
 							 Notice of Appeal
 						</p>
 						<p>C. D., Defendant</p>
-						<p>Notice is hereby given that ___(here name all parties taking the appeal)___, (plaintiffs) (defendants) in the above named case,* hereby appeal to the United States Court of Appeals for the ___ Circuit (from the final judgment) (from an order (describing it)) entered in this action on the ___ day of _________, 20_.</p>
+						<p>___(name all parties taking the appeal) * appeal to the United States Court of Appeals for the ___ Circuit from the final judgment entered on _________ (state the date the judgment was entered).</p>
 						<p>(s)____________</p>
 						<p>
 							<i>Attorney for ______</i>
@@ -4033,7 +4057,36 @@ APPENDIX OF FORMS</column>
 						</p>
 						<p>
 							[Note to inmate filers:
-							<i> If you are an inmate confined in an institution and you seek the timing benefit of Fed. R. App. P. 4(c)(1), complete Form 7 (Declaration of Inmate Filing) and file that declaration along with this Notice of Appeal.</i>
+							<i> If you are an inmate confined in an institution and you seek the timing benefit of Fed. R. App. P. 4(c)(1), complete Form 7 (Declaration of Inmate Filing) and file that declaration with this Notice of Appeal.</i>
+							]
+						</p>
+						<p>* See Rule 3(c) for permissible ways of identifying appellants.</p>
+					</content>
+				</level>
+				<level identifier="/us/usc/t28a/courtRules/App/1B">
+					<num>Form 1B</num>
+					<heading>. Notice of Appeal to a Court of Appeals From an Appealable Order of a District Court</heading>
+					<content>
+						<p>United States District Court for the ____ District of ______</p>
+						<p>Docket Number ____</p>
+						<p>A.B., Plaintiff</p>
+						<p>v.</p>
+						<p>
+							<inline>F</inline>
+							 Notice of Appeal
+						</p>
+						<p>C. D., Defendant</p>
+						<p>___(name all parties taking the appeal) * appeal to the United States Court of Appeals for the ___ Circuit from the order ___(describe the order) entered on _________(state the date the order was entered).</p>
+						<p>(s)____________</p>
+						<p>
+							<i>Attorney for ______</i>
+						</p>
+						<p>
+							<i>Address: ________</i>
+						</p>
+						<p>
+							[Note to inmate filers:
+							<i> If you are an inmate confined in an institution and you seek the timing benefit of Fed. R. App. P. 4(c)(1), complete Form 7 (Declaration of Inmate Filing) and file that declaration with this Notice of Appeal.</i>
 							]
 						</p>
 						<p>* See Rule 3(c) for permissible ways of identifying appellants.</p>
@@ -4045,6 +4098,7 @@ APPENDIX OF FORMS</column>
 					<content>
 						<p>UNITED STATES TAX COURT</p>
 						<p>Washington, D.C.</p>
+						<p>Docket No. ____</p>
 						<p>A.B., Petitioner</p>
 						<p>
 							<i>v.</i>
@@ -4052,15 +4106,14 @@ APPENDIX OF FORMS</column>
 						<p>Commissioner of</p>
 						<p>
 							<inline>W</inline>
-							 Docket No.____
+							 Notice of Appeal
 						</p>
 						<p>Internal Revenue,</p>
 						<p>Respondent</p>
-						<p>Notice of Appeal</p>
-						<p>Notice is hereby given that ___(here name all parties taking the appeal) *___ hereby appeal to the United States Court of Appeals for the ___ Circuit from (that part of) the decision of this court entered in the above captioned proceeding on the ____ day of ___________, 20_ (relating to __________).</p>
+						<p>___(name all parties taking the appeal) * appeal to the United States Court of Appeals for the ___ Circuit from the decision entered on ____(state the date the decision was entered).</p>
 						<p>(s)____________</p>
 						<p>
-							<i>Counsel for ______</i>
+							<i>Attorney for ______</i>
 						</p>
 						<p>
 							<i>Address: ________</i>

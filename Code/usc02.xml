@@ -18181,7 +18181,7 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 							<subparagraph identifier="/us/usc/t2/s901a/6/B">
 								<num>(B)</num>
 								<chapeau>
-									 On the dates OMB issues its sequestration preview reports for each of fiscal years 2022 through 2030, pursuant to 
+									 On the dates OMB issues its sequestration preview reports for each of fiscal years 2022 through 2031, pursuant to 
 									<ref href="/us/usc/t2/s904/c">section 904(c) of this title</ref>
 									, the President shall order a sequestration, effective upon issuance such that—
 								</chapeau>
@@ -18196,22 +18196,46 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t2/s901a/6/C">
 								<num>(C)</num>
+								<content>
+									 Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in 
+									<ref href="/us/usc/t2/s906/d">section 906(d) of this title</ref>
+									, the sequestration order of the President under such subparagraph for fiscal year 2022 shall be applied to such payments so that with respect to the period beginning on 
+									<date date="2022-04-01">April 1, 2022</date>
+									, and ending on 
+									<date date="2022-06-30">June 30, 2022</date>
+									, the payment reduction shall be 1.0 percent.
+								</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t2/s901a/6/D">
+								<num>(D)</num>
 								<chapeau>
 									 Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in 
 									<ref href="/us/usc/t2/s906/d">section 906(d) of this title</ref>
 									, the sequestration order of the President under such subparagraph for fiscal year 2030 shall be applied to such payments so that—
 								</chapeau>
-								<clause identifier="/us/usc/t2/s901a/6/C/i">
+								<clause identifier="/us/usc/t2/s901a/6/D/i">
 									<num>(i)</num>
-									<content> with respect to the first 5 ½ months in which such order is effective for such fiscal year, the payment reduction shall be 2.0 percent;</content>
+									<content> with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.25 percent; and</content>
 								</clause>
-								<clause identifier="/us/usc/t2/s901a/6/C/ii">
+								<clause identifier="/us/usc/t2/s901a/6/D/ii">
 									<num>(ii)</num>
-									<content> with respect to the 6-month period beginning on the day after the last day of the period described in clause (i) in which such order is so effective for such fiscal year, the payment reduction shall be 4.0 percent; and</content>
+									<content> with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 3 percent.</content>
 								</clause>
-								<clause identifier="/us/usc/t2/s901a/6/C/iii">
-									<num>(iii)</num>
-									<content> with respect to the remaining ½ month in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t2/s901a/6/E">
+								<num>(E)</num>
+								<chapeau>
+									 Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in 
+									<ref href="/us/usc/t2/s906/d">section 906(d) of this title</ref>
+									, the sequestration order of the President under such subparagraph for fiscal year 2031 shall be applied to such payments so that—
+								</chapeau>
+								<clause identifier="/us/usc/t2/s901a/6/E/i">
+									<num>(i)</num>
+									<content> with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and</content>
+								</clause>
+								<clause identifier="/us/usc/t2/s901a/6/E/ii">
+									<num>(ii)</num>
+									<content> with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 0 percent.</content>
 								</clause>
 							</subparagraph>
 						</paragraph>
@@ -34666,6 +34690,18 @@ Part A—General</column>
 						</tocItem>
 						<tocItem>
 							<column>
+								<ref href="/us/usc/t2/s1901a">1901a.</ref>
+							</column>
+							<column>Capitol Police Board.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t2/s1901b">1901b.</ref>
+							</column>
+							<column>Joint oversight hearings.</column>
+						</tocItem>
+						<tocItem>
+							<column>
 								<ref href="/us/usc/t2/s1902">1902.</ref>
 							</column>
 							<column>Compensation of Chief.</column>
@@ -35046,6 +35082,133 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 							<content>
 								<p>There shall be a Capitol police. There shall be a captain of the Capitol police and such other members with such rates of compensation, respectively, as may be appropriated for by Congress from year to year. The Capitol Police shall be headed by a Chief who shall be appointed by the Capitol Police Board and shall serve at the pleasure of the Board.</p>
 							</content>
+						</section>
+						<section identifier="/us/usc/t2/s1901a">
+							<num>§ 1901a.</num>
+							<heading> Capitol Police Board</heading>
+							<subsection identifier="/us/usc/t2/s1901a/a">
+								<num>(a)</num>
+								<heading> Capitol Police Board; composition; redefining mission</heading>
+								<paragraph identifier="/us/usc/t2/s1901a/a/1">
+									<num>(1)</num>
+									<heading> Purpose</heading>
+									<content>
+										<p>The purpose of the Capitol Police Board is to oversee and support the Capitol Police in its mission and to advance coordination between the Capitol Police and the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate, in their law enforcement capacities, and the Congress. Consistent with this purpose, the Capitol Police Board shall establish general goals and objectives covering its major functions and operations to improve the efficiency and effectiveness of its operations.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s1901a/a/2">
+									<num>(2)</num>
+									<heading> Composition</heading>
+									<content>
+										<p>The Capitol Police Board shall consist of the Sergeant at Arms of the House of Representatives, the Sergeant at Arms and Doorkeeper of the Senate, the Chief of the Capitol Police, and the Architect of the Capitol. The Chief of Capitol Police shall serve in an ex-officio capacity and be a non-voting member of the Board.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s1901a/b">
+								<num>(b)</num>
+								<heading> Initial review and report</heading>
+								<chapeau>
+									Not later than 180 days after 
+									<date date="2003-02-20">February 20, 2003</date>
+									, the Capitol Police Board shall—
+								</chapeau>
+								<paragraph identifier="/us/usc/t2/s1901a/b/1">
+									<num>(1)</num>
+									<content> examine the mission of the Capitol Police Board and, based on that analysis, redefine the Capitol Police Board’s mission, mission-related processes, and administrative processes;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s1901a/b/2">
+									<num>(2)</num>
+									<content> conduct an assessment of the effectiveness and usefulness of its statutory functions in contributing to the Capitol Police Board’s ability to carry out its mission and meet its goals, including an explanation of the reasons for any determination that the statutory functions are appropriate and advisable in terms of its purpose, mission, and long-term goals; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s1901a/b/3">
+									<num>(3)</num>
+									<content> submit to the Speaker and minority leader of the House of Representatives and the President pro tempore and minority leader of the Senate a report on the results of its examination and assessment, including recommendations for any legislation that the Capitol Police Board considers appropriate and necessary.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s1901a/c">
+								<num>(c)</num>
+								<heading> Executive Assistant</heading>
+								<paragraph identifier="/us/usc/t2/s1901a/c/1">
+									<num>(1)</num>
+									<heading> Establishment</heading>
+									<content>
+										<p>There shall be established in the Capitol Police an Executive Assistant for the Capitol Police Board to act as a central point for communication and enhance the overall effectiveness and efficiency of the Capitol Police Board’s administrative activities.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s1901a/c/2">
+									<num>(2)</num>
+									<heading> Appointment</heading>
+									<content>
+										<p>The Executive Assistant shall be appointed by the Chief of the Capitol Police in consultation with the Sergeant at Arms of the House of Representatives and the Sergeant at Arms and Doorkeeper of the Senate.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s1901a/c/3">
+									<num>(3)</num>
+									<heading> Duties</heading>
+									<content>
+										<p>The Executive Assistant shall be assigned to, and report to, the Chairman of the Board. The Executive Assistant shall assist the Capitol Police Board in developing, documenting, and implementing a clearly defined process for additional tasks assigned to the Capitol Police Board under this section, and shall perform any additional duties assigned by the Capitol Police Board.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s1901a/d">
+								<num>(d)</num>
+								<heading> Documentation</heading>
+								<paragraph identifier="/us/usc/t2/s1901a/d/1">
+									<num>(1)</num>
+									<heading> Functions and processes</heading>
+									<content>
+										<p>The Capitol Police Board shall document its functions and processes, including its mission statement, policies, directives, and operating procedures established or revised under subsection (a)(1) or (b), and make such documentation available for examination to the Speaker and minority leader of the House of Representatives, the President pro tempore and minority leader of the Senate, the Chief of the Capitol Police, and the Comptroller General.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s1901a/d/2">
+									<num>(2)</num>
+									<heading> Meetings</heading>
+									<content>
+										<p>The Capitol Police Board shall document Board meetings and make the documentation available for distribution to the Speaker and minority leader of the House of Representatives and the President pro tempore and minority leader of the Senate.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s1901a/e">
+								<num>(e)</num>
+								<heading> Assistance of Comptroller General</heading>
+								<content>
+									<p>Upon request, the Comptroller General shall provide assistance to the Capitol Police Board in carrying out its responsibilities under this subsection.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s1901a/f">
+								<num>(f)</num>
+								<heading> References in law; effect on other laws</heading>
+								<paragraph identifier="/us/usc/t2/s1901a/f/1">
+									<num>(1)</num>
+									<content>
+										 Any reference in any law or resolution in effect as of 
+										<date date="2003-02-20">February 20, 2003</date>
+										, to the “Capitol Police Board” shall be deemed to refer to the Capitol Police Board as composed under subsection (a)(2).
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s1901a/f/2">
+									<num>(2)</num>
+									<content> Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of the Capitol Police Board or its individual members unless specifically provided herein.</content>
+								</paragraph>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t2/s1901b">
+							<num>§ 1901b.</num>
+							<heading> Joint oversight hearings</heading>
+							<subsection identifier="/us/usc/t2/s1901b/a">
+								<num>(a)</num>
+								<heading> In General</heading>
+								<content>
+									<p>The Committee on Rules and Administration of the Senate and the Committee on House Administration of the House of Representatives (referred to in this section as the “Committees”) are authorized to jointly conduct oversight hearings regarding the Capitol Police Board and may request the attendance of all members of the Capitol Police Board at any such hearing. Members of the Capitol Police Board shall attend a joint hearing under this section, as requested and under such rules or procedures as may be adopted by the Committees.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s1901b/b">
+								<num>(b)</num>
+								<heading> Timing</heading>
+								<content>
+									<p>The Committees may conduct oversight hearings under this section as determined appropriate by the Committees, but shall conduct not less than one oversight hearing under this section during each Congress.</p>
+								</content>
+							</subsection>
 						</section>
 						<section identifier="/us/usc/t2/s1902">
 							<num>§ 1902.</num>
@@ -37117,7 +37280,7 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 								<heading> In general</heading>
 								<content>
 									<p>
-										Executive departments and Executive agencies may assist the United States Capitol Police in the performance of its duties by providing services (including personnel), equipment, and facilities on a temporary and reimbursable basis when requested by the Capitol Police Board and on a permanent and reimbursable basis upon advance written request of the Capitol Police Board; except that the Department of Defense and the Coast Guard may provide such assistance on a temporary basis without reimbursement when assisting the United States Capitol Police in its duties directly related to protection under sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
+										Executive departments and Executive agencies may assist the United States Capitol Police in the performance of its duties by providing services (including personnel), equipment, and facilities on a temporary and reimbursable basis when requested by the Capitol Police Board or in accordance with paragraph (4) and on a permanent and reimbursable basis upon advance written request of the Capitol Police Board; except that the Department of Defense and the Coast Guard may provide such assistance on a temporary basis without reimbursement when assisting the United States Capitol Police in its duties directly related to protection under sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40.
 										 Before making a request under this paragraph, the Capitol Police Board shall consult with appropriate Members of the Senate and House of Representatives in leadership positions, except in an emergency.
 									</p>
 								</content>
@@ -37156,7 +37319,7 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t2/s1970/a/4/B">
 									<num>(B)</num>
-									<chapeau> upon the advance written request of—</chapeau>
+									<chapeau> upon the written request of—</chapeau>
 									<clause identifier="/us/usc/t2/s1970/a/4/B/i">
 										<num>(i)</num>
 										<content> the Capitol Police Board; or</content>
@@ -37166,11 +37329,19 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 										<chapeau> in an emergency—</chapeau>
 										<subclause identifier="/us/usc/t2/s1970/a/4/B/ii/I">
 											<num>(I)</num>
-											<content> the Sergeant at Arms and Doorkeeper of the Senate in any matter relating to the Senate; or</content>
+											<content> the Sergeant at Arms and Doorkeeper of the Senate in any matter relating to the Senate;</content>
 										</subclause>
 										<subclause identifier="/us/usc/t2/s1970/a/4/B/ii/II">
 											<num>(II)</num>
-											<content> the Sergeant at Arms of the House of Representatives in any matter relating to the House of Representatives; and</content>
+											<content> the Sergeant at Arms of the House of Representatives in any matter relating to the House of Representatives; or</content>
+										</subclause>
+										<subclause identifier="/us/usc/t2/s1970/a/4/B/ii/III">
+											<num>(III)</num>
+											<content>
+												 the Chief of the Capitol Police, if the Chief of the Capitol Police has determined that the provision of assistance is necessary to prevent the significant disruption of governmental function and public order within the United States Capitol Buildings and Grounds, as described in section 1961 
+												<sup>1</sup>
+												 of this title; and
+											</content>
 										</subclause>
 									</clause>
 								</subparagraph>
@@ -37189,6 +37360,13 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 										<content> on a temporary basis without reimbursement by the Department of Defense and the Coast Guard as described under paragraph (1).</content>
 									</clause>
 								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t2/s1970/a/5">
+								<num>(5)</num>
+								<heading> Revocation</heading>
+								<content>
+									<p>The Capitol Police Board may revoke a request for assistance provided under paragraph (4)(B)(ii)(III) upon consultation with appropriate Members of the Senate and House of Representatives in leadership positions.</p>
+								</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t2/s1970/b">
@@ -37269,7 +37447,11 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 						<subsection identifier="/us/usc/t2/s1974/a">
 							<num>(a)</num>
 							<heading> In general</heading>
-							<chapeau>In the event of an emergency, as determined by the Capitol Police Board or in a concurrent resolution of Congress, the Chief of the Capitol Police may appoint—</chapeau>
+							<chapeau>
+								In the event of an emergency, as determined by the Capitol Police Board or in a concurrent resolution of Congress, or as determined by the Chief of the Capitol Police in accordance with 
+								<ref href="/us/usc/t2/s1970/a/4/B/ii/III">section 1970(a)(4)(B)(ii)(III) of this title</ref>
+								, the Chief of the Capitol Police may appoint—
+							</chapeau>
 							<paragraph identifier="/us/usc/t2/s1974/a/1">
 								<num>(1)</num>
 								<content> any law enforcement officer from any Federal agency or State or local government agency made available by that agency to serve as a special officer of the Capitol Police within the authorities of the Capitol Police in policing the Capitol buildings and grounds; and</content>
@@ -37278,6 +37460,11 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 								<num>(2)</num>
 								<content> any member of the uniformed services, including members of the National Guard, made available by the appropriate authority to serve as a special officer of the Capitol Police within the authorities of the Capitol Police in policing the Capitol buildings and grounds.</content>
 							</paragraph>
+							<continuation>
+								An appointment under this section due to an emergency determined by the Chief of the Capitol Police under paragraph (4)(B)(ii)(III) of 
+								<ref href="/us/usc/t2/s1970/a">section 1970(a) of this title</ref>
+								 shall be in effect for the period of the emergency, unless and until the Capitol Police Board revokes the request for assistance under paragraph (5) of such section.
+							</continuation>
 						</subsection>
 						<subsection identifier="/us/usc/t2/s1974/b">
 							<num>(b)</num>
@@ -37302,40 +37489,20 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 						</subsection>
 						<subsection identifier="/us/usc/t2/s1974/c">
 							<num>(c)</num>
-							<heading> Qualifications</heading>
-							<chapeau>Any individual appointed under subsection (a) shall be subject to—</chapeau>
-							<paragraph identifier="/us/usc/t2/s1974/c/1">
-								<num>(1)</num>
-								<content> qualification requirements as the Chief of the Capitol Police determines necessary; and</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t2/s1974/c/2">
-								<num>(2)</num>
-								<content> approval by the Capitol Police Board.</content>
-							</paragraph>
-						</subsection>
-						<subsection identifier="/us/usc/t2/s1974/d">
-							<num>(d)</num>
 							<heading> Reimbursement agreements</heading>
 							<content>
 								<p>Nothing in this section shall prohibit the Capitol Police from entering into an agreement for the reimbursement of services provided under this section with any Federal, State, or local agency.</p>
 							</content>
 						</subsection>
-						<subsection identifier="/us/usc/t2/s1974/e">
-							<num>(e)</num>
-							<heading> Approval</heading>
-							<content>
-								<p>Any appointment under this section shall be subject to initial approval by the Capitol Police Board and to final approval by the Speaker of the House of Representatives (in consultation with the Minority Leader of the House of Representatives) and the President pro tempore of the Senate (in consultation with the Minority Leader of the Senate), acting jointly.</p>
-							</content>
-						</subsection>
-						<subsection identifier="/us/usc/t2/s1974/f">
-							<num>(f)</num>
+						<subsection identifier="/us/usc/t2/s1974/d">
+							<num>(d)</num>
 							<heading> Regulations</heading>
 							<content>
-								<p>Subject to approval by the Speaker of the House of Representatives (in consultation with the Minority Leader of the House of Representatives) and the President pro tempore of the Senate (in consultation with the Minority Leader of the Senate), acting jointly, the Capitol Police Board may prescribe regulations to carry out this section.</p>
+								<p>Subject to approval by the Speaker of the House of Representatives (in consultation with the Minority Leader of the House of Representatives) and the Majority Leader of the Senate (in consultation with the Minority Leader of the Senate), acting jointly, the Capitol Police Board may prescribe regulations to carry out this section.</p>
 							</content>
 						</subsection>
-						<subsection identifier="/us/usc/t2/s1974/g">
-							<num>(g)</num>
+						<subsection identifier="/us/usc/t2/s1974/e">
+							<num>(e)</num>
 							<heading> Effective date</heading>
 							<content>
 								<p>
@@ -46251,13 +46418,135 @@ Part B—Administration</column>
 						<section identifier="/us/usc/t2/s4576">
 							<num>§ 4576.</num>
 							<heading> Availability of appropriated funds for payment to an individual of pay from more than one position; conditions</heading>
-							<content>
-								<p>
-									Notwithstanding any other provision of law, appropriated funds are available for payment to an individual of pay from more than one position, each of which is either in the office of a Senator and the pay of which is disbursed by the Secretary of the Senate or is in another office and the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading “Salaries, Officers, and Employees”, if the aggregate gross pay from those positions does not exceed the maximum rate specified in 
-									<ref href="/us/usc/t2/s4575/d/2">section 4575(d)(2) of this title</ref>
-									.
-								</p>
-							</content>
+							<subsection identifier="/us/usc/t2/s4576/a">
+								<num>(a)</num>
+								<chapeau> Notwithstanding any other provision of law, appropriated funds are available for payment to an individual of pay from more than one qualifying position if the aggregate gross pay from those positions does not exceed—</chapeau>
+								<paragraph identifier="/us/usc/t2/s4576/a/1">
+									<num>(1)</num>
+									<content>
+										 the maximum rate specified in 
+										<ref href="/us/usc/t2/s4575/d/2">section 4575(d)(2) of this title</ref>
+										, as amended and modified; or
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s4576/a/2">
+									<num>(2)</num>
+									<content>
+										 in a case where 1 or more of the individual’s qualifying positions are positions described in subsection (d)(2)(B), the maximum rate specified in 
+										<ref href="/us/usc/t2/s4575/e/3">section 4575(e)(3) of this title</ref>
+										, as amended and modified.
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s4576/b">
+								<num>(b)</num>
+								<paragraph identifier="/us/usc/t2/s4576/b/1">
+									<num>(1)</num>
+									<content> For an individual serving in more than 1 qualifying position under subsection (a), the cost of any travel for official business shall be paid by the office authorizing the travel.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s4576/b/2">
+									<num>(2)</num>
+									<content> Messages for each electronic mail account used in connection with carrying out the official duties of an individual serving in more than 1 qualifying position under subsection (a) may be delivered to and sent from a single handheld communications device provided to the individual for purposes of official business.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s4576/b/3">
+									<num>(3)</num>
+									<subparagraph identifier="/us/usc/t2/s4576/b/3/A">
+										<num>(A)</num>
+										<content> For purposes of the Ethics in Government Act of 1978 (5 U.S.C. App.), the rate of basic pay for an individual serving in more than 1 qualifying position under subsection (a) shall be the total basic pay received by the individual from all such positions.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t2/s4576/b/3/B">
+										<num>(B)</num>
+										<content>
+											 For an individual serving in more than one qualifying position under subsection (a), for purposes of the rights and obligations described in, or described in the provisions applied under, title II of the Congressional Accountability Act of 1995 (
+											<ref href="/us/usc/t2/s1311">2 U.S.C. 1311</ref>
+											 et seq.) related to practices used at a time when the individual is serving in such a qualifying position with an employing office, the rate of pay for the individual shall be the individual rate of pay received from the employing office.
+										</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s4576/c">
+								<num>(c)</num>
+								<paragraph identifier="/us/usc/t2/s4576/c/1">
+									<num>(1)</num>
+									<content> If the duties of a qualifying position under subsection (a) include information technology services and support, an individual may only serve in the qualifying position and 1 or more additional qualifying positions under such subsection if the individual is in compliance with each information technology standard and policy established for Senate offices by the Office of the Sergeant at Arms and Doorkeeper of the Senate.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s4576/c/2">
+									<num>(2)</num>
+									<chapeau> Notwithstanding subsection (a), an employee serving in a qualifying position in the Office of the Secretary of the Senate or the Office of the Sergeant at Arms and Doorkeeper of the Senate may serve in an additional qualifying position only if—</chapeau>
+									<subparagraph identifier="/us/usc/t2/s4576/c/2/A">
+										<num>(A)</num>
+										<content> the other qualifying position is with the other Office; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t2/s4576/c/2/B">
+										<num>(B)</num>
+										<content> the Committee on Rules and Administration of the Senate has approved the arrangement.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s4576/d">
+								<num>(d)</num>
+								<chapeau> In this section, the term “qualifying position” means a position that—</chapeau>
+								<paragraph identifier="/us/usc/t2/s4576/d/1">
+									<num>(1)</num>
+									<content> is designated as a shared position for purposes of this section by the Senator or other head of the office in which the position is located; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s4576/d/2">
+									<num>(2)</num>
+									<chapeau> is one of the following:</chapeau>
+									<subparagraph identifier="/us/usc/t2/s4576/d/2/A">
+										<num>(A)</num>
+										<chapeau> A position—</chapeau>
+										<clause identifier="/us/usc/t2/s4576/d/2/A/i">
+											<num>(i)</num>
+											<content> that is in the office of a Senator; and</content>
+										</clause>
+										<clause identifier="/us/usc/t2/s4576/d/2/A/ii">
+											<num>(ii)</num>
+											<content> the pay of which is disbursed by the Secretary of the Senate.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t2/s4576/d/2/B">
+										<num>(B)</num>
+										<chapeau> A position—</chapeau>
+										<clause identifier="/us/usc/t2/s4576/d/2/B/i">
+											<num>(i)</num>
+											<content> that is in any committee of the Senate (including a select or special committee) or a joint committee of Congress; and</content>
+										</clause>
+										<clause identifier="/us/usc/t2/s4576/d/2/B/ii">
+											<num>(ii)</num>
+											<content> the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading “inquiries and investigations” or “Joint Economic Committee”, or a heading relating to a Joint Congressional Committee on Inaugural Ceremonies.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t2/s4576/d/2/C">
+										<num>(C)</num>
+										<chapeau> A position—</chapeau>
+										<clause identifier="/us/usc/t2/s4576/d/2/C/i">
+											<num>(i)</num>
+											<content> that is in another office (excluding the Office of the Vice President and the Office of the Chaplain of the Senate); and</content>
+										</clause>
+										<clause identifier="/us/usc/t2/s4576/d/2/C/ii">
+											<num>(ii)</num>
+											<content> the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading “Salaries, Officers and Employees”.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t2/s4576/d/2/D">
+										<num>(D)</num>
+										<chapeau> A position—</chapeau>
+										<clause identifier="/us/usc/t2/s4576/d/2/D/i">
+											<num>(i)</num>
+											<content>
+												 that is filled pursuant to 
+												<ref href="/us/usc/t2/s6311">section 6311 of this title</ref>
+												; and
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t2/s4576/d/2/D/ii">
+											<num>(ii)</num>
+											<content> the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading “miscellaneous items”.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+							</subsection>
 						</section>
 						<section identifier="/us/usc/t2/s4577">
 							<num>§ 4577.</num>

@@ -1081,6 +1081,12 @@ SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT</column>
 						</tocItem>
 						<tocItem>
 							<column>
+								<ref href="/us/usc/t6/s321r">321r.</ref>
+							</column>
+							<column>Transfer of equipment during a public health emergency.</column>
+						</tocItem>
+						<tocItem>
+							<column>
 								<ref href="/us/usc/t6/s322">322.</ref>
 							</column>
 							<column>Continuity of the economy plan.</column>
@@ -2403,6 +2409,12 @@ Part A—Cybersecurity and Infrastructure Security</column>
 							</column>
 							<column>Cybersecurity education and training programs.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s665g">665g.</ref>
+							</column>
+							<column>State and local cybersecurity grant program.</column>
+						</tocItem>
 						<header>
 							<column>
 Part B—Critical Infrastructure Information</column>
@@ -2430,6 +2442,58 @@ Part B—Critical Infrastructure Information</column>
 								<ref href="/us/usc/t6/s674">674.</ref>
 							</column>
 							<column>No private right of action.</column>
+						</tocItem>
+						<header>
+							<column>
+Part C—Declaration of a Significant Incident</column>
+						</header>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s677">677.</ref>
+							</column>
+							<column>Sense of Congress.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s677a">677a.</ref>
+							</column>
+							<column>Definitions.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s677b">677b.</ref>
+							</column>
+							<column>Declaration.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s677c">677c.</ref>
+							</column>
+							<column>Cyber Response and Recovery Fund.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s677d">677d.</ref>
+							</column>
+							<column>Notification and reporting.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s677e">677e.</ref>
+							</column>
+							<column>Rule of construction.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s677f">677f.</ref>
+							</column>
+							<column>Authorization of appropriations.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s677g">677g.</ref>
+							</column>
+							<column>Sunset.</column>
 						</tocItem>
 					</layout>
 				</toc>
@@ -19025,6 +19089,85 @@ Part B—Critical Infrastructure Information</column>
 							<content>
 								<p>Nothing in this section may be construed as altering or superseding the authority of the Secretary of Agriculture or the Secretary of Health and Human Services.</p>
 							</content>
+						</subsection>
+					</section>
+					<section identifier="/us/usc/t6/s321r">
+						<num>§ 321r.</num>
+						<heading> Transfer of equipment during a public health emergency</heading>
+						<subsection identifier="/us/usc/t6/s321r/a">
+							<num>(a)</num>
+							<heading> Authorization of transfer of equipment</heading>
+							<content>
+								<p>
+									During a public health emergency declared by the Secretary of Health and Human Services under 
+									<ref href="/us/usc/t42/s247d/a">section 247d(a) of title 42</ref>
+									, the Secretary, at the request of the Secretary of Health and Human Services, may transfer to the Department of Health and Human Services, on a reimbursable basis, excess personal protective equipment or medically necessary equipment in the possession of the Department.
+								</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s321r/b">
+							<num>(b)</num>
+							<heading> Determination by Secretaries</heading>
+							<paragraph identifier="/us/usc/t6/s321r/b/1">
+								<num>(1)</num>
+								<heading> In general</heading>
+								<chapeau>In carrying out this section—</chapeau>
+								<subparagraph identifier="/us/usc/t6/s321r/b/1/A">
+									<num>(A)</num>
+									<content> before requesting a transfer under subsection (a), the Secretary of Health and Human Services shall determine whether the personal protective equipment or medically necessary equipment is otherwise available; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s321r/b/1/B">
+									<num>(B)</num>
+									<chapeau> before initiating a transfer under subsection (a), the Secretary, in consultation with the heads of each component within the Department, shall—</chapeau>
+									<clause identifier="/us/usc/t6/s321r/b/1/B/i">
+										<num>(i)</num>
+										<content> determine whether the personal protective equipment or medically necessary equipment requested to be transferred under subsection (a) is excess equipment; and</content>
+									</clause>
+									<clause identifier="/us/usc/t6/s321r/b/1/B/ii">
+										<num>(ii)</num>
+										<content> certify that the transfer of the personal protective equipment or medically necessary equipment will not adversely impact the health or safety of officers, employees, or contractors of the Department.</content>
+									</clause>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s321r/b/2">
+								<num>(2)</num>
+								<heading> Notification</heading>
+								<content>
+									<p>The Secretary of Health and Human Services and the Secretary shall each submit to Congress a notification explaining the determination made under subparagraphs (A) and (B), respectively, of paragraph (1).</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s321r/b/3">
+								<num>(3)</num>
+								<heading> Required inventory</heading>
+								<subparagraph identifier="/us/usc/t6/s321r/b/3/A">
+									<num>(A)</num>
+									<heading> In general</heading>
+									<chapeau>The Secretary shall—</chapeau>
+									<clause identifier="/us/usc/t6/s321r/b/3/A/i">
+										<num>(i)</num>
+										<content> acting through the Chief Medical Officer of the Department, maintain an inventory of all personal protective equipment and medically necessary equipment in the possession of the Department; and</content>
+									</clause>
+									<clause identifier="/us/usc/t6/s321r/b/3/A/ii">
+										<num>(ii)</num>
+										<chapeau> make the inventory required under clause (i) available, on a continual basis, to—</chapeau>
+										<subclause identifier="/us/usc/t6/s321r/b/3/A/ii/I">
+											<num>(I)</num>
+											<content> the Secretary of Health and Human Services; and</content>
+										</subclause>
+										<subclause identifier="/us/usc/t6/s321r/b/3/A/ii/II">
+											<num>(II)</num>
+											<content> the Committee on Appropriations and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Appropriations and the Committee on Homeland Security of the House of Representatives.</content>
+										</subclause>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s321r/b/3/B">
+									<num>(B)</num>
+									<heading> Form</heading>
+									<content>
+										<p>Each inventory required to be made available under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex.</p>
+									</content>
+								</subparagraph>
+							</paragraph>
 						</subsection>
 					</section>
 					<section identifier="/us/usc/t6/s322">
@@ -38395,6 +38538,1183 @@ Part B—Critical Infrastructure Information</column>
 								</content>
 							</subsection>
 						</section>
+						<section identifier="/us/usc/t6/s665g">
+							<num>§ 665g.</num>
+							<heading> State and local cybersecurity grant program</heading>
+							<subsection identifier="/us/usc/t6/s665g/a">
+								<num>(a)</num>
+								<heading> Definitions</heading>
+								<chapeau>In this section:</chapeau>
+								<paragraph identifier="/us/usc/t6/s665g/a/1">
+									<num>(1)</num>
+									<heading> Appropriate committees of Congress</heading>
+									<chapeau>The term “appropriate committees of Congress” means—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/a/1/A">
+										<num>(A)</num>
+										<content> the Committee on Homeland Security and Governmental Affairs of the Senate; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/a/1/B">
+										<num>(B)</num>
+										<content> the Committee on Homeland Security of the House of Representatives.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/a/2">
+									<num>(2)</num>
+									<heading> Cyber threat indicator</heading>
+									<content>
+										<p>
+											The term “cyber threat indicator” has the meaning given the term in 
+											<ref href="/us/usc/t6/s1501">section 1501 of this title</ref>
+											.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/a/3">
+									<num>(3)</num>
+									<heading> Cybersecurity Plan</heading>
+									<content>
+										<p>The term “Cybersecurity Plan” means a plan submitted by an eligible entity under subsection (e)(1).</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/a/4">
+									<num>(4)</num>
+									<heading> Eligible entity</heading>
+									<chapeau>The term “eligible entity” means a—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/a/4/A">
+										<num>(A)</num>
+										<content> State; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/a/4/B">
+										<num>(B)</num>
+										<content> Tribal government.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/a/5">
+									<num>(5)</num>
+									<heading> Incident</heading>
+									<content>
+										<p>The term “incident” has the meaning given the term in section 2209.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/a/6">
+									<num>(6)</num>
+									<heading> Information sharing and analysis organization</heading>
+									<content>
+										<p>
+											The term “information sharing and analysis organization” has the meaning given the term in 
+											<ref href="/us/usc/t6/s671">section 671 of this title</ref>
+											.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/a/7">
+									<num>(7)</num>
+									<heading> Information system</heading>
+									<content>
+										<p>
+											The term “information system” has the meaning given the term in 
+											<ref href="/us/usc/t6/s1501">section 1501 of this title</ref>
+											.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/a/8">
+									<num>(8)</num>
+									<heading> Multi-entity group</heading>
+									<content>
+										<p>The term “multi-entity group” means a group of 2 or more eligible entities desiring a grant under this section.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/a/9">
+									<num>(9)</num>
+									<heading> Online service</heading>
+									<content>
+										<p>The term “online service” means any internet-facing service, including a website, email, virtual private network, or custom application.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/a/10">
+									<num>(10)</num>
+									<heading> Rural area</heading>
+									<content>
+										<p>
+											The term “rural area” has the meaning given the term in 
+											<ref href="/us/usc/t49/s5302">section 5302 of title 49</ref>
+											.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/a/11">
+									<num>(11)</num>
+									<heading> State and Local Cybersecurity Grant Program</heading>
+									<content>
+										<p>The term “State and Local Cybersecurity Grant Program” means the program established under subsection (b).</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/a/12">
+									<num>(12)</num>
+									<heading> Tribal government</heading>
+									<content>
+										<p>
+											The term “Tribal government” means the recognized governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, that is individually identified (including parenthetically) in the most recent list published pursuant to 
+											<ref href="/us/usc/t25/s5131">section 5131 of title 25</ref>
+											.
+										</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/b">
+								<num>(b)</num>
+								<heading> Establishment</heading>
+								<paragraph identifier="/us/usc/t6/s665g/b/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>There is established within the Department a program to award grants to eligible entities to address cybersecurity risks and cybersecurity threats to information systems owned or operated by, or on behalf of, State, local, or Tribal governments.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/b/2">
+									<num>(2)</num>
+									<heading> Application</heading>
+									<content>
+										<p>An eligible entity desiring a grant under the State and Local Cybersecurity Grant Program shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/c">
+								<num>(c)</num>
+								<heading> Administration</heading>
+								<content>
+									<p>The State and Local Cybersecurity Grant Program shall be administered in the same office of the Department that administers grants made under sections 604 and 605 of this title.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/d">
+								<num>(d)</num>
+								<heading> Use of funds</heading>
+								<chapeau>An eligible entity that receives a grant under this section and a local government that receives funds from a grant under this section, as appropriate, shall use the grant to—</chapeau>
+								<paragraph identifier="/us/usc/t6/s665g/d/1">
+									<num>(1)</num>
+									<content> implement the Cybersecurity Plan of the eligible entity;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/d/2">
+									<num>(2)</num>
+									<content> develop or revise the Cybersecurity Plan of the eligible entity;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/d/3">
+									<num>(3)</num>
+									<content> pay expenses directly relating to the administration of the grant, which shall not exceed 5 percent of the amount of the grant;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/d/4">
+									<num>(4)</num>
+									<content> assist with activities that address imminent cybersecurity threats, as confirmed by the Secretary, acting through the Director, to the information systems owned or operated by, or on behalf of, the eligible entity or a local government within the jurisdiction of the eligible entity; or</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/d/5">
+									<num>(5)</num>
+									<content> fund any other appropriate activity determined by the Secretary, acting through the Director.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/e">
+								<num>(e)</num>
+								<heading> Cybersecurity plans</heading>
+								<paragraph identifier="/us/usc/t6/s665g/e/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>An eligible entity applying for a grant under this section shall submit to the Secretary a Cybersecurity Plan for review in accordance with subsection (i).</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/e/2">
+									<num>(2)</num>
+									<heading> Required elements</heading>
+									<chapeau>A Cybersecurity Plan of an eligible entity shall—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/e/2/A">
+										<num>(A)</num>
+										<chapeau> incorporate, to the extent practicable—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/e/2/A/i">
+											<num>(i)</num>
+											<content> any existing plans of the eligible entity to protect against cybersecurity risks and cybersecurity threats to information systems owned or operated by, or on behalf of, State, local, or Tribal governments; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/A/ii">
+											<num>(ii)</num>
+											<content> if the eligible entity is a State, consultation and feedback from local governments and associations of local governments within the jurisdiction of the eligible entity;</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/e/2/B">
+										<num>(B)</num>
+										<chapeau> describe, to the extent practicable, how the eligible entity will—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/i">
+											<num>(i)</num>
+											<content> manage, monitor, and track information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, and the information technology deployed on those information systems, including legacy information systems and information technology that are no longer supported by the manufacturer of the systems or technology;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/ii">
+											<num>(ii)</num>
+											<content> monitor, audit, and, track network traffic and activity transiting or traveling to or from information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/iii">
+											<num>(iii)</num>
+											<content> enhance the preparation, response, and resiliency of information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, against cybersecurity risks and cybersecurity threats;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/iv">
+											<num>(iv)</num>
+											<content> implement a process of continuous cybersecurity vulnerability assessments and threat mitigation practices prioritized by degree of risk to address cybersecurity risks and cybersecurity threats on information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/v">
+											<num>(v)</num>
+											<chapeau> ensure that the eligible entity and, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, adopt and use best practices and methodologies to enhance cybersecurity, such as—</chapeau>
+											<subclause identifier="/us/usc/t6/s665g/e/2/B/v/I">
+												<num>(I)</num>
+												<content> the practices set forth in the cybersecurity framework developed by the National Institute of Standards and Technology;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t6/s665g/e/2/B/v/II">
+												<num>(II)</num>
+												<content> cyber chain supply chain risk management best practices identified by the National Institute of Standards and Technology; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t6/s665g/e/2/B/v/III">
+												<num>(III)</num>
+												<content> knowledge bases of adversary tools and tactics;</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/vi">
+											<num>(vi)</num>
+											<content> promote the delivery of safe, recognizable, and trustworthy online services by the eligible entity and, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, including through the use of the .gov internet domain;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/vii">
+											<num>(vii)</num>
+											<content> ensure continuity of operations of the eligible entity and, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, in the event of a cybersecurity incident, including by conducting exercises to practice responding to a cybersecurity incident;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/viii">
+											<num>(viii)</num>
+											<content> use the National Initiative for Cybersecurity Education Workforce Framework for Cybersecurity developed by the National Institute of Standards and Technology to identify and mitigate any gaps in the cybersecurity workforces of the eligible entity and, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, enhance recruitment and retention efforts for those workforces, and bolster the knowledge, skills, and abilities of personnel of the eligible entity and, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, to address cybersecurity risks and cybersecurity threats, such as through cybersecurity hygiene training;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/ix">
+											<num>(ix)</num>
+											<content> if the eligible entity is a State, ensure continuity of communications and data networks within the jurisdiction of the eligible entity between the eligible entity and local governments within the jurisdiction of the eligible entity in the event of an incident involving those communications or data networks;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/x">
+											<num>(x)</num>
+											<content> assess and mitigate, to the greatest degree possible, cybersecurity risks and cybersecurity threats relating to critical infrastructure and key resources, the degradation of which may impact the performance of information systems within the jurisdiction of the eligible entity;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/xi">
+											<num>(xi)</num>
+											<chapeau> enhance capabilities to share cyber threat indicators and related information between the eligible entity and—</chapeau>
+											<subclause identifier="/us/usc/t6/s665g/e/2/B/xi/I">
+												<num>(I)</num>
+												<content> if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, including by expanding information sharing agreements with the Department; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t6/s665g/e/2/B/xi/II">
+												<num>(II)</num>
+												<content> the Department;</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/xii">
+											<num>(xii)</num>
+											<content> leverage cybersecurity services offered by the Department;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/xiii">
+											<num>(xiii)</num>
+											<content> implement an information technology and operational technology modernization cybersecurity review process that ensures alignment between information technology and operational technology cybersecurity objectives;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/xiv">
+											<num>(xiv)</num>
+											<chapeau> develop and coordinate strategies to address cybersecurity risks and cybersecurity threats in consultation with—</chapeau>
+											<subclause identifier="/us/usc/t6/s665g/e/2/B/xiv/I">
+												<num>(I)</num>
+												<content> if the eligible entity is a State, local governments and associations of local governments within the jurisdiction of the eligible entity; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t6/s665g/e/2/B/xiv/II">
+												<num>(II)</num>
+												<chapeau> as applicable—</chapeau>
+												<item identifier="/us/usc/t6/s665g/e/2/B/xiv/II/aa">
+													<num>(aa)</num>
+													<content> eligible entities that neighbor the jurisdiction of the eligible entity or, as appropriate, members of an information sharing and analysis organization; and</content>
+												</item>
+												<item identifier="/us/usc/t6/s665g/e/2/B/xiv/II/bb">
+													<num>(bb)</num>
+													<content> countries that neighbor the jurisdiction of the eligible entity;</content>
+												</item>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/xv">
+											<num>(xv)</num>
+											<content> ensure adequate access to, and participation in, the services and programs described in this subparagraph by rural areas within the jurisdiction of the eligible entity; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/B/xvi">
+											<num>(xvi)</num>
+											<content> distribute funds, items, services, capabilities, or activities to local governments under subsection (n)(2)(A), including the fraction of that distribution the eligible entity plans to distribute to rural areas under subsection (n)(2)(B);</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/e/2/C">
+										<num>(C)</num>
+										<content> assess the capabilities of the eligible entity relating to the actions described in subparagraph (B);</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/e/2/D">
+										<num>(D)</num>
+										<content> describe, as appropriate and to the extent practicable, the individual responsibilities of the eligible entity and local governments within the jurisdiction of the eligible entity in implementing the plan;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/e/2/E">
+										<num>(E)</num>
+										<content> outline, to the extent practicable, the necessary resources and a timeline for implementing the plan; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/e/2/F">
+										<num>(F)</num>
+										<chapeau> describe the metrics the eligible entity will use to measure progress towards—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/e/2/F/i">
+											<num>(i)</num>
+											<content> implementing the plan; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/e/2/F/ii">
+											<num>(ii)</num>
+											<content> reducing cybersecurity risks to, and identifying, responding to, and recovering from cybersecurity threats to, information systems owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/e/3">
+									<num>(3)</num>
+									<heading> Discretionary elements</heading>
+									<chapeau>In drafting a Cybersecurity Plan, an eligible entity may—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/e/3/A">
+										<num>(A)</num>
+										<content> consult with the Multi-State Information Sharing and Analysis Center;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/e/3/B">
+										<num>(B)</num>
+										<content> include a description of cooperative programs developed by groups of local governments within the jurisdiction of the eligible entity to address cybersecurity risks and cybersecurity threats; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/e/3/C">
+										<num>(C)</num>
+										<content> include a description of programs provided by the eligible entity to support local governments and owners and operators of critical infrastructure to address cybersecurity risks and cybersecurity threats.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/f">
+								<num>(f)</num>
+								<heading> Multi-entity grants</heading>
+								<paragraph identifier="/us/usc/t6/s665g/f/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>The Secretary may award grants under this section to a multi-entity group to support multi-entity efforts to address cybersecurity risks and cybersecurity threats to information systems within the jurisdictions of the eligible entities that comprise the multi-entity group.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/f/2">
+									<num>(2)</num>
+									<heading> Satisfaction of other requirements</heading>
+									<chapeau>In order to be eligible for a multi-entity grant under this subsection, each eligible entity that comprises a multi-entity group shall have—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/f/2/A">
+										<num>(A)</num>
+										<content> a Cybersecurity Plan that has been reviewed by the Secretary in accordance with subsection (i); and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/f/2/B">
+										<num>(B)</num>
+										<content> a cybersecurity planning committee established in accordance with subsection (g).</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/f/3">
+									<num>(3)</num>
+									<heading> Application</heading>
+									<subparagraph identifier="/us/usc/t6/s665g/f/3/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>A multi-entity group applying for a multi-entity grant under paragraph (1) shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/f/3/B">
+										<num>(B)</num>
+										<heading> Multi-entity project plan</heading>
+										<chapeau>An application for a grant under this section of a multi-entity group under subparagraph (A) shall include a plan describing—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/f/3/B/i">
+											<num>(i)</num>
+											<content> the division of responsibilities among the eligible entities that comprise the multi-entity group;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/f/3/B/ii">
+											<num>(ii)</num>
+											<content> the distribution of funding from the grant among the eligible entities that comprise the multi-entity group; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/f/3/B/iii">
+											<num>(iii)</num>
+											<content> how the eligible entities that comprise the multi-entity group will work together to implement the Cybersecurity Plan of each of those eligible entities.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/g">
+								<num>(g)</num>
+								<heading> Planning committees</heading>
+								<paragraph identifier="/us/usc/t6/s665g/g/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<chapeau>An eligible entity that receives a grant under this section shall establish a cybersecurity planning committee to—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/g/1/A">
+										<num>(A)</num>
+										<content> assist with the development, implementation, and revision of the Cybersecurity Plan of the eligible entity;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/g/1/B">
+										<num>(B)</num>
+										<content> approve the Cybersecurity Plan of the eligible entity; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/g/1/C">
+										<num>(C)</num>
+										<content> assist with the determination of effective funding priorities for a grant under this section in accordance with subsections (d) and (j).</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/g/2">
+									<num>(2)</num>
+									<heading> Composition</heading>
+									<chapeau>A committee of an eligible entity established under paragraph (1) shall—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/g/2/A">
+										<num>(A)</num>
+										<chapeau> be comprised of representatives from—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/g/2/A/i">
+											<num>(i)</num>
+											<content> the eligible entity;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/g/2/A/ii">
+											<num>(ii)</num>
+											<content> if the eligible entity is a State, counties, cities, and towns within the jurisdiction of the eligible entity; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/g/2/A/iii">
+											<num>(iii)</num>
+											<content> institutions of public education and health within the jurisdiction of the eligible entity; and</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/g/2/B">
+										<num>(B)</num>
+										<content> include, as appropriate, representatives of rural, suburban, and high-population jurisdictions.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/g/3">
+									<num>(3)</num>
+									<heading> Cybersecurity expertise</heading>
+									<content>
+										<p>Not less than one-half of the representatives of a committee established under paragraph (1) shall have professional experience relating to cybersecurity or information technology.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/g/4">
+									<num>(4)</num>
+									<heading> Rule of construction regarding existing planning committees</heading>
+									<chapeau>Nothing in this subsection shall be construed to require an eligible entity to establish a cybersecurity planning committee if the eligible entity has established and uses a multijurisdictional planning committee or commission that—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/g/4/A">
+										<num>(A)</num>
+										<content> meets the requirements of this subsection; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/g/4/B">
+										<num>(B)</num>
+										<content> may be expanded or leveraged to meet the requirements of this subsection, including through the formation of a cybersecurity planning subcommittee.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/g/5">
+									<num>(5)</num>
+									<heading> Rule of construction regarding control of information systems of eligible entities</heading>
+									<content>
+										<p>Nothing in this subsection shall be construed to permit a cybersecurity planning committee of an eligible entity that meets the requirements of this subsection to make decisions relating to information systems owned or operated by, or on behalf of, the eligible entity.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/h">
+								<num>(h)</num>
+								<heading> Special rule for Tribal governments</heading>
+								<content>
+									<p>With respect to any requirement under subsection (e) or (g), the Secretary, in consultation with the Secretary of the Interior and Tribal governments, may prescribe an alternative substantively similar requirement for Tribal governments if the Secretary finds that the alternative requirement is necessary for the effective delivery and administration of grants to Tribal governments under this section.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/i">
+								<num>(i)</num>
+								<heading> Review of plans</heading>
+								<paragraph identifier="/us/usc/t6/s665g/i/1">
+									<num>(1)</num>
+									<heading> Review as condition of grant</heading>
+									<subparagraph identifier="/us/usc/t6/s665g/i/1/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<chapeau>Subject to paragraph (3), before an eligible entity may receive a grant under this section, the Secretary, acting through the Director, shall—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/i/1/A/i">
+											<num>(i)</num>
+											<content> review the Cybersecurity Plan of the eligible entity, including any revised Cybersecurity Plans of the eligible entity; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/i/1/A/ii">
+											<num>(ii)</num>
+											<content> determine that the Cybersecurity Plan reviewed under clause (i) satisfies the requirements under paragraph (2).</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/i/1/B">
+										<num>(B)</num>
+										<heading> Duration of determination</heading>
+										<content>
+											<p>In the case of a determination under subparagraph (A)(ii) that a Cybersecurity Plan satisfies the requirements under paragraph (2), the determination shall be effective for the 2-year period beginning on the date of the determination.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/i/1/C">
+										<num>(C)</num>
+										<heading> Annual renewal</heading>
+										<chapeau>Not later than 2 years after the date on which the Secretary determines under subparagraph (A)(ii) that a Cybersecurity Plan satisfies the requirements under paragraph (2), and annually thereafter, the Secretary, acting through the Director, shall—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/i/1/C/i">
+											<num>(i)</num>
+											<content> determine whether the Cybersecurity Plan and any revisions continue to meet the criteria described in paragraph (2); and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/i/1/C/ii">
+											<num>(ii)</num>
+											<content> renew the determination if the Secretary, acting through the Director, makes a positive determination under clause (i).</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/i/2">
+									<num>(2)</num>
+									<heading> Plan requirements</heading>
+									<chapeau>In reviewing a Cybersecurity Plan of an eligible entity under this subsection, the Secretary, acting through the Director, shall ensure that the Cybersecurity Plan—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/i/2/A">
+										<num>(A)</num>
+										<content> satisfies the requirements of subsection (e)(2); and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/i/2/B">
+										<num>(B)</num>
+										<chapeau> has been approved by—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/i/2/B/i">
+											<num>(i)</num>
+											<content> the cybersecurity planning committee of the eligible entity established under subsection (g); and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/i/2/B/ii">
+											<num>(ii)</num>
+											<content> the Chief Information Officer, the Chief Information Security Officer, or an equivalent official of the eligible entity.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/i/3">
+									<num>(3)</num>
+									<heading> Exception</heading>
+									<chapeau>
+										Notwithstanding subsection (e) and paragraph (1) of this subsection, the Secretary may award a grant under this section to an eligible entity that does not submit a Cybersecurity Plan to the Secretary for review before 
+										<date date="2023-09-30">September 30, 2023</date>
+										, if the eligible entity certifies to the Secretary that—
+									</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/i/3/A">
+										<num>(A)</num>
+										<chapeau> the activities that will be supported by the grant are—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/i/3/A/i">
+											<num>(i)</num>
+											<content> integral to the development of the Cybersecurity Plan of the eligible entity; or</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/i/3/A/ii">
+											<num>(ii)</num>
+											<content> necessary to assist with activities described in subsection (d)(4), as confirmed by the Director; and</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/i/3/B">
+										<num>(B)</num>
+										<content>
+											 the eligible entity will submit to the Secretary a Cybersecurity Plan for review under this subsection by 
+											<date date="2023-09-30">September 30, 2023</date>
+											.
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/i/4">
+									<num>(4)</num>
+									<heading> Rule of construction</heading>
+									<chapeau>Nothing in this subsection shall be construed to provide authority to the Secretary to—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/i/4/A">
+										<num>(A)</num>
+										<content> regulate the manner by which an eligible entity or local government improves the cybersecurity of the information systems owned or operated by, or on behalf of, the eligible entity or local government; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/i/4/B">
+										<num>(B)</num>
+										<chapeau> condition the receipt of grants under this section on—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/i/4/B/i">
+											<num>(i)</num>
+											<content> participation in a particular Federal program; or</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/i/4/B/ii">
+											<num>(ii)</num>
+											<content> the use of a specific product or technology.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/j">
+								<num>(j)</num>
+								<heading> Limitations on uses of funds</heading>
+								<paragraph identifier="/us/usc/t6/s665g/j/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<chapeau>Any entity that receives funds from a grant under this section may not use the grant—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/j/1/A">
+										<num>(A)</num>
+										<content> to supplant State or local funds;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/j/1/B">
+										<num>(B)</num>
+										<content> for any recipient cost-sharing contribution;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/j/1/C">
+										<num>(C)</num>
+										<content> to pay a ransom;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/j/1/D">
+										<num>(D)</num>
+										<content> for recreational or social purposes; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/j/1/E">
+										<num>(E)</num>
+										<content> for any purpose that does not address cybersecurity risks or cybersecurity threats on information systems owned or operated by, or on behalf of, the eligible entity that receives the grant or a local government within the jurisdiction of the eligible entity.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/j/2">
+									<num>(2)</num>
+									<heading> Compliance oversight</heading>
+									<content>
+										<p>In addition to any other remedy available, the Secretary may take such actions as are necessary to ensure that a recipient of a grant under this section uses the grant for the purposes for which the grant is awarded.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/j/3">
+									<num>(3)</num>
+									<heading> Rule of construction</heading>
+									<content>
+										<p>Nothing in paragraph (1)(A) shall be construed to prohibit the use of funds from a grant under this section awarded to a State, local, or Tribal government for otherwise permissible uses under this section on the basis that the State, local, or Tribal government has previously used State, local, or Tribal funds to support the same or similar uses.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/k">
+								<num>(k)</num>
+								<heading> Opportunity to amend applications</heading>
+								<content>
+									<p>In considering applications for grants under this section, the Secretary shall provide applicants with a reasonable opportunity to correct any defects in those applications before making final awards, including by allowing applicants to revise a submitted Cybersecurity Plan.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/l">
+								<num>(l)</num>
+								<heading> Apportionment</heading>
+								<chapeau>For fiscal year 2022 and each fiscal year thereafter, the Secretary shall apportion amounts appropriated to carry out this section among eligible entities as follows:</chapeau>
+								<paragraph identifier="/us/usc/t6/s665g/l/1">
+									<num>(1)</num>
+									<heading> Baseline amount</heading>
+									<chapeau>The Secretary shall first apportion—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/l/1/A">
+										<num>(A)</num>
+										<content> 0.25 percent of such amounts to each of American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/l/1/B">
+										<num>(B)</num>
+										<content> 1 percent of such amounts to each of the remaining States; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/l/1/C">
+										<num>(C)</num>
+										<content> 3 percent of such amounts to Tribal governments.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/l/2">
+									<num>(2)</num>
+									<heading> Remainder</heading>
+									<chapeau>The Secretary shall apportion the remainder of such amounts to States as follows:</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/l/2/A">
+										<num>(A)</num>
+										<content> 50 percent of such remainder in the ratio that the population of each State, bears to the population of all States; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/l/2/B">
+										<num>(B)</num>
+										<content> 50 percent of such remainder in the ratio that the population of each State that resides in rural areas, bears to the population of all States that resides in rural areas.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/l/3">
+									<num>(3)</num>
+									<heading> Apportionment among Tribal governments</heading>
+									<content>
+										<p>In determining how to apportion amounts to Tribal governments under paragraph (1)(C), the Secretary shall consult with the Secretary of the Interior and Tribal governments.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/l/4">
+									<num>(4)</num>
+									<heading> Multi-entity grants</heading>
+									<content>
+										<p>An amount received from a multi-entity grant awarded under subsection (f)(1) by a State or Tribal government that is a member of the multi-entity group shall qualify as an apportionment for the purpose of this subsection.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/m">
+								<num>(m)</num>
+								<heading> Federal share</heading>
+								<paragraph identifier="/us/usc/t6/s665g/m/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<chapeau>The Federal share of the cost of an activity carried out using funds made available with a grant under this section may not exceed—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/m/1/A">
+										<num>(A)</num>
+										<chapeau> in the case of a grant to an eligible entity—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/m/1/A/i">
+											<num>(i)</num>
+											<content> for fiscal year 2022, 90 percent;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/m/1/A/ii">
+											<num>(ii)</num>
+											<content> for fiscal year 2023, 80 percent;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/m/1/A/iii">
+											<num>(iii)</num>
+											<content> for fiscal year 2024, 70 percent; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/m/1/A/iv">
+											<num>(iv)</num>
+											<content> for fiscal year 2025, 60 percent; and</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/m/1/B">
+										<num>(B)</num>
+										<chapeau> in the case of a grant to a multi-entity group—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/m/1/B/i">
+											<num>(i)</num>
+											<content> for fiscal year 2022, 100 percent;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/m/1/B/ii">
+											<num>(ii)</num>
+											<content> for fiscal year 2023, 90 percent;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/m/1/B/iii">
+											<num>(iii)</num>
+											<content> for fiscal year 2024, 80 percent; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/m/1/B/iv">
+											<num>(iv)</num>
+											<content> for fiscal year 2025, 70 percent.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/m/2">
+									<num>(2)</num>
+									<heading> Waiver</heading>
+									<subparagraph identifier="/us/usc/t6/s665g/m/2/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>The Secretary may waive or modify the requirements of paragraph (1) if an eligible entity or multi-entity group demonstrates economic hardship.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/m/2/B">
+										<num>(B)</num>
+										<heading> Guidelines</heading>
+										<content>
+											<p>The Secretary shall establish and publish guidelines for determining what constitutes economic hardship for the purposes of this subsection.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/m/2/C">
+										<num>(C)</num>
+										<heading> Considerations</heading>
+										<chapeau>In developing guidelines under subparagraph (B), the Secretary shall consider, with respect to the jurisdiction of an eligible entity—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/m/2/C/i">
+											<num>(i)</num>
+											<content> changes in rates of unemployment in the jurisdiction from previous years;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/m/2/C/ii">
+											<num>(ii)</num>
+											<content>
+												 changes in the percentage of individuals who are eligible to receive benefits under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (
+												<ref href="/us/usc/t7/s2011">7 U.S.C. 2011</ref>
+												 et seq.) from previous years; and
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/m/2/C/iii">
+											<num>(iii)</num>
+											<content> any other factors the Secretary considers appropriate.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/m/3">
+									<num>(3)</num>
+									<heading> Waiver for Tribal governments</heading>
+									<content>
+										<p>Notwithstanding paragraph (2), the Secretary, in consultation with the Secretary of the Interior and Tribal governments, may waive or modify the requirements of paragraph (1) for 1 or more Tribal governments if the Secretary determines that the waiver is in the public interest.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/n">
+								<num>(n)</num>
+								<heading> Responsibilities of grantees</heading>
+								<paragraph identifier="/us/usc/t6/s665g/n/1">
+									<num>(1)</num>
+									<heading> Certification</heading>
+									<chapeau>Each eligible entity or multi-entity group that receives a grant under this section shall certify to the Secretary that the grant will be used—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/n/1/A">
+										<num>(A)</num>
+										<content> for the purpose for which the grant is awarded; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/n/1/B">
+										<num>(B)</num>
+										<content> in compliance with subsections (d) and (j).</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/n/2">
+									<num>(2)</num>
+									<heading> Availability of funds to local governments and rural areas</heading>
+									<subparagraph identifier="/us/usc/t6/s665g/n/2/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<chapeau>Subject to subparagraph (C), not later than 45 days after the date on which an eligible entity or multi-entity group receives a grant under this section, the eligible entity or multi-entity group shall, without imposing unreasonable or unduly burdensome requirements as a condition of receipt, obligate or otherwise make available to local governments within the jurisdiction of the eligible entity or the eligible entities that comprise the multi-entity group, consistent with the Cybersecurity Plan of the eligible entity or the Cybersecurity Plans of the eligible entities that comprise the multi-entity group—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/n/2/A/i">
+											<num>(i)</num>
+											<content> not less than 80 percent of funds available under the grant;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/n/2/A/ii">
+											<num>(ii)</num>
+											<content> with the consent of the local governments, items, services, capabilities, or activities having a value of not less than 80 percent of the amount of the grant; or</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/n/2/A/iii">
+											<num>(iii)</num>
+											<content> with the consent of the local governments, grant funds combined with other items, services, capabilities, or activities having the total value of not less than 80 percent of the amount of the grant.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/n/2/B">
+										<num>(B)</num>
+										<heading> Availability to rural areas</heading>
+										<chapeau>In obligating funds, items, services, capabilities, or activities to local governments under subparagraph (A), the eligible entity or eligible entities that comprise the multi-entity group shall ensure that rural areas within the jurisdiction of the eligible entity or the eligible entities that comprise the multi-entity group receive not less than—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/n/2/B/i">
+											<num>(i)</num>
+											<content> 25 percent of the amount of the grant awarded to the eligible entity;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/n/2/B/ii">
+											<num>(ii)</num>
+											<content> items, services, capabilities, or activities having a value of not less than 25 percent of the amount of the grant awarded to the eligible entity; or</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/n/2/B/iii">
+											<num>(iii)</num>
+											<content> grant funds combined with other items, services, capabilities, or activities having the total value of not less than 25 percent of the grant awarded to the eligible entity.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/n/2/C">
+										<num>(C)</num>
+										<heading> Exceptions</heading>
+										<chapeau>This paragraph shall not apply to—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/n/2/C/i">
+											<num>(i)</num>
+											<content> any grant awarded under this section that solely supports activities that are integral to the development or revision of the Cybersecurity Plan of the eligible entity; or</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/n/2/C/ii">
+											<num>(ii)</num>
+											<content> the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, the United States Virgin Islands, or a Tribal government.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/n/3">
+									<num>(3)</num>
+									<heading> Certifications regarding distribution of grant funds to local governments</heading>
+									<content>
+										<p>An eligible entity or multi-entity group shall certify to the Secretary that the eligible entity or multi-entity group has made the distribution to local governments required under paragraph (2).</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/n/4">
+									<num>(4)</num>
+									<heading> Extension of period</heading>
+									<subparagraph identifier="/us/usc/t6/s665g/n/4/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>An eligible entity or multi-entity group may request in writing that the Secretary extend the period of time specified in paragraph (2) for an additional period of time.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/n/4/B">
+										<num>(B)</num>
+										<heading> Approval</heading>
+										<content>
+											<p>The Secretary may approve a request for an extension under subparagraph (A) if the Secretary determines the extension is necessary to ensure that the obligation and expenditure of grant funds align with the purpose of the State and Local Cybersecurity Grant Program.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/n/5">
+									<num>(5)</num>
+									<heading> Direct funding</heading>
+									<content>
+										<p>If an eligible entity does not make a distribution to a local government required under paragraph (2) in a timely fashion, the local government may petition the Secretary to request the Secretary to provide funds directly to the local government.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/n/6">
+									<num>(6)</num>
+									<heading> Limitation on construction</heading>
+									<content>
+										<p>A grant awarded under this section may not be used to acquire land or to construct, remodel, or perform alterations of buildings or other physical facilities.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/n/7">
+									<num>(7)</num>
+									<heading> Consultation in allocating funds</heading>
+									<content>
+										<p>An eligible entity applying for a grant under this section shall agree to consult the Chief Information Officer, the Chief Information Security Officer, or an equivalent official of the eligible entity in allocating funds from a grant awarded under this section.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/n/8">
+									<num>(8)</num>
+									<heading> Penalties</heading>
+									<chapeau>In addition to other remedies available to the Secretary, if an eligible entity violates a requirement of this subsection, the Secretary may—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/n/8/A">
+										<num>(A)</num>
+										<content> terminate or reduce the amount of a grant awarded under this section to the eligible entity; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/n/8/B">
+										<num>(B)</num>
+										<chapeau> distribute grant funds previously awarded to the eligible entity—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/n/8/B/i">
+											<num>(i)</num>
+											<content> in the case of an eligible entity that is a State, directly to the appropriate local government as a replacement grant in an amount determined by the Secretary; or</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/n/8/B/ii">
+											<num>(ii)</num>
+											<content> in the case of an eligible entity that is a Tribal government, to another Tribal government or Tribal governments as a replacement grant in an amount determined by the Secretary.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/o">
+								<num>(o)</num>
+								<heading> Consultation with State, local, and Tribal representatives</heading>
+								<chapeau>In carrying out this section, the Secretary shall consult with State, local, and Tribal representatives with professional experience relating to cybersecurity, including representatives of associations representing State, local, and Tribal governments, to inform—</chapeau>
+								<paragraph identifier="/us/usc/t6/s665g/o/1">
+									<num>(1)</num>
+									<content> guidance for applicants for grants under this section, including guidance for Cybersecurity Plans;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/o/2">
+									<num>(2)</num>
+									<content> the study of risk-based formulas required under subsection (q)(4);</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/o/3">
+									<num>(3)</num>
+									<content> the development of guidelines required under subsection (m)(2)(B); and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/o/4">
+									<num>(4)</num>
+									<content> any modifications described in subsection (q)(2)(D).</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/p">
+								<num>(p)</num>
+								<heading> Notification to Congress</heading>
+								<content>
+									<p>Not later than 3 business days before the date on which the Department announces the award of a grant to an eligible entity under this section, including an announcement to the eligible entity, the Secretary shall provide to the appropriate committees of Congress notice of the announcement.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/q">
+								<num>(q)</num>
+								<heading> Reports, study, and review</heading>
+								<paragraph identifier="/us/usc/t6/s665g/q/1">
+									<num>(1)</num>
+									<heading> Annual reports by grant recipients</heading>
+									<subparagraph identifier="/us/usc/t6/s665g/q/1/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<chapeau>Not later than 1 year after the date on which an eligible entity receives a grant under this section for the purpose of implementing the Cybersecurity Plan of the eligible entity, including an eligible entity that comprises a multi-entity group that receives a grant for that purpose, and annually thereafter until 1 year after the date on which funds from the grant are expended or returned, the eligible entity shall submit to the Secretary a report that, using the metrics described in the Cybersecurity Plan of the eligible entity, describes the progress of the eligible entity in—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/q/1/A/i">
+											<num>(i)</num>
+											<content> implementing the Cybersecurity Plan of the eligible entity; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/q/1/A/ii">
+											<num>(ii)</num>
+											<content> reducing cybersecurity risks to, and identifying, responding to, and recovering from cybersecurity threats to, information systems owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/q/1/B">
+										<num>(B)</num>
+										<heading> Absence of plan</heading>
+										<chapeau>Not later than 1 year after the date on which an eligible entity that does not have a Cybersecurity Plan receives funds under this section, and annually thereafter until 1 year after the date on which funds from the grant are expended or returned, the eligible entity shall submit to the Secretary a report describing how the eligible entity obligated and expended grant funds to—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/q/1/B/i">
+											<num>(i)</num>
+											<content> develop or revise a Cybersecurity Plan; or</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/q/1/B/ii">
+											<num>(ii)</num>
+											<content> assist with the activities described in subsection (d)(4).</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/q/2">
+									<num>(2)</num>
+									<heading> Annual reports to Congress</heading>
+									<chapeau>Not less frequently than annually, the Secretary, acting through the Director, shall submit to Congress a report on—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/q/2/A">
+										<num>(A)</num>
+										<content> the use of grants awarded under this section;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/q/2/B">
+										<num>(B)</num>
+										<content> the proportion of grants used to support cybersecurity in rural areas;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/q/2/C">
+										<num>(C)</num>
+										<content> the effectiveness of the State and Local Cybersecurity Grant Program;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/q/2/D">
+										<num>(D)</num>
+										<content> any necessary modifications to the State and Local Cybersecurity Grant Program; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/q/2/E">
+										<num>(E)</num>
+										<chapeau> any progress made toward—</chapeau>
+										<clause identifier="/us/usc/t6/s665g/q/2/E/i">
+											<num>(i)</num>
+											<content> developing, implementing, or revising Cybersecurity Plans; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/q/2/E/ii">
+											<num>(ii)</num>
+											<content> reducing cybersecurity risks to, and identifying, responding to, and recovering from cybersecurity threats to, information systems owned or operated by, or on behalf of, State, local, or Tribal governments as a result of the award of grants under this section.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/q/3">
+									<num>(3)</num>
+									<heading> Public availability</heading>
+									<subparagraph identifier="/us/usc/t6/s665g/q/3/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>The Secretary, acting through the Director, shall make each report submitted under paragraph (2) publicly available, including by making each report available on the website of the Agency.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/q/3/B">
+										<num>(B)</num>
+										<heading> Redactions</heading>
+										<content>
+											<p>
+												In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under 
+												<ref href="/us/usc/t5/s552">section 552 of title 5</ref>
+												, United States Code (commonly referred to as the ‘Freedom of Information Act’).
+											</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/q/4">
+									<num>(4)</num>
+									<heading> Study of risk-based formulas</heading>
+									<subparagraph identifier="/us/usc/t6/s665g/q/4/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<chapeau>
+											Not later than 
+											<date date="2024-09-30">September 30, 2024</date>
+											, the Secretary, acting through the Director, shall submit to the appropriate committees of Congress a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
+										</chapeau>
+										<clause identifier="/us/usc/t6/s665g/q/4/A/i">
+											<num>(i)</num>
+											<content> potential components that could be included in a risk-based formula, including the potential impact of those components on support for rural areas under this section;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/q/4/A/ii">
+											<num>(ii)</num>
+											<content> potential sources of data and information necessary for the implementation of a risk-based formula;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/q/4/A/iii">
+											<num>(iii)</num>
+											<content> any obstacles to implementing a risk-based formula, including obstacles that require a legislative solution;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/q/4/A/iv">
+											<num>(iv)</num>
+											<content> if a risk-based formula were to be implemented for fiscal year 2026, a recommended risk-based formula for the State and Local Cybersecurity Grant Program; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665g/q/4/A/v">
+											<num>(v)</num>
+											<content> any other information that the Secretary, acting through the Director, determines necessary to help Congress understand the progress towards, and obstacles to, implementing a risk-based formula.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/q/4/B">
+										<num>(B)</num>
+										<heading> Inapplicability of Paperwork Reduction Act</heading>
+										<content>
+											<p>The requirements of chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act”), shall not apply to any action taken to carry out this paragraph.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/q/5">
+									<num>(5)</num>
+									<heading> Tribal cybersecurity needs report</heading>
+									<chapeau>
+										Not later than 2 years after 
+										<date date="2021-11-15">November 15, 2021</date>
+										, the Secretary, acting through the Director, shall submit to Congress a report that—
+									</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/q/5/A">
+										<num>(A)</num>
+										<content> describes the cybersecurity needs of Tribal governments, which shall be determined in consultation with the Secretary of the Interior and Tribal governments; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/q/5/B">
+										<num>(B)</num>
+										<content> includes any recommendations for addressing the cybersecurity needs of Tribal governments, including any necessary modifications to the State and Local Cybersecurity Grant Program to better serve Tribal governments.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/q/6">
+									<num>(6)</num>
+									<heading> GAO review</heading>
+									<chapeau>
+										Not later than 3 years after 
+										<date date="2021-11-15">November 15, 2021</date>
+										, the Comptroller General of the United States shall conduct a review of the State and Local Cybersecurity Grant Program, including—
+									</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/q/6/A">
+										<num>(A)</num>
+										<content> the grant selection process of the Secretary; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/q/6/B">
+										<num>(B)</num>
+										<content> a sample of grants awarded under this section.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/r">
+								<num>(r)</num>
+								<heading> Authorization of appropriations</heading>
+								<paragraph identifier="/us/usc/t6/s665g/r/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<chapeau>There are authorized to be appropriated for activities under this section—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665g/r/1/A">
+										<num>(A)</num>
+										<content> for fiscal year 2022, $200,000,000;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/r/1/B">
+										<num>(B)</num>
+										<content> for fiscal year 2023, $400,000,000;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/r/1/C">
+										<num>(C)</num>
+										<content> for fiscal year 2024, $300,000,000; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/r/1/D">
+										<num>(D)</num>
+										<content> for fiscal year 2025, $100,000,000.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/r/2">
+									<num>(2)</num>
+									<heading> Transfers authorized</heading>
+									<subparagraph identifier="/us/usc/t6/s665g/r/2/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>During a fiscal year, the Secretary or the head of any component of the Department that administers the State and Local Cybersecurity Grant Program may transfer not more than 5 percent of the amounts appropriated pursuant to paragraph (1) or other amounts appropriated to carry out the State and Local Cybersecurity Grant Program for that fiscal year to an account of the Department for salaries, expenses, and other administrative costs incurred for the management, administration, or evaluation of this section.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665g/r/2/B">
+										<num>(B)</num>
+										<heading> Additional appropriations</heading>
+										<content>
+											<p>Any funds transferred under subparagraph (A) shall be in addition to any funds appropriated to the Department or the components described in subparagraph (A) for salaries, expenses, and other administrative costs.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665g/s">
+								<num>(s)</num>
+								<heading> Termination</heading>
+								<paragraph identifier="/us/usc/t6/s665g/s/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>
+											Subject to paragraph (2), the requirements of this section shall terminate on 
+											<date date="2025-09-30">September 30, 2025</date>
+											.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665g/s/2">
+									<num>(2)</num>
+									<heading> Exception</heading>
+									<content>
+										<p>The reporting requirements under subsection (q) shall terminate on the date that is 1 year after the date on which the final funds from a grant under this section are expended or returned.</p>
+									</content>
+								</paragraph>
+							</subsection>
+						</section>
 					</part>
 					<part identifier="/us/usc/t6/ch1/schXVIII/ptB">
 						<num>Part B—</num>
@@ -38725,6 +40045,522 @@ Part B—Critical Infrastructure Information</column>
 							<heading> No private right of action</heading>
 							<content>
 								<p>Nothing in this part may be construed to create a private right of action for enforcement of any provision of this chapter.</p>
+							</content>
+						</section>
+					</part>
+					<part identifier="/us/usc/t6/ch1/schXVIII/ptC">
+						<num>Part C—</num>
+						<heading>Declaration of a Significant Incident</heading>
+						<section identifier="/us/usc/t6/s677">
+							<num>§ 677.</num>
+							<heading> Sense of Congress</heading>
+							<chapeau>It is the sense of Congress that—</chapeau>
+							<paragraph identifier="/us/usc/t6/s677/1">
+								<num>(1)</num>
+								<content> the purpose of this part is to authorize the Secretary to declare that a significant incident has occurred and to establish the authorities that are provided under the declaration to respond to and recover from the significant incident; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s677/2">
+								<num>(2)</num>
+								<content> the authorities established under this part are intended to enable the Secretary to provide voluntary assistance to non-Federal entities impacted by a significant incident.</content>
+							</paragraph>
+						</section>
+						<section identifier="/us/usc/t6/s677a">
+							<num>§ 677a.</num>
+							<heading> Definitions</heading>
+							<chapeau>For the purposes of this part:</chapeau>
+							<paragraph identifier="/us/usc/t6/s677a/1">
+								<num>(1)</num>
+								<heading> Asset response activity</heading>
+								<chapeau>The term “asset response activity” means an activity to support an entity impacted by an incident with the response to, remediation of, or recovery from, the incident, including—</chapeau>
+								<subparagraph identifier="/us/usc/t6/s677a/1/A">
+									<num>(A)</num>
+									<content> furnishing technical and advisory assistance to the entity to protect the assets of the entity, mitigate vulnerabilities, and reduce the related impacts;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s677a/1/B">
+									<num>(B)</num>
+									<content> assessing potential risks to the critical infrastructure sector or geographic region impacted by the incident, including potential cascading effects of the incident on other critical infrastructure sectors or geographic regions;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s677a/1/C">
+									<num>(C)</num>
+									<content> developing courses of action to mitigate the risks assessed under subparagraph (B);</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s677a/1/D">
+									<num>(D)</num>
+									<content> facilitating information sharing and operational coordination with entities performing threat response activities; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s677a/1/E">
+									<num>(E)</num>
+									<content> providing guidance on how best to use Federal resources and capabilities in a timely, effective manner to speed recovery from the incident.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s677a/2">
+								<num>(2)</num>
+								<heading> Declaration</heading>
+								<content>
+									<p>
+										The term “declaration” means a declaration of the Secretary under 
+										<ref href="/us/usc/t6/s677b/a/1">section 677b(a)(1) of this title</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s677a/3">
+								<num>(3)</num>
+								<heading> Director</heading>
+								<content>
+									<p>The term “Director” means the Director of the Cybersecurity and Infrastructure Security Agency.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s677a/4">
+								<num>(4)</num>
+								<heading> Federal agency</heading>
+								<content>
+									<p>
+										The term “Federal agency” has the meaning given the term “agency” in 
+										<ref href="/us/usc/t44/s3502">section 3502 of title 44</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s677a/5">
+								<num>(5)</num>
+								<heading> Fund</heading>
+								<content>
+									<p>
+										The term “Fund” means the Cyber Response and Recovery Fund established under 
+										<ref href="/us/usc/t6/s677c/a">section 677c(a) of this title</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s677a/6">
+								<num>(6)</num>
+								<heading> Incident</heading>
+								<content>
+									<p>
+										The term “incident” has the meaning given the term in 
+										<ref href="/us/usc/t44/s3552">section 3552 of title 44</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s677a/7">
+								<num>(7)</num>
+								<heading> Renewal</heading>
+								<content>
+									<p>
+										The term “renewal” means a renewal of a declaration under 
+										<ref href="/us/usc/t6/s677b/d">section 677b(d) of this title</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s677a/8">
+								<num>(8)</num>
+								<heading> Significant incident</heading>
+								<chapeau>The term “significant incident”—</chapeau>
+								<subparagraph identifier="/us/usc/t6/s677a/8/A">
+									<num>(A)</num>
+									<chapeau> means an incident or a group of related incidents that results, or is likely to result, in demonstrable harm to—</chapeau>
+									<clause identifier="/us/usc/t6/s677a/8/A/i">
+										<num>(i)</num>
+										<content> the national security interests, foreign relations, or economy of the United States; or</content>
+									</clause>
+									<clause identifier="/us/usc/t6/s677a/8/A/ii">
+										<num>(ii)</num>
+										<content> the public confidence, civil liberties, or public health and safety of the people of the United States; and</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s677a/8/B">
+									<num>(B)</num>
+									<chapeau> does not include an incident or a portion of a group of related incidents that occurs on—</chapeau>
+									<clause identifier="/us/usc/t6/s677a/8/B/i">
+										<num>(i)</num>
+										<content>
+											 a national security system (as defined in 
+											<ref href="/us/usc/t44/s3552">section 3552 of title 44</ref>
+											); or
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t6/s677a/8/B/ii">
+										<num>(ii)</num>
+										<content>
+											 an information system described in paragraph (2) or (3) of 
+											<ref href="/us/usc/t44/s3553/e">section 3553(e) of title 44</ref>
+											.
+										</content>
+									</clause>
+								</subparagraph>
+							</paragraph>
+						</section>
+						<section identifier="/us/usc/t6/s677b">
+							<num>§ 677b.</num>
+							<heading> Declaration</heading>
+							<subsection identifier="/us/usc/t6/s677b/a">
+								<num>(a)</num>
+								<heading> In general</heading>
+								<paragraph identifier="/us/usc/t6/s677b/a/1">
+									<num>(1)</num>
+									<heading> Declaration</heading>
+									<chapeau>The Secretary, in consultation with the National Cyber Director, may make a declaration of a significant incident in accordance with this section for the purpose of enabling the activities described in this part if the Secretary determines that—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s677b/a/1/A">
+										<num>(A)</num>
+										<chapeau> a specific significant incident—</chapeau>
+										<clause identifier="/us/usc/t6/s677b/a/1/A/i">
+											<num>(i)</num>
+											<content> has occurred; or</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s677b/a/1/A/ii">
+											<num>(ii)</num>
+											<content> is likely to occur imminently; and</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677b/a/1/B">
+										<num>(B)</num>
+										<content> otherwise available resources, other than the Fund, are likely insufficient to respond effectively to, or to mitigate effectively, the specific significant incident described in subparagraph (A).</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677b/a/2">
+									<num>(2)</num>
+									<heading> Prohibition on delegation</heading>
+									<content>
+										<p>The Secretary may not delegate the authority provided to the Secretary under paragraph (1).</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s677b/b">
+								<num>(b)</num>
+								<heading> Asset response activities</heading>
+								<chapeau>Upon a declaration, the Director shall coordinate—</chapeau>
+								<paragraph identifier="/us/usc/t6/s677b/b/1">
+									<num>(1)</num>
+									<content> the asset response activities of each Federal agency in response to the specific significant incident associated with the declaration; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677b/b/2">
+									<num>(2)</num>
+									<chapeau> with appropriate entities, which may include—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s677b/b/2/A">
+										<num>(A)</num>
+										<content> public and private entities and State and local governments with respect to the asset response activities of those entities and governments; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677b/b/2/B">
+										<num>(B)</num>
+										<content> Federal, State, local, and Tribal law enforcement agencies with respect to investigations and threat response activities of those law enforcement agencies; and</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677b/b/3">
+									<num>(3)</num>
+									<content> Federal, State, local, and Tribal emergency management and response agencies.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s677b/c">
+								<num>(c)</num>
+								<heading> Duration</heading>
+								<chapeau>Subject to subsection (d), a declaration shall terminate upon the earlier of—</chapeau>
+								<paragraph identifier="/us/usc/t6/s677b/c/1">
+									<num>(1)</num>
+									<content> a determination by the Secretary that the declaration is no longer necessary; or</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677b/c/2">
+									<num>(2)</num>
+									<content> the expiration of the 120-day period beginning on the date on which the Secretary makes the declaration.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s677b/d">
+								<num>(d)</num>
+								<heading> Renewal</heading>
+								<content>
+									<p>The Secretary, without delegation, may renew a declaration as necessary.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s677b/e">
+								<num>(e)</num>
+								<heading> Publication</heading>
+								<paragraph identifier="/us/usc/t6/s677b/e/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>Not later than 72 hours after a declaration or a renewal, the Secretary shall publish the declaration or renewal in the Federal Register.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677b/e/2">
+									<num>(2)</num>
+									<heading> Prohibition</heading>
+									<content>
+										<p>A declaration or renewal published under paragraph (1) may not include the name of any affected individual or private company.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s677b/f">
+								<num>(f)</num>
+								<heading> Advance actions</heading>
+								<paragraph identifier="/us/usc/t6/s677b/f/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<chapeau>The Secretary—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s677b/f/1/A">
+										<num>(A)</num>
+										<content> shall assess the resources available to respond to a potential declaration; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677b/f/1/B">
+										<num>(B)</num>
+										<content> may take actions before and while a declaration is in effect to arrange or procure additional resources for asset response activities or technical assistance the Secretary determines necessary, which may include entering into standby contracts with private entities for cybersecurity services or incident responders in the event of a declaration.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677b/f/2">
+									<num>(2)</num>
+									<heading> Expenditure of funds</heading>
+									<content>
+										<p>Any expenditure from the Fund for the purpose of paragraph (1)(B) shall be made from amounts available in the Fund, and amounts available in the Fund shall be in addition to any other appropriations available to the Cybersecurity and Infrastructure Security Agency for such purpose.</p>
+									</content>
+								</paragraph>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s677c">
+							<num>§ 677c.</num>
+							<heading> Cyber Response and Recovery Fund</heading>
+							<subsection identifier="/us/usc/t6/s677c/a">
+								<num>(a)</num>
+								<heading> In general</heading>
+								<chapeau>There is established a Cyber Response and Recovery Fund, which shall be available for—</chapeau>
+								<paragraph identifier="/us/usc/t6/s677c/a/1">
+									<num>(1)</num>
+									<content>
+										 the coordination of activities described in 
+										<ref href="/us/usc/t6/s677b/b">section 677b(b) of this title</ref>
+										;
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677c/a/2">
+									<num>(2)</num>
+									<chapeau> response and recovery support for the specific significant incident associated with a declaration to Federal, State, local, and Tribal, entities and public and private entities on a reimbursable or non-reimbursable basis, including through asset response activities and technical assistance, such as—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s677c/a/2/A">
+										<num>(A)</num>
+										<content> vulnerability assessments and mitigation;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677c/a/2/B">
+										<num>(B)</num>
+										<content> technical incident mitigation;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677c/a/2/C">
+										<num>(C)</num>
+										<content> malware analysis;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677c/a/2/D">
+										<num>(D)</num>
+										<content> analytic support;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677c/a/2/E">
+										<num>(E)</num>
+										<content> threat detection and hunting; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677c/a/2/F">
+										<num>(F)</num>
+										<content> network protections;</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677c/a/3">
+									<num>(3)</num>
+									<chapeau> as the Director determines appropriate, grants for, or cooperative agreements with, Federal, State, local, and Tribal public and private entities to respond to, and recover from, the specific significant incident associated with a declaration, such as—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s677c/a/3/A">
+										<num>(A)</num>
+										<content> hardware or software to replace, update, improve, harden, or enhance the functionality of existing hardware, software, or systems; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677c/a/3/B">
+										<num>(B)</num>
+										<content> technical contract personnel support; and</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677c/a/4">
+									<num>(4)</num>
+									<content>
+										 advance actions taken by the Secretary under 
+										<ref href="/us/usc/t6/s677b/f/1/B">section 677b(f)(1)(B) of this title</ref>
+										.
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s677c/b">
+								<num>(b)</num>
+								<heading> Deposits and expenditures</heading>
+								<paragraph identifier="/us/usc/t6/s677c/b/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<chapeau>Amounts shall be deposited into the Fund from—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s677c/b/1/A">
+										<num>(A)</num>
+										<content> appropriations to the Fund for activities of the Fund; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677c/b/1/B">
+										<num>(B)</num>
+										<content> reimbursement from Federal agencies for the activities described in paragraphs (1), (2), and (4) of subsection (a), which shall only be from amounts made available in advance in appropriations Acts for such reimbursement.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677c/b/2">
+									<num>(2)</num>
+									<heading> Expenditures</heading>
+									<content>
+										<p>Any expenditure from the Fund for the purposes of this part shall be made from amounts available in the Fund from a deposit described in paragraph (1), and amounts available in the Fund shall be in addition to any other appropriations available to the Cybersecurity and Infrastructure Security Agency for such purposes.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s677c/c">
+								<num>(c)</num>
+								<heading> Supplement not supplant</heading>
+								<content>
+									<p>Amounts in the Fund shall be used to supplement, not supplant, other Federal, State, local, or Tribal funding for activities in response to a declaration.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s677c/d">
+								<num>(d)</num>
+								<heading> Reporting</heading>
+								<content>
+									<p>The Secretary shall require an entity that receives amounts from the Fund to submit a report to the Secretary that details the specific use of the amounts.</p>
+								</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s677d">
+							<num>§ 677d.</num>
+							<heading> Notification and reporting</heading>
+							<subsection identifier="/us/usc/t6/s677d/a">
+								<num>(a)</num>
+								<heading> Notification</heading>
+								<chapeau>Upon a declaration or renewal, the Secretary shall immediately notify the National Cyber Director and appropriate congressional committees and include in the notification—</chapeau>
+								<paragraph identifier="/us/usc/t6/s677d/a/1">
+									<num>(1)</num>
+									<content> an estimation of the planned duration of the declaration;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677d/a/2">
+									<num>(2)</num>
+									<chapeau> with respect to a notification of a declaration, the reason for the declaration, including information relating to the specific significant incident or imminent specific significant incident, including—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s677d/a/2/A">
+										<num>(A)</num>
+										<content> the operational or mission impact or anticipated impact of the specific significant incident on Federal and non-Federal entities;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677d/a/2/B">
+										<num>(B)</num>
+										<content> if known, the perpetrator of the specific significant incident; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677d/a/2/C">
+										<num>(C)</num>
+										<content> the scope of the Federal and non-Federal entities impacted or anticipated to be impacted by the specific significant incident;</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677d/a/3">
+									<num>(3)</num>
+									<content> with respect to a notification of a renewal, the reason for the renewal;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677d/a/4">
+									<num>(4)</num>
+									<content> justification as to why available resources, other than the Fund, are insufficient to respond to or mitigate the specific significant incident; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677d/a/5">
+									<num>(5)</num>
+									<content>
+										 a description of the coordination activities described in 
+										<ref href="/us/usc/t6/s677b/b">section 677b(b) of this title</ref>
+										 that the Secretary anticipates the Director to perform.
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s677d/b">
+								<num>(b)</num>
+								<heading> Report to Congress</heading>
+								<chapeau>Not later than 180 days after the date of a declaration or renewal, the Secretary shall submit to the appropriate congressional committees a report that includes—</chapeau>
+								<paragraph identifier="/us/usc/t6/s677d/b/1">
+									<num>(1)</num>
+									<content> the reason for the declaration or renewal, including information and intelligence relating to the specific significant incident that led to the declaration or renewal;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677d/b/2">
+									<num>(2)</num>
+									<content> the use of any funds from the Fund for the purpose of responding to the incident or threat described in paragraph (1);</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677d/b/3">
+									<num>(3)</num>
+									<content> a description of the actions, initiatives, and projects undertaken by the Department and State and local governments and public and private entities in responding to and recovering from the specific significant incident described in paragraph (1);</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677d/b/4">
+									<num>(4)</num>
+									<content> an accounting of the specific obligations and outlays of the Fund; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677d/b/5">
+									<num>(5)</num>
+									<chapeau> an analysis of—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s677d/b/5/A">
+										<num>(A)</num>
+										<content> the impact of the specific significant incident described in paragraph (1) on Federal and non-Federal entities;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677d/b/5/B">
+										<num>(B)</num>
+										<content> the impact of the declaration or renewal on the response to, and recovery from, the specific significant incident described in paragraph (1); and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s677d/b/5/C">
+										<num>(C)</num>
+										<content> the impact of the funds made available from the Fund as a result of the declaration or renewal on the recovery from, and response to, the specific significant incident described in paragraph (1).</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s677d/c">
+								<num>(c)</num>
+								<heading> Classification</heading>
+								<chapeau>Each notification made under subsection (a) and each report submitted under subsection (b)—</chapeau>
+								<paragraph identifier="/us/usc/t6/s677d/c/1">
+									<num>(1)</num>
+									<content>
+										 shall be in an unclassified form with appropriate markings to indicate information that is exempt from disclosure under 
+										<ref href="/us/usc/t5/s552">section 552 of title 5</ref>
+										 (commonly known as the “Freedom of Information Act”); and
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s677d/c/2">
+									<num>(2)</num>
+									<content> may include a classified annex.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s677d/d">
+								<num>(d)</num>
+								<heading> Consolidated report</heading>
+								<content>
+									<p>The Secretary shall not be required to submit multiple reports under subsection (b) for multiple declarations or renewals if the Secretary determines that the declarations or renewals substantively relate to the same specific significant incident.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s677d/e">
+								<num>(e)</num>
+								<heading> Exemption</heading>
+								<content>
+									<p>The requirements of subchapter I of chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) shall not apply to the voluntary collection of information by the Department during an investigation of, a response to, or an immediate post-response review of, the specific significant incident leading to a declaration or renewal.</p>
+								</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s677e">
+							<num>§ 677e.</num>
+							<heading> Rule of construction</heading>
+							<content>
+								<p>Nothing in this part shall be construed to impair or limit the ability of the Director to carry out the authorized activities of the Cybersecurity and Infrastructure Security Agency.</p>
+							</content>
+						</section>
+						<section identifier="/us/usc/t6/s677f">
+							<num>§ 677f.</num>
+							<heading> Authorization of appropriations</heading>
+							<content>
+								<p>
+									There are authorized to be appropriated to the Fund $20,000,000 for fiscal year 2022 and each fiscal year thereafter until 
+									<date date="2028-09-30">September 30, 2028</date>
+									, which shall remain available until 
+									<date date="2028-09-30">September 30, 2028</date>
+									.
+								</p>
+							</content>
+						</section>
+						<section identifier="/us/usc/t6/s677g">
+							<num>§ 677g.</num>
+							<heading> Sunset</heading>
+							<content>
+								<p>
+									The authorities granted to the Secretary or the Director under this part shall expire on the date that is 7 years after 
+									<date date="2021-11-15">November 15, 2021</date>
+									.
+								</p>
 							</content>
 						</section>
 					</part>

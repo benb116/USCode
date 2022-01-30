@@ -21982,7 +21982,7 @@ SUBCHAPTER II—SPECIFIC PILOT PROGRAM</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t40/s14102/a/1/G">
 									<num>(G)</num>
-									<content> In North Carolina, the counties of Alexander, Alleghany, Ashe, Avery, Buncombe, Burke, Caldwell, Cherokee, Clay, Davie, Forsyth, Graham, Haywood, Henderson, Jackson, McDowell, Macon, Madison, Mitchell, Polk, Rutherford, Stokes, Surry, Swain, Transylvania, Watauga, Wilkes, Yadkin, and Yancey.</content>
+									<content> In North Carolina, the counties of Alexander, Alleghany, Ashe, Avery, Buncombe, Burke, Caldwell, Catawba, Cherokee, Clay, Cleveland, Davie, Forsyth, Graham, Haywood, Henderson, Jackson, McDowell, Macon, Madison, Mitchell, Polk, Rutherford, Stokes, Surry, Swain, Transylvania, Watauga, Wilkes, Yadkin, and Yancey.</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t40/s14102/a/1/H">
 									<num>(H)</num>
@@ -21994,7 +21994,7 @@ SUBCHAPTER II—SPECIFIC PILOT PROGRAM</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t40/s14102/a/1/J">
 									<num>(J)</num>
-									<content> In South Carolina, the counties of Anderson, Cherokee, Greenville, Oconee, Pickens, and Spartanburg.</content>
+									<content> In South Carolina, the counties of Anderson, Cherokee, Greenville, Oconee, Pickens, Spartanburg, and Union.</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t40/s14102/a/1/K">
 									<num>(K)</num>
@@ -22006,7 +22006,7 @@ SUBCHAPTER II—SPECIFIC PILOT PROGRAM</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t40/s14102/a/1/M">
 									<num>(M)</num>
-									<content> All the counties of West Virginia.</content>
+									<content> All the counties of West Virginia, of which the counties of Brooke, Hancock, Marshall, and Ohio shall be considered to be located in the North Central subregion.</content>
 								</subparagraph>
 							</paragraph>
 							<paragraph identifier="/us/usc/t40/s14102/a/2">
@@ -22132,6 +22132,21 @@ SUBCHAPTER II—FINANCIAL ASSISTANCE</column>
 								</column>
 								<column>Approval of development plans, strategy statements, and projects.</column>
 							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t40/s14323">14323.</ref>
+								</column>
+								<column>Congressional notification.</column>
+							</tocItem>
+							<header>
+								<column>
+									<b>Editorial Notes</b>
+								</column>
+							</header>
+							<header>
+								<column>
+Amendments</column>
+							</header>
 						</layout>
 					</toc>
 					<subchapter identifier="/us/usc/t40/stIV/ch143/schI">
@@ -22326,11 +22341,15 @@ SUBCHAPTER II—FINANCIAL ASSISTANCE</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t40/s14303/a/9">
 									<num>(9)</num>
-									<content> encourage the use of eco-industrial development technologies and approaches; and</content>
+									<content> encourage the use of eco-industrial development technologies and approaches;</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t40/s14303/a/10">
 									<num>(10)</num>
-									<content> seek to coordinate the economic development activities of, and the use of economic development resources by, federal agencies in the region.</content>
+									<content> seek to coordinate the economic development activities of, and the use of economic development resources by, federal agencies in the region; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s14303/a/11">
+									<num>(11)</num>
+									<content> support broadband access in the Appalachian region.</content>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t40/s14303/b">
@@ -22932,6 +22951,26 @@ SUBCHAPTER II—FINANCIAL ASSISTANCE</column>
 								</content>
 							</subsection>
 						</section>
+						<section identifier="/us/usc/t40/s14323">
+							<num>§ 14323.</num>
+							<heading> Congressional notification</heading>
+							<subsection identifier="/us/usc/t40/s14323/a">
+								<num>(a)</num>
+								<heading>
+									<inline>In General</inline>
+									.—
+								</heading>
+								<content>In the case of a project described in subsection (b), the Appalachian Regional Commission shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate notice of the award of a grant or other financial assistance not less than 3 full business days before awarding the grant or other financial assistance.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t40/s14323/b">
+								<num>(b)</num>
+								<heading>
+									<inline>Projects Described</inline>
+									.—
+								</heading>
+								<content>A project referred to in subsection (a) is a project that the Appalachian Regional Commission has selected to receive a grant or other financial assistance under this subtitle in an amount not less than $50,000.</content>
+							</subsection>
+						</section>
 					</subchapter>
 				</chapter>
 				<chapter identifier="/us/usc/t40/stIV/ch145">
@@ -23005,6 +23044,12 @@ SUBCHAPTER I—PROGRAMS</column>
 									<ref href="/us/usc/t40/s14510">14510.</ref>
 								</column>
 								<column>Drug abuse mitigation initiative.</column>
+							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t40/s14511">14511</ref>
+								</column>
+								<column>Appalachian regional energy hub initiative.</column>
 							</tocItem>
 							<header>
 								<column>
@@ -24194,79 +24239,95 @@ SUBCHAPTER II—ADMINISTRATIVE</column>
 									<inline>In General</inline>
 									.—
 								</heading>
-								<chapeau>The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to individuals or entities in the Appalachian region for projects and activities—</chapeau>
-								<paragraph identifier="/us/usc/t40/s14509/a/1">
-									<num>(1)</num>
-									<content> to increase affordable access to broadband networks throughout the Appalachian region;</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t40/s14509/a/2">
-									<num>(2)</num>
-									<content> to conduct research, analysis, and training to increase broadband adoption efforts in the Appalachian region;</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t40/s14509/a/3">
-									<num>(3)</num>
-									<content> to provide technology assets, including computers, smartboards, and video projectors to educational systems throughout the Appalachian region;</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t40/s14509/a/4">
-									<num>(4)</num>
-									<content> to increase distance learning opportunities throughout the Appalachian region;</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t40/s14509/a/5">
-									<num>(5)</num>
-									<content> to increase the use of telehealth technologies in the Appalachian region; and</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t40/s14509/a/6">
-									<num>(6)</num>
-									<content> to promote e-commerce applications in the Appalachian region.</content>
-								</paragraph>
+								<content>The Appalachian Regional Commission may provide technical assistance, make grants, enter into contracts, or otherwise provide amounts to individuals or entities in the Appalachian region for projects and activities to increase affordable access to broadband networks throughout the Appalachian region.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t40/s14509/b">
 								<num>(b)</num>
 								<heading>
-									<inline>Limitation on Available Amounts</inline>
+									<inline>Eligible Projects and Activities</inline>
 									.—
 								</heading>
-								<chapeau>Of the cost of any activity eligible for a grant under this section—</chapeau>
+								<chapeau>A project or activity eligible to be carried out under this section is a project or activity—</chapeau>
 								<paragraph identifier="/us/usc/t40/s14509/b/1">
 									<num>(1)</num>
-									<content> not more than 50 percent may be provided from amounts appropriated to carry out this section; and</content>
+									<content> to conduct research, analysis, and training to increase broadband adoption efforts in the Appalachian region; or</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t40/s14509/b/2">
 									<num>(2)</num>
-									<chapeau> notwithstanding paragraph (1)—</chapeau>
-									<subparagraph identifier="/us/usc/t40/s14509/b/2/A">
-										<num>(A)</num>
-										<content> in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526, not more than 80 percent may be provided from amounts appropriated to carry out this section; and</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t40/s14509/b/2/B">
-										<num>(B)</num>
-										<content> in the case of a project to be carried out in a county for which an at-risk designation is in effect under section 14526, not more than 70 percent may be provided from amounts appropriated to carry out this section.</content>
-									</subparagraph>
+									<content> for the construction and deployment of broadband service-related infrastructure in the Appalachian region.</content>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t40/s14509/c">
 								<num>(c)</num>
 								<heading>
-									<inline>Sources of Assistance</inline>
+									<inline>Limitation on Available Amounts</inline>
 									.—
 								</heading>
-								<chapeau>Subject to subsection (b), a grant provided under this section may be provided from amounts made available to carry out this section in combination with amounts made available—</chapeau>
+								<chapeau>Of the cost of any activity eligible for a grant under this section—</chapeau>
 								<paragraph identifier="/us/usc/t40/s14509/c/1">
 									<num>(1)</num>
-									<content> under any other Federal program; or</content>
+									<content> not more than 50 percent may be provided from amounts appropriated to carry out this section; and</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t40/s14509/c/2">
 									<num>(2)</num>
-									<content> from any other source.</content>
+									<chapeau> notwithstanding paragraph (1)—</chapeau>
+									<subparagraph identifier="/us/usc/t40/s14509/c/2/A">
+										<num>(A)</num>
+										<content> in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526, not more than 80 percent may be provided from amounts appropriated to carry out this section; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t40/s14509/c/2/B">
+										<num>(B)</num>
+										<content> in the case of a project to be carried out in a county for which an at-risk designation is in effect under section 14526, not more than 70 percent may be provided from amounts appropriated to carry out this section.</content>
+									</subparagraph>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t40/s14509/d">
 								<num>(d)</num>
 								<heading>
+									<inline>Sources of Assistance</inline>
+									.—
+								</heading>
+								<chapeau>Subject to subsection (c), a grant provided under this section may be provided from amounts made available to carry out this section in combination with amounts made available—</chapeau>
+								<paragraph identifier="/us/usc/t40/s14509/d/1">
+									<num>(1)</num>
+									<content> under any other Federal program; or</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s14509/d/2">
+									<num>(2)</num>
+									<content> from any other source.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t40/s14509/e">
+								<num>(e)</num>
+								<heading>
 									<inline>Federal Share</inline>
 									.—
 								</heading>
 								<content>Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t40/s14509/f">
+								<num>(f)</num>
+								<heading>
+									<inline>Request for Data</inline>
+									.—
+								</heading>
+								<chapeau>Before making a grant for a project or activity described in subsection (b)(2), the Appalachian Regional Commission shall request from the Federal Communications Commission, the National Telecommunications and Information Administration, the Economic Development Administration, and the Department of Agriculture data on—</chapeau>
+								<paragraph identifier="/us/usc/t40/s14509/f/1">
+									<num>(1)</num>
+									<content> the level and extent of broadband service that exists in the area proposed to be served by the broadband service-related infrastructure; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s14509/f/2">
+									<num>(2)</num>
+									<content> the level and extent of broadband service that will be deployed in the area proposed to be served by the broadband service-related infrastructure pursuant to another Federal program.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t40/s14509/g">
+								<num>(g)</num>
+								<heading>
+									<inline>Requirement</inline>
+									.—
+								</heading>
+								<content>For each fiscal year, not less than 65 percent of the amounts made available to carry out this section shall be used for grants for projects and activities described in subsection (b)(2).</content>
 							</subsection>
 						</section>
 						<section identifier="/us/usc/t40/s14510">
@@ -24337,6 +24398,74 @@ SUBCHAPTER II—ADMINISTRATIVE</column>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t40/s14510/d">
+								<num>(d)</num>
+								<heading>
+									<inline>Federal Share</inline>
+									.—
+								</heading>
+								<content>Notwithstanding any provision of law limiting the Federal share under any other Federal program, amounts made available to carry out this section may be used to increase that Federal share, as the Appalachian Regional Commission determines to be appropriate.</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t40/s14511">
+							<num>§ 14511.</num>
+							<heading> Appalachian regional energy hub initiative</heading>
+							<subsection identifier="/us/usc/t40/s14511/a">
+								<num>(a)</num>
+								<heading>
+									<inline>In General</inline>
+									.—
+								</heading>
+								<chapeau>The Appalachian Regional Commission may provide technical assistance to, make grants to, enter into contracts with, or otherwise provide amounts to individuals or entities in the Appalachian region for projects and activities—</chapeau>
+								<paragraph identifier="/us/usc/t40/s14511/a/1">
+									<num>(1)</num>
+									<content> to conduct research and analysis regarding the economic impact of an ethane storage hub in the Appalachian region that supports a more-effective energy market performance due to the scale of the project, such as a project with the capacity to store and distribute more than 100,000 barrels per day of hydrocarbon feedstock with a minimum gross heating value of 1,700 Btu per standard cubic foot;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s14511/a/2">
+									<num>(2)</num>
+									<content> with the potential to significantly contribute to the economic resilience of the area in which the project is located; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s14511/a/3">
+									<num>(3)</num>
+									<content> that will help establish a regional energy hub in the Appalachian region for natural gas and natural gas liquids, including hydrogen produced from the steam methane reforming of natural gas feedstocks.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t40/s14511/b">
+								<num>(b)</num>
+								<heading>
+									<inline>Limitation on Available Amounts</inline>
+									.—
+								</heading>
+								<chapeau>Of the cost of any project or activity eligible for a grant under this section—</chapeau>
+								<paragraph identifier="/us/usc/t40/s14511/b/1">
+									<num>(1)</num>
+									<content> except as provided in paragraphs (2) and (3), not more than 50 percent may be provided from amounts made available to carry out this section;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s14511/b/2">
+									<num>(2)</num>
+									<content> in the case of a project or activity to be carried out in a county for which a distressed county designation is in effect under section 14526, not more than 80 percent may be provided from amounts made available to carry out this section; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s14511/b/3">
+									<num>(3)</num>
+									<content> in the case of a project or activity to be carried out in a county for which an at-risk county designation is in effect under section 14526, not more than 70 percent may be provided from amounts made available to carry out this section.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t40/s14511/c">
+								<num>(c)</num>
+								<heading>
+									<inline>Sources of Assistance</inline>
+									.—
+								</heading>
+								<chapeau>Subject to subsection (b), a grant provided under this section may be provided from amounts made available to carry out this section, in combination with amounts made available—</chapeau>
+								<paragraph identifier="/us/usc/t40/s14511/c/1">
+									<num>(1)</num>
+									<content> under any other Federal program; or</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s14511/c/2">
+									<num>(2)</num>
+									<content> from any other source.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t40/s14511/d">
 								<num>(d)</num>
 								<heading>
 									<inline>Federal Share</inline>
@@ -24789,11 +24918,15 @@ SUBCHAPTER II—ADMINISTRATIVE</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t40/s14703/a/4">
 								<num>(4)</num>
-								<content> $108,000,000 for fiscal year 2011; and</content>
+								<content> $108,000,000 for fiscal year 2011;</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t40/s14703/a/5">
 								<num>(5)</num>
-								<content> $110,000,000 for each of fiscal years 2012 through 2021.</content>
+								<content> $110,000,000 for each of fiscal years 2012 through 2021; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t40/s14703/a/6">
+								<num>(6)</num>
+								<content> $200,000,000 for each of fiscal years 2022 through 2026.</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t40/s14703/b">
@@ -24830,18 +24963,26 @@ SUBCHAPTER II—ADMINISTRATIVE</column>
 								<inline>High-speed Broadband Deployment Initiative</inline>
 								.—
 							</heading>
-							<content>Of the amounts made available under subsection (a), $10,000,000 may be used to carry out section 14509 for each of fiscal years 2016 through 2021.</content>
+							<content>Of the amounts made available under subsection (a), $20,000,000 may be used to carry out section 14509 for each of fiscal years 2022 through 2026.</content>
 						</subsection>
 						<subsection identifier="/us/usc/t40/s14703/d">
 							<num>(d)</num>
+							<heading>
+								<inline>Appalachian Regional Energy Hub Initiative</inline>
+								.—
+							</heading>
+							<content>Of the amounts made available under subsection (a), $5,000,000 shall be used to carry out section 14511 for each of fiscal years 2022 through 2026.</content>
+						</subsection>
+						<subsection identifier="/us/usc/t40/s14703/e">
+							<num>(e)</num>
 							<heading>
 								<inline>Availability</inline>
 								.—
 							</heading>
 							<content>Amounts made available under subsection (a) remain available until expended.</content>
 						</subsection>
-						<subsection identifier="/us/usc/t40/s14703/e">
-							<num>(e)</num>
+						<subsection identifier="/us/usc/t40/s14703/f">
+							<num>(f)</num>
 							<heading>
 								<inline>Allocation of Funds</inline>
 								.—
@@ -24855,7 +24996,7 @@ SUBCHAPTER II—ADMINISTRATIVE</column>
 						<content>
 							<p>
 								This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in effect on 
-								<date date="2021-10-01">October 1, 2021</date>
+								<date date="2026-10-01">October 1, 2026</date>
 								.
 							</p>
 						</content>

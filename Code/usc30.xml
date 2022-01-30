@@ -295,7 +295,7 @@
 						<column>
 							<ref href="/us/usc/t30/ch30">30.</ref>
 						</column>
-						<column>National Critical Materials Council</column>
+						<column>National Critical Materials Council [Repealed]</column>
 						<column>
 							<ref href="/us/usc/t30/s1801">1801</ref>
 						</column>
@@ -16065,6 +16065,12 @@ SUBCHAPTER IV—ABANDONED MINE RECLAMATIONS</column>
 						</tocItem>
 						<tocItem>
 							<column>
+								<ref href="/us/usc/t30/s1231a">1231a.</ref>
+							</column>
+							<column>Abandoned mine reclamation fund authorization of appropriations.</column>
+						</tocItem>
+						<tocItem>
+							<column>
 								<ref href="/us/usc/t30/s1232">1232.</ref>
 							</column>
 							<column>Reclamation fee.</column>
@@ -16146,6 +16152,12 @@ SUBCHAPTER IV—ABANDONED MINE RECLAMATIONS</column>
 								<ref href="/us/usc/t30/s1244">1244.</ref>
 							</column>
 							<column>Remining incentives.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t30/s1245">1245.</ref>
+							</column>
+							<column>Abandoned hardrock mine reclamation.</column>
 						</tocItem>
 						<header>
 							<column>
@@ -17449,8 +17461,8 @@ SUBCHAPTER IX—ENERGY RESOURCE GRADUATE FELLOWSHIPS</column>
 								<heading> Amounts</heading>
 								<subparagraph identifier="/us/usc/t30/s1231/f/2/A">
 									<num>(A)</num>
-									<heading> For fiscal years 2008 through 2022</heading>
-									<chapeau>For each of fiscal years 2008 through 2022, the amount distributed by the Secretary under this subsection shall be equal to—</chapeau>
+									<heading> For fiscal years 2008 through 2035</heading>
+									<chapeau>For each of fiscal years 2008 through 2035, the amount distributed by the Secretary under this subsection shall be equal to—</chapeau>
 									<clause identifier="/us/usc/t30/s1231/f/2/A/i">
 										<num>(i)</num>
 										<content>
@@ -17470,9 +17482,9 @@ SUBCHAPTER IX—ENERGY RESOURCE GRADUATE FELLOWSHIPS</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t30/s1231/f/2/B">
 									<num>(B)</num>
-									<heading> Fiscal years 2023 and thereafter</heading>
+									<heading> Fiscal years 2036 and thereafter</heading>
 									<content>
-										<p>For fiscal year 2023 and each fiscal year thereafter, to the extent that funds are available, the Secretary shall distribute an amount equal to the amount distributed under subparagraph (A) during fiscal year 2022.</p>
+										<p>For fiscal year 2036 and each fiscal year thereafter, to the extent that funds are available, the Secretary shall distribute an amount equal to the amount distributed under subparagraph (A) during fiscal year 2035.</p>
 									</content>
 								</subparagraph>
 							</paragraph>
@@ -17567,6 +17579,192 @@ SUBCHAPTER IX—ENERGY RESOURCE GRADUATE FELLOWSHIPS</column>
 							</paragraph>
 						</subsection>
 					</section>
+					<section identifier="/us/usc/t30/s1231a">
+						<num>§ 1231a.</num>
+						<heading> Abandoned mine reclamation fund authorization of appropriations</heading>
+						<subsection identifier="/us/usc/t30/s1231a/a">
+							<num>(a)</num>
+							<heading> In general</heading>
+							<content>
+								<p>
+									There is authorized to be appropriated, for deposit into the Abandoned Mine Reclamation Fund established by section 401(a) of the Surface Mining Control and Reclamation Act of 1977 (
+									<ref href="/us/usc/t30/s1231/a">30 U.S.C. 1231(a)</ref>
+									) $11,293,000,000 for fiscal year 2022, to remain available until expended.
+								</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t30/s1231a/b">
+							<num>(b)</num>
+							<heading> Use of funds</heading>
+							<paragraph identifier="/us/usc/t30/s1231a/b/1">
+								<num>(1)</num>
+								<heading> In general</heading>
+								<content>
+									<p>
+										Subject to subsection (g), amounts made available under subsection (a) shall be used to provide, as expeditiously as practicable, to States and Indian Tribes described in paragraph (2) annual grants for abandoned mine land and water reclamation projects under the Surface Mining Control and Reclamation Act of 1977 (
+										<ref href="/us/usc/t30/s1201">30 U.S.C. 1201</ref>
+										 et seq.).
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t30/s1231a/b/2">
+								<num>(2)</num>
+								<heading> Eligible grant recipients</heading>
+								<chapeau>Grants may be made under paragraph (1) to—</chapeau>
+								<subparagraph identifier="/us/usc/t30/s1231a/b/2/A">
+									<num>(A)</num>
+									<content>
+										 States and Indian Tribes that have a State or Tribal program approved under section 405 of the Surface Mining Control and Reclamation Act of 1977 (
+										<ref href="/us/usc/t30/s1235">30 U.S.C. 1235</ref>
+										);
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t30/s1231a/b/2/B">
+									<num>(B)</num>
+									<content>
+										 States and Indian Tribes that are certified under section 411(a) of that Act (
+										<ref href="/us/usc/t30/s1240a/a">30 U.S.C. 1240a(a)</ref>
+										); and
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t30/s1231a/b/2/C">
+									<num>(C)</num>
+									<content>
+										 States and Indian Tribes that are referred to in section 402(g)(8)(B) of that Act (
+										<ref href="/us/usc/t30/s1232/g/8/B">30 U.S.C. 1232(g)(8)(B)</ref>
+										).
+									</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t30/s1231a/b/3">
+								<num>(3)</num>
+								<heading> Contract aggregation</heading>
+								<content>
+									<p>In applying for grants under paragraph (1), States and Indian Tribes may aggregate bids into larger statewide or regional contracts.</p>
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t30/s1231a/c">
+							<num>(c)</num>
+							<heading> Covered activities</heading>
+							<content>
+								<p>
+									Grants under subsection (b)(1) shall only be used for activities described in subsections (a) and (b) of section 403 and section 410 of the Surface Mining Control and Reclamation Act of 1977 (
+									<ref href="/us/usc/t30/s1233">30 U.S.C. 1233</ref>
+									, 1240).
+								</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t30/s1231a/d">
+							<num>(d)</num>
+							<heading> Allocation</heading>
+							<paragraph identifier="/us/usc/t30/s1231a/d/1">
+								<num>(1)</num>
+								<heading> In general</heading>
+								<content>
+									<p>
+										Subject to subsection (e), the Secretary of the Interior shall allocate and distribute amounts made available for grants under subsection (b)(1) to States and Indian Tribes on an equal annual basis over a 15-year period beginning on 
+										<date date="2021-11-15">November 15, 2021</date>
+										, based on the number of tons of coal historically produced in the States or from the applicable Indian land before 
+										<date date="1977-08-03">August 3, 1977</date>
+										, regardless of whether the State or Indian Tribe is certified under section 411(a) of the Surface Mining Control and Reclamation Act of 1977 (
+										<ref href="/us/usc/t30/s1240a/a">30 U.S.C. 1240a(a)</ref>
+										).
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t30/s1231a/d/2">
+								<num>(2)</num>
+								<heading> Surface Mining Control and Reclamation Act exception</heading>
+								<content>
+									<p>
+										Section 401(f)(3)(B) of the Surface Mining Control and Reclamation Act of 1977 (
+										<ref href="/us/usc/t30/s1231/f/3/B">30 U.S.C. 1231(f)(3)(B)</ref>
+										) shall not apply to grant funds distributed under subsection (b)(1).
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t30/s1231a/d/3">
+								<num>(3)</num>
+								<heading> Report to Congress on allocations</heading>
+								<subparagraph identifier="/us/usc/t30/s1231a/d/3/A">
+									<num>(A)</num>
+									<heading> In general</heading>
+									<content>
+										<p>
+											Not later than 6 years after the date on which the first allocation to States and Indian Tribes is made under paragraph (1), the Secretary of the Interior shall submit to Congress a report that describes any progress made under this section in addressing outstanding reclamation needs under subsection (a) or (b) of section 403 or section 410 of the Surface Mining Control and Reclamation and Act of 1977 (
+											<ref href="/us/usc/t30/s1233">30 U.S.C. 1233</ref>
+											, 1240).
+										</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t30/s1231a/d/3/B">
+									<num>(B)</num>
+									<heading> Input</heading>
+									<chapeau>The Secretary of the Interior shall—</chapeau>
+									<clause identifier="/us/usc/t30/s1231a/d/3/B/i">
+										<num>(i)</num>
+										<content> prior to submitting the report under subparagraph (A), solicit the input of the States and Indian Tribes regarding the progress referred to in that subparagraph; and</content>
+									</clause>
+									<clause identifier="/us/usc/t30/s1231a/d/3/B/ii">
+										<num>(ii)</num>
+										<content> include in the report submitted to Congress under that subparagraph a description of any input received under clause (i).</content>
+									</clause>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t30/s1231a/d/4">
+								<num>(4)</num>
+								<heading> Redistribution of funds</heading>
+								<subparagraph identifier="/us/usc/t30/s1231a/d/4/A">
+									<num>(A)</num>
+									<heading> Evaluation</heading>
+									<content>
+										<p>
+											Not later than 20 years after 
+											<date date="2021-11-15">November 15, 2021</date>
+											, the Secretary of the Interior shall evaluate grant payments to States and Indian Tribes made under this section.
+										</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t30/s1231a/d/4/B">
+									<num>(B)</num>
+									<heading> Unused funds</heading>
+									<content>
+										<p>On completion of the evaluation under subparagraph (A), States and Indian Tribes shall return any unused funds under this section to the Abandoned Mine Reclamation Fund.</p>
+									</content>
+								</subparagraph>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t30/s1231a/e">
+							<num>(e)</num>
+							<heading> Total amount of grant</heading>
+							<content>
+								<p>The total amount of grant funding provided under subsection (b)(1) to an eligible State or Indian Tribe shall be not less than $20,000,000, to the extent that the amount needed for reclamation projects described in that subsection on the land of the State or Indian Tribe is not less than $20,000,000.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t30/s1231a/f">
+							<num>(f)</num>
+							<heading> Priority</heading>
+							<content>
+								<p>
+									In addition to the priorities described in section 403(a) of the Surface Mining Control and Reclamation Act of 1977 (
+									<ref href="/us/usc/t30/s1233/a">30 U.S.C. 1233(a)</ref>
+									), in providing grants under this section, priority may also be given to reclamation projects described in subsection (b)(1) that provide employment for current and former employees of the coal industry.
+								</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t30/s1231a/g">
+							<num>(g)</num>
+							<heading> Reservation</heading>
+							<content>
+								<p>
+									Of the funds made available under subsection (a), $25,000,000 shall be made available to the Secretary of the Interior to provide States and Indian Tribes with the financial and technical assistance necessary for the purpose of making amendments to the inventory maintained under section 403(c) of the Surface Mining Control and Reclamation Act of 1977 (
+									<ref href="/us/usc/t30/s1233/c">30 U.S.C. 1233(c)</ref>
+									).
+								</p>
+							</content>
+						</subsection>
+					</section>
 					<section identifier="/us/usc/t30/s1232">
 						<num>§ 1232.</num>
 						<heading> Reclamation fee</heading>
@@ -17574,7 +17772,7 @@ SUBCHAPTER IX—ENERGY RESOURCE GRADUATE FELLOWSHIPS</column>
 							<num>(a)</num>
 							<heading> Payment; rate</heading>
 							<content>
-								<p>All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 28 cents per ton of coal produced by surface coal mining and 12 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 8 cents per ton, whichever is less.</p>
+								<p>All operators of coal mining operations subject to the provisions of this chapter shall pay to the Secretary of the Interior, for deposit in the fund, a reclamation fee of 22.4 cents per ton of coal produced by surface coal mining and 9.6 cents per ton of coal produced by underground mining or 10 per centum of the value of the coal at the mine, as determined by the Secretary, whichever is less, except that the reclamation fee for lignite coal shall be at a rate of 2 per centum of the value of the coal at the mine, or 6.4 cents per ton, whichever is less.</p>
 							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t30/s1232/b">
@@ -17585,7 +17783,7 @@ SUBCHAPTER IX—ENERGY RESOURCE GRADUATE FELLOWSHIPS</column>
 									Such fee shall be paid no later than thirty days after the end of each calendar quarter beginning with the first calendar quarter occurring after 
 									<date date="1977-08-03">August 3, 1977</date>
 									, and ending 
-									<date date="2021-09-30">September 30, 2021</date>
+									<date date="2034-09-30">September 30, 2034</date>
 									.
 								</p>
 							</content>
@@ -18456,7 +18654,7 @@ SUBCHAPTER IX—ENERGY RESOURCE GRADUATE FELLOWSHIPS</column>
 									<num>(C)</num>
 									<heading> Increase in limitation to account for calculation of health benefit plan excess</heading>
 									<content>
-										<p>The dollar limitation under subparagraph (A) shall be increased by the amount of the cost to provide benefits which are taken into account under subsection (h)(2)(C)(ii) solely by reason of the amendments made by section 2(a) of the American Miner Benefits Improvement Act of 2020</p>
+										<p>The dollar limitation under subparagraph (A) shall be increased by the amount of the cost to provide benefits which are taken into account under subsection (h)(2)(C)(ii) solely by reason of the amendments made by section 2(a) of the American Miner Benefits Improvement Act of 2020.</p>
 									</content>
 								</subparagraph>
 							</paragraph>
@@ -19686,6 +19884,99 @@ SUBCHAPTER IX—ENERGY RESOURCE GRADUATE FELLOWSHIPS</column>
 										<p>The amount of a rebate or waiver provided as an incentive under paragraph (1)(A) to remine or reclaim eligible land shall not exceed the estimated cost of reclaiming the eligible land under this section.</p>
 									</content>
 								</subparagraph>
+							</paragraph>
+						</subsection>
+					</section>
+					<section identifier="/us/usc/t30/s1245">
+						<num>§ 1245.</num>
+						<heading> Abandoned hardrock mine reclamation</heading>
+						<subsection identifier="/us/usc/t30/s1245/a">
+							<num>(a)</num>
+							<heading> Establishment</heading>
+							<content>
+								<p>
+									Not later than 90 days after 
+									<date date="2021-11-15">November 15, 2021</date>
+									, the Secretary of the Interior (referred to in this section as the “Secretary”) shall establish a program to inventory, assess, decommission, reclaim, respond to hazardous substance releases on, and remediate abandoned hardrock mine land based on conditions including need, public health and safety, potential environmental harm, and other land use priorities.
+								</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t30/s1245/b">
+							<num>(b)</num>
+							<heading> Award of grants</heading>
+							<content>
+								<p>Subject to the availability of funds, the Secretary shall provide grants on a competitive or formula basis to States and Indian Tribes that have jurisdiction over abandoned hardrock mine land to reclaim that land.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t30/s1245/c">
+							<num>(c)</num>
+							<heading> Eligibility</heading>
+							<chapeau>Amounts made available under this section may only be used for Federal, State, Tribal, local, and private land that has been affected by past hardrock mining activities, and water resources that traverse or are contiguous to such land, including any of the following:</chapeau>
+							<paragraph identifier="/us/usc/t30/s1245/c/1">
+								<num>(1)</num>
+								<chapeau> Land and water resources that were—</chapeau>
+								<subparagraph identifier="/us/usc/t30/s1245/c/1/A">
+									<num>(A)</num>
+									<content> used for, or affected by, hardrock mining activities; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t30/s1245/c/1/B">
+									<num>(B)</num>
+									<content>
+										 abandoned or left in an inadequate reclamation status before 
+										<date date="2021-11-15">November 15, 2021</date>
+										.
+									</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t30/s1245/c/2">
+								<num>(2)</num>
+								<content> Land for which the Secretary makes a determination that there is no continuing reclamation responsibility of a claim holder, liable party, operator, or other person that abandoned the site prior to completion of required reclamation under Federal or State law.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t30/s1245/d">
+							<num>(d)</num>
+							<heading> Eligible activities</heading>
+							<paragraph identifier="/us/usc/t30/s1245/d/1">
+								<num>(1)</num>
+								<heading> In general</heading>
+								<content>
+									<p>Amounts made available to carry out this section shall be used to inventory, assess, decommission, reclaim, respond to hazardous substance releases on, and remediate abandoned hardrock mine land based on the priorities described in subsection (a).</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t30/s1245/d/2">
+								<num>(2)</num>
+								<heading> Exclusion</heading>
+								<content>
+									<p>
+										Amounts made available to carry out this section may not be used to fulfill obligations under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (
+										<ref href="/us/usc/t42/s9601">42 U.S.C. 9601</ref>
+										 et seq.) agreed to in a legal settlement or imposed by a court, whether for payment of funds or for work to be performed.
+									</p>
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t30/s1245/e">
+							<num>(e)</num>
+							<heading> Authorization of appropriations</heading>
+							<paragraph identifier="/us/usc/t30/s1245/e/1">
+								<num>(1)</num>
+								<heading> In general</heading>
+								<chapeau>There is authorized to be appropriated to carry out this section $3,000,000,000, to remain available until expended, of which—</chapeau>
+								<subparagraph identifier="/us/usc/t30/s1245/e/1/A">
+									<num>(A)</num>
+									<content> 50 percent shall be for grants to States and Indian Tribes under subsection (b) for eligible activities described in subsection (d)(1); and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t30/s1245/e/1/B">
+									<num>(B)</num>
+									<content> 50 percent shall be for available to the Secretary for eligible activities described in subsection (d)(1) on Federal land.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t30/s1245/e/2">
+								<num>(2)</num>
+								<heading> Transfer</heading>
+								<content>
+									<p>The Secretary may transfer amounts made available to the Secretary under paragraph (1)(B) to the Secretary of Agriculture for activities described in subsection (a) on National Forest System land.</p>
+								</content>
 							</paragraph>
 						</subsection>
 					</section>
@@ -26591,6 +26882,18 @@ SUBCHAPTER IV—FEDERAL FACILITIES</column>
 							</column>
 							<column>Applicability to other statutory national mining and minerals policies.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t30/s1606">1606.</ref>
+							</column>
+							<column>Mineral security.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t30/s1607">1607.</ref>
+							</column>
+							<column>Critical minerals supply chains and reliability.</column>
+						</tocItem>
 					</layout>
 				</toc>
 				<section identifier="/us/usc/t30/s1601">
@@ -28128,6 +28431,175 @@ SUBCHAPTER IV—FEDERAL FACILITIES</column>
 						<heading> Authorization of appropriations</heading>
 						<content>
 							<p>There is authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each of fiscal years 2021 through 2029.</p>
+						</content>
+					</subsection>
+				</section>
+				<section identifier="/us/usc/t30/s1607">
+					<num>§ 1607.</num>
+					<heading> Critical minerals supply chains and reliability</heading>
+					<subsection identifier="/us/usc/t30/s1607/a">
+						<num>(a)</num>
+						<heading> Definition of critical mineral</heading>
+						<content>
+							<p>
+								In this section, the term “critical mineral” has the meaning given the term in 
+								<ref href="/us/usc/t30/s1606/a">section 1606(a) of this title</ref>
+								.
+							</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t30/s1607/b">
+						<num>(b)</num>
+						<heading> Sense of Congress</heading>
+						<chapeau>It is the sense of Congress that—</chapeau>
+						<paragraph identifier="/us/usc/t30/s1607/b/1">
+							<num>(1)</num>
+							<content> critical minerals are fundamental to the economy, competitiveness, and security of the United States;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/b/2">
+							<num>(2)</num>
+							<content> many critical minerals are only economic to recover when combined with the production of a host mineral;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/b/3">
+							<num>(3)</num>
+							<content> to the maximum extent practicable, the critical mineral needs of the United States should be satisfied by minerals responsibly produced and recycled in the United States; and</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/b/4">
+							<num>(4)</num>
+							<content> the Federal permitting process has been identified as an impediment to mineral production and the mineral security of the United States.</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t30/s1607/c">
+						<num>(c)</num>
+						<heading> Federal permitting and review performance improvements</heading>
+						<chapeau>To improve the quality and timeliness of Federal permitting and review processes with respect to critical mineral production on Federal land, the Secretary of the Interior, acting through the Director of the Bureau of Land Management, and the Secretary of Agriculture, acting through the Chief of the Forest Service (referred to in this section as the “Secretaries”), to the maximum extent practicable, shall complete the Federal permitting and review processes with maximum efficiency and effectiveness, while supporting vital economic growth, by—</chapeau>
+						<paragraph identifier="/us/usc/t30/s1607/c/1">
+							<num>(1)</num>
+							<content> establishing and adhering to timelines and schedules for the consideration of, and final decisions regarding, applications, operating plans, leases, licenses, permits, and other use authorizations for critical mineral-related activities on Federal land;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/c/2">
+							<num>(2)</num>
+							<content> establishing clear, quantifiable, and temporal permitting performance goals and tracking progress against those goals;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/c/3">
+							<num>(3)</num>
+							<chapeau> engaging in early collaboration among agencies, project sponsors, and affected stakeholders—</chapeau>
+							<subparagraph identifier="/us/usc/t30/s1607/c/3/A">
+								<num>(A)</num>
+								<content> to incorporate and address the interests of those parties; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t30/s1607/c/3/B">
+								<num>(B)</num>
+								<content> to minimize delays;</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/c/4">
+							<num>(4)</num>
+							<content> ensuring transparency and accountability by using cost-effective information technology to collect and disseminate information regarding individual projects and agency performance;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/c/5">
+							<num>(5)</num>
+							<chapeau> engaging in early and active consultation with State, local, and Tribal governments—</chapeau>
+							<subparagraph identifier="/us/usc/t30/s1607/c/5/A">
+								<num>(A)</num>
+								<content> to avoid conflicts or duplication of effort;</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t30/s1607/c/5/B">
+								<num>(B)</num>
+								<content> to resolve concerns; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t30/s1607/c/5/C">
+								<num>(C)</num>
+								<content> to allow for concurrent, rather than sequential, reviews;</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/c/6">
+							<num>(6)</num>
+							<content> providing demonstrable improvements in the performance of Federal permitting and review processes, including lower costs and more timely decisions;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/c/7">
+							<num>(7)</num>
+							<content> expanding and institutionalizing Federal permitting and review process improvements that have proven effective;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/c/8">
+							<num>(8)</num>
+							<content> developing mechanisms to better communicate priorities and resolve disputes among agencies at the national, regional, State, and local levels; and</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/c/9">
+							<num>(9)</num>
+							<content> developing other practices, such as preapplication procedures.</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t30/s1607/d">
+						<num>(d)</num>
+						<heading> Review and report</heading>
+						<chapeau>
+							Not later than 1 year after 
+							<date date="2021-11-15">November 15, 2021</date>
+							, the Secretaries shall submit to Congress a report that—
+						</chapeau>
+						<paragraph identifier="/us/usc/t30/s1607/d/1">
+							<num>(1)</num>
+							<content> identifies additional measures, including regulatory and legislative proposals, if appropriate, that would increase the timeliness of permitting activities for the exploration and development of domestic critical minerals;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/d/2">
+							<num>(2)</num>
+							<content> identifies options, including cost recovery paid by permit applicants, for ensuring adequate staffing and training of Federal entities and personnel responsible for the consideration of applications, operating plans, leases, licenses, permits, and other use authorizations for critical mineral-related activities on Federal land;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/d/3">
+							<num>(3)</num>
+							<chapeau> quantifies the period of time typically required to complete each step associated with the development and processing of applications, operating plans, leases, licenses, permits, and other use authorizations for critical mineral-related activities on Federal land, including by—</chapeau>
+							<subparagraph identifier="/us/usc/t30/s1607/d/3/A">
+								<num>(A)</num>
+								<content> calculating the range, the mean, the median, the variance, and other statistical measures or representations of the period of time; and</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t30/s1607/d/3/B">
+								<num>(B)</num>
+								<content> taking into account other aspects that affect the period of time that are outside the control of the Executive branch, such as judicial review, applicant decisions, or State and local government involvement; and</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/d/4">
+							<num>(4)</num>
+							<content> describes actions carried out pursuant to subsection (c).</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t30/s1607/e">
+						<num>(e)</num>
+						<heading> Performance metric</heading>
+						<content>
+							<p>Not later than 90 days after the date of submission of the report under subsection (d), and after providing public notice and an opportunity to comment, the Secretaries, using as a baseline the period of time quantified under paragraph (3) of that subsection, shall develop and publish a performance metric for evaluating the progress made by the Executive branch to expedite the permitting of activities that will increase exploration for, and development of, domestic critical minerals, while maintaining environmental standards.</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t30/s1607/f">
+						<num>(f)</num>
+						<heading> Annual reports</heading>
+						<chapeau>
+							Not later than the date on which the President submits the first budget of the President under 
+							<ref href="/us/usc/t31/s1105">section 1105 of title 31</ref>
+							, after publication of the performance metric required under subsection (e), and annually thereafter, the Secretaries shall submit to Congress a report that—
+						</chapeau>
+						<paragraph identifier="/us/usc/t30/s1607/f/1">
+							<num>(1)</num>
+							<content> summarizes the implementation of recommendations, measures, and options identified in paragraphs (1) and (2) of subsection (d);</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/f/2">
+							<num>(2)</num>
+							<content> using the performance metric developed under subsection (e), describes progress made by the Executive branch, as compared to the baseline developed pursuant to subsection (d)(3), in expediting the permitting of activities that will increase exploration for, and development of, domestic critical minerals; and</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t30/s1607/f/3">
+							<num>(3)</num>
+							<content> compares the United States to other countries in terms of permitting efficiency and any other criteria relevant to the globally competitive critical minerals industry.</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t30/s1607/g">
+						<num>(g)</num>
+						<heading> Individual projects</heading>
+						<content>
+							<p>
+								Each year, using data contained in the reports submitted under subsection (f), the Director of the Office of Management and Budget shall prioritize inclusion of individual critical mineral projects on the website operated by the Office of Management and Budget in accordance with 
+								<ref href="/us/usc/t31/s1122">section 1122 of title 31</ref>
+								.
+							</p>
 						</content>
 					</subsection>
 				</section>

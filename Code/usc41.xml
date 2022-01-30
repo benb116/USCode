@@ -50,15 +50,6 @@
 					</tocItem>
 				</layout>
 			</toc>
-			<toc>
-				<layout>
-					<header>
-						<column>
-							<b>Editorial Notes</b>
-						</column>
-					</header>
-				</layout>
-			</toc>
 			<subtitle identifier="/us/usc/t41/stI">
 				<num>Subtitle I—</num>
 				<heading>Federal Procurement Policy</heading>
@@ -6739,7 +6730,7 @@ Amendments</column>
 									<chapeau>Subsection (c) does not apply to dollar thresholds—</chapeau>
 									<subparagraph identifier="/us/usc/t41/s1908/b/2/A">
 										<num>(A)</num>
-										<content> in chapter 67 of this title;</content>
+										<content> in chapters 67 and 83 of this title;</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t41/s1908/b/2/B">
 										<num>(B)</num>
@@ -19566,6 +19557,18 @@ Amendments</column>
 							</heading>
 							<content>The term “United States” includes any place subject to the jurisdiction of the United States.</content>
 						</paragraph>
+						<paragraph identifier="/us/usc/t41/s8301/3">
+							<num>(3)</num>
+							<heading>
+								<inline>Federal agency</inline>
+								.—
+							</heading>
+							<content>
+								The term “Federal agency” has the meaning given the term “executive agency” in 
+								<ref href="/us/usc/t41/s133">section 133 of this title</ref>
+								.
+							</content>
+						</paragraph>
 					</section>
 					<section identifier="/us/usc/t41/s8302">
 						<num>§ 8302.</num>
@@ -19581,7 +19584,7 @@ Amendments</column>
 									<inline>Allowable materials</inline>
 									.—
 								</heading>
-								<content>Only unmanufactured articles, materials, and supplies that have been mined or produced in the United States, and only manufactured articles, materials, and supplies that have been manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States, shall be acquired for public use unless the head of the department or independent establishment concerned determines their acquisition to be inconsistent with the public interest or their cost to be unreasonable.</content>
+								<content>Only unmanufactured articles, materials, and supplies that have been mined or produced in the United States, and only manufactured articles, materials, and supplies that have been manufactured in the United States substantially all from articles, materials, or supplies mined, produced, or manufactured in the United States, shall be acquired for public use unless the head of the Federal agency concerned determines their acquisition to be inconsistent with the public interest, their cost to be unreasonable, or that the articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality.</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t41/s8302/a/2">
 								<num>(2)</num>
@@ -19596,7 +19599,11 @@ Amendments</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t41/s8302/a/2/B">
 									<num>(B)</num>
-									<content> if articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and are not of a satisfactory quality; and</content>
+									<content>
+										 to any articles, materials, or supplies procured pursuant to a reciprocal defense procurement memorandum of understanding (as described in 
+										<ref href="/us/usc/t41/s8304">section 8304 of this title</ref>
+										), or a trade agreement or least developed country designation described in subpart 25.400 of the Federal Acquisition Regulation; and
+									</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t41/s8302/a/2/C">
 									<num>(C)</num>
@@ -19619,58 +19626,46 @@ Amendments</column>
 									<inline>In general</inline>
 									.—
 								</heading>
-								<content>Not later than 180 days after the end of each of fiscal years 2009 through 2011, the head of each Federal agency shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on the amount of the acquisitions made by the agency in that fiscal year of articles, materials, or supplies purchased from entities that manufacture the articles, materials, or supplies outside of the United States.</content>
+								<content>Not later than 180 days after the end of the fiscal year during which the Build America, Buy America Act is enacted, and annually thereafter for 4 years, the Director of the Office of Management and Budget, in consultation with the Administrator of General Services, shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a report on the total amount of acquisitions made by Federal agencies in the relevant fiscal year of articles, materials, or supplies acquired from entities that mine, produce, or manufacture the articles, materials, or supplies outside the United States.</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t41/s8302/b/2">
 								<num>(2)</num>
-								<heading>
-									<inline>Contents of report</inline>
-									.—
-								</heading>
-								<chapeau>The report required by paragraph (1) shall separately include, for the fiscal year covered by the report—</chapeau>
-								<subparagraph identifier="/us/usc/t41/s8302/b/2/A">
-									<num>(A)</num>
-									<content> the dollar value of any articles, materials, or supplies that were manufactured outside the United States;</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t41/s8302/b/2/B">
-									<num>(B)</num>
-									<content> an itemized list of all waivers granted with respect to the articles, materials, or supplies under this chapter, and a citation to the treaty, international agreement, or other law under which each waiver was granted;</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t41/s8302/b/2/C">
-									<num>(C)</num>
-									<content> if any articles, materials, or supplies were acquired from entities that manufacture articles, materials, or supplies outside the United States, the specific exception under this section that was used to purchase the articles, materials, or supplies; and</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t41/s8302/b/2/D">
-									<num>(D)</num>
-									<chapeau> a summary of—</chapeau>
-									<clause identifier="/us/usc/t41/s8302/b/2/D/i">
-										<num>(i)</num>
-										<content> the total procurement funds expended on articles, materials, and supplies manufactured inside the United States; and</content>
-									</clause>
-									<clause identifier="/us/usc/t41/s8302/b/2/D/ii">
-										<num>(ii)</num>
-										<content> the total procurement funds expended on articles, materials, and supplies manufactured outside the United States.</content>
-									</clause>
-								</subparagraph>
-							</paragraph>
-							<paragraph identifier="/us/usc/t41/s8302/b/3">
-								<num>(3)</num>
-								<heading>
-									<inline>Public availability</inline>
-									.—
-								</heading>
-								<content>The head of each Federal agency submitting a report under paragraph (1) shall make the report publicly available to the maximum extent practicable.</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t41/s8302/b/4">
-								<num>(4)</num>
 								<heading>
 									<inline>Exception for intelligence community</inline>
 									.—
 								</heading>
 								<content>
-									This subsection shall not apply to acquisitions made by an agency, or component of an agency, that is an element of the intelligence community as specified in, or designated under, section 3 of the National Security Act of 1947 (
-									<ref href="/us/usc/t50/s401a">50 U.S.C. 401a</ref>
+									This subsection does not apply to acquisitions made by an agency, or component of an agency, that is an element of the intelligence community as specified in, or designated under, section 3 of the National Security Act of 1947 (
+									<ref href="/us/usc/t50/s3003">50 U.S.C. 3003</ref>
 									).
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t41/s8302/c">
+							<num>(c)</num>
+							<heading>
+								<inline>Special Rules</inline>
+								.—
+							</heading>
+							<chapeau>The following rules apply in carrying out the provisions of subsection (a):</chapeau>
+							<paragraph identifier="/us/usc/t41/s8302/c/1">
+								<num>(1)</num>
+								<heading>
+									<inline>Iron and steel manufactured in the united states</inline>
+									.—
+								</heading>
+								<content>For purposes of this section, manufactured articles, materials, and supplies of iron and steel are deemed manufactured in the United States only if all manufacturing processes involved in the production of such iron and steel, from the initial melting stage through the application of coatings, occurs in the United States.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t41/s8302/c/2">
+								<num>(2)</num>
+								<heading>
+									<inline>Limitation on exception for commercially available off-the-shelf items</inline>
+									.—
+								</heading>
+								<content>
+									Notwithstanding any law or regulation to the contrary, including 
+									<ref href="/us/usc/t41/s1907">section 1907 of this title</ref>
+									 and the Federal Acquisition Regulation, the requirements of this section apply to all iron and steel articles, materials, and supplies.
 								</content>
 							</paragraph>
 						</subsection>
@@ -19712,7 +19707,7 @@ Amendments</column>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t41/s8303/b/1/B">
 									<num>(B)</num>
-									<content> if articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and are not of a satisfactory quality; and</content>
+									<content> to any articles, materials, or supplies procured pursuant to a reciprocal defense procurement memorandum of understanding (as described in section 8304), or a trade agreement or least developed country designation described in subpart 25.400 of the Federal Acquisition Regulation; and</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t41/s8303/b/1/C">
 									<num>(C)</num>
@@ -19729,24 +19724,50 @@ Amendments</column>
 									<inline>Particular article, material, or supply</inline>
 									.—
 								</heading>
-								<content>If the head of the department or independent establishment making the contract finds that it is impracticable to comply with subsection (a) for a particular article, material, or supply or that it would unreasonably increase the cost, an exception shall be noted in the specifications for that article, material, or supply and a public record of the findings that justified the exception shall be made.</content>
+								<content>If the head of the Federal agency making the contract finds that it is impracticable to comply with subsection (a) for a particular article, material, or supply or that it would unreasonably increase the cost, an exception shall be noted in the specifications for that article, material, or supply and a public record of the findings that justified the exception shall be made.</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t41/s8303/b/3">
 								<num>(3)</num>
 								<heading>
-									<inline>Inconsistent with public interest</inline>
+									<inline>Waiver authority</inline>
 									.—
 								</heading>
-								<content>Subsection (a) shall be regarded as requiring the purchase, for public use within the United States, of articles, materials, or supplies manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality, unless the head of the department or independent establishment concerned determines their purchase to be inconsistent with the public interest or their cost to be unreasonable.</content>
+								<content>Subsection (a) shall be regarded as requiring the purchase, for public use within the United States, of articles, materials, or supplies manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality, unless the head of the Federal agency concerned determines their acquisition to be inconsistent with the public interest, their cost to be unreasonable, or that the articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality.</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t41/s8303/c">
 							<num>(c)</num>
 							<heading>
+								<inline>Special Rules.—</inline>
+							</heading>
+							<paragraph identifier="/us/usc/t41/s8303/c/1">
+								<num>(1)</num>
+								<heading>
+									<inline>Production of iron and steel</inline>
+									.—
+								</heading>
+								<content>For purposes of this section, manufactured articles, materials, and supplies of iron and steel are deemed manufactured in the United States only if all manufacturing processes involved in the production of such iron and steel, from the initial melting stage through the application of coatings, occurs in the United States.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t41/s8303/c/2">
+								<num>(2)</num>
+								<heading>
+									<inline>Limitation on exception for commercially available off-the-shelf items</inline>
+									.—
+								</heading>
+								<content>
+									Notwithstanding any law or regulation to the contrary, including 
+									<ref href="/us/usc/t41/s1907">section 1907 of this title</ref>
+									 and the Federal Acquisition Regulation, the requirements of this section apply to all iron and steel articles, materials, and supplies used in contracts described in subsection (a).
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t41/s8303/d">
+							<num>(d)</num>
+							<heading>
 								<inline>Results of Failure To Comply</inline>
 								.—
 							</heading>
-							<content>If the head of a department, bureau, agency, or independent establishment that has made a contract containing the provision required by subsection (a) finds that there has been a failure to comply with the provision in the performance of the contract, the head of the department, bureau, agency, or independent establishment shall make the findings public. The findings shall include the name of the contractor obligated under the contract. The contractor, and any subcontractor, material man, or supplier associated or affiliated with the contractor, shall not be awarded another contract for the construction, alteration, or repair of any public building or public work for 3 years after the findings are made public.</content>
+							<content>If the head of a Federal agency that has made a contract containing the provision required by subsection (a) finds that there has been a failure to comply with the provision in the performance of the contract, the head of the Federal agency shall make the findings public. The findings shall include the name of the contractor obligated under the contract. The contractor, and any subcontractor, material man, or supplier associated or affiliated with the contractor, shall not be awarded another contract for the construction, alteration, or repair of any public building or public work for 3 years after the findings are made public.</content>
 						</subsection>
 					</section>
 					<section identifier="/us/usc/t41/s8304">

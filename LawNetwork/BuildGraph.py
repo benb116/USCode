@@ -1,7 +1,6 @@
 import ast
 import json
 import networkx as nx
-from pyvis.network import Network
 
 with open('short.json') as json_file:
   short = json.load(json_file)
@@ -25,12 +24,7 @@ with open('map.txt') as f:
       G.add_node(pln)
       for ref in arr:
         refpln = getPLN(ref)
-        G.add_edge(pln, refpln)
+        if (refpln != pln):
+          G.add_edge(pln, refpln)
 
-# net = Network(notebook=True)
-# net.from_nx(G)
-# net.show('example.html')
-indeg = list(G.in_degree())
-indeg.sort(key = lambda x: x[1], reverse=True)
-print(indeg)
-print('done')
+print(list(G.edges()))

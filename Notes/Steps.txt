@@ -1,0 +1,29 @@
+STEADY STATE
+================
+Public Laws
+USCode
+    Positive Law
+    Non-positive law
+
+A new law is added/proposed
+    Add it to PL folder
+    Parse text
+        Find Public laws and amend
+        Find positive law and amend
+    Commit
+
+As classifications come out, Add commits that update NPL
+
+
+BUILDUP
+================
+Download USC as is at a certain point
+
+Download latest PL included in USC into PL folder
+Recursively download referenced laws into PL folder
+For each root PL
+    Commit initial versions of them with altered date
+For each parent
+    Commit PL and amend child PL with altered date
+
+How to include Enactment of code titles into PL?

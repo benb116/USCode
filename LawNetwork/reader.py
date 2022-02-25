@@ -35,15 +35,16 @@ def findPLN(text):
   n = text.split('</docNumber>')[0].split('<docNumber>')[1]
   return congress + '-' + n
 
-for tn in range(2045, 3000):
-  n = SALnums[tn]
-  with requests.get(slurl(n)) as x:
-    try:
-      pln = findPLN(x.text)
-      t = findTitles(x.text)
-      print(pln, t)
-    except:
-      pass
+# for tn in range(1, 3000):
+  # n = SALnums[tn]
+  # print(tn)
+  # with requests.get(slurl(n)) as x:
+  #   try:
+  #     pln = findPLN(x.text)
+  #     t = findTitles(x.text)
+  #     print(pln, t)
+  #   except:
+  #     pass
 
 for cn in range(104, 118):
   congress = str(cn)

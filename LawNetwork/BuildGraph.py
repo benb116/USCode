@@ -15,7 +15,7 @@ def getPLN(refName):
     return getPLN(newref)
   return res
 
-with open('mapfull2.txt') as f:
+with open('map.txt') as f:
     mapLines = f.readlines()
     mapLines.reverse()
     for line in mapLines:

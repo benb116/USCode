@@ -1,6 +1,5 @@
 import ast
 import json
-from cv2 import split
 import networkx as nx
 
 with open('short.json') as json_file:

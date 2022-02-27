@@ -4,11 +4,17 @@ import networkx as nx
 
 with open('short.json') as json_file:
   short = json.load(json_file)
+with open('dates.json') as dates_json_file:
+  dates = json.load(dates_json_file)
 
 G = nx.DiGraph()
 
 def getPLN(refName):
-  res = short[refName]
+  if refName[0:6] == 'Act of':
+    res = dates[refName[7:]]
+  else:
+    res = short[refName]
+
   if res[0:2] == '--':
     newref = '--'.join(res.split('--')[2:])
     return getPLN(newref)

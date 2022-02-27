@@ -9,6 +9,9 @@ with open('titles.txt') as f:
     # And remove them after they've been found
     stitles = sorted(titles, key=len)
     stitles.reverse()
+
+with open('Dates.txt') as g:
+  dates = g.readlines()
     
 def findTitles(billtext):
   # Text cleanup
@@ -22,6 +25,11 @@ def findTitles(billtext):
       out.append(t)
       # Remove all instances so substrings are not found
       billtext = billtext.replace(t, '')
+  
+  for d in dates:
+    d = d[:-1]
+    if ('Act of '+d in billtext):
+      out.append('Act of '+d)
   
   return out
 
@@ -59,10 +67,9 @@ for cn in range(104, 118):
       file1.write(congress+'-'+PLtext+' '+str(t)+'\n')
       file1.close()
 
-with open('./SAL Compilations/69.txt') as f:
+with open('./SAL Compilations/65.txt') as f:
     acts = f.readlines()
-    counter = 0
     for a in acts:
-      counter += 1
+      n = a.split(' ')[2]
       t = findTitles(a)
-      print('84-'+str(counter), t)
+      print('82-'+str(n), t)

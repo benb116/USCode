@@ -43,29 +43,29 @@ def findPLN(text):
   n = text.split('</docNumber>')[0].split('<docNumber>')[1]
   return congress + '-' + n
 
-for tn in range(1, 3000):
-  n = SALnums[tn]
-  print(tn)
-  with requests.get(slurl(n)) as x:
-    try:
-      pln = findPLN(x.text)
-      t = findTitles(x.text)
-      print(pln, t)
-    except:
-      pass
+# for tn in range(1, 3000):
+#   n = SALnums[tn]
+#   print(tn)
+#   with requests.get(slurl(n)) as x:
+#     try:
+#       pln = findPLN(x.text)
+#       t = findTitles(x.text)
+#       print(pln, t)
+#     except:
+#       pass
 
-for cn in range(104, 118):
-  congress = str(cn)
-  for PLnumber in range(1, 1000):
-    file1 = open("map.txt", "a")  # append mode
-    PLtext = str(PLnumber)
-    with requests.get('https://www.congress.gov/'+congress+'/plaws/publ'+PLtext+'/PLAW-'+congress+'publ'+PLtext+'.htm') as x:
-      if (x.status_code != 200):
-        break
-      t = findTitles(x.text)
-      print(congress+'-'+PLtext, t)
-      file1.write(congress+'-'+PLtext+' '+str(t)+'\n')
-      file1.close()
+# for cn in range(104, 118):
+#   congress = str(cn)
+#   for PLnumber in range(1, 1000):
+#     file1 = open("map.txt", "a")  # append mode
+#     PLtext = str(PLnumber)
+#     with requests.get('https://www.congress.gov/'+congress+'/plaws/publ'+PLtext+'/PLAW-'+congress+'publ'+PLtext+'.htm') as x:
+#       if (x.status_code != 200):
+#         break
+#       t = findTitles(x.text)
+#       print(congress+'-'+PLtext, t)
+#       file1.write(congress+'-'+PLtext+' '+str(t)+'\n')
+      # file1.close()
 
 with open('./SAL Compilations/65.txt') as f:
     acts = f.readlines()

@@ -72,4 +72,4 @@ with open('./SAL Compilations/65.txt') as f:
     for a in acts:
       n = a.split(' ')[2]
       t = findTitles(a)
-      print('82-'+str(n), t)
+      print(str(n), t)

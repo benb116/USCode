@@ -28,7 +28,9 @@ def findTitles(billtext):
   
   for d in dates:
     d = d[:-1]
-    if ('Act of '+d in billtext):
+    dterms = d.split(' ')
+    ds = dterms[0]+' '+dterms[1]+dterms[2]
+    if ('Act of '+d in billtext) or ('Act of '+ds in billtext):
       out.append('Act of '+d)
   
   return out
@@ -67,9 +69,14 @@ def findPLN(text):
 #       file1.write(congress+'-'+PLtext+' '+str(t)+'\n')
       # file1.close()
 
-with open('./SAL Compilations/65.txt') as f:
-    acts = f.readlines()
-    for a in acts:
-      n = a.split(' ')[2]
-      t = findTitles(a)
-      print(str(n), t)
+v = 65
+while v < 98:
+  with open('./SAL Compilations/'+str(v)+'.txt') as f:
+      acts = f.readlines()
+      for a in acts:
+        n = a.split(' ')[2]
+        if v < 70:
+          n = str(int((v-1)/2+50))+'-'+str(n)
+        t = findTitles(a)
+        print(str(n), t)
+  v += 2

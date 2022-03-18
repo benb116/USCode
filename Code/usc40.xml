@@ -708,7 +708,11 @@ SUBCHAPTER III—ADMINISTRATIVE AND GENERAL</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t40/s113/e/3">
 									<num>(3)</num>
-									<content> an executive agency named in chapter 137 of title 10, and the head of the agency, with respect to the administration of that chapter;</content>
+									<content>
+										 an executive agency named in 
+										<ref href="/us/usc/t10/s3063">section 3063 of title 10</ref>
+										, and the head of the agency, with respect to the administration of the provisions of that title referred to in section 3016 of such title as “chapter 137 legacy provisions”;
+									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t40/s113/e/4">
 									<num>(4)</num>
@@ -718,7 +722,7 @@ SUBCHAPTER III—ADMINISTRATIVE AND GENERAL</column>
 									<num>(5)</num>
 									<content>
 										 the Secretary of Defense with respect to the administration of 
-										<ref href="/us/usc/t10/s2535">section 2535 of title 10</ref>
+										<ref href="/us/usc/t10/s4881">section 4881 of title 10</ref>
 										;
 									</content>
 								</paragraph>
@@ -5763,7 +5767,7 @@ Amendments</column>
 										<num>(A)</num>
 										<content>
 											 any part of the Defense Industrial Reserve pursuant to 
-											<ref href="/us/usc/t10/s2535">section 2535 of title 10</ref>
+											<ref href="/us/usc/t10/s4881">section 4881 of title 10</ref>
 											; or
 										</content>
 									</subparagraph>
@@ -20593,9 +20597,9 @@ SUBCHAPTER III—OTHER RESPONSIBILITIES</column>
 									<subparagraph identifier="/us/usc/t40/s11302/c/4/C">
 										<num>(C)</num>
 										<content>
-											 in the case of a major information technology investment of the Department of Defense, the assessment required by subparagraph (A) may be accomplished in accordance with 
-											<ref href="/us/usc/t10/s2445c">section 2445c of title 10</ref>
-											, provided that the results of the review are provided to the Administrator of the Office of Electronic Government upon request and to the committees identified in subsection (B); and
+											 in the case of a major information technology investment of the Department of Defense, the assessment required by subparagraph (A) may be accomplished in accordance with section 2445c 
+											<sup>1</sup>
+											 of title 10, provided that the results of the review are provided to the Administrator of the Office of Electronic Government upon request and to the committees identified in subsection (B); and
 										</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t40/s11302/c/4/D">

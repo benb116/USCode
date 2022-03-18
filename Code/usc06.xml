@@ -234,6 +234,12 @@ Part A—Information and Analysis; Access to Information</column>
 						</tocItem>
 						<tocItem>
 							<column>
+								<ref href="/us/usc/t6/s124h–1">124h–1.</ref>
+							</column>
+							<column>Threat information sharing.</column>
+						</tocItem>
+						<tocItem>
+							<column>
 								<ref href="/us/usc/t6/s124i">124i.</ref>
 							</column>
 							<column>Homeland Security Information Sharing Fellows Program.</column>
@@ -501,6 +507,12 @@ SUBCHAPTER III—SCIENCE AND TECHNOLOGY IN SUPPORT OF HOMELAND SECURITY</column>
 								<ref href="/us/usc/t6/s195g">195g.</ref>
 							</column>
 							<column>Countering Unmanned Aircraft Systems Coordinator.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s195h">195h.</ref>
+							</column>
+							<column>National Urban Security Technology Laboratory.</column>
 						</tocItem>
 						<header>
 							<column>
@@ -1165,6 +1177,24 @@ SUBCHAPTER VII—MANAGEMENT</column>
 							</column>
 							<column>Workforce health and medical support.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s351">351.</ref>
+							</column>
+							<column>Employee engagement.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s352">352.</ref>
+							</column>
+							<column>Annual employee award program.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s353">353.</ref>
+							</column>
+							<column>Acquisition professional career program.</column>
+						</tocItem>
 						<header>
 							<column>
 SUBCHAPTER VIII—COORDINATION WITH NON-FEDERAL ENTITIES; INSPECTOR GENERAL; UNITED STATES SECRET SERVICE; COAST GUARD; GENERAL PROVISIONS</column>
@@ -1572,6 +1602,12 @@ Part H—Miscellaneous Provisions</column>
 								<ref href="/us/usc/t6/s473">473.</ref>
 							</column>
 							<column>Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s474">474.</ref>
+							</column>
+							<column>Homeland security critical domain research and development.</column>
 						</tocItem>
 						<header>
 							<column>
@@ -2087,6 +2123,12 @@ Part C—Chief Medical Officer</column>
 							</column>
 							<column>Chief Medical Officer.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s597a">597a.</ref>
+							</column>
+							<column>Medical countermeasures.</column>
+						</tocItem>
 						<header>
 							<column>
 SUBCHAPTER XV—HOMELAND SECURITY GRANTS</column>
@@ -2413,7 +2455,19 @@ Part A—Cybersecurity and Infrastructure Security</column>
 							<column>
 								<ref href="/us/usc/t6/s665g">665g.</ref>
 							</column>
-							<column>State and local cybersecurity grant program.</column>
+							<column>State and Local Cybersecurity Grant Program.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s665h">665h.</ref>
+							</column>
+							<column>National Cyber Exercise Program.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s665i">665i.</ref>
+							</column>
+							<column>CyberSentry program.</column>
 						</tocItem>
 						<header>
 							<column>
@@ -4853,6 +4907,136 @@ Part C—Declaration of a Significant Incident</column>
 								<content>
 									<p>There is authorized to be appropriated $10,000,000 for each of fiscal years 2008 through 2012, to carry out this section, except for subsection (i), including for hiring officers and intelligence analysts to replace officers and intelligence analysts who are assigned to fusion centers under this section.</p>
 								</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s124h–1">
+							<num>§ 124h–1.</num>
+							<heading> Threat information sharing</heading>
+							<subsection identifier="/us/usc/t6/s124h–1/a">
+								<num>(a)</num>
+								<heading> Prioritization</heading>
+								<content>
+									<p>
+										The Secretary of Homeland Security shall prioritize the assignment of officers and intelligence analysts under 
+										<ref href="/us/usc/t6/s124h">section 124h of this title</ref>
+										 from the Transportation Security Administration and, as appropriate, from the Office of Intelligence and Analysis of the Department of Homeland Security, to locations with participating State, local, and regional fusion centers in jurisdictions with a high-risk surface transportation asset in order to enhance the security of such assets, including by improving timely sharing, in a manner consistent with the protection of privacy rights, civil rights, and civil liberties, of information regarding threats of terrorism and other threats, including targeted violence.
+									</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s124h–1/b">
+								<num>(b)</num>
+								<heading> Intelligence products</heading>
+								<chapeau>Officers and intelligence analysts assigned to locations with participating State, local, and regional fusion centers under this section shall participate in the generation and dissemination of transportation security intelligence products, with an emphasis on such products that relate to threats of terrorism and other threats, including targeted violence, to surface transportation assets that—</chapeau>
+								<paragraph identifier="/us/usc/t6/s124h–1/b/1">
+									<num>(1)</num>
+									<content> assist State, local, and Tribal law enforcement agencies in deploying their resources, including personnel, most efficiently to help detect, prevent, investigate, apprehend, and respond to such threats;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s124h–1/b/2">
+									<num>(2)</num>
+									<content> promote more consistent and timely sharing with and among jurisdictions of threat information; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s124h–1/b/3">
+									<num>(3)</num>
+									<content> enhance the Department of Homeland Security’s situational awareness of such threats.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s124h–1/c">
+								<num>(c)</num>
+								<heading> Clearances</heading>
+								<content>
+									<p>The Secretary of Homeland Security shall make available to appropriate owners and operators of surface transportation assets, and to any other person that the Secretary determines appropriate to foster greater sharing of classified information relating to threats of terrorism and other threats, including targeted violence, to surface transportation assets, the process of application for security clearances under Executive Order No. 13549 (75 Fed. Reg. 162; relating to a classified national security information program) or any successor Executive order.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s124h–1/d">
+								<num>(d)</num>
+								<heading> Report to Congress</heading>
+								<content>
+									<p>
+										Not later than one year after 
+										<date date="2021-12-27">December 27, 2021</date>
+										, the Secretary of Homeland Security shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes a detailed description of the measures used to ensure privacy rights, civil rights, and civil liberties protections in carrying out this section.
+									</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s124h–1/e">
+								<num>(e)</num>
+								<heading> GAO report</heading>
+								<content>
+									<p>
+										Not later than two years after 
+										<date date="2021-12-27">December 27, 2021</date>
+										, the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a review of the implementation of this section, including an assessment of the measures used to ensure privacy rights, civil rights, and civil liberties protections, and any recommendations to improve this implementation, together with any recommendations to improve information sharing with State, local, Tribal, territorial, and private sector entities to prevent, identify, and respond to threats of terrorism and other threats, including targeted violence, to surface transportation assets.
+									</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s124h–1/f">
+								<num>(f)</num>
+								<heading> Definitions</heading>
+								<chapeau>In this section:</chapeau>
+								<paragraph identifier="/us/usc/t6/s124h–1/f/1">
+									<num>(1)</num>
+									<chapeau> The term “surface transportation asset” includes facilities, equipment, or systems used to provide transportation services by—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s124h–1/f/1/A">
+										<num>(A)</num>
+										<content>
+											 a public transportation agency (as such term is defined in 
+											<ref href="/us/usc/t6/s1131/5">section 1131(5) of this title</ref>
+											);
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s124h–1/f/1/B">
+										<num>(B)</num>
+										<content>
+											 a railroad carrier (as such term is defined in 
+											<ref href="/us/usc/t49/s20102/3">section 20102(3) of title 49</ref>
+											);
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s124h–1/f/1/C">
+										<num>(C)</num>
+										<chapeau> an owner or operator of—</chapeau>
+										<clause identifier="/us/usc/t6/s124h–1/f/1/C/i">
+											<num>(i)</num>
+											<content>
+												 an entity offering scheduled, fixed-route transportation services by over-the-road bus (as such term is defined in 
+												<ref href="/us/usc/t6/s1151/4">section 1151(4) of this title</ref>
+												); or
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s124h–1/f/1/C/ii">
+											<num>(ii)</num>
+											<content> a bus terminal; or</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s124h–1/f/1/D">
+										<num>(D)</num>
+										<content> other transportation facilities, equipment, or systems, as determined by the Secretary.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s124h–1/f/2">
+									<num>(2)</num>
+									<content> The term “targeted violence” means an incident of violence in which an attacker selected a particular target in order to inflict mass injury or death with no discernable political or ideological motivation beyond mass injury or death.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s124h–1/f/3">
+									<num>(3)</num>
+									<chapeau> The term “terrorism” means the terms—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s124h–1/f/3/A">
+										<num>(A)</num>
+										<content>
+											 domestic terrorism (as such term is defined in 
+											<ref href="/us/usc/t18/s2331/5">section 2331(5) of title 18</ref>
+											, United States Code); and
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s124h–1/f/3/B">
+										<num>(B)</num>
+										<content>
+											 international terrorism (as such term is defined in 
+											<ref href="/us/usc/t18/s2331/1">section 2331(1) of title 18</ref>
+											).
+										</content>
+									</subparagraph>
+								</paragraph>
 							</subsection>
 						</section>
 						<section identifier="/us/usc/t6/s124i">
@@ -9770,6 +9954,66 @@ Part C—Declaration of a Significant Incident</column>
 							</content>
 						</subsection>
 					</section>
+					<section identifier="/us/usc/t6/s195h">
+						<num>§ 195h.</num>
+						<heading> National Urban Security Technology Laboratory</heading>
+						<subsection identifier="/us/usc/t6/s195h/a">
+							<num>(a)</num>
+							<heading> In general</heading>
+							<content>
+								<p>
+									The Secretary, acting through the Under Secretary for Science and Technology, shall designate the laboratory described in subsection (b) as an additional laboratory pursuant to the authority under 
+									<ref href="/us/usc/t6/s188/c/2">section 188(c)(2) of this title</ref>
+									. Such laboratory shall be used to test and evaluate emerging technologies and conduct research and development to assist emergency response providers in preparing for, and protecting against, threats of terrorism.
+								</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s195h/b">
+							<num>(b)</num>
+							<heading> Laboratory described</heading>
+							<chapeau>The laboratory described in this subsection is the laboratory—</chapeau>
+							<paragraph identifier="/us/usc/t6/s195h/b/1">
+								<num>(1)</num>
+								<content>
+									 known, as of 
+									<date date="2021-12-27">December 27, 2021</date>
+									, as the National Urban Security Technology Laboratory; and
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s195h/b/2">
+								<num>(2)</num>
+								<content>
+									 transferred to the Department pursuant to 
+									<ref href="/us/usc/t6/s183/1/E">section 183(1)(E) of this title</ref>
+									.
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s195h/c">
+							<num>(c)</num>
+							<heading> Laboratory activities</heading>
+							<chapeau>The National Urban Security Technology Laboratory shall—</chapeau>
+							<paragraph identifier="/us/usc/t6/s195h/c/1">
+								<num>(1)</num>
+								<content> conduct tests, evaluations, and assessments of current and emerging technologies, including, as appropriate, the cybersecurity of such technologies that can connect to the internet, for emergency response providers;</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s195h/c/2">
+								<num>(2)</num>
+								<content> act as a technical advisor to emergency response providers; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s195h/c/3">
+								<num>(3)</num>
+								<content> carry out other such activities as the Secretary determines appropriate.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s195h/d">
+							<num>(d)</num>
+							<heading> Rule of construction</heading>
+							<content>
+								<p>Nothing in this section may be construed as affecting in any manner the authorities or responsibilities of the Countering Weapons of Mass Destruction Office of the Department.</p>
+							</content>
+						</subsection>
+					</section>
 				</subchapter>
 				<subchapter identifier="/us/usc/t6/ch1/schIV">
 					<num>SUBCHAPTER IV—</num>
@@ -13580,7 +13824,7 @@ Part C—Declaration of a Significant Incident</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s242/e/6">
 									<num>(6)</num>
-									<chapeau> utilizing resources, such as indicator cards, fact sheets, pamphlets, posters, brochures, and radio and television campaigns to—</chapeau>
+									<chapeau> developing and utilizing, in consultation with the Blue Campaign Advisory Board established pursuant to subsection (g), resources such as indicator cards, fact sheets, pamphlets, posters, brochures, and radio and television campaigns to—</chapeau>
 									<subparagraph identifier="/us/usc/t6/s242/e/6/A">
 										<num>(A)</num>
 										<content> educate partners and stakeholders; and</content>
@@ -13598,6 +13842,89 @@ Part C—Declaration of a Significant Incident</column>
 									<num>(8)</num>
 									<content> any other activities the Secretary determines necessary to carry out the Blue Campaign.</content>
 								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s242/f">
+								<num>(f)</num>
+								<heading> Web-based training programs</heading>
+								<chapeau>
+									To enhance training opportunities, the Director of the Blue Campaign shall develop web-based interactive training videos that utilize a learning management system to provide online training opportunities. During the 10-year period beginning on the date that is 90 days after 
+									<date date="2021-12-27">December 27, 2021</date>
+									, such training opportunities shall be made available to the following individuals:
+								</chapeau>
+								<paragraph identifier="/us/usc/t6/s242/f/1">
+									<num>(1)</num>
+									<content> Federal, State, local, Tribal, and territorial law enforcement officers.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s242/f/2">
+									<num>(2)</num>
+									<content> Non-Federal correction system personnel.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s242/f/3">
+									<num>(3)</num>
+									<content> Such other individuals as the Director determines appropriate.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s242/g">
+								<num>(g)</num>
+								<heading> Blue Campaign Advisory Board</heading>
+								<paragraph identifier="/us/usc/t6/s242/g/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<chapeau>There is established in the Department a Blue Campaign Advisory Board, which shall be comprised of representatives assigned by the Secretary from—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s242/g/1/A">
+										<num>(A)</num>
+										<content> the Office for Civil Rights and Civil Liberties of the Department;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s242/g/1/B">
+										<num>(B)</num>
+										<content> the Privacy Office of the Department; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s242/g/1/C">
+										<num>(C)</num>
+										<content> not fewer than four other separate components or offices of the Department.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s242/g/2">
+									<num>(2)</num>
+									<heading> Charter</heading>
+									<chapeau>The Secretary is authorized to issue a charter for the Blue Campaign Advisory Board, and such charter shall specify the following:</chapeau>
+									<subparagraph identifier="/us/usc/t6/s242/g/2/A">
+										<num>(A)</num>
+										<content> The Board’s mission, goals, and scope of its activities.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s242/g/2/B">
+										<num>(B)</num>
+										<content> The duties of the Board’s representatives.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s242/g/2/C">
+										<num>(C)</num>
+										<content> The frequency of the Board’s meetings.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s242/g/3">
+									<num>(3)</num>
+									<heading> Consultation</heading>
+									<chapeau>The Director shall consult the Blue Campaign Advisory Board and, as appropriate, experts from other components and offices of the Center for Countering Human Trafficking of the Department regarding the following:</chapeau>
+									<subparagraph identifier="/us/usc/t6/s242/g/3/A">
+										<num>(A)</num>
+										<content> Recruitment tactics used by human traffickers to inform the development of training and materials by the Blue Campaign.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s242/g/3/B">
+										<num>(B)</num>
+										<content> The development of effective awareness tools for distribution to Federal and non-Federal officials to identify and prevent instances of human trafficking.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s242/g/3/C">
+										<num>(C)</num>
+										<content> Identification of additional persons or entities that may be uniquely positioned to recognize signs of human trafficking and the development of materials for such persons.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s242/h">
+								<num>(h)</num>
+								<heading> Consultation</heading>
+								<content>
+									<p>With regard to the development of programs under the Blue Campaign and the implementation of such programs, the Director is authorized to consult with State, local, Tribal, and territorial agencies, non-governmental organizations, private sector organizations, and experts.</p>
+								</content>
 							</subsection>
 						</section>
 						<section identifier="/us/usc/t6/s243">
@@ -15688,18 +16015,18 @@ Part C—Declaration of a Significant Incident</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s301a/a/1/B">
 										<num>(B)</num>
-										<content> An existing Federal Government-owned land port of entry.</content>
+										<content> An existing Federal Government-owned or -leased land port of entry.</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s301a/a/1/C">
 										<num>(C)</num>
-										<chapeau> A new Federal Government-owned land port of entry if—</chapeau>
+										<chapeau> A new Federal Government-owned or -leased land port of entry if—</chapeau>
 										<clause identifier="/us/usc/t6/s301a/a/1/C/i">
 											<num>(i)</num>
-											<content> the fair market value of the donation is $50,000,000 or less; and</content>
+											<content> the fair market value of the donation is $75,000,000 or less; and</content>
 										</clause>
 										<clause identifier="/us/usc/t6/s301a/a/1/C/ii">
 											<num>(ii)</num>
-											<content> the fair market value, including any personal and real property donations in total, of such port of entry when completed, is $50,000,000 or less.</content>
+											<content> the fair market value of donations with respect to the land port of entry total $75,000,000 or less over the preceding five years.</content>
 										</clause>
 									</subparagraph>
 								</paragraph>
@@ -15716,7 +16043,7 @@ Part C—Declaration of a Significant Incident</column>
 									<chapeau>
 										Donations accepted pursuant to this subsection may be used for activities of the Office of Field Operations set forth in subparagraphs (A) through (F) of 
 										<ref href="/us/usc/t6/s211/g/3">section 211(g)(3) of this title</ref>
-										, which are related to a new or existing sea or air port of entry or a new or existing Federal Government-owned land port of entry described in paragraph (1), including expenses related to—
+										, which are related to a new or existing sea or air port of entry or a new or existing Federal Government-owned or -leased land port of entry described in paragraph (1), including expenses related to—
 									</chapeau>
 									<subparagraph identifier="/us/usc/t6/s301a/a/3/A">
 										<num>(A)</num>
@@ -15734,7 +16061,7 @@ Part C—Declaration of a Significant Incident</column>
 								<paragraph identifier="/us/usc/t6/s301a/b/1">
 									<num>(1)</num>
 									<heading> In general</heading>
-									<chapeau>Subject to paragraph (3), the Commissioner of U.S. Customs and Border Protection, and the Administrator of the General Services Administration, as applicable, may enter into an agreement with any entity to accept a donation of real property or money for uses described in paragraph (2) only with respect to the following locations at which U.S. Customs and Border Protection performs or will be performing inspection services:</chapeau>
+									<chapeau>Subject to paragraph (3), the Commissioner of U.S. Customs and Border Protection, and the Administrator of General Services, as applicable, may enter into an agreement with any entity to accept a donation of real property or money for uses described in paragraph (2) only with respect to the following locations at which U.S. Customs and Border Protection performs or will be performing inspection services:</chapeau>
 									<subparagraph identifier="/us/usc/t6/s301a/b/1/A">
 										<num>(A)</num>
 										<content> A new or existing sea or air port of entry.</content>
@@ -15748,11 +16075,11 @@ Part C—Declaration of a Significant Incident</column>
 										<chapeau> A new Federal Government-owned land port of entry if—</chapeau>
 										<clause identifier="/us/usc/t6/s301a/b/1/C/i">
 											<num>(i)</num>
-											<content> the fair market value of the donation is $50,000,000 or less; and</content>
+											<content> the fair market value of the donation is $75,000,000 or less; and</content>
 										</clause>
 										<clause identifier="/us/usc/t6/s301a/b/1/C/ii">
 											<num>(ii)</num>
-											<content> the fair market value, including any personal and real property donations in total, of such port of entry when completed, is $50,000,000 or less.</content>
+											<content> the fair market value of donations with respect to the land port of entry total $75,000,000 or less over the preceding five years.</content>
 										</clause>
 									</subparagraph>
 								</paragraph>
@@ -15789,8 +16116,8 @@ Part C—Declaration of a Significant Incident</column>
 										<heading> In general</heading>
 										<content>
 											<p>
-												The authority to enter into an agreement under this subsection shall terminate on the date that is 
-												<date date="2021-12-16">December 16, 2021</date>
+												The authority to enter into an agreement under this subsection shall terminate on 
+												<date date="2026-12-31">December 31, 2026</date>
 												.
 											</p>
 										</content>
@@ -15799,7 +16126,7 @@ Part C—Declaration of a Significant Incident</column>
 										<num>(B)</num>
 										<heading> Rule of construction</heading>
 										<content>
-											<p>The termination date referred to in subparagraph (A) shall not apply to carrying out the terms of an agreement under this subsection if such agreement is entered into before such termination date.</p>
+											<p>The termination date referred to in subparagraph (A) shall not apply to a proposal accepted for consideration by U.S. Customs and Border Protection or the General Services Administration pursuant to this section or a prior pilot program prior to such termination date.</p>
 										</content>
 									</subparagraph>
 								</paragraph>
@@ -15981,9 +16308,15 @@ Part C—Declaration of a Significant Incident</column>
 									<subparagraph identifier="/us/usc/t6/s301a/c/6/B">
 										<num>(B)</num>
 										<heading> Certification requirement</heading>
-										<content>
-											<p>Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that the donation will not be used for the construction of a detention facility or a border fence or wall.</p>
-										</content>
+										<chapeau>Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that </chapeau>
+										<clause identifier="/us/usc/t6/s301a/c/6/B/i">
+											<num>(i)</num>
+											<content> the donation will not be used for the construction of a detention facility or a border fence or wall; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s301a/c/6/B/ii">
+											<num>(ii)</num>
+											<content> the donor will be notified in the Donations Acceptance Agreement that the donor shall be financially responsible for all costs and operating expenses related to the operation, maintenance, and repair of the donated real property until such time as U.S. Customs and Border Protection provides the donor written notice otherwise.</content>
+										</clause>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s301a/c/7">
@@ -16035,7 +16368,7 @@ Part C—Declaration of a Significant Incident</column>
 							<subsection identifier="/us/usc/t6/s301a/d">
 								<num>(d)</num>
 								<heading> GAO report</heading>
-								<chapeau>The Comptroller General of the United States shall submit an annual report to the congressional committees referred to in subsection (c)(7) that evaluates—</chapeau>
+								<chapeau>The Comptroller General of the United States shall submit an biennial report to the congressional committees referred to in subsection (c)(7) that evaluates—</chapeau>
 								<paragraph identifier="/us/usc/t6/s301a/d/1">
 									<num>(1)</num>
 									<content>
@@ -16057,7 +16390,7 @@ Part C—Declaration of a Significant Incident</column>
 								<num>(e)</num>
 								<heading> Judicial review</heading>
 								<content>
-									<p>Decisions of the Commissioner of U.S. Customs and Border Protection and the Administrator of the General Services Administration under this section regarding the acceptance of real or personal property are in the discretion of the Commissioner and the Administrator and are not subject to judicial review.</p>
+									<p>Decisions of the Commissioner of U.S. Customs and Border Protection and the Administrator of General Services under this section regarding the acceptance of real or personal property are in the discretion of the Commissioner and the Administrator and are not subject to judicial review.</p>
 								</content>
 							</subsection>
 							<subsection identifier="/us/usc/t6/s301a/f">
@@ -20515,23 +20848,23 @@ Part C—Declaration of a Significant Incident</column>
 							<chapeau>In addition to the responsibilities set forth in chapter 14 of title 5 and other applicable law, the Chief Human Capital Officer of the Department shall—</chapeau>
 							<paragraph identifier="/us/usc/t6/s344/b/1">
 								<num>(1)</num>
-								<content> develop and implement strategic workforce planning policies that are consistent with Government-wide leading principles and in line with Department strategic human capital goals and priorities, taking into account the special requirements of members of the Armed Forces serving in the Coast Guard;</content>
+								<content> develop and implement strategic workforce planning policies, including with respect to leader development and employee engagement, that are consistent with Government-wide leading principles, in line with Department strategic human capital goals and priorities, and informed by best practices within the Federal Government and the private sector, taking into account the special requirements of members of the Armed Forces serving in the Coast Guard;</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t6/s344/b/2">
 								<num>(2)</num>
-								<content> develop performance measures to provide a basis for monitoring and evaluating Department-wide strategic workforce planning efforts;</content>
+								<content> use performance measures to evaluate, on an ongoing basis, Department-wide strategic workforce planning efforts;</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t6/s344/b/3">
 								<num>(3)</num>
-								<content> develop, improve, and implement policies, including compensation flexibilities available to Federal agencies where appropriate, to recruit, hire, train, and retain the workforce of the Department, in coordination with all components of the Department;</content>
+								<content> develop, improve, and implement policies that, to the extent practicable, are informed by employee feedback, including compensation flexibilities available to Federal agencies where appropriate, to recruit, hire, train, and retain the workforce of the Department, in coordination with all components of the Department;</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t6/s344/b/4">
 								<num>(4)</num>
-								<content> identify methods for managing and overseeing human capital programs and initiatives, in coordination with the head of each component of the Department;</content>
+								<content> identify methods for managing and overseeing human capital programs and initiatives, including leader development and employee engagement programs, in coordination with the head of each component of the Department;</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t6/s344/b/5">
 								<num>(5)</num>
-								<content> develop a career path framework and create opportunities for leader development in coordination with all components of the Department;</content>
+								<content> develop a career path framework and create opportunities for leader development in coordination with all components of the Department that is informed by an assessment, carried out by the Chief Human Capital Officer, of the learning and developmental needs of employees in supervisory and nonsupervisory roles across the Department and appropriate workforce planning initiatives;</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t6/s344/b/6">
 								<num>(6)</num>
@@ -20547,10 +20880,30 @@ Part C—Declaration of a Significant Incident</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t6/s344/b/9">
 								<num>(9)</num>
-								<content> provide input concerning the hiring and performance of the Chief Human Capital Officer or comparable official in each component of the Department; and</content>
+								<content>
+									 maintain a catalogue of available employee development opportunities, including the Homeland Security Rotation Program pursuant to 
+									<ref href="/us/usc/t6/s414">section 414 of this title</ref>
+									, departmental leadership development programs, interagency development programs, and other rotational programs;
+								</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t6/s344/b/10">
 								<num>(10)</num>
+								<content> ensure that employee discipline and adverse action programs comply with the requirements of all pertinent laws, rules, regulations, and Federal guidance, and ensure due process for employees;</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s344/b/11">
+								<num>(11)</num>
+								<content> analyze each Department or Government-wide Federal workforce satisfaction or morale survey not later than 90 days after the date of the publication of each such survey and submit to the Secretary such analysis, including, as appropriate, recommendations to improve workforce satisfaction or morale within the Department;</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s344/b/12">
+								<num>(12)</num>
+								<content> review and approve all component employee engagement action plans to ensure such plans include initiatives responsive to the root cause of employee engagement challenges, as well as outcome-based performance measures and targets to track the progress of such initiatives;</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s344/b/13">
+								<num>(13)</num>
+								<content> provide input concerning the hiring and performance of the Chief Human Capital Officer or comparable official in each component of the Department; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s344/b/14">
+								<num>(14)</num>
 								<content> ensure that all employees of the Department are informed of their rights and remedies under chapters 12 and 23 of title 5.</content>
 							</paragraph>
 						</subsection>
@@ -20574,18 +20927,41 @@ Part C—Declaration of a Significant Incident</column>
 						</subsection>
 						<subsection identifier="/us/usc/t6/s344/d">
 							<num>(d)</num>
+							<heading> Chief Learning and Engagement Officer</heading>
+							<content>
+								<p>The Chief Human Capital Officer may designate an employee of the Department to serve as a Chief Learning and Engagement Officer to assist the Chief Human Capital Officer in carrying out this section.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s344/e">
+							<num>(e)</num>
 							<heading> Annual submission</heading>
 							<chapeau>Not later than 90 days after the date on which the Secretary submits the annual budget justification for the Department, the Secretary shall submit to the congressional homeland security committees a report that includes a table, delineated by component with actual and enacted amounts, including—</chapeau>
-							<paragraph identifier="/us/usc/t6/s344/d/1">
+							<paragraph identifier="/us/usc/t6/s344/e/1">
 								<num>(1)</num>
 								<content> information on the progress within the Department of fulfilling the workforce strategies developed under subsection (c);</content>
 							</paragraph>
-							<paragraph identifier="/us/usc/t6/s344/d/2">
+							<paragraph identifier="/us/usc/t6/s344/e/2">
 								<num>(2)</num>
+								<content> information on employee development opportunities catalogued pursuant to paragraph (9) of subsection (b) and any available data on participation rates, attrition rates, and impacts on retention and employee satisfaction;</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s344/e/3">
+								<num>(3)</num>
+								<content> information on the progress of Departmentwide strategic workforce planning efforts as determined under paragraph (2) of subsection (b);</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s344/e/4">
+								<num>(4)</num>
+								<content>
+									 information on the activities of the steering committee established pursuant to 
+									<ref href="/us/usc/t6/s351/a">section 351(a) of this title</ref>
+									, including the number of meetings, types of materials developed and distributed, and recommendations made to the Secretary;
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s344/e/5">
+								<num>(5)</num>
 								<content> the number of on-board staffing for Federal employees from the prior fiscal year;</content>
 							</paragraph>
-							<paragraph identifier="/us/usc/t6/s344/d/3">
-								<num>(3)</num>
+							<paragraph identifier="/us/usc/t6/s344/e/6">
+								<num>(6)</num>
 								<content>
 									 the total contract hours submitted by each prime contractor as part of the service contract inventory required under section 743 of the Financial Services and General Government Appropriations Act, 2010 (division C of 
 									<ref href="/us/pl/111/117">Public Law 111–117</ref>
@@ -20594,8 +20970,8 @@ Part C—Declaration of a Significant Incident</column>
 									 note); and
 								</content>
 							</paragraph>
-							<paragraph identifier="/us/usc/t6/s344/d/4">
-								<num>(4)</num>
+							<paragraph identifier="/us/usc/t6/s344/e/7">
+								<num>(7)</num>
 								<content>
 									 the number of full-time equivalent personnel identified under the Intergovernmental Personnel Act of 1970 (
 									<ref href="/us/usc/t42/s4701">42 U.S.C. 4701</ref>
@@ -20603,8 +20979,8 @@ Part C—Declaration of a Significant Incident</column>
 								</content>
 							</paragraph>
 						</subsection>
-						<subsection identifier="/us/usc/t6/s344/e">
-							<num>(e)</num>
+						<subsection identifier="/us/usc/t6/s344/f">
+							<num>(f)</num>
 							<heading> Limitation</heading>
 							<content>
 								<p>
@@ -21461,6 +21837,252 @@ Part C—Declaration of a Significant Incident</column>
 							</paragraph>
 						</subsection>
 					</section>
+					<section identifier="/us/usc/t6/s351">
+						<num>§ 351.</num>
+						<heading> Employee engagement</heading>
+						<subsection identifier="/us/usc/t6/s351/a">
+							<num>(a)</num>
+							<heading> Steering committee</heading>
+							<chapeau>
+								Not later than 120 days after 
+								<date date="2021-12-27">December 27, 2021</date>
+								, the Secretary shall establish an employee engagement steering committee, including representatives from operational components, headquarters, and field personnel, including supervisory and nonsupervisory personnel, and employee labor organizations that represent Department employees, and chaired by the Under Secretary for Management, to carry out the following activities:
+							</chapeau>
+							<paragraph identifier="/us/usc/t6/s351/a/1">
+								<num>(1)</num>
+								<content> Identify factors that have a negative impact on employee engagement, morale, and communications within the Department, such as perceptions about limitations on career progression, mobility, or development opportunities, collected through employee feedback platforms, including through annual employee surveys, questionnaires, and other communications, as appropriate.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s351/a/2">
+								<num>(2)</num>
+								<content> Identify, develop, and distribute initiatives and best practices to improve employee engagement, morale, and communications within the Department, including through annual employee surveys, questionnaires, and other communications, as appropriate.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s351/a/3">
+								<num>(3)</num>
+								<content> Monitor efforts of each component to address employee engagement, morale, and communications based on employee feedback provided through annual employee surveys, questionnaires, and other communications, as appropriate.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s351/a/4">
+								<num>(4)</num>
+								<content> Advise the Secretary on efforts to improve employee engagement, morale, and communications within specific components and across the Department.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s351/a/5">
+								<num>(5)</num>
+								<content> Conduct regular meetings and report, not less than once per quarter, to the Under Secretary for Management, the head of each component, and the Secretary on Departmentwide efforts to improve employee engagement, morale, and communications.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s351/b">
+							<num>(b)</num>
+							<heading> Action plan; reporting</heading>
+							<chapeau>The Secretary, acting through the Chief Human Capital Officer, shall—</chapeau>
+							<paragraph identifier="/us/usc/t6/s351/b/1">
+								<num>(1)</num>
+								<content> not later than 120 days after the date of the establishment of the employee engagement steering committee under subsection (a), issue a Departmentwide employee engagement action plan, reflecting input from the steering committee and employee feedback provided through annual employee surveys, questionnaires, and other communications in accordance with paragraph (1) of such subsection, to execute strategies to improve employee engagement, morale, and communications within the Department; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s351/b/2">
+								<num>(2)</num>
+								<chapeau> require the head of each component to—</chapeau>
+								<subparagraph identifier="/us/usc/t6/s351/b/2/A">
+									<num>(A)</num>
+									<content> develop and implement a component-specific employee engagement plan to advance the action plan required under paragraph (1) that includes performance measures and objectives, is informed by employee feedback provided through annual employee surveys, questionnaires, and other communications, as appropriate, and sets forth how employees and, where applicable, their labor representatives are to be integrated in developing programs and initiatives;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s351/b/2/B">
+									<num>(B)</num>
+									<content> monitor progress on implementation of such action plan; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s351/b/2/C">
+									<num>(C)</num>
+									<content> provide to the Chief Human Capital Officer and the steering committee quarterly reports on actions planned and progress made under this paragraph.</content>
+								</subparagraph>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s351/c">
+							<num>(c)</num>
+							<heading> Termination</heading>
+							<content>
+								<p>
+									This section shall terminate on the date that is five years after 
+									<date date="2021-12-27">December 27, 2021</date>
+									.
+								</p>
+							</content>
+						</subsection>
+					</section>
+					<section identifier="/us/usc/t6/s352">
+						<num>§ 352.</num>
+						<heading> Annual employee award program</heading>
+						<subsection identifier="/us/usc/t6/s352/a">
+							<num>(a)</num>
+							<heading> In general</heading>
+							<chapeau>The Secretary may establish an annual employee award program to recognize Department employees or groups of employees for significant contributions to the achievement of the Department’s goals and missions. If such a program is established, the Secretary shall—</chapeau>
+							<paragraph identifier="/us/usc/t6/s352/a/1">
+								<num>(1)</num>
+								<content> establish within such program categories of awards, each with specific criteria, that emphasize honoring employees who are at the nonsupervisory level;</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s352/a/2">
+								<num>(2)</num>
+								<content> publicize within the Department how any employee or group of employees may be nominated for an award;</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s352/a/3">
+								<num>(3)</num>
+								<content> establish an internal review board comprised of representatives from Department components, headquarters, and field personnel to submit to the Secretary award recommendations regarding specific employees or groups of employees;</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s352/a/4">
+								<num>(4)</num>
+								<content> select recipients from the pool of nominees submitted by the internal review board under paragraph (3) and convene a ceremony at which employees or groups of employees receive such awards from the Secretary; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s352/a/5">
+								<num>(5)</num>
+								<content> publicize such program within the Department.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s352/b">
+							<num>(b)</num>
+							<heading> Internal review board</heading>
+							<content>
+								<p>The internal review board described in subsection (a)(3) shall, when carrying out its function under such subsection, consult with representatives from operational components and headquarters, including supervisory and nonsupervisory personnel, and employee labor organizations that represent Department employees.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s352/c">
+							<num>(c)</num>
+							<heading> Rule of construction</heading>
+							<content>
+								<p>Nothing in this section may be construed to authorize additional funds to carry out the requirements of this section or to require the Secretary to provide monetary bonuses to recipients of an award under this section.</p>
+							</content>
+						</subsection>
+					</section>
+					<section identifier="/us/usc/t6/s353">
+						<num>§ 353.</num>
+						<heading> Acquisition professional career program</heading>
+						<subsection identifier="/us/usc/t6/s353/a">
+							<num>(a)</num>
+							<heading> Establishment</heading>
+							<content>
+								<p>There is established in the Department an acquisition professional career program to develop a cadre of acquisition professionals within the Department.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s353/b">
+							<num>(b)</num>
+							<heading> Administration</heading>
+							<content>
+								<p>The Under Secretary for Management shall administer the acquisition professional career program established pursuant to subsection (a).</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s353/c">
+							<num>(c)</num>
+							<heading> Program requirements</heading>
+							<chapeau>The Under Secretary for Management shall carry out the following with respect to the acquisition professional career program.</chapeau>
+							<paragraph identifier="/us/usc/t6/s353/c/1">
+								<num>(1)</num>
+								<content> Designate the occupational series, grades, and number of acquisition positions throughout the Department to be included in the program and manage centrally such positions.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s353/c/2">
+								<num>(2)</num>
+								<content> Establish and publish on the Department’s website eligibility criteria for candidates to participate in the program.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s353/c/3">
+								<num>(3)</num>
+								<chapeau> Carry out recruitment efforts to attract candidates—</chapeau>
+								<subparagraph identifier="/us/usc/t6/s353/c/3/A">
+									<num>(A)</num>
+									<content> from institutions of higher education, including such institutions with established acquisition specialties and courses of study, historically Black colleges and universities, and Hispanic-serving institutions;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s353/c/3/B">
+									<num>(B)</num>
+									<content> with diverse work experience outside of the Federal Government; or</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s353/c/3/C">
+									<num>(C)</num>
+									<content> with military service.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s353/c/4">
+								<num>(4)</num>
+								<content> Hire eligible candidates for designated positions under the program.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s353/c/5">
+								<num>(5)</num>
+								<content> Develop a structured program comprised of acquisition training, on-the-job experience, Department-wide rotations, mentorship, shadowing, and other career development opportunities for program participants.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s353/c/6">
+								<num>(6)</num>
+								<content> Provide, beyond required training established for program participants, additional specialized acquisition training, including small business contracting and innovative acquisition techniques training.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s353/d">
+							<num>(d)</num>
+							<heading> Reports</heading>
+							<chapeau>
+								Not later than one year after 
+								<date date="2021-12-27">December 27, 2021</date>
+								, and annually thereafter through 2027, the Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the acquisition professional career program. Each such report shall include the following information:
+							</chapeau>
+							<paragraph identifier="/us/usc/t6/s353/d/1">
+								<num>(1)</num>
+								<content> The number of candidates approved for the program.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s353/d/2">
+								<num>(2)</num>
+								<content> The number of candidates who commenced participation in the program, including generalized information on such candidates’ backgrounds with respect to education and prior work experience, but not including personally identifiable information.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s353/d/3">
+								<num>(3)</num>
+								<content> A breakdown of the number of participants hired under the program by type of acquisition position.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s353/d/4">
+								<num>(4)</num>
+								<content> A list of Department components and offices that participated in the program and information regarding length of time of each program participant in each rotation at such components or offices.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s353/d/5">
+								<num>(5)</num>
+								<content> Program attrition rates and post-program graduation retention data, including information on how such data compare to the prior year’s data, as available.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s353/d/6">
+								<num>(6)</num>
+								<content> The Department’s recruiting efforts for the program.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s353/d/7">
+								<num>(7)</num>
+								<content> The Department’s efforts to promote retention of program participants.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s353/e">
+							<num>(e)</num>
+							<heading> Definitions</heading>
+							<chapeau>In this section:</chapeau>
+							<paragraph identifier="/us/usc/t6/s353/e/1">
+								<num>(1)</num>
+								<heading> Hispanic-serving institution</heading>
+								<content>
+									<p>
+										The term “Hispanic-serving institution” has the meaning given such term in 
+										<ref href="/us/usc/t20/s1101a">section 1101a of title 20</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s353/e/2">
+								<num>(2)</num>
+								<heading> Historically Black colleges and universities</heading>
+								<content>
+									<p>
+										The term “historically Black colleges and universities” has the meaning given the term “part B institution” in 
+										<ref href="/us/usc/t20/s1061/2">section 1061(2) of title 20</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s353/e/3">
+								<num>(3)</num>
+								<heading> Institution of higher education</heading>
+								<content>
+									<p>
+										The term “institution of higher education” has the meaning given such term in 
+										<ref href="/us/usc/t20/s1001">section 1001 of title 20</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+						</subsection>
+					</section>
 				</subchapter>
 				<subchapter identifier="/us/usc/t6/ch1/schVIII">
 					<num>SUBCHAPTER VIII—</num>
@@ -21698,7 +22320,7 @@ Part C—Declaration of a Significant Incident</column>
 									<content>
 										<p>
 											When the Secretary carries out basic, applied, and advanced research and development projects, including the expenditure of funds for such projects, the Secretary may exercise the same authority (subject to the same limitations and conditions) with respect to such research and projects as the Secretary of Defense may exercise under 
-											<ref href="/us/usc/t10/s2371">section 2371 of title 10</ref>
+											<ref href="/us/usc/t10/s4021">section 4021 of title 10</ref>
 											 (except for subsections (b) and (f)), after making a determination that the use of a contract, grant, or cooperative agreement for such project is not feasible or appropriate. The annual report required under subsection (b) 
 											<sup>1</sup>
 											 of this section, as applied to the Secretary by this paragraph, shall be submitted to the President of the Senate and the Speaker of the House of Representatives.
@@ -22726,7 +23348,7 @@ Part C—Declaration of a Significant Incident</column>
 								<paragraph identifier="/us/usc/t6/s423/b/3">
 									<num>(3)</num>
 									<content>
-										<ref href="/us/usc/t10/s2302/7">Section 2302(7) of title 10</ref>
+										<ref href="/us/usc/t10/s3015">Section 3015 of title 10</ref>
 										.
 									</content>
 								</paragraph>
@@ -22784,7 +23406,7 @@ Part C—Declaration of a Significant Incident</column>
 									<subparagraph identifier="/us/usc/t6/s425/a/2/B">
 										<num>(B)</num>
 										<content>
-											<ref href="/us/usc/t10/s2304/g">Section 2304(g) of title 10</ref>
+											<ref href="/us/usc/t10/s3205">Section 3205 of title 10</ref>
 											.
 										</content>
 									</subparagraph>
@@ -22808,7 +23430,7 @@ Part C—Declaration of a Significant Incident</column>
 											The $5,000,000 limitation provided in 
 											<ref href="/us/usc/t41/s1901/a/2">section 1901(a)(2) of title 41</ref>
 											, 
-											<ref href="/us/usc/t10/s2304/g/1/B">section 2304(g)(1)(B) of title 10</ref>
+											<ref href="/us/usc/t10/s3205/a/2">section 3205(a)(2) of title 10</ref>
 											, and 
 											<ref href="/us/usc/t41/s3305/a/2">section 3305(a)(2) of title 41</ref>
 											 shall not apply to purchases of property or services to which any of the provisions of law referred to in subsection (a) are applied under the authority of this section.
@@ -22871,14 +23493,21 @@ Part C—Declaration of a Significant Incident</column>
 								<paragraph identifier="/us/usc/t6/s426/a/2">
 									<num>(2)</num>
 									<heading> Title 10</heading>
-									<chapeau>In chapter 137 of title 10:</chapeau>
+									<chapeau>In part V of subtitle A of title 10:</chapeau>
 									<subparagraph identifier="/us/usc/t6/s426/a/2/A">
 										<num>(A)</num>
-										<content> Paragraphs (1), (2), (6), and (7) of subsection (c) of section 2304, relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (e) of such section).</content>
+										<content>
+											 Paragraphs (1), (2), (6), and (7) of subsection (a) of 
+											<ref href="/us/usc/t10/s3204">section 3204 of title 10</ref>
+											, relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (d) of such section).
+										</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s426/a/2/B">
 										<num>(B)</num>
-										<content> Section 2304c, relating to orders under task and delivery order contracts.</content>
+										<content>
+											<ref href="/us/usc/t10/s3406">Section 3406 of title 10</ref>
+											, relating to orders under task and delivery order contracts.
+										</content>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s426/a/3">
@@ -23484,7 +24113,7 @@ Part C—Declaration of a Significant Incident</column>
 								<content>
 									<p>
 										Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in 
-										<ref href="/us/usc/t10/s2304/g">section 2304(g) of title 10</ref>
+										<ref href="/us/usc/t10/s3205">section 3205 of title 10</ref>
 										.
 									</p>
 								</content>
@@ -25427,6 +26056,144 @@ Part C—Declaration of a Significant Incident</column>
 										<p>Of the amount made available pursuant to paragraph (1) in each of fiscal years 2019 through 2022, not more than $10,000,000 shall be used to carry out subsection (e) and not less than $2,000,000 shall be used to carry out subsection (f).</p>
 									</content>
 								</paragraph>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s474">
+							<num>§ 474.</num>
+							<heading> Homeland security critical domain research and development</heading>
+							<subsection identifier="/us/usc/t6/s474/a">
+								<num>(a)</num>
+								<heading> In general</heading>
+								<paragraph identifier="/us/usc/t6/s474/a/1">
+									<num>(1)</num>
+									<heading> Research and development</heading>
+									<chapeau>The Secretary is authorized to conduct research and development to—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s474/a/1/A">
+										<num>(A)</num>
+										<content> identify United States critical domains for economic security and homeland security; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s474/a/1/B">
+										<num>(B)</num>
+										<content> evaluate the extent to which disruption, corruption, exploitation, or dysfunction of any of such domain poses a substantial threat to homeland security.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s474/a/2">
+									<num>(2)</num>
+									<heading> Requirements</heading>
+									<subparagraph identifier="/us/usc/t6/s474/a/2/A">
+										<num>(A)</num>
+										<heading> Risk analysis of critical domains</heading>
+										<chapeau>The research under paragraph (1) shall include a risk analysis of each identified United States critical domain for economic security to determine the degree to which there exists a present or future threat to homeland security in the event of disruption, corruption, exploitation, or dysfunction to such domain. Such research shall consider, to the extent possible, the following:</chapeau>
+										<clause identifier="/us/usc/t6/s474/a/2/A/i">
+											<num>(i)</num>
+											<content> The vulnerability and resilience of relevant supply chains.</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s474/a/2/A/ii">
+											<num>(ii)</num>
+											<content> Foreign production, processing, and manufacturing methods.</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s474/a/2/A/iii">
+											<num>(iii)</num>
+											<content> Influence of malign economic actors.</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s474/a/2/A/iv">
+											<num>(iv)</num>
+											<content> Asset ownership.</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s474/a/2/A/v">
+											<num>(v)</num>
+											<content> Relationships within the supply chains of such domains.</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s474/a/2/A/vi">
+											<num>(vi)</num>
+											<content> The degree to which the conditions referred to in clauses (i) through (v) would place such a domain at risk of disruption, corruption, exploitation, or dysfunction.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s474/a/2/B">
+										<num>(B)</num>
+										<heading> Additional research into high-risk critical domains</heading>
+										<chapeau>Based on the identification and risk analysis of United States critical domains for economic security pursuant to paragraph (1) and subparagraph (A) of this paragraph, respectively, the Secretary may conduct additional research into those critical domains, or specific elements thereof, with respect to which there exists the highest degree of a present or future threat to homeland security in the event of disruption, corruption, exploitation, or dysfunction to such a domain. For each such high-risk domain, or element thereof, such research shall—</chapeau>
+										<clause identifier="/us/usc/t6/s474/a/2/B/i">
+											<num>(i)</num>
+											<content> describe the underlying infrastructure and processes;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s474/a/2/B/ii">
+											<num>(ii)</num>
+											<content> analyze present and projected performance of industries that comprise or support such domain;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s474/a/2/B/iii">
+											<num>(iii)</num>
+											<content> examine the extent to which the supply chain of a product or service necessary to such domain is concentrated, either through a small number of sources, or if multiple sources are concentrated in one geographic area;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s474/a/2/B/iv">
+											<num>(iv)</num>
+											<content> examine the extent to which the demand for supplies of goods and services of such industries can be fulfilled by present and projected performance of other industries, identify strategies, plans, and potential barriers to expand the supplier industrial base, and identify the barriers to the participation of such other industries;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s474/a/2/B/v">
+											<num>(v)</num>
+											<content> consider each such domain’s performance capacities in stable economic environments, adversarial supply conditions, and under crisis economic constraints;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s474/a/2/B/vi">
+											<num>(vi)</num>
+											<content> identify and define needs and requirements to establish supply resiliency within each such domain; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s474/a/2/B/vii">
+											<num>(vii)</num>
+											<content> consider the effects of sector consolidation, including foreign consolidation, either through mergers or acquisitions, or due to recent geographic realignment, on such industries’ performances.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s474/a/3">
+									<num>(3)</num>
+									<heading> Consultation</heading>
+									<content>
+										<p>In conducting the research under paragraph (1) and subparagraph (B) of paragraph (2), the Secretary may consult with appropriate Federal agencies, State agencies, and private sector stakeholders.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s474/a/4">
+									<num>(4)</num>
+									<heading> Publication</heading>
+									<content>
+										<p>
+											Beginning one year after 
+											<date date="2021-12-27">December 27, 2021</date>
+											, the Secretary shall publish a report containing information relating to the research under paragraph (1) and subparagraph (B) of paragraph (2), including findings, evidence, analysis, and recommendations. Such report shall be updated annually through 2026.
+										</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s474/b">
+								<num>(b)</num>
+								<heading> Submission to Congress</heading>
+								<content>
+									<p>Not later than 90 days after the publication of each report required under paragraph (4) of subsection (a), the Secretary shall transmit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate each such report, together with a description of actions the Secretary, in consultation with appropriate Federal agencies, will undertake or has undertaken in response to each such report.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s474/c">
+								<num>(c)</num>
+								<heading> Definitions</heading>
+								<chapeau>In this section:</chapeau>
+								<paragraph identifier="/us/usc/t6/s474/c/1">
+									<num>(1)</num>
+									<heading> United states critical domains for economic security</heading>
+									<content>
+										<p>The term “United States critical domains for economic security” means the critical infrastructure and other associated industries, technologies, and intellectual property, or any combination thereof, that are essential to the economic security of the United States.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s474/c/2">
+									<num>(2)</num>
+									<heading> Economic security</heading>
+									<content>
+										<p>The term “economic security” means the condition of having secure and resilient domestic production capacity, combined with reliable access to the global resources necessary to maintain an acceptable standard of living and to protect core national values.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s474/d">
+								<num>(d)</num>
+								<heading> Authorization of appropriations</heading>
+								<content>
+									<p>There is authorized to be appropriated $1,000,000 for each of fiscal years 2022 through 2026 to carry out this section.</p>
+								</content>
 							</subsection>
 						</section>
 					</part>
@@ -30430,6 +31197,144 @@ Part C—Declaration of a Significant Incident</column>
 								</paragraph>
 							</subsection>
 						</section>
+						<section identifier="/us/usc/t6/s597a">
+							<num>§ 597a.</num>
+							<heading> Medical countermeasures</heading>
+							<subsection identifier="/us/usc/t6/s597a/a">
+								<num>(a)</num>
+								<heading> In general</heading>
+								<chapeau>Subject to the availability of appropriations, the Secretary shall, as appropriate, establish a medical countermeasures program within the components of the Department to—</chapeau>
+								<paragraph identifier="/us/usc/t6/s597a/a/1">
+									<num>(1)</num>
+									<content> facilitate personnel readiness and protection for the employees and working animals of the Department in the event of a chemical, biological, radiological, nuclear, or explosives attack, naturally occurring disease outbreak, other event impacting health, or pandemic; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s597a/a/2">
+									<num>(2)</num>
+									<content> support the mission continuity of the Department.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s597a/b">
+								<num>(b)</num>
+								<heading> Oversight</heading>
+								<chapeau>The Secretary, acting through the Chief Medical Officer of the Department, shall—</chapeau>
+								<paragraph identifier="/us/usc/t6/s597a/b/1">
+									<num>(1)</num>
+									<content> provide programmatic oversight of the medical countermeasures program established under subsection (a); and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s597a/b/2">
+									<num>(2)</num>
+									<chapeau> develop standards for—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s597a/b/2/A">
+										<num>(A)</num>
+										<content> medical countermeasure storage, security, dispensing, and documentation;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s597a/b/2/B">
+										<num>(B)</num>
+										<content> maintaining a stockpile of medical countermeasures, including antibiotics, antivirals, antidotes, therapeutics, and radiological countermeasures, as appropriate;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s597a/b/2/C">
+										<num>(C)</num>
+										<content> ensuring adequate partnerships with manufacturers and executive agencies that enable advance prepositioning by vendors of inventories of appropriate medical countermeasures in strategic locations nationwide, based on risk and employee density, in accordance with applicable Federal statutes and regulations;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s597a/b/2/D">
+										<num>(D)</num>
+										<content> providing oversight and guidance regarding the dispensing of stockpiled medical countermeasures;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s597a/b/2/E">
+										<num>(E)</num>
+										<content> ensuring rapid deployment and dispensing of medical countermeasures in a chemical, biological, radiological, nuclear, or explosives attack, naturally occurring disease outbreak, other event impacting health, or pandemic;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s597a/b/2/F">
+										<num>(F)</num>
+										<content> providing training to employees of the Department on medical countermeasures; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s597a/b/2/G">
+										<num>(G)</num>
+										<content> supporting dispensing exercises.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s597a/c">
+								<num>(c)</num>
+								<heading> Medical countermeasures working group</heading>
+								<content>
+									<p>The Secretary, acting through the Chief Medical Officer of the Department, shall establish a medical countermeasures working group comprised of representatives from appropriate components and offices of the Department to ensure that medical countermeasures standards are maintained and guidance is consistent.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s597a/d">
+								<num>(d)</num>
+								<heading> Medical countermeasures management</heading>
+								<chapeau>Not later than 120 days after the date on which appropriations are made available to carry out subsection (a), the Chief Medical Officer shall develop and submit to the Secretary an integrated logistics support plan for medical countermeasures, including—</chapeau>
+								<paragraph identifier="/us/usc/t6/s597a/d/1">
+									<num>(1)</num>
+									<content> a methodology for determining the ideal types and quantities of medical countermeasures to stockpile and how frequently such methodology shall be reevaluated;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s597a/d/2">
+									<num>(2)</num>
+									<content> a replenishment plan; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s597a/d/3">
+									<num>(3)</num>
+									<content> inventory tracking, reporting, and reconciliation procedures for existing stockpiles and new medical countermeasure purchases.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s597a/e">
+								<num>(e)</num>
+								<heading> Transfer</heading>
+								<content>
+									<p>
+										Not later than 120 days after 
+										<date date="2021-12-27">December 27, 2021</date>
+										, the Secretary shall transfer all medical countermeasures-related programmatic and personnel resources from the Under Secretary for Management to the Chief Medical Officer.
+									</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s597a/f">
+								<num>(f)</num>
+								<heading> Stockpile elements</heading>
+								<chapeau>In determining the types and quantities of medical countermeasures to stockpile under subsection (d), the Secretary, acting through the Chief Medical Officer of the Department—</chapeau>
+								<paragraph identifier="/us/usc/t6/s597a/f/1">
+									<num>(1)</num>
+									<content> shall use a risk-based methodology for evaluating types and quantities of medical countermeasures required; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s597a/f/2">
+									<num>(2)</num>
+									<chapeau> may use, if available—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s597a/f/2/A">
+										<num>(A)</num>
+										<content> chemical, biological, radiological, and nuclear risk assessments of the Department; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s597a/f/2/B">
+										<num>(B)</num>
+										<content> guidance on medical countermeasures of the Office of the Assistant Secretary for Preparedness and Response and the Centers for Disease Control and Prevention.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s597a/g">
+								<num>(g)</num>
+								<heading> Briefing</heading>
+								<chapeau>
+									Not later than 180 days after 
+									<date date="2021-12-27">December 27, 2021</date>
+									, the Secretary shall provide a briefing to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives regarding—
+								</chapeau>
+								<paragraph identifier="/us/usc/t6/s597a/g/1">
+									<num>(1)</num>
+									<content> the plan developed under subsection (d); and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s597a/g/2">
+									<num>(2)</num>
+									<content> implementation of the requirements of this section.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s597a/h">
+								<num>(h)</num>
+								<heading> Definition</heading>
+								<content>
+									<p>In this section, the term “medical countermeasures” means antibiotics, antivirals, antidotes, therapeutics, radiological countermeasures, and other countermeasures that may be deployed to protect the employees and working animals of the Department in the event of a chemical, biological, radiological, nuclear, or explosives attack, naturally occurring disease outbreak, other event impacting health, or pandemic.</p>
+								</content>
+							</subsection>
+						</section>
 					</part>
 				</subchapter>
 				<subchapter identifier="/us/usc/t6/ch1/schXV">
@@ -34672,7 +35577,7 @@ Part C—Declaration of a Significant Incident</column>
 									<content>
 										 carry out the responsibilities of the Secretary to secure Federal information and information systems consistent with law, including subchapter II of chapter 35 of title 44 and the Cybersecurity Act of 2015 (contained in division N of the Consolidated Appropriations Act, 2016 (
 										<ref href="/us/pl/114/113">Public Law 114–113</ref>
-										));
+										)), including by carrying out a periodic strategic assessment of the related programs and activities of the Agency to ensure such programs and activities contemplate the innovation of information systems and changes in cybersecurity risks and cybersecurity threats;
 									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s652/c/4">
@@ -34713,34 +35618,26 @@ Part C—Declaration of a Significant Incident</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s652/c/11">
 									<num>(11)</num>
-									<content>
-										 carry out the duties and authorities relating to the .gov internet domain, as described in 
-										<ref href="/us/usc/t6/s665">section 665 of this title</ref>
-										; 
-										 and 
-									</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t6/s652/c/11">
-									<num>(11)</num>
-									<content>
-										<sup>1</sup>
-										 appoint a Cybersecurity State Coordinator in each State, as described in 
-										<ref href="/us/usc/t6/s665c">section 665c of this title</ref>
-										; 
-										<sup>2</sup>
-										 and 
-										<sup>3</sup>
-									</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t6/s652/c/11">
-									<num>(11)</num>
-									<content>
-										<sup>1</sup>
-										 provide education, training, and capacity development to Federal and non-Federal entities to enhance the security and resiliency of domestic and global cybersecurity and infrastructure security; and
-									</content>
+									<content> provide education, training, and capacity development to Federal and non-Federal entities to enhance the security and resiliency of domestic and global cybersecurity and infrastructure security;</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s652/c/12">
 									<num>(12)</num>
+									<content>
+										 appoint a Cybersecurity State Coordinator in each State, as described in 
+										<ref href="/us/usc/t6/s665f">section 665f of this title</ref>
+										;
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s652/c/13">
+									<num>(13)</num>
+									<content>
+										 carry out the duties and authorities relating to the .gov internet domain, as described in 
+										<ref href="/us/usc/t6/s665">section 665 of this title</ref>
+										; and
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s652/c/14">
+									<num>(14)</num>
 									<content> carry out such other duties and powers prescribed by law or delegated by the Secretary.</content>
 								</paragraph>
 							</subsection>
@@ -35969,34 +36866,42 @@ Part C—Declaration of a Significant Incident</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/a/4">
 									<num>(4)</num>
-									<content> the term “incident” means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system;</content>
+									<content>
+										 the term “cybersecurity vulnerability” has the meaning given the term “security vulnerability” in section 102 of the Cybersecurity Information Sharing Act of 2015 (
+										<ref href="/us/usc/t6/s1501">6 U.S.C. 1501</ref>
+										);
+									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/a/5">
 									<num>(5)</num>
+									<content> the term “incident” means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s659/a/6">
+									<num>(6)</num>
 									<content>
 										 the term “information sharing and analysis organization” has the meaning given that term in 
 										<ref href="/us/usc/t6/s671/5">section 671(5) of this title</ref>
 										;
 									</content>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/a/6">
-									<num>(6)</num>
+								<paragraph identifier="/us/usc/t6/s659/a/7">
+									<num>(7)</num>
 									<content>
 										 the term “information system” has the meaning given that term in 
 										<ref href="/us/usc/t44/s3502/8">section 3502(8) of title 44</ref>
 										;
 									</content>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/a/7">
-									<num>(7)</num>
+								<paragraph identifier="/us/usc/t6/s659/a/8">
+									<num>(8)</num>
 									<content>
 										 the term “security vulnerability” has the meaning given that term in 
 										<ref href="/us/usc/t6/s1501">section 1501 of this title</ref>
 										; and
 									</content>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/a/8">
-									<num>(8)</num>
+								<paragraph identifier="/us/usc/t6/s659/a/9">
+									<num>(9)</num>
 									<content> the term “sharing” (including all conjugations thereof) means providing, receiving, and disseminating (including all conjugations of each of such terms).</content>
 								</paragraph>
 							</subsection>
@@ -36035,16 +36940,20 @@ Part C—Declaration of a Significant Incident</column>
 									<num>(5)</num>
 									<subparagraph identifier="/us/usc/t6/s659/c/5/A">
 										<num>(A)</num>
-										<content> conducting integration and analysis, including cross-sector integration and analysis, of cyber threat indicators, defensive measures, cybersecurity risks, and incidents; and</content>
+										<content> conducting integration and analysis, including cross-sector integration and analysis, of cyber threat indicators, defensive measures, cybersecurity risks, and incidents;</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s659/c/5/B">
 										<num>(B)</num>
-										<content> sharing the analysis conducted under subparagraph (A) with Federal and non-Federal entities;</content>
+										<content> sharing mitigation protocols to counter cybersecurity vulnerabilities pursuant to subsection (n), as appropriate; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s659/c/5/C">
+										<num>(C)</num>
+										<content> sharing the analysis conducted under subparagraph (A) and mitigation protocols to counter cybersecurity vulnerabilities in accordance with subparagraph (B), as appropriate, with Federal and non-Federal entities;</content>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/c/6">
 									<num>(6)</num>
-									<content> upon request, providing timely technical assistance, risk management support, and incident response capabilities to Federal and non-Federal entities with respect to cyber threat indicators, defensive measures, cybersecurity risks, and incidents, which may include attribution, mitigation, and remediation;</content>
+									<content> upon request, providing timely technical assistance, risk management support, and incident response capabilities to Federal and non-Federal entities with respect to cyber threat indicators, defensive measures, cybersecurity risks, and incidents, which may include attribution, mitigation, and remediation, which may take the form of continuous monitoring and detection of cybersecurity risks to critical infrastructure entities that own or operate industrial control systems that support national critical functions;</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/c/7">
 									<num>(7)</num>
@@ -36059,10 +36968,7 @@ Part C—Declaration of a Significant Incident</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s659/c/7/C">
 										<num>(C)</num>
-										<content>
-											 sharing 
-											 cyber threat indicators and defensive measures;
-										</content>
+										<content> share cyber threat indicators and defensive measures;</content>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/c/8">
@@ -36079,7 +36985,7 @@ Part C—Declaration of a Significant Incident</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/c/9">
 									<num>(9)</num>
-									<content> sharing cyber threat indicators, defensive measures, and other information related to cybersecurity risks and incidents with Federal and non-Federal entities, including across sectors of critical infrastructure and with State and major urban area fusion centers, as appropriate;</content>
+									<content> sharing cyber threat indicators, defensive measures, mitigation protocols to counter cybersecurity vulnerabilities, as appropriate, and other information related to cybersecurity risks and incidents with Federal and non-Federal entities, including across sectors of critical infrastructure and with State and major urban area fusion centers, as appropriate;</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/c/10">
 									<num>(10)</num>
@@ -36219,11 +37125,15 @@ Part C—Declaration of a Significant Incident</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s659/e/1/G">
 										<num>(G)</num>
-										<content> the Center works with other agencies to reduce unnecessarily duplicative sharing of information related to cyber threat indicators, defensive measures, cybersecurity risks, and incidents; and; </content>
+										<content> the Center works with other agencies to reduce unnecessarily duplicative sharing of information related to cyber threat indicators, defensive measures, cybersecurity risks, and incidents;</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s659/e/1/H">
 										<num>(H)</num>
-										<content> the Center designates an agency contact for non-Federal entities;</content>
+										<content> the Center designates an agency contact for non-Federal entities; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s659/e/1/I">
+										<num>(I)</num>
+										<content> activities of the Center address the security of both information technology and operational technology, including industrial control systems;</content>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/e/2">
@@ -36466,35 +37376,42 @@ Part C—Declaration of a Significant Incident</column>
 							</subsection>
 							<subsection identifier="/us/usc/t6/s659/o">
 								<num>(o)</num>
+								<heading> Protocols to counter certain cybersecurity vulnerabilities</heading>
+								<content>
+									<p>The Director may, as appropriate, identify, develop, and disseminate actionable protocols to mitigate cybersecurity vulnerabilities to information systems and industrial control systems, including in circumstances in which such vulnerabilities exist because software or hardware is no longer supported by a vendor.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s659/p">
+								<num>(p)</num>
 								<heading> Subpoena authority</heading>
-								<paragraph identifier="/us/usc/t6/s659/o/1">
+								<paragraph identifier="/us/usc/t6/s659/p/1">
 									<num>(1)</num>
 									<heading> Definition</heading>
 									<chapeau>In this subsection, the term “covered device or system”—</chapeau>
-									<subparagraph identifier="/us/usc/t6/s659/o/1/A">
+									<subparagraph identifier="/us/usc/t6/s659/p/1/A">
 										<num>(A)</num>
 										<content> means a device or system commonly used to perform industrial, commercial, scientific, or governmental functions or processes that relate to critical infrastructure, including operational and industrial control systems, distributed control systems, and programmable logic controllers; and</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/1/B">
+									<subparagraph identifier="/us/usc/t6/s659/p/1/B">
 										<num>(B)</num>
 										<content> does not include personal devices and systems, such as consumer mobile devices, home computers, residential wireless routers, or residential internet enabled consumer devices.</content>
 									</subparagraph>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/o/2">
+								<paragraph identifier="/us/usc/t6/s659/p/2">
 									<num>(2)</num>
 									<heading> Authority</heading>
-									<subparagraph identifier="/us/usc/t6/s659/o/2/A">
+									<subparagraph identifier="/us/usc/t6/s659/p/2/A">
 										<num>(A)</num>
 										<heading> In general</heading>
 										<content>
 											<p>If the Director identifies a system connected to the internet with a specific security vulnerability and has reason to believe such security vulnerability relates to critical infrastructure and affects a covered device or system, and the Director is unable to identify the entity at risk that owns or operates such covered device or system, the Director may issue a subpoena for the production of information necessary to identify and notify such entity at risk, in order to carry out a function authorized under subsection (c)(12).</p>
 										</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/2/B">
+									<subparagraph identifier="/us/usc/t6/s659/p/2/B">
 										<num>(B)</num>
 										<heading> Limit on information</heading>
 										<chapeau>A subpoena issued pursuant to subparagraph (A) may seek information—</chapeau>
-										<clause identifier="/us/usc/t6/s659/o/2/B/i">
+										<clause identifier="/us/usc/t6/s659/p/2/B/i">
 											<num>(i)</num>
 											<content>
 												 only in the categories set forth in subparagraphs (A), (B), (D), and (E) of 
@@ -36502,12 +37419,12 @@ Part C—Declaration of a Significant Incident</column>
 												; and
 											</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/2/B/ii">
+										<clause identifier="/us/usc/t6/s659/p/2/B/ii">
 											<num>(ii)</num>
 											<content> for not more than 20 covered devices or systems.</content>
 										</clause>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/2/C">
+									<subparagraph identifier="/us/usc/t6/s659/p/2/C">
 										<num>(C)</num>
 										<heading> Liability protections for disclosing providers</heading>
 										<content>
@@ -36519,10 +37436,10 @@ Part C—Declaration of a Significant Incident</column>
 										</content>
 									</subparagraph>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/o/3">
+								<paragraph identifier="/us/usc/t6/s659/p/3">
 									<num>(3)</num>
 									<heading> Coordination</heading>
-									<subparagraph identifier="/us/usc/t6/s659/o/3/A">
+									<subparagraph identifier="/us/usc/t6/s659/p/3/A">
 										<num>(A)</num>
 										<heading> In general</heading>
 										<content>
@@ -36533,45 +37450,45 @@ Part C—Declaration of a Significant Incident</column>
 											</p>
 										</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/3/B">
+									<subparagraph identifier="/us/usc/t6/s659/p/3/B">
 										<num>(B)</num>
 										<heading> Contents</heading>
 										<chapeau>The inter-agency procedures developed under this paragraph shall provide that a subpoena issued by the Director under this subsection shall be—</chapeau>
-										<clause identifier="/us/usc/t6/s659/o/3/B/i">
+										<clause identifier="/us/usc/t6/s659/p/3/B/i">
 											<num>(i)</num>
 											<content> issued to carry out a function described in subsection (c)(12); and</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/3/B/ii">
+										<clause identifier="/us/usc/t6/s659/p/3/B/ii">
 											<num>(ii)</num>
 											<content> subject to the limitations specified in this subsection.</content>
 										</clause>
 									</subparagraph>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/o/4">
+								<paragraph identifier="/us/usc/t6/s659/p/4">
 									<num>(4)</num>
 									<heading> Noncompliance</heading>
 									<content>
 										<p>If any person, partnership, corporation, association, or entity fails to comply with any duly served subpoena issued pursuant to this subsection, the Director may request that the Attorney General seek enforcement of such subpoena in any judicial district in which such person, partnership, corporation, association, or entity resides, is found, or transacts business.</p>
 									</content>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/o/5">
+								<paragraph identifier="/us/usc/t6/s659/p/5">
 									<num>(5)</num>
 									<heading> Notice</heading>
 									<content>
 										<p>Not later than seven days after the date on which the Director receives information obtained through a subpoena issued pursuant to this subsection, the Director shall notify any entity identified by information obtained pursuant to such subpoena regarding such subpoena and the identified vulnerability.</p>
 									</content>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/o/6">
+								<paragraph identifier="/us/usc/t6/s659/p/6">
 									<num>(6)</num>
 									<heading> Authentication</heading>
-									<subparagraph identifier="/us/usc/t6/s659/o/6/A">
+									<subparagraph identifier="/us/usc/t6/s659/p/6/A">
 										<num>(A)</num>
 										<heading> In general</heading>
 										<content>
 											<p>Any subpoena issued pursuant to this subsection shall be authenticated with a cryptographic digital signature of an authorized representative of the Agency, or other comparable successor technology, that allows the Agency to demonstrate that such subpoena was issued by the Agency and has not been altered or modified since such issuance.</p>
 										</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/6/B">
+									<subparagraph identifier="/us/usc/t6/s659/p/6/B">
 										<num>(B)</num>
 										<heading> Invalid if not authenticated</heading>
 										<content>
@@ -36579,7 +37496,7 @@ Part C—Declaration of a Significant Incident</column>
 										</content>
 									</subparagraph>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/o/7">
+								<paragraph identifier="/us/usc/t6/s659/p/7">
 									<num>(7)</num>
 									<heading> Procedures</heading>
 									<chapeau>
@@ -36587,71 +37504,71 @@ Part C—Declaration of a Significant Incident</column>
 										<date date="2021-01-01">January 1, 2021</date>
 										, the Director shall establish internal procedures and associated training, applicable to employees and operations of the Agency, regarding subpoenas issued pursuant to this subsection, which shall address the following:
 									</chapeau>
-									<subparagraph identifier="/us/usc/t6/s659/o/7/A">
+									<subparagraph identifier="/us/usc/t6/s659/p/7/A">
 										<num>(A)</num>
 										<chapeau> The protection of and restriction on dissemination of nonpublic information obtained through such a subpoena, including a requirement that the Agency not disseminate nonpublic information obtained through such a subpoena that identifies the party that is subject to such subpoena or the entity at risk identified by information obtained, except that the Agency may share the nonpublic information with the Department of Justice for the purpose of enforcing such subpoena in accordance with paragraph (4), and may share with a Federal agency the nonpublic information of the entity at risk if—</chapeau>
-										<clause identifier="/us/usc/t6/s659/o/7/A/i">
+										<clause identifier="/us/usc/t6/s659/p/7/A/i">
 											<num>(i)</num>
 											<content> the Agency identifies or is notified of a cybersecurity incident involving such entity, which relates to the vulnerability which led to the issuance of such subpoena;</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/7/A/ii">
+										<clause identifier="/us/usc/t6/s659/p/7/A/ii">
 											<num>(ii)</num>
 											<content> the Director determines that sharing the nonpublic information with another Federal department or agency is necessary to allow such department or agency to take a law enforcement or national security action, consistent with the interagency procedures under paragraph (3)(A), or actions related to mitigating or otherwise resolving such incident;</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/7/A/iii">
+										<clause identifier="/us/usc/t6/s659/p/7/A/iii">
 											<num>(iii)</num>
 											<content> the entity to which the information pertains is notified of the Director’s determination, to the extent practicable consistent with national security or law enforcement interests, consistent with such interagency procedures; and</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/7/A/iv">
+										<clause identifier="/us/usc/t6/s659/p/7/A/iv">
 											<num>(iv)</num>
 											<content> the entity consents, except that the entity’s consent shall not be required if another Federal department or agency identifies the entity to the Agency in connection with a suspected cybersecurity incident.</content>
 										</clause>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/7/B">
+									<subparagraph identifier="/us/usc/t6/s659/p/7/B">
 										<num>(B)</num>
 										<content> The restriction on the use of information obtained through such a subpoena for a cybersecurity purpose.</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/7/C">
+									<subparagraph identifier="/us/usc/t6/s659/p/7/C">
 										<num>(C)</num>
 										<chapeau> The retention and destruction of nonpublic information obtained through such a subpoena, including—</chapeau>
-										<clause identifier="/us/usc/t6/s659/o/7/C/i">
+										<clause identifier="/us/usc/t6/s659/p/7/C/i">
 											<num>(i)</num>
 											<content> destruction of such information that the Director determines is unrelated to critical infrastructure immediately upon providing notice to the entity pursuant to paragraph (5); and</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/7/C/ii">
+										<clause identifier="/us/usc/t6/s659/p/7/C/ii">
 											<num>(ii)</num>
 											<content> destruction of any personally identifiable information not later than 6 months after the date on which the Director receives information obtained through such a subpoena, unless otherwise agreed to by the individual identified by the subpoena respondent.</content>
 										</clause>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/7/D">
+									<subparagraph identifier="/us/usc/t6/s659/p/7/D">
 										<num>(D)</num>
 										<content> The processes for providing notice to each party that is subject to such a subpoena and each entity identified by information obtained under such a subpoena.</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/7/E">
+									<subparagraph identifier="/us/usc/t6/s659/p/7/E">
 										<num>(E)</num>
 										<content> The processes and criteria for conducting critical infrastructure security risk assessments to determine whether a subpoena is necessary prior to being issued pursuant to this subsection.</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/7/F">
+									<subparagraph identifier="/us/usc/t6/s659/p/7/F">
 										<num>(F)</num>
 										<chapeau> The information to be provided to an entity at risk at the time of the notice of the vulnerability, which shall include—</chapeau>
-										<clause identifier="/us/usc/t6/s659/o/7/F/i">
+										<clause identifier="/us/usc/t6/s659/p/7/F/i">
 											<num>(i)</num>
 											<content> a discussion or statement that responding to, or subsequent engagement with, the Agency, is voluntary; and</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/7/F/ii">
+										<clause identifier="/us/usc/t6/s659/p/7/F/ii">
 											<num>(ii)</num>
 											<content> to the extent practicable, information regarding the process through which the Director identifies security vulnerabilities.</content>
 										</clause>
 									</subparagraph>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/o/8">
+								<paragraph identifier="/us/usc/t6/s659/p/8">
 									<num>(8)</num>
 									<heading> Limitation on procedures</heading>
 									<content>
 										<p>The internal procedures established pursuant to paragraph (7) may not require an owner or operator of critical infrastructure to take any action as a result of a notice of vulnerability made pursuant to this chapter.</p>
 									</content>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/o/9">
+								<paragraph identifier="/us/usc/t6/s659/p/9">
 									<num>(9)</num>
 									<heading> Review of procedures</heading>
 									<chapeau>
@@ -36659,110 +37576,135 @@ Part C—Declaration of a Significant Incident</column>
 										<date date="2021-01-01">January 1, 2021</date>
 										, the Privacy Officer of the Agency shall—
 									</chapeau>
-									<subparagraph identifier="/us/usc/t6/s659/o/9/A">
+									<subparagraph identifier="/us/usc/t6/s659/p/9/A">
 										<num>(A)</num>
 										<chapeau> review the internal procedures established pursuant to paragraph (7) to ensure that—</chapeau>
-										<clause identifier="/us/usc/t6/s659/o/9/A/i">
+										<clause identifier="/us/usc/t6/s659/p/9/A/i">
 											<num>(i)</num>
 											<content> such procedures are consistent with fair information practices; and</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/9/A/ii">
+										<clause identifier="/us/usc/t6/s659/p/9/A/ii">
 											<num>(ii)</num>
 											<content> the operations of the Agency comply with such procedures; and</content>
 										</clause>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/9/B">
+									<subparagraph identifier="/us/usc/t6/s659/p/9/B">
 										<num>(B)</num>
 										<content> notify the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives of the results of the review under subparagraph (A).</content>
 									</subparagraph>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/o/10">
+								<paragraph identifier="/us/usc/t6/s659/p/10">
 									<num>(10)</num>
 									<heading> Publication of information</heading>
 									<chapeau>Not later than 120 days after establishing the internal procedures under paragraph (7), the Director shall publish information on the website of the Agency regarding the subpoena process under this subsection, including information regarding the following:</chapeau>
-									<subparagraph identifier="/us/usc/t6/s659/o/10/A">
+									<subparagraph identifier="/us/usc/t6/s659/p/10/A">
 										<num>(A)</num>
 										<content> Such internal procedures.</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/10/B">
+									<subparagraph identifier="/us/usc/t6/s659/p/10/B">
 										<num>(B)</num>
 										<content> The purpose for subpoenas issued pursuant to this subsection.</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/10/C">
+									<subparagraph identifier="/us/usc/t6/s659/p/10/C">
 										<num>(C)</num>
 										<content> The subpoena process.</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/10/D">
+									<subparagraph identifier="/us/usc/t6/s659/p/10/D">
 										<num>(D)</num>
 										<content> The criteria for the critical infrastructure security risk assessment conducted prior to issuing a subpoena.</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/10/E">
+									<subparagraph identifier="/us/usc/t6/s659/p/10/E">
 										<num>(E)</num>
 										<content> Policies and procedures on retention and sharing of data obtained by subpoenas.</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/10/F">
+									<subparagraph identifier="/us/usc/t6/s659/p/10/F">
 										<num>(F)</num>
 										<content> Guidelines on how entities contacted by the Director may respond to notice of a subpoena.</content>
 									</subparagraph>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/o/11">
+								<paragraph identifier="/us/usc/t6/s659/p/11">
 									<num>(11)</num>
 									<heading> Annual reports</heading>
 									<chapeau>The Director shall annually submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report (which may include a classified annex but with the presumption of declassification) on the use of subpoenas issued pursuant to this subsection, which shall include the following:</chapeau>
-									<subparagraph identifier="/us/usc/t6/s659/o/11/A">
+									<subparagraph identifier="/us/usc/t6/s659/p/11/A">
 										<num>(A)</num>
 										<chapeau> A discussion of the following:</chapeau>
-										<clause identifier="/us/usc/t6/s659/o/11/A/i">
+										<clause identifier="/us/usc/t6/s659/p/11/A/i">
 											<num>(i)</num>
 											<content> The effectiveness of the use of such subpoenas to mitigate critical infrastructure security vulnerabilities.</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/11/A/ii">
+										<clause identifier="/us/usc/t6/s659/p/11/A/ii">
 											<num>(ii)</num>
 											<content> The critical infrastructure security risk assessment process conducted for subpoenas issued under this subsection.</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/11/A/iii">
+										<clause identifier="/us/usc/t6/s659/p/11/A/iii">
 											<num>(iii)</num>
 											<content> The number of subpoenas so issued during the preceding year.</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/11/A/iv">
+										<clause identifier="/us/usc/t6/s659/p/11/A/iv">
 											<num>(iv)</num>
 											<content> To the extent practicable, the number of vulnerable covered devices or systems mitigated under this subsection by the Agency during the preceding year.</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/11/A/v">
+										<clause identifier="/us/usc/t6/s659/p/11/A/v">
 											<num>(v)</num>
 											<content> The number of entities notified by the Director under this subsection, and their responses, during the preceding year.</content>
 										</clause>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t6/s659/o/11/B">
+									<subparagraph identifier="/us/usc/t6/s659/p/11/B">
 										<num>(B)</num>
 										<chapeau> For each subpoena issued pursuant to this subsection, the following:</chapeau>
-										<clause identifier="/us/usc/t6/s659/o/11/B/i">
+										<clause identifier="/us/usc/t6/s659/p/11/B/i">
 											<num>(i)</num>
 											<content> Information relating to the source of the security vulnerability detected, identified, or received by the Director.</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/11/B/ii">
+										<clause identifier="/us/usc/t6/s659/p/11/B/ii">
 											<num>(ii)</num>
 											<content> Information relating to the steps taken to identify the entity at risk prior to issuing the subpoena.</content>
 										</clause>
-										<clause identifier="/us/usc/t6/s659/o/11/B/iii">
+										<clause identifier="/us/usc/t6/s659/p/11/B/iii">
 											<num>(iii)</num>
 											<content> A description of the outcome of the subpoena, including discussion on the resolution or mitigation of the critical infrastructure security vulnerability.</content>
 										</clause>
 									</subparagraph>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/o/12">
+								<paragraph identifier="/us/usc/t6/s659/p/12">
 									<num>(12)</num>
 									<heading> Publication of the annual reports</heading>
 									<content>
 										<p>The Director shall publish a version of the annual report required under paragraph (11) on the website of the Agency, which shall, at a minimum, include the findings described in clauses (iii), (iv), and (v) of subparagraph (A) of such paragraph.</p>
 									</content>
 								</paragraph>
-								<paragraph identifier="/us/usc/t6/s659/o/13">
+								<paragraph identifier="/us/usc/t6/s659/p/13">
 									<num>(13)</num>
 									<heading> Prohibition on use of information for unauthorized purposes</heading>
 									<content>
 										<p>Any information obtained pursuant to a subpoena issued under this subsection may not be provided to any other Federal department or agency for any purpose other than a cybersecurity purpose or for the purpose of enforcing a subpoena issued pursuant to this subsection.</p>
 									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s659/q">
+								<num>(q)</num>
+								<heading> Industrial control systems</heading>
+								<chapeau>The Director shall maintain capabilities to identify and address threats and vulnerabilities to products and technologies intended for use in the automated control of critical infrastructure processes. In carrying out this subsection, the Director shall—</chapeau>
+								<paragraph identifier="/us/usc/t6/s659/q/1">
+									<num>(1)</num>
+									<content> lead Federal Government efforts, in consultation with Sector Risk Management Agencies, as appropriate, to identify and mitigate cybersecurity threats to industrial control systems, including supervisory control and data acquisition systems;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s659/q/2">
+									<num>(2)</num>
+									<content> maintain threat hunting and incident response capabilities to respond to industrial control system cybersecurity risks and incidents;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s659/q/3">
+									<num>(3)</num>
+									<content> provide cybersecurity technical assistance to industry end-users, product manufacturers, Sector Risk Management Agencies, other Federal agencies, and other industrial control system stakeholders to identify, evaluate, assess, and mitigate vulnerabilities;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s659/q/4">
+									<num>(4)</num>
+									<content> collect, coordinate, and provide vulnerability information to the industrial control systems community by, as appropriate, working closely with security researchers, industry end-users, product manufacturers, Sector Risk Management Agencies, other Federal agencies, and other industrial control systems stakeholders; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s659/q/5">
+									<num>(5)</num>
+									<content> conduct such other efforts and assistance as the Secretary determines appropriate.</content>
 								</paragraph>
 							</subsection>
 						</section>
@@ -36833,9 +37775,9 @@ Part C—Declaration of a Significant Incident</column>
 									<p>
 										The Director of Cybersecurity and Infrastructure Security shall, in coordination with appropriate Federal departments and agencies, State and local governments, sector coordinating councils, information sharing and analysis organizations (as defined in 
 										<ref href="/us/usc/t6/s671/5">section 671(5) of this title</ref>
-										), owners and operators of critical infrastructure, and other appropriate entities and individuals, develop, regularly update, maintain, and exercise adaptable cyber incident response plans to address cybersecurity risks (as defined in 
+										), owners and operators of critical infrastructure, and other appropriate entities and individuals, develop, update not less often than biennially, maintain, and exercise adaptable cyber incident response plans to address cybersecurity risks (as defined in 
 										<ref href="/us/usc/t6/s659">section 659 of this title</ref>
-										) to critical infrastructure.
+										) to critical infrastructure. The Director, in consultation with relevant Sector Risk Management Agencies and the National Cyber Director, shall develop mechanisms to engage with stakeholders to educate such stakeholders regarding Federal Government cybersecurity roles and responsibilities for cyber incident response.
 									</p>
 								</content>
 							</subsection>
@@ -36845,6 +37787,119 @@ Part C—Declaration of a Significant Incident</column>
 								<content>
 									<p>The Secretary, in coordination with the heads of other appropriate Federal departments and agencies, and in accordance with the National Cybersecurity Incident Response Plan required under subsection (c), shall regularly update, maintain, and exercise the Cyber Incident Annex to the National Response Framework of the Department.</p>
 								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s660/e">
+								<num>(e)</num>
+								<heading> Homeland Security Strategy to Improve the Cybersecurity of State, Local, Tribal, and Territorial Governments</heading>
+								<paragraph identifier="/us/usc/t6/s660/e/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<subparagraph identifier="/us/usc/t6/s660/e/1/A">
+										<num>(A)</num>
+										<heading> Requirement</heading>
+										<content>
+											<p>
+												Not later than one year after 
+												<date date="2021-12-27">December 27, 2021</date>
+												, the Secretary, acting through the Director, shall, in coordination with the heads of appropriate Federal agencies, State, local, Tribal, and territorial governments, and other stakeholders, as appropriate, develop and make publicly available a Homeland Security Strategy to Improve the Cybersecurity of State, Local, Tribal, and Territorial Governments.
+											</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s660/e/1/B">
+										<num>(B)</num>
+										<heading> Recommendations and requirements</heading>
+										<content>
+											<p>
+												The strategy required under subparagraph (A) shall provide recommendations relating to the ways in which the Federal Government should support and promote the ability of State, local, Tribal, and territorial governments to identify, mitigate against, protect against, detect, respond to, and recover from cybersecurity risks (as such term is defined in 
+												<ref href="/us/usc/t6/s659">section 659 of this title</ref>
+												), cybersecurity threats, and incidents (as such term is defined in 
+												<ref href="/us/usc/t6/s659">section 659 of this title</ref>
+												).
+											</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s660/e/2">
+									<num>(2)</num>
+									<heading> Contents</heading>
+									<chapeau>The strategy required under paragraph (1) shall—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s660/e/2/A">
+										<num>(A)</num>
+										<content> identify capability gaps in the ability of State, local, Tribal, and territorial governments to identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, incidents, and ransomware incidents;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s660/e/2/B">
+										<num>(B)</num>
+										<content> identify Federal resources and capabilities that are available or could be made available to State, local, Tribal, and territorial governments to help those governments identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, incidents, and ransomware incidents;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s660/e/2/C">
+										<num>(C)</num>
+										<content> identify and assess the limitations of Federal resources and capabilities available to State, local, Tribal, and territorial governments to help those governments identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, incidents, and ransomware incidents and make recommendations to address such limitations;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s660/e/2/D">
+										<num>(D)</num>
+										<chapeau> identify opportunities to improve the coordination of the Agency with Federal and non-Federal entities, such as the Multi-State Information Sharing and Analysis Center, to improve—</chapeau>
+										<clause identifier="/us/usc/t6/s660/e/2/D/i">
+											<num>(i)</num>
+											<content> incident exercises, information sharing and incident notification procedures;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s660/e/2/D/ii">
+											<num>(ii)</num>
+											<content> the ability for State, local, Tribal, and territorial governments to voluntarily adapt and implement guidance in Federal binding operational directives; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s660/e/2/D/iii">
+											<num>(iii)</num>
+											<content>
+												 opportunities to leverage Federal schedules for cybersecurity investments under 
+												<ref href="/us/usc/t40/s502">section 502 of title 40</ref>
+												;
+											</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s660/e/2/E">
+										<num>(E)</num>
+										<content> recommend new initiatives the Federal Government should undertake to improve the ability of State, local, Tribal, and territorial governments to identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, incidents, and ransomware incidents;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s660/e/2/F">
+										<num>(F)</num>
+										<content> set short-term and long-term goals that will improve the ability of State, local, Tribal, and territorial governments to identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, incidents, and ransomware incidents; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s660/e/2/G">
+										<num>(G)</num>
+										<content> set dates, including interim benchmarks, as appropriate for State, local, Tribal, and territorial governments to establish baseline capabilities to identify, protect against, detect, respond to, and recover from cybersecurity risks, cybersecurity threats, incidents, and ransomware incidents.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s660/e/3">
+									<num>(3)</num>
+									<heading> Considerations</heading>
+									<chapeau>In developing the strategy required under paragraph (1), the Director, in coordination with the heads of appropriate Federal agencies, State, local, Tribal, and territorial governments, and other stakeholders, as appropriate, shall consider—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s660/e/3/A">
+										<num>(A)</num>
+										<content> lessons learned from incidents that have affected State, local, Tribal, and territorial governments, and exercises with Federal and non-Federal entities;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s660/e/3/B">
+										<num>(B)</num>
+										<content> the impact of incidents that have affected State, local, Tribal, and territorial governments, including the resulting costs to such governments;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s660/e/3/C">
+										<num>(C)</num>
+										<content>
+											 the information related to the interest and ability of state and non-state threat actors to compromise information systems (as such term is defined in 
+											<ref href="/us/usc/t6/s1501">section 1501 of this title</ref>
+											) owned or operated by State, local, Tribal, and territorial governments; and
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s660/e/3/D">
+										<num>(D)</num>
+										<content> emerging cybersecurity risks and cybersecurity threats to State, local, Tribal, and territorial governments resulting from the deployment of new technologies.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s660/e/4">
+									<num>(4)</num>
+									<heading> Exemption</heading>
+									<content>
+										<p>Chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”) shall not apply to any action to implement this subsection.</p>
+									</content>
+								</paragraph>
 							</subsection>
 						</section>
 						<section identifier="/us/usc/t6/s661">
@@ -39569,7 +40624,7 @@ Part C—Declaration of a Significant Incident</column>
 											<p>
 												In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under 
 												<ref href="/us/usc/t5/s552">section 552 of title 5</ref>
-												, United States Code (commonly referred to as the ‘Freedom of Information Act’).
+												 (commonly referred to as the ‘Freedom of Information Act’).
 											</p>
 										</content>
 									</subparagraph>
@@ -39713,6 +40768,230 @@ Part C—Declaration of a Significant Incident</column>
 										<p>The reporting requirements under subsection (q) shall terminate on the date that is 1 year after the date on which the final funds from a grant under this section are expended or returned.</p>
 									</content>
 								</paragraph>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s665h">
+							<num>§ 665h.</num>
+							<heading> National Cyber Exercise Program</heading>
+							<subsection identifier="/us/usc/t6/s665h/a">
+								<num>(a)</num>
+								<heading> Establishment of Program</heading>
+								<paragraph identifier="/us/usc/t6/s665h/a/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>There is established in the Agency the National Cyber Exercise Program (referred to in this section as the “Exercise Program”) to evaluate the National Cyber Incident Response Plan, and other related plans and strategies.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665h/a/2">
+									<num>(2)</num>
+									<heading> Requirements</heading>
+									<subparagraph identifier="/us/usc/t6/s665h/a/2/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<chapeau>The Exercise Program shall be—</chapeau>
+										<clause identifier="/us/usc/t6/s665h/a/2/A/i">
+											<num>(i)</num>
+											<content> based on current risk assessments, including credible threats, vulnerabilities, and consequences;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665h/a/2/A/ii">
+											<num>(ii)</num>
+											<content> designed, to the extent practicable, to simulate the partial or complete incapacitation of a government or critical infrastructure network resulting from a cyber incident;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665h/a/2/A/iii">
+											<num>(iii)</num>
+											<content> designed to provide for the systematic evaluation of cyber readiness and enhance operational understanding of the cyber incident response system and relevant information sharing agreements; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665h/a/2/A/iv">
+											<num>(iv)</num>
+											<content> designed to promptly develop after-action reports and plans that can quickly incorporate lessons learned into future operations.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665h/a/2/B">
+										<num>(B)</num>
+										<heading> Model exercise selection</heading>
+										<chapeau>The Exercise Program shall—</chapeau>
+										<clause identifier="/us/usc/t6/s665h/a/2/B/i">
+											<num>(i)</num>
+											<content> include a selection of model exercises that government and private entities can readily adapt for use; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665h/a/2/B/ii">
+											<num>(ii)</num>
+											<chapeau> aid such governments and private entities with the design, implementation, and evaluation of exercises that—</chapeau>
+											<subclause identifier="/us/usc/t6/s665h/a/2/B/ii/I">
+												<num>(I)</num>
+												<content> conform to the requirements described in subparagraph (A);</content>
+											</subclause>
+											<subclause identifier="/us/usc/t6/s665h/a/2/B/ii/II">
+												<num>(II)</num>
+												<content> are consistent with any applicable national, State, local, or Tribal strategy or plan; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t6/s665h/a/2/B/ii/III">
+												<num>(III)</num>
+												<content> provide for systematic evaluation of readiness.</content>
+											</subclause>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665h/a/3">
+									<num>(3)</num>
+									<heading> Consultation</heading>
+									<content>
+										<p>In carrying out the Exercise Program, the Director may consult with appropriate representatives from Sector Risk Management Agencies, the Office of the National Cyber Director, cybersecurity research stakeholders, and Sector Coordinating Councils.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665h/b">
+								<num>(b)</num>
+								<heading> Definitions</heading>
+								<chapeau>In this section:</chapeau>
+								<paragraph identifier="/us/usc/t6/s665h/b/1">
+									<num>(1)</num>
+									<heading> State</heading>
+									<content>
+										<p>The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665h/b/2">
+									<num>(2)</num>
+									<heading> Private entity</heading>
+									<content>
+										<p>
+											The term “private entity” has the meaning given such term in 
+											<ref href="/us/usc/t6/s1501">section 1501 of this title</ref>
+											.
+										</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665h/c">
+								<num>(c)</num>
+								<heading> Rule of construction</heading>
+								<content>
+									<p>Nothing in this section shall be construed to affect the authorities or responsibilities of the Administrator of the Federal Emergency Management Agency pursuant to section748 of this title.</p>
+								</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s665i">
+							<num>§ 665i.</num>
+							<heading> CyberSentry program</heading>
+							<subsection identifier="/us/usc/t6/s665i/a">
+								<num>(a)</num>
+								<heading> Establishment</heading>
+								<content>
+									<p>There is established in the Agency a program, to be known as “CyberSentry”, to provide continuous monitoring and detection of cybersecurity risks to critical infrastructure entities that own or operate industrial control systems that support national critical functions, upon request and subject to the consent of such owner or operator.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665i/b">
+								<num>(b)</num>
+								<heading> Activities</heading>
+								<chapeau>The Director, through CyberSentry, shall—</chapeau>
+								<paragraph identifier="/us/usc/t6/s665i/b/1">
+									<num>(1)</num>
+									<content> enter into strategic partnerships with critical infrastructure owners and operators that, in the determination of the Director and subject to the availability of resources, own or operate regionally or nationally significant industrial control systems that support national critical functions, in order to provide technical assistance in the form of continuous monitoring of industrial control systems and the information systems that support such systems and detection of cybersecurity risks to such industrial control systems and other cybersecurity services, as appropriate, based on and subject to the agreement and consent of such owner or operator;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665i/b/2">
+									<num>(2)</num>
+									<content> leverage sensitive or classified intelligence about cybersecurity risks regarding particular sectors, particular adversaries, and trends in tactics, techniques, and procedures to advise critical infrastructure owners and operators regarding mitigation measures and share information as appropriate;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665i/b/3">
+									<num>(3)</num>
+									<content> identify cybersecurity risks in the information technology and information systems that support industrial control systems which could be exploited by adversaries attempting to gain access to such industrial control systems, and work with owners and operators to remediate such vulnerabilities;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665i/b/4">
+									<num>(4)</num>
+									<content> produce aggregated, anonymized analytic products, based on threat hunting and continuous monitoring and detection activities and partnerships, with findings and recommendations that can be disseminated to critical infrastructure owners and operators; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665i/b/5">
+									<num>(5)</num>
+									<content> support activities authorized in accordance with section 1501 of the National Defense Authorization Act for Fiscal Year 2022.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665i/c">
+								<num>(c)</num>
+								<heading> Privacy review</heading>
+								<chapeau>
+									Not later than 180 days after 
+									<date date="2021-12-27">December 27, 2021</date>
+									, the Privacy Officer of the Agency under 
+									<ref href="/us/usc/t6/s652/h">section 652(h) of this title</ref>
+									 shall—
+								</chapeau>
+								<paragraph identifier="/us/usc/t6/s665i/c/1">
+									<num>(1)</num>
+									<content> review the policies, guidelines, and activities of CyberSentry for compliance with all applicable privacy laws, including such laws governing the acquisition, interception, retention, use, and disclosure of communities; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665i/c/2">
+									<num>(2)</num>
+									<content> submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report certifying compliance with all applicable privacy laws as referred to in paragraph (1), or identifying any instances of noncompliance with such privacy laws.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665i/d">
+								<num>(d)</num>
+								<heading> Report to Congress</heading>
+								<content>
+									<p>
+										Not later than one year after 
+										<date date="2021-12-27">December 27, 2021</date>
+										, the Director shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a briefing and written report on implementation of this section.
+									</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665i/e">
+								<num>(e)</num>
+								<heading> Savings</heading>
+								<content>
+									<p>
+										Nothing in this section may be construed to permit the Federal Government to gain access to information of a remote computing service provider to the public or an electronic service provider to the public, the disclosure of which is not permitted under 
+										<ref href="/us/usc/t18/s2702">section 2702 of title 18</ref>
+										.
+									</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665i/f">
+								<num>(f)</num>
+								<heading> Definitions</heading>
+								<chapeau>In this section:</chapeau>
+								<paragraph identifier="/us/usc/t6/s665i/f/1">
+									<num>(1)</num>
+									<heading> Cybersecurity risk</heading>
+									<content>
+										<p>
+											The term “cybersecurity risk” has the meaning given such term in 
+											<ref href="/us/usc/t6/s659/a">section 659(a) of this title</ref>
+											.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665i/f/2">
+									<num>(2)</num>
+									<heading> Industrial control system</heading>
+									<content>
+										<p>The term “industrial control system” means an information system used to monitor and/or control industrial processes such as manufacturing, product handling, production, and distribution, including supervisory control and data acquisition (SCADA) systems used to monitor and/or control geographically dispersed assets, distributed control systems (DCSs), Human-Machine Interfaces (HMIs), and programmable logic controllers that control localized processes.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665i/f/3">
+									<num>(3)</num>
+									<heading> Information system</heading>
+									<content>
+										<p>
+											The term “information system” has the meaning given such term in 
+											<ref href="/us/usc/t6/s1501/9">section 1501(9) of this title</ref>
+											.
+										</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665i/g">
+								<num>(g)</num>
+								<heading> Termination</heading>
+								<content>
+									<p>
+										The authority to carry out a program under this section shall terminate on the date that is seven years after 
+										<date date="2021-12-27">December 27, 2021</date>
+										.
+									</p>
+								</content>
 							</subsection>
 						</section>
 					</part>
@@ -46539,6 +47818,12 @@ SUBCHAPTER III—PUBLIC TRANSPORTATION SECURITY</column>
 						</tocItem>
 						<tocItem>
 							<column>
+								<ref href="/us/usc/t6/s1137a">1137a.</ref>
+							</column>
+							<column>Local law enforcement security training.</column>
+						</tocItem>
+						<tocItem>
+							<column>
 								<ref href="/us/usc/t6/s1138">1138.</ref>
 							</column>
 							<column>Public transportation research and development.</column>
@@ -48520,7 +49805,7 @@ Part D—Hazardous Material and Pipeline Security</column>
 								<subparagraph identifier="/us/usc/t6/s1135/b/2/A">
 									<num>(A)</num>
 									<content>
-										 security training, including training under 
+										 security training and associated backfill, including training under 
 										<ref href="/us/usc/t6/s1137">section 1137 of this title</ref>
 										 and training developed by institutions of higher education and by nonprofit employee labor organizations, for public transportation employees, including frontline employees;
 									</content>
@@ -48663,32 +49948,50 @@ Part D—Hazardous Material and Pipeline Security</column>
 						</subsection>
 						<subsection identifier="/us/usc/t6/s1135/m">
 							<num>(m)</num>
-							<heading> Authorization of appropriations</heading>
+							<heading> Periods of performance</heading>
 							<paragraph identifier="/us/usc/t6/s1135/m/1">
 								<num>(1)</num>
+								<heading> In general</heading>
+								<content>
+									<p>Except as provided in paragraph (2), funds provided pursuant to a grant awarded under this section for a use specified in subsection (b) shall remain available for use by a grant recipient for a period of not fewer than 36 months.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s1135/m/2">
+								<num>(2)</num>
+								<heading> Exception</heading>
+								<content>
+									<p>Funds provided pursuant to a grant awarded under this section for a use specified in subparagraph (M) or (N) of subsection (b)(1) shall remain available for use by a grant recipient for a period of not fewer than 48 months.</p>
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s1135/n">
+							<num>(n)</num>
+							<heading> Authorization of appropriations</heading>
+							<paragraph identifier="/us/usc/t6/s1135/n/1">
+								<num>(1)</num>
 								<chapeau> There are authorized to be appropriated to the Secretary to make grants under this section—</chapeau>
-								<subparagraph identifier="/us/usc/t6/s1135/m/1/A">
+								<subparagraph identifier="/us/usc/t6/s1135/n/1/A">
 									<num>(A)</num>
 									<content> such sums as are necessary for fiscal year 2007;</content>
 								</subparagraph>
-								<subparagraph identifier="/us/usc/t6/s1135/m/1/B">
+								<subparagraph identifier="/us/usc/t6/s1135/n/1/B">
 									<num>(B)</num>
 									<content> $650,000,000 for fiscal year 2008, except that not more than 50 percent of such funds may be used for operational costs under subsection (b)(2);</content>
 								</subparagraph>
-								<subparagraph identifier="/us/usc/t6/s1135/m/1/C">
+								<subparagraph identifier="/us/usc/t6/s1135/n/1/C">
 									<num>(C)</num>
 									<content> $750,000,000 for fiscal year 2009, except that not more than 30 percent of such funds may be used for operational costs under subsection (b)(2);</content>
 								</subparagraph>
-								<subparagraph identifier="/us/usc/t6/s1135/m/1/D">
+								<subparagraph identifier="/us/usc/t6/s1135/n/1/D">
 									<num>(D)</num>
 									<content> $900,000,000 for fiscal year 2010, except that not more than 20 percent of such funds may be used for operational costs under subsection (b)(2); and</content>
 								</subparagraph>
-								<subparagraph identifier="/us/usc/t6/s1135/m/1/E">
+								<subparagraph identifier="/us/usc/t6/s1135/n/1/E">
 									<num>(E)</num>
 									<content> $1,100,000,000 for fiscal year 2011, except that not more than 10 percent of such funds may be used for operational costs under subsection (b)(2).</content>
 								</subparagraph>
 							</paragraph>
-							<paragraph identifier="/us/usc/t6/s1135/m/2">
+							<paragraph identifier="/us/usc/t6/s1135/n/2">
 								<num>(2)</num>
 								<heading>
 									<inline>Period of availability</inline>
@@ -48696,7 +49999,7 @@ Part D—Hazardous Material and Pipeline Security</column>
 								</heading>
 								<content>Sums appropriated to carry out this section shall remain available until expended.</content>
 							</paragraph>
-							<paragraph identifier="/us/usc/t6/s1135/m/3">
+							<paragraph identifier="/us/usc/t6/s1135/n/3">
 								<num>(3)</num>
 								<heading>
 									<inline>Waiver</inline>
@@ -48704,7 +50007,7 @@ Part D—Hazardous Material and Pipeline Security</column>
 								</heading>
 								<content>The Secretary may waive the limitation on operational costs specified in subparagraphs (B) through (E) of paragraph (1) if the Secretary determines that such a waiver is required in the interest of national security, and if the Secretary provides a written justification to the appropriate congressional committees prior to any such action.</content>
 							</paragraph>
-							<paragraph identifier="/us/usc/t6/s1135/m/4">
+							<paragraph identifier="/us/usc/t6/s1135/n/4">
 								<num>(4)</num>
 								<heading>
 									<inline>Effective date</inline>
@@ -48987,6 +50290,137 @@ Part D—Hazardous Material and Pipeline Security</column>
 							<content>
 								<p>Not later than 2 years after the date of issuance of the final regulation, the Comptroller General shall review implementation of the training program, including interviewing a representative sample of public transportation agencies and employees, and report to the appropriate congressional committees, on the number of reviews conducted and the results. The Comptroller General may submit the report in both classified and redacted formats as necessary.</p>
 							</content>
+						</subsection>
+					</section>
+					<section identifier="/us/usc/t6/s1137a">
+						<num>§ 1137a.</num>
+						<heading> Local law enforcement security training</heading>
+						<subsection identifier="/us/usc/t6/s1137a/a">
+							<num>(a)</num>
+							<heading> In general</heading>
+							<content>
+								<p>The Secretary of Homeland Security, in consultation with public and private sector stakeholders, may in a manner consistent with the protection of privacy rights, civil rights, and civil liberties, develop, through the Federal Law Enforcement Training Centers, a training program to enhance the protection, preparedness, and response capabilities of law enforcement agencies with respect to threats of terrorism and other threats, including targeted violence, at a surface transportation asset.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s1137a/b">
+							<num>(b)</num>
+							<heading> Requirements</heading>
+							<chapeau>If the Secretary of Homeland Security develops the training program described in subsection (a), such training program shall—</chapeau>
+							<paragraph identifier="/us/usc/t6/s1137a/b/1">
+								<num>(1)</num>
+								<content> be informed by current information regarding tactics used by terrorists and others engaging in targeted violence;</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s1137a/b/2">
+								<num>(2)</num>
+								<content> include tactical instruction tailored to the diverse nature of the surface transportation asset operational environment; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s1137a/b/3">
+								<num>(3)</num>
+								<content>
+									 prioritize training officers from law enforcement agencies that are eligible for or receive grants under sections 2003 or 2004 of the Homeland Security Act of 2002 (
+									<ref href="/us/usc/t6/s604">6 U.S.C. 604</ref>
+									 and 
+									 605) and officers employed by railroad carriers that operate passenger service, including interstate passenger service.
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s1137a/c">
+							<num>(c)</num>
+							<heading> Report</heading>
+							<chapeau>If the Secretary of Homeland Security develops the training program described in subsection (a), not later than one year after the date on which the Secretary first implements the program, and annually thereafter during each year the Secretary carries out the program, the Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the program. Each such report shall include, for the year covered by the report—</chapeau>
+							<paragraph identifier="/us/usc/t6/s1137a/c/1">
+								<num>(1)</num>
+								<content> a description of the curriculum for the training and any changes to such curriculum;</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s1137a/c/2">
+								<num>(2)</num>
+								<content> an identification of any contracts entered into for the development or provision of training under the program;</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s1137a/c/3">
+								<num>(3)</num>
+								<content> information on the law enforcement agencies the personnel of which received the training, and for each such agency, the number of participants; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s1137a/c/4">
+								<num>(4)</num>
+								<content> a description of the measures used to ensure the program was carried out to provide for protections of privacy rights, civil rights, and civil liberties.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t6/s1137a/d">
+							<num>(d)</num>
+							<heading> Definitions</heading>
+							<chapeau>In this section:</chapeau>
+							<paragraph identifier="/us/usc/t6/s1137a/d/1">
+								<num>(1)</num>
+								<content>
+									 The term “public and private sector stakeholders” has the meaning given such term in 
+									<ref href="/us/usc/t49/s114/t/1/c">section 114(t)(1)(c) of title 49</ref>
+									.
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s1137a/d/2">
+								<num>(2)</num>
+								<chapeau> The term “surface transportation asset” includes facilities, equipment, or systems used to provide transportation services by—</chapeau>
+								<subparagraph identifier="/us/usc/t6/s1137a/d/2/A">
+									<num>(A)</num>
+									<content>
+										 a public transportation agency (as such term is defined in 
+										<ref href="/us/usc/t6/s1131/5">section 1131(5) of this title</ref>
+										);
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s1137a/d/2/B">
+									<num>(B)</num>
+									<content>
+										 a railroad carrier (as such term is defined in 
+										<ref href="/us/usc/t49/s20102/3">section 20102(3) of title 49</ref>
+										);
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s1137a/d/2/C">
+									<num>(C)</num>
+									<chapeau> an owner or operator of—</chapeau>
+									<clause identifier="/us/usc/t6/s1137a/d/2/C/i">
+										<num>(i)</num>
+										<content>
+											 an entity offering scheduled, fixed-route transportation services by over-the-road bus (as such term is defined in 
+											<ref href="/us/usc/t6/s1151/4">section 1151(4) of this title</ref>
+											); or
+										</content>
+									</clause>
+									<clause identifier="/us/usc/t6/s1137a/d/2/C/ii">
+										<num>(ii)</num>
+										<content> a bus terminal; or</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s1137a/d/2/D">
+									<num>(D)</num>
+									<content> other transportation facilities, equipment, or systems, as determined by the Secretary.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s1137a/d/3">
+								<num>(3)</num>
+								<content> The term “targeted violence” means an incident of violence in which an attacker selected a particular target in order to inflict mass injury or death with no discernable political or ideological motivation beyond mass injury or death.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s1137a/d/4">
+								<num>(4)</num>
+								<chapeau> The term “terrorism” means the terms—</chapeau>
+								<subparagraph identifier="/us/usc/t6/s1137a/d/4/A">
+									<num>(A)</num>
+									<content>
+										 domestic terrorism (as such term is defined in 
+										<ref href="/us/usc/t18/s2331/5">section 2331(5) of title 18</ref>
+										); and
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s1137a/d/4/B">
+									<num>(B)</num>
+									<content>
+										 international terrorism (as such term is defined in 
+										<ref href="/us/usc/t18/s2331/1">section 2331(1) of title 18</ref>
+										).
+									</content>
+								</subparagraph>
+							</paragraph>
 						</subsection>
 					</section>
 					<section identifier="/us/usc/t6/s1138">
@@ -54134,50 +55568,69 @@ SUBCHAPTER III—OTHER CYBER MATTERS</column>
 						<subsection identifier="/us/usc/t6/s1500/e">
 							<num>(e)</num>
 							<heading> Powers of the Director</heading>
-							<chapeau>The Director may, for the purposes of carrying out the functions of the Director under this section—</chapeau>
 							<paragraph identifier="/us/usc/t6/s1500/e/1">
 								<num>(1)</num>
-								<content>
-									 subject to the civil service and classification laws, select, appoint, employ, and fix the compensation of such officers and employees as are necessary and prescribe their duties, except that not more than 75 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the basic rate of basic pay payable for level IV of the Executive Schedule under 
-									<ref href="/us/usc/t5/s5315">section 5315 of title 5</ref>
-									;
-								</content>
+								<heading> In general</heading>
+								<chapeau>The Director may, for the purposes of carrying out the functions of the Director under this section—</chapeau>
+								<subparagraph identifier="/us/usc/t6/s1500/e/1/A">
+									<num>(A)</num>
+									<content>
+										 subject to the civil service and classification laws, select, appoint, employ, and fix the compensation of such officers and employees as are necessary and prescribe their duties, except that not more than 75 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the basic rate of basic pay payable for level IV of the Executive Schedule under 
+										<ref href="/us/usc/t5/s5315">section 5315 of title 5</ref>
+										;
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s1500/e/1/B">
+									<num>(B)</num>
+									<content>
+										 employ experts and consultants in accordance with 
+										<ref href="/us/usc/t5/s3109">section 3109 of title 5</ref>
+										, and compensate individuals so employed for each day (including travel time) at rates not in excess of the maximum rate of basic pay for grade GS–15 as provided in section 5332 of such title, and while such experts and consultants are so serving away from their homes or regular place of business, to pay such employees travel expenses and per diem in lieu of subsistence at rates authorized by section 5703 of such title 5 for persons in Federal Government service employed intermittently;
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s1500/e/1/C">
+									<num>(C)</num>
+									<content>
+										 accept officers or employees of the United States or members of the Armed Forces on a detail from an element of the intelligence community (as such term is defined in 
+										<ref href="/us/usc/t50/s3003/4">section 3003(4) of title 50</ref>
+										) or from another element of the Federal Government on a nonreimbursable basis, as jointly agreed to by the heads of the receiving and detailing elements, for a period not to exceed three years;
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s1500/e/1/D">
+									<num>(D)</num>
+									<content> promulgate such rules and regulations as may be necessary to carry out the functions, powers, and duties vested in the Director;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s1500/e/1/E">
+									<num>(E)</num>
+									<content> utilize, with their consent, the services, personnel, and facilities of other Federal agencies;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s1500/e/1/F">
+									<num>(F)</num>
+									<content> enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary in the conduct of the work of the Office and on such terms as the Director may determine appropriate, with any Federal agency, or with any public or private person or entity;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s1500/e/1/G">
+									<num>(G)</num>
+									<content>
+										 accept voluntary and uncompensated services, notwithstanding the provisions of 
+										<ref href="/us/usc/t31/s1342">section 1342 of title 31</ref>
+										;
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s1500/e/1/H">
+									<num>(H)</num>
+									<content> adopt an official seal, which shall be judicially noticed; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s1500/e/1/I">
+									<num>(I)</num>
+									<content> provide, where authorized by law, copies of documents to persons at cost, except that any funds so received shall be credited to, and be available for use from, the account from which expenditures relating thereto were made.</content>
+								</subparagraph>
 							</paragraph>
 							<paragraph identifier="/us/usc/t6/s1500/e/2">
 								<num>(2)</num>
+								<heading> Rules of construction regarding details</heading>
 								<content>
-									 employ experts and consultants in accordance with 
-									<ref href="/us/usc/t5/s3109">section 3109 of title 5</ref>
-									, and compensate individuals so employed for each day (including travel time) at rates not in excess of the maximum rate of basic pay for grade GS–15 as provided in section 5332 of such title, and while such experts and consultants are so serving away from their homes or regular place of business, to pay such employees travel expenses and per diem in lieu of subsistence at rates authorized by section 5703 of such title 5 for persons in Federal Government service employed intermittently;
+									<p>Nothing in paragraph (1)(C) may be construed as imposing any limitation on any other authority for reimbursable or nonreimbursable details. A nonreimbursable detail made pursuant to such paragraph shall not be considered an augmentation of the appropriations of the receiving element of the Office of the National Cyber Director.</p>
 								</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t6/s1500/e/3">
-								<num>(3)</num>
-								<content> promulgate such rules and regulations as may be necessary to carry out the functions, powers, and duties vested in the Director;</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t6/s1500/e/4">
-								<num>(4)</num>
-								<content> utilize, with their consent, the services, personnel, and facilities of other Federal agencies;</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t6/s1500/e/5">
-								<num>(5)</num>
-								<content> enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary in the conduct of the work of the Office and on such terms as the Director may determine appropriate, with any Federal agency, or with any public or private person or entity;</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t6/s1500/e/6">
-								<num>(6)</num>
-								<content>
-									 accept voluntary and uncompensated services, notwithstanding the provisions of 
-									<ref href="/us/usc/t31/s1342">section 1342 of title 31</ref>
-									;
-								</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t6/s1500/e/7">
-								<num>(7)</num>
-								<content> adopt an official seal, which shall be judicially noticed; and</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t6/s1500/e/8">
-								<num>(8)</num>
-								<content> provide, where authorized by law, copies of documents to persons at cost, except that any funds so received shall be credited to, and be available for use from, the account from which expenditures relating thereto were made.</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t6/s1500/f">

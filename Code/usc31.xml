@@ -756,7 +756,7 @@ SUBCHAPTER II—ADMINISTRATIVE</column>
 										<inline>Purpose</inline>
 										.—
 									</heading>
-									<chapeau>The FinCEN Exchange shall facilitate a voluntary public-private information sharing partnership among law enforcement agencies, national security agencies, financial institutions, and FinCEN to—</chapeau>
+									<chapeau>The FinCEN Exchange shall facilitate a voluntary public-private information sharing partnership among law enforcement agencies, national security agencies, financial institutions, other relevant private sector entities, and FinCEN to—</chapeau>
 									<subparagraph identifier="/us/usc/t31/s310/d/2/A">
 										<num>(A)</num>
 										<chapeau> effectively and efficiently combat money laundering, terrorism financing, organized crime, and other financial crimes, including by promoting innovation and technical advances in reporting—</chapeau>
@@ -799,7 +799,7 @@ SUBCHAPTER II—ADMINISTRATIVE</column>
 											</subclause>
 											<subclause identifier="/us/usc/t31/s310/d/3/A/i/II">
 												<num>(II)</num>
-												<content> the extent and effectiveness of those efforts, including any benefits realized by law enforcement agencies from partnering with financial institutions, which shall be consistent with standards protecting sensitive information; and</content>
+												<content> the extent and effectiveness of those efforts, including any benefits realized by law enforcement agencies from partnering with financial institutions and other relevant private sector entities, which shall be consistent with standards protecting sensitive information; and</content>
 											</subclause>
 										</clause>
 										<clause identifier="/us/usc/t31/s310/d/3/A/ii">
@@ -847,15 +847,29 @@ SUBCHAPTER II—ADMINISTRATIVE</column>
 											<inline>Regulations</inline>
 											.—
 										</heading>
-										<content>FinCEN shall, as appropriate, promulgate regulations that establish procedures for the protection of information shared and exchanged between FinCEN and the private sector in accordance with this section, consistent with the capacity, size, and nature of the financial institution to which the particular procedures apply.</content>
+										<content>FinCEN shall, as appropriate, promulgate regulations that establish procedures for the protection of information shared and exchanged between FinCEN and the private sector in accordance with this section, consistent with the capacity, size, and nature of the financial institution or other relevant private sector entity to which the particular procedures apply.</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t31/s310/d/5/B">
 										<num>(B)</num>
 										<heading>
-											<inline>Use of information</inline>
-											.—
+											<inline>Use of information.—</inline>
 										</heading>
-										<content>Information received by a financial institution pursuant to this section shall not be used for any purpose other than identifying and reporting on activities that may involve the financing of terrorism, money laundering, proliferation financing, or other financial crimes.</content>
+										<clause identifier="/us/usc/t31/s310/d/5/B/i">
+											<num>(i)</num>
+											<heading>
+												<inline>Use by financial institutions</inline>
+												.—
+											</heading>
+											<content>Information received by a financial institution pursuant to this section shall not be used for any purpose other than identifying and reporting on activities that may involve the financing of terrorism, money laundering, proliferation financing, or other financial crimes.</content>
+										</clause>
+										<clause identifier="/us/usc/t31/s310/d/5/B/ii">
+											<num>(ii)</num>
+											<heading>
+												<inline>Use by other relevant private sector entities</inline>
+												.—
+											</heading>
+											<content>Information received by a relevant private sector entity that is not a financial institution pursuant to this section shall not be used for any purpose other than assisting a financial institution in identifying and reporting on activities that may involve the financing of terrorism, money laundering, proliferation financing, or other financial crimes, or in assisting FinCEN or another agency of the Federal Government in mitigating the risk of the financing of terrorism, money laundering, proliferation financing, or other criminal activities.</content>
+										</clause>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t31/s310/d/6">
@@ -20243,7 +20257,7 @@ SUBCHAPTER VI—RECOVERY AUDITS </column>
 										<num>(B)</num>
 										<content>
 											 For procurements conducted by any component of the Department of Defense, the 5-day period described in subparagraph (A)(ii) does not commence until the day the Government delivers to a disappointed offeror the written responses to any questions submitted pursuant to 
-											<ref href="/us/usc/t10/s2305/b/5/B/vii">section 2305(b)(5)(B)(vii) of title 10</ref>
+											<ref href="/us/usc/t10/s3304/c/1/G">section 3304(c)(1)(G) of title 10</ref>
 											.
 										</content>
 									</subparagraph>

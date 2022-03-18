@@ -1475,6 +1475,12 @@ Subtitle III—Treaty Obligation Organizations</column>
 									</column>
 									<column>Veterans Day.</column>
 								</tocItem>
+								<tocItem>
+									<column>
+										<ref href="/us/usc/t36/s146">146.</ref>
+									</column>
+									<column>National Atomic Veterans Day.</column>
+								</tocItem>
 							</layout>
 						</toc>
 						<section identifier="/us/usc/t36/s101">
@@ -2416,6 +2422,19 @@ Subtitle III—Treaty Obligation Organizations</column>
 							<paragraph identifier="/us/usc/t36/s145/7">
 								<num>(7)</num>
 								<content> 9:11 a.m. Hawaii-Aleutian standard time.</content>
+							</paragraph>
+						</section>
+						<section identifier="/us/usc/t36/s146">
+							<num>§ 146.</num>
+							<heading> National Atomic Veterans Day</heading>
+							<chapeau>The President shall issue each year a proclamation calling on the people of the United States to—</chapeau>
+							<paragraph identifier="/us/usc/t36/s146/1">
+								<num>(1)</num>
+								<content> observe Atomic Veterans Day with appropriate ceremonies and activities; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t36/s146/2">
+								<num>(2)</num>
+								<content> remember and honor the atomic veterans of the United States whose brave service and sacrifice played an important role in the defense of the Nation.</content>
 							</paragraph>
 						</section>
 					</chapter>
@@ -13324,9 +13343,10 @@ Amendments</column>
 										.—
 									</heading>
 									<content>
-										Notwithstanding subsection (k) of 
-										<ref href="/us/usc/t10/s2304">section 2304 of title 10</ref>
-										, the Secretary may enter into such contracts or cooperative agreements on a sole source basis pursuant to paragraphs (4) and (5) of subsection (c) of such section to carry out this section.
+										Notwithstanding 
+										<ref href="/us/usc/t10/s3201/e">section 3201(e) of title 10</ref>
+										, the Secretary may enter into such contracts or cooperative agreements on a sole source basis pursuant to paragraphs (4) and (5) of section 3204(a) 
+										 to carry out this section.
 									</content>
 								</subsection>
 								<subsection identifier="/us/usc/t36/s40728B/f">
@@ -31825,9 +31845,7 @@ SUBCHAPTER III 
 								</tocItem>
 								<header>
 									<column>
-SUBCHAPTER III 
-										 —UNITED STATES CENTER FOR SAFE SPORT 
-									</column>
+SUBCHAPTER IV—UNITED STATES CENTER FOR SAFESPORT</column>
 								</header>
 								<tocItem>
 									<column>
@@ -33905,10 +33923,7 @@ SUBCHAPTER V—DISSOLUTION OF BOARD OF DIRECTORS OF CORPORATION AND TERMINATION 
 							</section>
 						</subchapter>
 						<subchapter identifier="/us/usc/t36/stII/ptB/ch2205/schIII">
-							<num>
-								SUBCHAPTER III 
-								 —
-							</num>
+							<num>SUBCHAPTER III—</num>
 							<heading>GRANT TO KEEP YOUNG ATHLETES SAFE</heading>
 							<section identifier="/us/usc/t36/s220531">
 								<num>§ 220531.</num>
@@ -33981,11 +33996,8 @@ SUBCHAPTER V—DISSOLUTION OF BOARD OF DIRECTORS OF CORPORATION AND TERMINATION 
 								</subsection>
 							</section>
 						</subchapter>
-						<subchapter identifier="/us/usc/t36/stII/ptB/ch2205/schIII">
-							<num>
-								SUBCHAPTER III 
-								 —
-							</num>
+						<subchapter identifier="/us/usc/t36/stII/ptB/ch2205/schIV">
+							<num>SUBCHAPTER IV—</num>
 							<heading>UNITED STATES CENTER FOR SAFESPORT</heading>
 							<section identifier="/us/usc/t36/s220541">
 								<num>§ 220541.</num>
@@ -34801,79 +34813,6 @@ SUBCHAPTER V—DISSOLUTION OF BOARD OF DIRECTORS OF CORPORATION AND TERMINATION 
 									<content>Nothing in this section shall be construed to limit the ability of a national governing body to impose an interim measure to prevent an individual who is the subject of an allegation of sexual abuse from interacting with an amateur athlete prior to the Center exercising its jurisdiction over a matter.</content>
 								</subsection>
 							</section>
-						</subchapter>
-						<subchapter identifier="/us/usc/t36/stII/ptB/ch2205/schV">
-							<num>SUBCHAPTER V—</num>
-							<heading>DISSOLUTION OF BOARD OF DIRECTORS OF CORPORATION AND TERMINATION OF RECOGNITION OF NATIONAL GOVERNING BODIES</heading>
-							<section identifier="/us/usc/t36/s220551">
-								<num>§ 220551.</num>
-								<heading> Definitions</heading>
-								<chapeau>In this subchapter, the term “joint resolution” means a joint resolution—</chapeau>
-								<paragraph identifier="/us/usc/t36/s220551/1">
-									<num>(1)</num>
-									<content> which does not have a preamble; and</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t36/s220551/2">
-									<num>(2)</num>
-									<chapeau> for which—</chapeau>
-									<subparagraph identifier="/us/usc/t36/s220551/2/A">
-										<num>(A)</num>
-										<clause identifier="/us/usc/t36/s220551/2/A/i">
-											<num>(i)</num>
-											<content> the title is only as follows: “A joint resolution to dissolve the board of directors of the United States Olympic and Paralympic Committee”; and</content>
-										</clause>
-										<clause identifier="/us/usc/t36/s220551/2/A/ii">
-											<num>(ii)</num>
-											<chapeau> the matter after the resolving clause—</chapeau>
-											<subclause identifier="/us/usc/t36/s220551/2/A/ii/I">
-												<num>(I)</num>
-												<content> is as follows: “That Congress finds that dissolving the board of directors of the United States Olympic and Paralympic Committee would not unduly interfere with the operations of chapter 2205 of title 36, United States Code”; and</content>
-											</subclause>
-											<subclause identifier="/us/usc/t36/s220551/2/A/ii/II">
-												<num>(II)</num>
-												<content> prescribes adequate procedures for forming a board of directors of the corporation as expeditiously as possible and in a manner that safeguards the membership and voting power of the representatives of amateur athletes at all times, consistent with the membership and voting power of amateur athletes under section 220504(b)(2); or</content>
-											</subclause>
-										</clause>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t36/s220551/2/B">
-										<num>(B)</num>
-										<clause identifier="/us/usc/t36/s220551/2/B/i">
-											<num>(i)</num>
-											<content> the title is only as follows: “A joint resolution relating to terminating the recognition of a national governing body”; and</content>
-										</clause>
-										<clause identifier="/us/usc/t36/s220551/2/B/ii">
-											<num>(ii)</num>
-											<content>
-												 the matter after the resolving clause is only as follows: “That Congress determines that _________, which is recognized as a national governing body under 
-												<ref href="/us/usc/t36/s220521">section 220521 of title 36</ref>
-												, United States Code, has failed to fulfill its duties, as described in 
-												<ref href="/us/usc/t36/s220524">section 220524 of title 36</ref>
-												, United States Code”, the blank space being filled in with the name of the applicable national governing body.
-											</content>
-										</clause>
-									</subparagraph>
-								</paragraph>
-							</section>
-							<section identifier="/us/usc/t36/s220552">
-								<num>§ 220552.</num>
-								<heading> Dissolution of board of directors of corporation and termination of recognition of national governing bodies</heading>
-								<subsection identifier="/us/usc/t36/s220552/a">
-									<num>(a)</num>
-									<heading>
-										<inline>Dissolution of Board of Directors of Corporation</inline>
-										.—
-									</heading>
-									<content>Effective on the date of enactment of a joint resolution described in section 220551(2)(A) with respect to the board of directors of the corporation, such board of directors shall be dissolved.</content>
-								</subsection>
-								<subsection identifier="/us/usc/t36/s220552/b">
-									<num>(b)</num>
-									<heading>
-										<inline>Termination of Recognition of National Governing Body</inline>
-										.—
-									</heading>
-									<content>Effective on the date of enactment of a joint resolution described in section 220551(2)(B) with respect to a national governing body, the recognition of the applicable amateur sports organization as a national governing body shall cease to have force or effect.</content>
-								</subsection>
-							</section>
 							<section identifier="/us/usc/t36/s220543">
 								<num>§ 220543.</num>
 								<heading> Records, audits, and reports</heading>
@@ -35108,6 +35047,79 @@ SUBCHAPTER V—DISSOLUTION OF BOARD OF DIRECTORS OF CORPORATION AND TERMINATION 
 										<num>(2)</num>
 										<content> “independent auditor” means an independent certified public accountant or independent licensed public accountant, certified or licensed by a regulatory authority of a State or a political subdivision of a State, who meets the standards specified in generally accepted accounting principles.</content>
 									</paragraph>
+								</subsection>
+							</section>
+						</subchapter>
+						<subchapter identifier="/us/usc/t36/stII/ptB/ch2205/schV">
+							<num>SUBCHAPTER V—</num>
+							<heading>DISSOLUTION OF BOARD OF DIRECTORS OF CORPORATION AND TERMINATION OF RECOGNITION OF NATIONAL GOVERNING BODIES</heading>
+							<section identifier="/us/usc/t36/s220551">
+								<num>§ 220551.</num>
+								<heading> Definitions</heading>
+								<chapeau>In this subchapter, the term “joint resolution” means a joint resolution—</chapeau>
+								<paragraph identifier="/us/usc/t36/s220551/1">
+									<num>(1)</num>
+									<content> which does not have a preamble; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t36/s220551/2">
+									<num>(2)</num>
+									<chapeau> for which—</chapeau>
+									<subparagraph identifier="/us/usc/t36/s220551/2/A">
+										<num>(A)</num>
+										<clause identifier="/us/usc/t36/s220551/2/A/i">
+											<num>(i)</num>
+											<content> the title is only as follows: “A joint resolution to dissolve the board of directors of the United States Olympic and Paralympic Committee”; and</content>
+										</clause>
+										<clause identifier="/us/usc/t36/s220551/2/A/ii">
+											<num>(ii)</num>
+											<chapeau> the matter after the resolving clause—</chapeau>
+											<subclause identifier="/us/usc/t36/s220551/2/A/ii/I">
+												<num>(I)</num>
+												<content> is as follows: “That Congress finds that dissolving the board of directors of the United States Olympic and Paralympic Committee would not unduly interfere with the operations of chapter 2205 of title 36, United States Code”; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t36/s220551/2/A/ii/II">
+												<num>(II)</num>
+												<content> prescribes adequate procedures for forming a board of directors of the corporation as expeditiously as possible and in a manner that safeguards the membership and voting power of the representatives of amateur athletes at all times, consistent with the membership and voting power of amateur athletes under section 220504(b)(2); or</content>
+											</subclause>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t36/s220551/2/B">
+										<num>(B)</num>
+										<clause identifier="/us/usc/t36/s220551/2/B/i">
+											<num>(i)</num>
+											<content> the title is only as follows: “A joint resolution relating to terminating the recognition of a national governing body”; and</content>
+										</clause>
+										<clause identifier="/us/usc/t36/s220551/2/B/ii">
+											<num>(ii)</num>
+											<content>
+												 the matter after the resolving clause is only as follows: “That Congress determines that _________, which is recognized as a national governing body under 
+												<ref href="/us/usc/t36/s220521">section 220521 of title 36</ref>
+												, United States Code, has failed to fulfill its duties, as described in 
+												<ref href="/us/usc/t36/s220524">section 220524 of title 36</ref>
+												, United States Code”, the blank space being filled in with the name of the applicable national governing body.
+											</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+							</section>
+							<section identifier="/us/usc/t36/s220552">
+								<num>§ 220552.</num>
+								<heading> Dissolution of board of directors of corporation and termination of recognition of national governing bodies</heading>
+								<subsection identifier="/us/usc/t36/s220552/a">
+									<num>(a)</num>
+									<heading>
+										<inline>Dissolution of Board of Directors of Corporation</inline>
+										.—
+									</heading>
+									<content>Effective on the date of enactment of a joint resolution described in section 220551(2)(A) with respect to the board of directors of the corporation, such board of directors shall be dissolved.</content>
+								</subsection>
+								<subsection identifier="/us/usc/t36/s220552/b">
+									<num>(b)</num>
+									<heading>
+										<inline>Termination of Recognition of National Governing Body</inline>
+										.—
+									</heading>
+									<content>Effective on the date of enactment of a joint resolution described in section 220551(2)(B) with respect to a national governing body, the recognition of the applicable amateur sports organization as a national governing body shall cease to have force or effect.</content>
 								</subsection>
 							</section>
 						</subchapter>

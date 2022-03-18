@@ -17655,55 +17655,41 @@ SUBCHAPTER IV—PENALTIES</column>
 												<inline>In general</inline>
 												.—
 											</heading>
-											<content>A certificate of documentation for a recreational vessel and the renewal of such a certificate shall be effective for a 5-year period.</content>
+											<content>The owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for a certificate of documentation for a recreational vessel or the renewal thereof.</content>
 										</subparagraph>
 										<subparagraph identifier="/us/usc/t46/s12105/e/2/B">
 											<num>(B)</num>
 											<heading>
-												<inline>Phase-in period</inline>
-												.—
-											</heading>
-											<content>
-												During the period beginning 
-												<date date="2019-01-01">January 1, 2019</date>
-												, and ending 
-												<date date="2021-12-31">December 31, 2021</date>
-												, the owner or operator of a recreational vessel may choose a period of effectiveness of between 1 and 5 years for such a certificate of documentation for such vessel or the renewal thereof.
-											</content>
-										</subparagraph>
-										<subparagraph identifier="/us/usc/t46/s12105/e/2/C">
-											<num>(C)</num>
-											<heading>
 												<inline>Fees.—</inline>
 											</heading>
-											<clause identifier="/us/usc/t46/s12105/e/2/C/i">
+											<clause identifier="/us/usc/t46/s12105/e/2/B/i">
 												<num>(i)</num>
 												<heading>
 													<inline>Requirement</inline>
 													.—
 												</heading>
 												<chapeau>The Secretary shall assess and collect a fee—</chapeau>
-												<subclause identifier="/us/usc/t46/s12105/e/2/C/i/I">
+												<subclause identifier="/us/usc/t46/s12105/e/2/B/i/I">
 													<num>(I)</num>
 													<content> for the issuance of a certificate of documentation for a recreational vessel that is equivalent to the fee established for the issuance of a certificate of documentation under section 2110; and</content>
 												</subclause>
-												<subclause identifier="/us/usc/t46/s12105/e/2/C/i/II">
+												<subclause identifier="/us/usc/t46/s12105/e/2/B/i/II">
 													<num>(II)</num>
 													<content> for the renewal of a certificate of documentation for a recreational vessel that is equivalent to the number of years of effectiveness of the certificate of documentation multiplied by the fee established for the renewal of a certificate of documentation under section 2110.</content>
 												</subclause>
 											</clause>
-											<clause identifier="/us/usc/t46/s12105/e/2/C/ii">
+											<clause identifier="/us/usc/t46/s12105/e/2/B/ii">
 												<num>(ii)</num>
 												<heading>
 													<inline>Treatment</inline>
 													.—
 												</heading>
 												<chapeau>Fees collected under this subsection—</chapeau>
-												<subclause identifier="/us/usc/t46/s12105/e/2/C/ii/I">
+												<subclause identifier="/us/usc/t46/s12105/e/2/B/ii/I">
 													<num>(I)</num>
 													<content> shall be credited to the account from which the costs of such issuance or renewal were paid; and</content>
 												</subclause>
-												<subclause identifier="/us/usc/t46/s12105/e/2/C/ii/II">
+												<subclause identifier="/us/usc/t46/s12105/e/2/B/ii/II">
 													<num>(II)</num>
 													<content> may remain available until expended.</content>
 												</subclause>
@@ -30628,6 +30614,15 @@ Part A—General</column>
 						</tocItem>
 						<tocItem>
 							<column>
+								<ref href="/us/usc/t46/stV/ptA/ch504">504.</ref>
+							</column>
+							<column>Committees</column>
+							<column>
+								<ref href="/us/usc/t46/s50401">50401</ref>
+							</column>
+						</tocItem>
+						<tocItem>
+							<column>
 								<ref href="/us/usc/t46/stV/ptA/ch505">505.</ref>
 							</column>
 							<column>Other General Provisions</column>
@@ -30769,6 +30764,15 @@ Part C—Financial Assistance Programs</column>
 								<ref href="/us/usc/t46/s54101">54101</ref>
 							</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t46/stV/ptC/ch543">543.</ref>
+							</column>
+							<column>Port Infrastructure Development Program</column>
+							<column>
+								<ref href="/us/usc/t46/s54301">54301</ref>
+							</column>
+						</tocItem>
 						<header>
 							<column>
 Part D—Promotional Programs</column>
@@ -30793,12 +30797,11 @@ Part D—Promotional Programs</column>
 						</tocItem>
 						<tocItem>
 							<column>
+								[
 								<ref href="/us/usc/t46/stV/ptD/ch555">555.</ref>
 							</column>
-							<column>Miscellaneous</column>
-							<column>
-								<ref href="/us/usc/t46/s55501">55501</ref>
-							</column>
+							<column>TRANSFERRED]</column>
+							<column/>
 						</tocItem>
 						<tocItem>
 							<column>
@@ -31749,607 +31752,6 @@ Part G—Restrictions and Penalties</column>
 								</heading>
 								<content>After an investigation under subsection (a), if the Secretary of Transportation believes that the rates or practices of a rail carrier subject to the jurisdiction of the Surface Transportation Board are detrimental to the objective specified in subsection (a), or that new rates or practices, new or additional port terminal facilities, or affirmative action by a rail carrier is necessary to promote that objective, the Secretary may submit findings to the Board for action the Board considers appropriate under existing law.</content>
 							</subsection>
-							<subsection identifier="/us/usc/t46/s50302/c">
-								<num>(c)</num>
-								<heading>
-									<inline>Port and Intermodal Improvement Program.—</inline>
-								</heading>
-								<paragraph identifier="/us/usc/t46/s50302/c/1">
-									<num>(1)</num>
-									<heading>
-										<inline>General authority</inline>
-										.—
-									</heading>
-									<content>Subject to the availability of appropriations, the Secretary of Transportation shall make grants, on a competitive basis, to eligible applicants to assist in funding eligible projects for the purpose of improving the safety, efficiency, or reliability of the movement of goods through ports and intermodal connections to ports.</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/c/2">
-									<num>(2)</num>
-									<heading>
-										<inline>Eligible applicant</inline>
-										.—
-									</heading>
-									<chapeau>The Secretary may make a grant under this subsection or subsection (d) to the following:</chapeau>
-									<subparagraph identifier="/us/usc/t46/s50302/c/2/A">
-										<num>(A)</num>
-										<content> A State.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/2/B">
-										<num>(B)</num>
-										<content> A political subdivision of a State, or a local government.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/2/C">
-										<num>(C)</num>
-										<content> A public agency or publicly chartered authority established by 1 or more States.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/2/D">
-										<num>(D)</num>
-										<content> A special purpose district with a transportation function.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/2/E">
-										<num>(E)</num>
-										<content>
-											 An Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (
-											<ref href="/us/usc/t25/s5304">25 U.S.C. 5304</ref>
-											), without regard to capitalization), or a consortium of Indian Tribes.
-										</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/2/F">
-										<num>(F)</num>
-										<content> A multistate or multijurisdictional group of entities described in this paragraph.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/2/G">
-										<num>(G)</num>
-										<content> A lead entity described in subparagraph (A), (B), (C), (D), (E), or (F) jointly with a private entity or group of private entities, including the owners or operators of a facility, or collection of facilities at a port.</content>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/c/3">
-									<num>(3)</num>
-									<heading>
-										<inline>Eligible projects</inline>
-										.—
-									</heading>
-									<chapeau>The Secretary may make a grant under this subsection—</chapeau>
-									<subparagraph identifier="/us/usc/t46/s50302/c/3/A">
-										<num>(A)</num>
-										<chapeau> for a project, or package of projects, that—</chapeau>
-										<clause identifier="/us/usc/t46/s50302/c/3/A/i">
-											<num>(i)</num>
-											<chapeau> is either—</chapeau>
-											<subclause identifier="/us/usc/t46/s50302/c/3/A/i/I">
-												<num>(I)</num>
-												<content> within the boundary of a port; or</content>
-											</subclause>
-											<subclause identifier="/us/usc/t46/s50302/c/3/A/i/II">
-												<num>(II)</num>
-												<content> outside the boundary of a port, but is directly related to port operations or to an intermodal connection to a port; and</content>
-											</subclause>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/3/A/ii">
-											<num>(ii)</num>
-											<chapeau> will be used to improve the safety, efficiency, or reliability of—</chapeau>
-											<subclause identifier="/us/usc/t46/s50302/c/3/A/ii/I">
-												<num>(I)</num>
-												<content> the loading and unloading of goods at the port, such as for marine terminal equipment;</content>
-											</subclause>
-											<subclause identifier="/us/usc/t46/s50302/c/3/A/ii/II">
-												<num>(II)</num>
-												<content> the movement of goods into, out of, around, or within a port, such as for highway or rail infrastructure, intermodal facilities, freight intelligent transportation systems, and digital infrastructure systems; or</content>
-											</subclause>
-											<subclause identifier="/us/usc/t46/s50302/c/3/A/ii/III">
-												<num>(III)</num>
-												<content> environmental mitigation measures and operational improvements directly related to enhancing the efficiency of ports and intermodal connections to ports; or</content>
-											</subclause>
-										</clause>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/3/B">
-										<num>(B)</num>
-										<content> notwithstanding paragraph (6)(A)(v), to provide financial assistance to 1 or more projects under subparagraph (A) for development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, and preliminary engineering and design work.</content>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/c/4">
-									<num>(4)</num>
-									<heading>
-										<inline>Prohibited uses</inline>
-										.—
-									</heading>
-									<chapeau>A grant award under this subsection may not be used—</chapeau>
-									<subparagraph identifier="/us/usc/t46/s50302/c/4/A">
-										<num>(A)</num>
-										<chapeau> to finance or refinance the construction, reconstruction, reconditioning, or purchase of a vessel that is eligible for such assistance under chapter 537, unless the Secretary determines such vessel—</chapeau>
-										<clause identifier="/us/usc/t46/s50302/c/4/A/i">
-											<num>(i)</num>
-											<content> is necessary for a project described in paragraph (3)(A)(ii)(III) of this subsection; and</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/4/A/ii">
-											<num>(ii)</num>
-											<content> is not receiving assistance under chapter 537; or</content>
-										</clause>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/4/B">
-										<num>(B)</num>
-										<content> for any project within a small shipyard (as defined in section 54101).</content>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/c/5">
-									<num>(5)</num>
-									<heading>
-										<inline>Applications and process.—</inline>
-									</heading>
-									<subparagraph identifier="/us/usc/t46/s50302/c/5/A">
-										<num>(A)</num>
-										<heading>
-											<inline>Applications</inline>
-											.—
-										</heading>
-										<content>To be eligible for a grant under this subsection or subsection (d), an eligible applicant shall submit to the Secretary an application in such form, at such time, and containing such information as the Secretary considers appropriate.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/5/B">
-										<num>(B)</num>
-										<heading>
-											<inline>Solicitation process</inline>
-											.—
-										</heading>
-										<content>Not later than 90 days after the date that amounts are made available for grants under this subsection or subsection (d) for a fiscal year, the Secretary shall solicit grant applications for eligible projects in accordance with this subsection.</content>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/c/6">
-									<num>(6)</num>
-									<heading>
-										<inline>Project selection criteria.—</inline>
-									</heading>
-									<subparagraph identifier="/us/usc/t46/s50302/c/6/A">
-										<num>(A)</num>
-										<heading>
-											<inline>In general</inline>
-											.—
-										</heading>
-										<chapeau>The Secretary may select a project described in paragraph (3) for funding under this subsection if the Secretary determines that—</chapeau>
-										<clause identifier="/us/usc/t46/s50302/c/6/A/i">
-											<num>(i)</num>
-											<content> the project improves the safety, efficiency, or reliability of the movement of goods through a port or intermodal connection to a port;</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/6/A/ii">
-											<num>(ii)</num>
-											<content> the project is cost effective;</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/6/A/iii">
-											<num>(iii)</num>
-											<content> the eligible applicant has authority to carry out the project;</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/6/A/iv">
-											<num>(iv)</num>
-											<content> the eligible applicant has sufficient funding available to meet the matching requirements under paragraph (8);</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/6/A/v">
-											<num>(v)</num>
-											<content> the project will be completed without unreasonable delay; and</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/6/A/vi">
-											<num>(vi)</num>
-											<content> the project cannot be easily and efficiently completed without Federal funding or financial assistance available to the project sponsor.</content>
-										</clause>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/6/B">
-										<num>(B)</num>
-										<heading>
-											<inline>Additional considerations</inline>
-											.—
-										</heading>
-										<chapeau>In selecting projects described in paragraph (3) for funding under this subsection, the Secretary shall give substantial weight to—</chapeau>
-										<clause identifier="/us/usc/t46/s50302/c/6/B/i">
-											<num>(i)</num>
-											<content> the utilization of non-Federal contributions; and</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/6/B/ii">
-											<num>(ii)</num>
-											<content> the net benefits of the funds awarded under this subsection, considering the cost-benefit analysis of the project, as applicable.</content>
-										</clause>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/c/7">
-									<num>(7)</num>
-									<heading>
-										<inline>Allocation of funds.—</inline>
-									</heading>
-									<subparagraph identifier="/us/usc/t46/s50302/c/7/A">
-										<num>(A)</num>
-										<heading>
-											<inline>Geographic distribution</inline>
-											.—
-										</heading>
-										<content>Not more than 25 percent of the amounts made available for grants under this subsection for a fiscal year may be used to make grants for projects in any 1 State.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/7/B">
-										<num>(B)</num>
-										<heading>
-											<inline>Small projects</inline>
-											.—
-										</heading>
-										<content>The Secretary shall reserve 18 percent of the amounts made available for grants under this subsection each fiscal year to make grants for eligible projects described in subsection (d). The requirement under paragraph (6)(A)(ii) shall not apply to grants made under subsection (d).</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/7/C">
-										<num>(C)</num>
-										<heading>
-											<inline>Development phase activities</inline>
-											.—
-										</heading>
-										<chapeau>Of the amounts made available for grants under this section for a fiscal year—</chapeau>
-										<clause identifier="/us/usc/t46/s50302/c/7/C/i">
-											<num>(i)</num>
-											<content> not more than 10 percent may be used to make grants for development phase activities under paragraph (3)(B); and</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/7/C/ii">
-											<num>(ii)</num>
-											<content> not more than 10 percent may be used to make grants for development phase activities under subsection (d)(3)(A)(ii)(III).</content>
-										</clause>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/c/8">
-									<num>(8)</num>
-									<heading>
-										<inline>Federal share of total project costs.—</inline>
-									</heading>
-									<subparagraph identifier="/us/usc/t46/s50302/c/8/A">
-										<num>(A)</num>
-										<heading>
-											<inline>Total project costs</inline>
-											.—
-										</heading>
-										<content>To be eligible for a grant under this subsection or subsection (d), an eligible applicant shall submit to the Secretary an estimate of the total costs of the project for which the grant is requested based on the best available information, including any available engineering studies, studies of economic feasibility, environmental analyses, and information on the expected use of equipment or facilities.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/8/B">
-										<num>(B)</num>
-										<heading>
-											<inline>Federal share.—</inline>
-										</heading>
-										<clause identifier="/us/usc/t46/s50302/c/8/B/i">
-											<num>(i)</num>
-											<heading>
-												<inline>In general</inline>
-												.—
-											</heading>
-											<content>Except as provided in clause (ii), the Federal share of the total costs of a project under this subsection or subsection (d) shall not exceed 80 percent.</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/8/B/ii">
-											<num>(ii)</num>
-											<heading>
-												<inline>Rural areas</inline>
-												.—
-											</heading>
-											<content>The Secretary may increase the Federal share of costs above 80 percent for a project for which a grant is awarded under subsection (d) or that is located in a rural area.</content>
-										</clause>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/c/9">
-									<num>(9)</num>
-									<heading>
-										<inline>Procedural safeguards</inline>
-										.—
-									</heading>
-									<chapeau>The Secretary shall issue guidelines to establish appropriate accounting, reporting, and review procedures for grants made under this subsection and subsection (d) to ensure that—</chapeau>
-									<subparagraph identifier="/us/usc/t46/s50302/c/9/A">
-										<num>(A)</num>
-										<content> grant funds are used for the purposes for which those funds were made available;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/9/B">
-										<num>(B)</num>
-										<content> each grantee properly accounts for all expenditures of grant funds; and</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/9/C">
-										<num>(C)</num>
-										<content> grant funds not used for such purposes and amounts not obligated or expended are returned.</content>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/c/10">
-									<num>(10)</num>
-									<heading>
-										<inline>Grant conditions.—</inline>
-									</heading>
-									<subparagraph identifier="/us/usc/t46/s50302/c/10/A">
-										<num>(A)</num>
-										<heading>
-											<inline>In general</inline>
-											.—
-										</heading>
-										<chapeau>The Secretary shall require as a condition of making a grant under this subsection or subsection (d) that a grantee—</chapeau>
-										<clause identifier="/us/usc/t46/s50302/c/10/A/i">
-											<num>(i)</num>
-											<content> maintain such records as the Secretary considers necessary;</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/10/A/ii">
-											<num>(ii)</num>
-											<content> make the records described in clause (i) available for review and audit by the Secretary; and</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/10/A/iii">
-											<num>(iii)</num>
-											<content> periodically report to the Secretary such information as the Secretary considers necessary to assess progress.</content>
-										</clause>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/10/B">
-										<num>(B)</num>
-										<heading>
-											<inline>Additional requirement</inline>
-											.—
-										</heading>
-										<content>
-											The Secretary shall apply the same requirements of 
-											<ref href="/us/usc/t23/s117/k">section 117(k) of title 23</ref>
-											, United States Code, to a port project assisted in whole or in part under this section as the Secretary does a port-related freight project under 
-											<ref href="/us/usc/t23/s117">section 117 of title 23</ref>
-											, United States Code.
-										</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/10/C">
-										<num>(C)</num>
-										<heading>
-											<inline>Construction, repair, or alteration of vessels</inline>
-											.—
-										</heading>
-										<content>
-											With regard to the construction, repair, or alteration of vessels, the same requirements of 
-											<ref href="/us/usc/t23/s117/k">section 117(k) of title 23</ref>
-											, United States Code, shall apply regardless of whether the location of contract performance is known when bids for such work are solicited.
-										</content>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/c/11">
-									<num>(11)</num>
-									<heading>
-										<inline>Administration.—</inline>
-									</heading>
-									<subparagraph identifier="/us/usc/t46/s50302/c/11/A">
-										<num>(A)</num>
-										<heading>
-											<inline>Administrative and oversight costs</inline>
-											.—
-										</heading>
-										<content>The Secretary may retain not more than 2 percent of the amounts appropriated for each fiscal year to make grants for port development under this section for the administrative and oversight costs incurred by the Secretary to make grants for port development under this section.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/11/B">
-										<num>(B)</num>
-										<heading>
-											<inline>Availability.—</inline>
-										</heading>
-										<clause identifier="/us/usc/t46/s50302/c/11/B/i">
-											<num>(i)</num>
-											<heading>
-												<inline>In general</inline>
-												.—
-											</heading>
-											<content>Amounts appropriated to make grants for port development under this section shall remain available until expended.</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/11/B/ii">
-											<num>(ii)</num>
-											<heading>
-												<inline>Unexpended funds</inline>
-												.—
-											</heading>
-											<content>Amounts awarded as a grant for port development under this section that are not expended by the grantee during the 5-year period following the date of the award or that are returned under paragraph (9)(C) shall remain available to the Secretary for use for grants under this subsection in a subsequent fiscal year. Any such amount may only be expended to award a grant under the same subsection of this section under which the original grant was made.</content>
-										</clause>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/c/12">
-									<num>(12)</num>
-									<heading>
-										<inline>Definitions</inline>
-										.—
-									</heading>
-									<chapeau>In this subsection and subsection (d):</chapeau>
-									<subparagraph identifier="/us/usc/t46/s50302/c/12/A">
-										<num>(A)</num>
-										<heading>
-											<inline>Port</inline>
-											.—
-										</heading>
-										<chapeau>The term “port” includes—</chapeau>
-										<clause identifier="/us/usc/t46/s50302/c/12/A/i">
-											<num>(i)</num>
-											<content> any port on the navigable waters of the United States; and</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/c/12/A/ii">
-											<num>(ii)</num>
-											<content> any harbor, marine terminal, or other shore side facility used principally for the movement of goods on inland waters.</content>
-										</clause>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/12/B">
-										<num>(B)</num>
-										<heading>
-											<inline>Project</inline>
-											.—
-										</heading>
-										<content>The term “project” includes construction, reconstruction, environmental rehabilitation, acquisition of property, including land related to the project and improvements to the land, equipment acquisition, and operational improvements.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/c/12/C">
-										<num>(C)</num>
-										<heading>
-											<inline>Rural area</inline>
-											.—
-										</heading>
-										<content>The term “rural area” means an area that is outside an urbanized area.</content>
-									</subparagraph>
-								</paragraph>
-							</subsection>
-							<subsection identifier="/us/usc/t46/s50302/d">
-								<num>(d)</num>
-								<heading>
-									<inline>Assistance for Small Inland and Coastal Ports and Terminals.—</inline>
-								</heading>
-								<paragraph identifier="/us/usc/t46/s50302/d/1">
-									<num>(1)</num>
-									<heading>
-										<inline>In general</inline>
-										.—
-									</heading>
-									<content>From amounts reserved under subsection (c)(7)(B), the Secretary, acting through the Administrator of the Maritime Administration, shall make grants under this subsection to eligible applicants for eligible projects at a port, to and from which the average annual tonnage of cargo for the immediately preceding 3 calendar years from the time an application is submitted is less than 8,000,000 short tons, as determined using United States Army Corps of Engineers data or data provided by an independent audit the findings of which are acceptable to the Secretary.</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/d/2">
-									<num>(2)</num>
-									<heading>
-										<inline>Awards</inline>
-										.—
-									</heading>
-									<chapeau>In providing assistance under this subsection, the Secretary shall—</chapeau>
-									<subparagraph identifier="/us/usc/t46/s50302/d/2/A">
-										<num>(A)</num>
-										<chapeau> take into account—</chapeau>
-										<clause identifier="/us/usc/t46/s50302/d/2/A/i">
-											<num>(i)</num>
-											<content> the economic advantage and the contribution to freight transportation at a port; and</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/d/2/A/ii">
-											<num>(ii)</num>
-											<content> the competitive disadvantage of such a port;</content>
-										</clause>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/d/2/B">
-										<num>(B)</num>
-										<content> not make more than 1 award per applicant under this subsection for each fiscal year appropriation; and</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/d/2/C">
-										<num>(C)</num>
-										<content> take into consideration the degree to which a project would promote the enhancement and efficiencies of a port.</content>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/d/3">
-									<num>(3)</num>
-									<heading>
-										<inline>Use of funds.—</inline>
-									</heading>
-									<subparagraph identifier="/us/usc/t46/s50302/d/3/A">
-										<num>(A)</num>
-										<heading>
-											<inline>In general</inline>
-											.—
-										</heading>
-										<chapeau>Assistance provided under this subsection may be used for a project that—</chapeau>
-										<clause identifier="/us/usc/t46/s50302/d/3/A/i">
-											<num>(i)</num>
-											<chapeau> is—</chapeau>
-											<subclause identifier="/us/usc/t46/s50302/d/3/A/i/I">
-												<num>(I)</num>
-												<content> within the boundary of a port; or</content>
-											</subclause>
-											<subclause identifier="/us/usc/t46/s50302/d/3/A/i/II">
-												<num>(II)</num>
-												<content> outside the boundary of a port, but is directly related to port operations or to an intermodal connection to a port; and</content>
-											</subclause>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/d/3/A/ii">
-											<num>(ii)</num>
-											<chapeau> for—</chapeau>
-											<subclause identifier="/us/usc/t46/s50302/d/3/A/ii/I">
-												<num>(I)</num>
-												<content> making capital improvements, including to piers, wharves, docks, terminals, and similar structures used principally for the movement of goods;</content>
-											</subclause>
-											<subclause identifier="/us/usc/t46/s50302/d/3/A/ii/II">
-												<num>(II)</num>
-												<content> acquiring, improving, repairing, or maintaining transportation or physical infrastructure, buildings, or equipment;</content>
-											</subclause>
-											<subclause identifier="/us/usc/t46/s50302/d/3/A/ii/III">
-												<num>(III)</num>
-												<content> performing development phase activities described in subsection (c)(3)(B) related to carrying out an activity described in this clause; and</content>
-											</subclause>
-											<subclause identifier="/us/usc/t46/s50302/d/3/A/ii/IV">
-												<num>(IV)</num>
-												<content> otherwise fulfilling the purposes for which such assistance is provided.</content>
-											</subclause>
-										</clause>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/d/3/B">
-										<num>(B)</num>
-										<heading>
-											<inline>Acquisition methods</inline>
-											.—
-										</heading>
-										<chapeau>The Secretary may not require as a condition of issuing a grant under this subsection—</chapeau>
-										<clause identifier="/us/usc/t46/s50302/d/3/B/i">
-											<num>(i)</num>
-											<content> direct ownership of either a facility or equipment to be procured using funds awarded under this subsection; or</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/d/3/B/ii">
-											<num>(ii)</num>
-											<content> that equipment procured using such funds be new.</content>
-										</clause>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/d/4">
-									<num>(4)</num>
-									<heading>
-										<inline>Prohibited uses</inline>
-										.—
-									</heading>
-									<chapeau>Funds provided under this subsection may not be used for—</chapeau>
-									<subparagraph identifier="/us/usc/t46/s50302/d/4/A">
-										<num>(A)</num>
-										<content> projects conducted on property outside the boundary of a port unless such property is directly related to port operations or to an intermodal connection to a port;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/d/4/B">
-										<num>(B)</num>
-										<content> any single grant award more than 10 percent of total allocation of funds to carry out this subsection per fiscal year appropriation; or</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/d/4/C">
-										<num>(C)</num>
-										<content>
-											 activities, including channel improvements or harbor deepening that is part of a Federal channel or an access channel associated with a Federal channel, authorized, as of the date of the application for assistance under this subsection, to be carried out by of 
-											 the United States Army Corps of Engineers.
-										</content>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/d/5">
-									<num>(5)</num>
-									<heading>
-										<inline>Matching requirements.—</inline>
-									</heading>
-									<subparagraph identifier="/us/usc/t46/s50302/d/5/A">
-										<num>(A)</num>
-										<heading>
-											<inline>In general</inline>
-											.—
-										</heading>
-										<chapeau>Any costs of the project to be paid by the recipient’s matching share pursuant to subsection (c)(8)(B) may—</chapeau>
-										<clause identifier="/us/usc/t46/s50302/d/5/A/i">
-											<num>(i)</num>
-											<content> be incurred prior to the date on which assistance is provided; and</content>
-										</clause>
-										<clause identifier="/us/usc/t46/s50302/d/5/A/ii">
-											<num>(ii)</num>
-											<content> include a loan agreement, a commitment from investors, cash on balance sheet, or other contributions determined acceptable by the Secretary.</content>
-										</clause>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s50302/d/5/B">
-										<num>(B)</num>
-										<heading>
-											<inline>Determination of effectiveness</inline>
-											.—
-										</heading>
-										<content>In determining whether a project meets the criteria under clauses (i), (iii), (iv), (v), and (vi) of subsection (c)(6)(A), the Secretary shall accept documentation used to obtain a commitment of the matching funds covered by this paragraph, including feasibility studies, business plans, investor prospectuses, loan applications, or similar documentation.</content>
-									</subparagraph>
-								</paragraph>
-							</subsection>
-							<subsection identifier="/us/usc/t46/s50302/e">
-								<num>(e)</num>
-								<heading>
-									<inline>Additional Authority of the Secretary</inline>
-									.—
-								</heading>
-								<chapeau>In carrying out this section, the Secretary may—</chapeau>
-								<paragraph identifier="/us/usc/t46/s50302/e/1">
-									<num>(1)</num>
-									<content>
-										 coordinate with other Federal agencies to expedite the process established under the National Environmental Policy Act of 1969 (
-										<ref href="/us/usc/t42/s4321">42 U.S.C. 4321</ref>
-										 et seq.) for the improvement of port facilities to improve the efficiency of the transportation system, to increase port security, or to provide greater access to port facilities;
-									</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/e/2">
-									<num>(2)</num>
-									<content> seek to coordinate all reviews or requirements with appropriate Federal, State, and local agencies; and</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s50302/e/3">
-									<num>(3)</num>
-									<content> in addition to any financial assistance provided under subsection (c) or subsection (d), provide such technical assistance to any eligible applicants as described in subsection (c)(2).</content>
-								</paragraph>
-							</subsection>
 						</section>
 						<section identifier="/us/usc/t46/s50303">
 							<num>§ 50303.</num>
@@ -32614,6 +32016,22 @@ Part G—Restrictions and Penalties</column>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s50307/e">
 								<num>(e)</num>
+								<heading>
+									<inline>Uses</inline>
+									.—
+								</heading>
+								<chapeau>The results of activities conducted under subsection (b)(1) shall be used to inform—</chapeau>
+								<paragraph identifier="/us/usc/t46/s50307/e/1">
+									<num>(1)</num>
+									<content> the policy decisions of the United States related to domestic regulations; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50307/e/2">
+									<num>(2)</num>
+									<content> the position of the United States on matters before the International Maritime Organization.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s50307/f">
+								<num>(f)</num>
 								<heading>
 									<inline>Limitations on the Use of Funds</inline>
 									.—
@@ -32912,6 +32330,349 @@ Part G—Restrictions and Penalties</column>
 											<ref href="/us/usc/t42/s247d">42 U.S.C. 247d</ref>
 											) is in effect.
 										</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+						</section>
+					</chapter>
+					<chapter identifier="/us/usc/t46/stV/ptA/ch504">
+						<num>CHAPTER 504—</num>
+						<heading>COMMITTEES</heading>
+						<toc>
+							<layout>
+								<header>
+									<column>Sec.</column>
+								</header>
+								<tocItem>
+									<column>
+										<ref href="/us/usc/t46/s50401">50401.</ref>
+									</column>
+									<column>United States Committee on the Marine Transportation System.</column>
+								</tocItem>
+								<tocItem>
+									<column>
+										<ref href="/us/usc/t46/s50402">50402.</ref>
+									</column>
+									<column>Maritime Transportation System National Advisory Committee.</column>
+								</tocItem>
+							</layout>
+						</toc>
+						<section identifier="/us/usc/t46/s50401">
+							<num>§ 50401.</num>
+							<heading> United States Committee on the Marine Transportation System</heading>
+							<subsection identifier="/us/usc/t46/s50401/a">
+								<num>(a)</num>
+								<heading>
+									<inline>Establishment</inline>
+									.—
+								</heading>
+								<content>There is established a United States Committee on the Marine Transportation System (in this section referred to as the “Committee”).</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s50401/b">
+								<num>(b)</num>
+								<heading>
+									<inline>Purpose</inline>
+									.—
+								</heading>
+								<chapeau>The Committee shall serve as a Federal interagency coordinating committee for the purpose of—</chapeau>
+								<paragraph identifier="/us/usc/t46/s50401/b/1">
+									<num>(1)</num>
+									<content> assessing the adequacy of the marine transportation system (including ports, waterways, channels, and their intermodal connections);</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50401/b/2">
+									<num>(2)</num>
+									<content> promoting the integration of the marine transportation system with other modes of transportation and other uses of the marine environment; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50401/b/3">
+									<num>(3)</num>
+									<content> coordinating, improving the coordination of, and making recommendations with regard to Federal policies that impact the marine transportation system.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s50401/c">
+								<num>(c)</num>
+								<heading>
+									<inline>Membership.—</inline>
+								</heading>
+								<paragraph identifier="/us/usc/t46/s50401/c/1">
+									<num>(1)</num>
+									<heading>
+										<inline>In general</inline>
+										.—
+									</heading>
+									<chapeau>The Committee shall consist of—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/A">
+										<num>(A)</num>
+										<content> the Secretary of Transportation;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/B">
+										<num>(B)</num>
+										<content> the Secretary of Defense;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/C">
+										<num>(C)</num>
+										<content> the Secretary of Homeland Security;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/D">
+										<num>(D)</num>
+										<content> the Secretary of Commerce;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/E">
+										<num>(E)</num>
+										<content> the Secretary of the Treasury;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/F">
+										<num>(F)</num>
+										<content> the Secretary of State;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/G">
+										<num>(G)</num>
+										<content> the Secretary of the Interior;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/H">
+										<num>(H)</num>
+										<content> the Secretary of Agriculture;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/I">
+										<num>(I)</num>
+										<content> the Attorney General;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/J">
+										<num>(J)</num>
+										<content> the Secretary of Labor;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/K">
+										<num>(K)</num>
+										<content> the Secretary of Energy;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/L">
+										<num>(L)</num>
+										<content> the Administrator of the Environmental Protection Agency;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/M">
+										<num>(M)</num>
+										<content> the Chairman of the Federal Maritime Commission;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/N">
+										<num>(N)</num>
+										<content> the Chairman of the Joint Chiefs of Staff; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/c/1/O">
+										<num>(O)</num>
+										<content> the head of any other Federal agency who a majority of the voting members of the Committee determines can further the purpose and activities of the Committee.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50401/c/2">
+									<num>(2)</num>
+									<heading>
+										<inline>Nonvoting members</inline>
+										.—
+									</heading>
+									<content>The Committee may include as many nonvoting members as a majority of the voting members of the Committee determines is appropriate to further the purpose and activities of the Committee.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s50401/d">
+								<num>(d)</num>
+								<heading>
+									<inline>Support.—</inline>
+								</heading>
+								<paragraph identifier="/us/usc/t46/s50401/d/1">
+									<num>(1)</num>
+									<heading>
+										<inline>Coordinating board.—</inline>
+									</heading>
+									<subparagraph identifier="/us/usc/t46/s50401/d/1/A">
+										<num>(A)</num>
+										<heading>
+											<inline>In general</inline>
+											.—
+										</heading>
+										<content>There is hereby established, within the Committee, a Coordinating Board. Each member of the Committee may select a senior level representative to serve on such Board. The Board shall assist the Committee in carrying out its purpose and activities.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/d/1/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Chair</inline>
+											.—
+										</heading>
+										<content>There shall be a Chair of the Coordinating Board. The Chair of the Coordinating Board shall rotate each year among the Secretary of Transportation, the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Commerce. The order of rotation shall be determined by a majority of the voting members of the Committee.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50401/d/2">
+									<num>(2)</num>
+									<heading>
+										<inline>Executive director</inline>
+										.—
+									</heading>
+									<content>The Secretary of Transportation, in consultation with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Commerce, shall appoint an Executive Director of the Committee.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50401/d/3">
+									<num>(3)</num>
+									<heading>
+										<inline>Transfers</inline>
+										.—
+									</heading>
+									<chapeau>Notwithstanding any other provision of law, the head of a Federal department or agency who is a member of the Committee may—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s50401/d/3/A">
+										<num>(A)</num>
+										<content> provide, on a reimbursable or nonreimbursable basis, facilities, equipment, services, personnel, and other support services to carry out the activities of the Committee; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50401/d/3/B">
+										<num>(B)</num>
+										<content> transfer funds to another Federal department or agency in order to carry out the activities of the Committee.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s50401/e">
+								<num>(e)</num>
+								<heading>
+									<inline>Marine Transportation System Assessment and Strategy</inline>
+									.—
+								</heading>
+								<chapeau>Not later than one year after the date of enactment of this Act and every 5 years thereafter, the Committee shall provide to the Committee on Commerce, Science, and Transportation and the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—</chapeau>
+								<paragraph identifier="/us/usc/t46/s50401/e/1">
+									<num>(1)</num>
+									<content> steps taken to implement actions recommended in the document titled “National Strategy for the Marine Transportation System: A Framework for Action” and dated July 2008;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50401/e/2">
+									<num>(2)</num>
+									<content> a conditions and performance analysis of the marine transportation system;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50401/e/3">
+									<num>(3)</num>
+									<content> a discussion of the challenges the marine transportation system faces in meeting user demand, including estimates of investment levels required to ensure system infrastructure meets such demand;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50401/e/4">
+									<num>(4)</num>
+									<content> a plan, with recommended actions, for improving the marine transportation system to meet current and future challenges;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50401/e/5">
+									<num>(5)</num>
+									<content> steps taken to implement actions recommended in previous reports required under this subsection; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50401/e/6">
+									<num>(6)</num>
+									<content> a compendium of the Federal programs engaged in the maritime transportation system.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s50401/f">
+								<num>(f)</num>
+								<heading>
+									<inline>Consultation</inline>
+									.—
+								</heading>
+								<content>In carrying out its purpose and activities, the Committee may consult with marine transportation system-related advisory committees, interested parties, and the public.</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t46/s50402">
+							<num>§ 50402.</num>
+							<heading> Maritime Transportation System National Advisory Committee</heading>
+							<subsection identifier="/us/usc/t46/s50402/a">
+								<num>(a)</num>
+								<heading>
+									<inline>Establishment</inline>
+									.—
+								</heading>
+								<content>There is established a Maritime Transportation System National Advisory Committee (in this section referred to as the “Committee”).</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s50402/b">
+								<num>(b)</num>
+								<heading>
+									<inline>Function</inline>
+									.—
+								</heading>
+								<content>The Committee shall advise the Secretary of Transportation on matters relating to the United States maritime transportation system and its seamless integration with other segments of the transportation system, including the viability of the United States Merchant Marine.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s50402/c">
+								<num>(c)</num>
+								<heading>
+									<inline>Membership.—</inline>
+								</heading>
+								<paragraph identifier="/us/usc/t46/s50402/c/1">
+									<num>(1)</num>
+									<heading>
+										<inline>In general</inline>
+										.—
+									</heading>
+									<content>The Committee shall consist of 27 members appointed by the Secretary of Transportation in accordance with this section and section 15109.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50402/c/2">
+									<num>(2)</num>
+									<heading>
+										<inline>Expertise</inline>
+										.—
+									</heading>
+									<content>Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50402/c/3">
+									<num>(3)</num>
+									<heading>
+										<inline>Representation</inline>
+										.—
+									</heading>
+									<chapeau>Members of the Committee shall be appointed as follows:</chapeau>
+									<subparagraph identifier="/us/usc/t46/s50402/c/3/A">
+										<num>(A)</num>
+										<content> At least one member shall represent the Environmental Protection Agency.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50402/c/3/B">
+										<num>(B)</num>
+										<content> At least one member shall represent the Department of Commerce.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50402/c/3/C">
+										<num>(C)</num>
+										<content> At least one member shall represent the Corps of Engineers.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50402/c/3/D">
+										<num>(D)</num>
+										<content> At least one member shall represent the Coast Guard.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50402/c/3/E">
+										<num>(E)</num>
+										<content> At least one member shall represent Customs and Border Protection.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50402/c/3/F">
+										<num>(F)</num>
+										<content> At least one member shall represent State and local governmental entities.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50402/c/3/G">
+										<num>(G)</num>
+										<content> Additional members shall represent private sector entities that reflect a cross-section of maritime industries, including port and water stakeholders, academia, and labor.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50402/c/3/H">
+										<num>(H)</num>
+										<content> The Secretary may appoint additional representatives from other Federal agencies as the Secretary considers appropriate.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50402/c/4">
+									<num>(4)</num>
+									<heading>
+										<inline>Restrictions on members representing federal agencies</inline>
+										.—
+									</heading>
+									<chapeau>Members of the Committee that represent Federal agencies shall not—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s50402/c/4/A">
+										<num>(A)</num>
+										<content> comprise more than one-third of the total membership of the Committee or of any subcommittee therein; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50402/c/4/B">
+										<num>(B)</num>
+										<content> serve as the chair or co-chair of the Committee or of any subcommittee therein.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s50402/c/5">
+									<num>(5)</num>
+									<heading>
+										<inline>Administration</inline>
+										.—
+									</heading>
+									<chapeau>For purposes of section 15109—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s50402/c/5/A">
+										<num>(A)</num>
+										<content> the Committee shall be treated as a committee established under chapter 151; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s50402/c/5/B">
+										<num>(B)</num>
+										<content> the Secretary of Transportation shall fulfill all duties and responsibilities and have all authorities of the Secretary of Homeland Security with regard to the Committee.</content>
 									</subparagraph>
 								</paragraph>
 							</subsection>
@@ -33523,6 +33284,18 @@ Part G—Restrictions and Penalties</column>
 										<ref href="/us/usc/t46/s51322">51322.</ref>
 									</column>
 									<column>Protection of cadets from sexual assault onboard vessels.</column>
+								</tocItem>
+								<tocItem>
+									<column>
+										<ref href="/us/usc/t46/s51323">51323.</ref>
+									</column>
+									<column>United States Merchant Marine Academy Advisory Council.</column>
+								</tocItem>
+								<tocItem>
+									<column>
+										<ref href="/us/usc/t46/s51324">51324.</ref>
+									</column>
+									<column>Unfilled vacancies.</column>
 								</tocItem>
 							</layout>
 						</toc>
@@ -36010,6 +35783,104 @@ Part G—Restrictions and Penalties</column>
 										<num>(B)</num>
 										<content> the aggregated data received from such surveys.</content>
 									</subparagraph>
+								</paragraph>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t46/s51323">
+							<num>§ 51323.</num>
+							<heading> United States Merchant Marine Academy Advisory Council</heading>
+							<subsection identifier="/us/usc/t46/s51323/a">
+								<num>(a)</num>
+								<heading>
+									<inline>Establishment</inline>
+									.—
+								</heading>
+								<content>The Secretary of Transportation shall establish an advisory council, to be known as the “United States Merchant Marine Academy Advisory Council” (in this section referred to as the “Council”).</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s51323/b">
+								<num>(b)</num>
+								<heading>
+									<inline>Membership.—</inline>
+								</heading>
+								<paragraph identifier="/us/usc/t46/s51323/b/1">
+									<num>(1)</num>
+									<heading>
+										<inline>In general</inline>
+										.—
+									</heading>
+									<content>The Secretary shall select not fewer than 8 and not more than 14 individuals to serve as members of the Council. Such individuals shall have such expertise as the Secretary determines necessary and appropriate for providing advice and guidance on improving the Academy.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s51323/b/2">
+									<num>(2)</num>
+									<heading>
+										<inline>Governmental experts</inline>
+										.—
+									</heading>
+									<content>The number of members of the Council who are employees of the Federal Government may not exceed the number of members of the Council who are not employees of the Federal Government.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s51323/b/3">
+									<num>(3)</num>
+									<heading>
+										<inline>Employee status</inline>
+										.—
+									</heading>
+									<content>
+										Members of the Council shall not be considered employees of the United States Government by reason of their membership on the Council for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with 
+										<ref href="/us/usc/t5/s5703">section 5703 of title 5</ref>
+										.
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s51323/c">
+								<num>(c)</num>
+								<heading>
+									<inline>Responsibilities</inline>
+									.—
+								</heading>
+								<content>The Council shall provide advice to the Secretary at the time and in the manner requested by the Secretary.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s51323/d">
+								<num>(d)</num>
+								<heading>
+									<inline>Personally Identifiable Information</inline>
+									.—
+								</heading>
+								<content>In carrying out its responsibilities under this subsection, the Council shall comply with the obligations of the Department of Transportation to protect personally identifiable information.</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t46/s51324">
+							<num>§ 51324.</num>
+							<heading> Unfilled vacancies</heading>
+							<subsection identifier="/us/usc/t46/s51324/a">
+								<num>(a)</num>
+								<heading>
+									<inline>In General</inline>
+									.—
+								</heading>
+								<content>In the event of an unfilled vacancy for any critical position at the United States Merchant Marine Academy, the Secretary of Transportation may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, other than sections 3303 and 3328 of that title, a qualified candidate for the purposes of filling up to 20 of such positions.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s51324/b">
+								<num>(b)</num>
+								<heading>
+									<inline>Critical Position Defined</inline>
+									.—
+								</heading>
+								<chapeau>In this section, the term “critical position” means a position that contributes to the improvement of—</chapeau>
+								<paragraph identifier="/us/usc/t46/s51324/b/1">
+									<num>(1)</num>
+									<content> the culture or infrastructure of the Academy;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s51324/b/2">
+									<num>(2)</num>
+									<content> student health and well being;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s51324/b/3">
+									<num>(3)</num>
+									<content> Academy governance; or</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s51324/b/4">
+									<num>(4)</num>
+									<content> any other priority areas identified by the Council.</content>
 								</paragraph>
 							</subsection>
 						</section>
@@ -40186,6 +40057,14 @@ Part G—Restrictions and Penalties</column>
 									<content> may include a trust for which a person who is not a citizen of the United States holds more than 25 percent of the beneficial interest in the trust.</content>
 								</subparagraph>
 							</paragraph>
+							<paragraph identifier="/us/usc/t46/s53401/8">
+								<num>(8)</num>
+								<heading>
+									<inline>Long term charter</inline>
+									.—
+								</heading>
+								<content>The term “long term charter” means any time charter of a product tank vessel to the United States Government that, together with options, occurs for a continuous period of more than 180 days.</content>
+							</paragraph>
 						</section>
 						<section identifier="/us/usc/t46/s53402">
 							<num>§ 53402.</num>
@@ -40544,7 +40423,7 @@ Part G—Restrictions and Penalties</column>
 									<inline>Vessels Under Charter to the United States</inline>
 									.—
 								</heading>
-								<content>The program participant of a vessel under charter to the United States is eligible to receive payments pursuant to any operating agreement that covers such vessel.</content>
+								<content>Any vessel under long term charter to the United States is not eligible to participate in the Fleet.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s53404/c">
 								<num>(c)</num>
@@ -46112,6 +45991,761 @@ SUBCHAPTER III—PARTICULAR PROJECTS</column>
 							</subsection>
 						</section>
 					</chapter>
+					<chapter identifier="/us/usc/t46/stV/ptC/ch543">
+						<num>CHAPTER 543—</num>
+						<heading>PORT INFRASTRUCTURE DEVELOPMENT PROGRAM</heading>
+						<toc>
+							<layout>
+								<header>
+									<column>Sec.</column>
+								</header>
+								<tocItem>
+									<column>
+										<ref href="/us/usc/t46/s54301">54301.</ref>
+									</column>
+									<column>Port infrastructure development program.</column>
+								</tocItem>
+							</layout>
+						</toc>
+						<section identifier="/us/usc/t46/s54301">
+							<num>§ 54301.</num>
+							<heading> Port infrastructure development program</heading>
+							<subsection identifier="/us/usc/t46/s54301/a">
+								<num>(a)</num>
+								<heading>
+									<inline>Port and Intermodal Improvement Program.—</inline>
+								</heading>
+								<paragraph identifier="/us/usc/t46/s54301/a/1">
+									<num>(1)</num>
+									<heading>
+										<inline>General authority</inline>
+										.—
+									</heading>
+									<content>Subject to the availability of appropriations, the Secretary of Transportation shall make grants, on a competitive basis, to eligible applicants to assist in funding eligible projects for the purpose of improving the safety, efficiency, or reliability of the movement of goods through ports and intermodal connections to ports.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/a/2">
+									<num>(2)</num>
+									<heading>
+										<inline>Eligible applicant</inline>
+										.—
+									</heading>
+									<chapeau>The Secretary may make a grant under this subsection or subsection (b) to the following:</chapeau>
+									<subparagraph identifier="/us/usc/t46/s54301/a/2/A">
+										<num>(A)</num>
+										<content> A State.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/2/B">
+										<num>(B)</num>
+										<content> A political subdivision of a State, or a local government.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/2/C">
+										<num>(C)</num>
+										<content> A public agency or publicly chartered authority established by 1 or more States.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/2/D">
+										<num>(D)</num>
+										<content> A special purpose district with a transportation function.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/2/E">
+										<num>(E)</num>
+										<content>
+											 An Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (
+											<ref href="/us/usc/t25/s5304">25 U.S.C. 5304</ref>
+											), without regard to capitalization), or a consortium of Indian Tribes.
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/2/F">
+										<num>(F)</num>
+										<content> A multistate or multijurisdictional group of entities described in this paragraph.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/2/G">
+										<num>(G)</num>
+										<content> A lead entity described in subparagraph (A), (B), (C), (D), (E), or (F) jointly with a private entity or group of private entities, including the owners or operators of a facility, or collection of facilities at a port.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/a/3">
+									<num>(3)</num>
+									<heading>
+										<inline>Eligible projects</inline>
+										.—
+									</heading>
+									<chapeau>The Secretary may make a grant under this subsection—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s54301/a/3/A">
+										<num>(A)</num>
+										<chapeau> for a project, or package of projects, that—</chapeau>
+										<clause identifier="/us/usc/t46/s54301/a/3/A/i">
+											<num>(i)</num>
+											<chapeau> is either—</chapeau>
+											<subclause identifier="/us/usc/t46/s54301/a/3/A/i/I">
+												<num>(I)</num>
+												<content> within the boundary of a port; or</content>
+											</subclause>
+											<subclause identifier="/us/usc/t46/s54301/a/3/A/i/II">
+												<num>(II)</num>
+												<content> outside the boundary of a port, but is directly related to port operations or to an intermodal connection to a port; and</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/3/A/ii">
+											<num>(ii)</num>
+											<chapeau> will be used to improve the safety, efficiency, or reliability of—</chapeau>
+											<subclause identifier="/us/usc/t46/s54301/a/3/A/ii/I">
+												<num>(I)</num>
+												<content> the loading and unloading of goods at the port, such as for marine terminal equipment;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t46/s54301/a/3/A/ii/II">
+												<num>(II)</num>
+												<content> the movement of goods into, out of, around, or within a port, such as for highway or rail infrastructure, intermodal facilities, freight intelligent transportation systems, and digital infrastructure systems;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t46/s54301/a/3/A/ii/III">
+												<num>(III)</num>
+												<content> operational improvements, including projects to improve port resilience; or</content>
+											</subclause>
+											<subclause identifier="/us/usc/t46/s54301/a/3/A/ii/IV">
+												<num>(IV)</num>
+												<chapeau> environmental and emission mitigation measures; including projects for—</chapeau>
+												<item identifier="/us/usc/t46/s54301/a/3/A/ii/IV/aa">
+													<num>(aa)</num>
+													<content> port electrification or electrification master planning;</content>
+												</item>
+												<item identifier="/us/usc/t46/s54301/a/3/A/ii/IV/bb">
+													<num>(bb)</num>
+													<content> harbor craft or equipment replacements or retrofits;</content>
+												</item>
+												<item identifier="/us/usc/t46/s54301/a/3/A/ii/IV/cc">
+													<num>(cc)</num>
+													<content> development of port or terminal microgrids;</content>
+												</item>
+												<item identifier="/us/usc/t46/s54301/a/3/A/ii/IV/dd">
+													<num>(dd)</num>
+													<content> providing idling reduction infrastructure;</content>
+												</item>
+												<item identifier="/us/usc/t46/s54301/a/3/A/ii/IV/ee">
+													<num>(ee)</num>
+													<content> purchase of cargo handling equipment and related infrastructure;</content>
+												</item>
+												<item identifier="/us/usc/t46/s54301/a/3/A/ii/IV/ff">
+													<num>(ff)</num>
+													<content> worker training to support electrification technology;</content>
+												</item>
+												<item identifier="/us/usc/t46/s54301/a/3/A/ii/IV/gg">
+													<num>(gg)</num>
+													<content> installation of port bunkering facilities from oceangoing vessels for fuels;</content>
+												</item>
+												<item identifier="/us/usc/t46/s54301/a/3/A/ii/IV/hh">
+													<num>(hh)</num>
+													<content> electric vehicle charge or hydrogen refueling infrastructure for drayage and medium or heavy duty trucks and locomotives that service the port and related grid upgrades; or</content>
+												</item>
+												<item identifier="/us/usc/t46/s54301/a/3/A/ii/IV/ii">
+													<num>(ii)</num>
+													<content> other related port activities, including charging infrastructure, electric rubber-tired gantry cranes, and anti-idling technologies.</content>
+												</item>
+											</subclause>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/3/B">
+										<num>(B)</num>
+										<content> notwithstanding paragraph (6)(A)(v), to provide financial assistance to 1 or more projects under subparagraph (A) for development phase activities, including planning, feasibility analysis, revenue forecasting, environmental review, permitting, and preliminary engineering and design work.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/a/4">
+									<num>(4)</num>
+									<heading>
+										<inline>Prohibited uses</inline>
+										.—
+									</heading>
+									<chapeau>A grant award under this subsection may not be used—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s54301/a/4/A">
+										<num>(A)</num>
+										<chapeau> to finance or refinance the construction, reconstruction, reconditioning, or purchase of a vessel that is eligible for such assistance under chapter 537, unless the Secretary determines such vessel—</chapeau>
+										<clause identifier="/us/usc/t46/s54301/a/4/A/i">
+											<num>(i)</num>
+											<content> is necessary for a project described in paragraph (3)(A)(ii)(III) of this subsection; and</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/4/A/ii">
+											<num>(ii)</num>
+											<content> is not receiving assistance under chapter 537; or</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/4/B">
+										<num>(B)</num>
+										<content> for any project within a small shipyard (as defined in section 54101).</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/a/5">
+									<num>(5)</num>
+									<heading>
+										<inline>Applications and process.—</inline>
+									</heading>
+									<subparagraph identifier="/us/usc/t46/s54301/a/5/A">
+										<num>(A)</num>
+										<heading>
+											<inline>Applications</inline>
+											.—
+										</heading>
+										<content>To be eligible for a grant under this subsection or subsection (b), an eligible applicant shall submit to the Secretary an application in such form, at such time, and containing such information as the Secretary considers appropriate.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/5/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Solicitation process</inline>
+											.—
+										</heading>
+										<content>Not later than 90 days after the date that amounts are made available for grants under this subsection or subsection (b) for a fiscal year, the Secretary shall solicit grant applications for eligible projects in accordance with this subsection.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/a/6">
+									<num>(6)</num>
+									<heading>
+										<inline>Project selection criteria.—</inline>
+									</heading>
+									<subparagraph identifier="/us/usc/t46/s54301/a/6/A">
+										<num>(A)</num>
+										<heading>
+											<inline>In general</inline>
+											.—
+										</heading>
+										<chapeau>The Secretary may select a project described in paragraph (3) for funding under this subsection if the Secretary determines that—</chapeau>
+										<clause identifier="/us/usc/t46/s54301/a/6/A/i">
+											<num>(i)</num>
+											<content> the project improves the safety, efficiency, or reliability of the movement of goods through a port or intermodal connection to a port;</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/6/A/ii">
+											<num>(ii)</num>
+											<content> the project is cost effective;</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/6/A/iii">
+											<num>(iii)</num>
+											<content> the eligible applicant has authority to carry out the project;</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/6/A/iv">
+											<num>(iv)</num>
+											<content> the eligible applicant has sufficient funding available to meet the matching requirements under paragraph (8);</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/6/A/v">
+											<num>(v)</num>
+											<content> the project will be completed without unreasonable delay; and</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/6/A/vi">
+											<num>(vi)</num>
+											<content> the project cannot be easily and efficiently completed without Federal funding or financial assistance available to the project sponsor.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/6/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Additional considerations</inline>
+											.—
+										</heading>
+										<chapeau>In selecting projects described in paragraph (3) for funding under this subsection, the Secretary shall give substantial weight to—</chapeau>
+										<clause identifier="/us/usc/t46/s54301/a/6/B/i">
+											<num>(i)</num>
+											<content> the utilization of non-Federal contributions;</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/6/B/ii">
+											<num>(ii)</num>
+											<content> the net benefits of the funds awarded under this subsection, considering the cost-benefit analysis of the project, as applicable; and</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/6/B/iii">
+											<num>(iii)</num>
+											<content> a port’s increased resilience as a result of the project.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/a/7">
+									<num>(7)</num>
+									<heading>
+										<inline>Allocation of funds.—</inline>
+									</heading>
+									<subparagraph identifier="/us/usc/t46/s54301/a/7/A">
+										<num>(A)</num>
+										<heading>
+											<inline>Geographic distribution</inline>
+											.—
+										</heading>
+										<content>Not more than 25 percent of the amounts made available for grants under this subsection for a fiscal year may be used to make grants for projects in any 1 State.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/7/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Small projects</inline>
+											.—
+										</heading>
+										<content>The Secretary shall reserve 25 percent of the amounts made available for grants under this subsection each fiscal year to make grants for eligible projects described in subsection (b). The requirement under paragraph (6)(A)(ii) shall not apply to grants made under subsection (b).</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/7/C">
+										<num>(C)</num>
+										<heading>
+											<inline>Development phase activities</inline>
+											.—
+										</heading>
+										<chapeau>Of the amounts made available for grants under this section for a fiscal year—</chapeau>
+										<clause identifier="/us/usc/t46/s54301/a/7/C/i">
+											<num>(i)</num>
+											<content> not more than 10 percent may be used to make grants for development phase activities under paragraph (3)(B); and</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/7/C/ii">
+											<num>(ii)</num>
+											<content> not more than 10 percent may be used to make grants for development phase activities under subsection (b)(3)(A)(ii)(III).</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/a/8">
+									<num>(8)</num>
+									<heading>
+										<inline>Federal share of total project costs.—</inline>
+									</heading>
+									<subparagraph identifier="/us/usc/t46/s54301/a/8/A">
+										<num>(A)</num>
+										<heading>
+											<inline>Total project costs</inline>
+											.—
+										</heading>
+										<content>To be eligible for a grant under this subsection or subsection (b), an eligible applicant shall submit to the Secretary an estimate of the total costs of the project for which the grant is requested based on the best available information, including any available engineering studies, studies of economic feasibility, environmental analyses, and information on the expected use of equipment or facilities.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/8/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Federal share.—</inline>
+										</heading>
+										<clause identifier="/us/usc/t46/s54301/a/8/B/i">
+											<num>(i)</num>
+											<heading>
+												<inline>In general</inline>
+												.—
+											</heading>
+											<content>Except as provided in clause (ii), the Federal share of the total costs of a project under this subsection or subsection (b) shall not exceed 80 percent.</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/8/B/ii">
+											<num>(ii)</num>
+											<heading>
+												<inline>Rural areas</inline>
+												.—
+											</heading>
+											<content>The Secretary may increase the Federal share of costs above 80 percent for a project for which a grant is awarded under subsection (b) or that is located in a rural area.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/a/9">
+									<num>(9)</num>
+									<heading>
+										<inline>Procedural safeguards</inline>
+										.—
+									</heading>
+									<chapeau>The Secretary shall issue guidelines to establish appropriate accounting, reporting, and review procedures for grants made under this subsection and subsection (b) to ensure that—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s54301/a/9/A">
+										<num>(A)</num>
+										<content> grant funds are used for the purposes for which those funds were made available;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/9/B">
+										<num>(B)</num>
+										<content> each grantee properly accounts for all expenditures of grant funds; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/9/C">
+										<num>(C)</num>
+										<content> grant funds not used for such purposes and amounts not obligated or expended are returned.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/a/10">
+									<num>(10)</num>
+									<heading>
+										<inline>Grant conditions.—</inline>
+									</heading>
+									<subparagraph identifier="/us/usc/t46/s54301/a/10/A">
+										<num>(A)</num>
+										<heading>
+											<inline>In general</inline>
+											.—
+										</heading>
+										<chapeau>The Secretary shall require as a condition of making a grant under this subsection or subsection (b) that a grantee—</chapeau>
+										<clause identifier="/us/usc/t46/s54301/a/10/A/i">
+											<num>(i)</num>
+											<content> maintain such records as the Secretary considers necessary;</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/10/A/ii">
+											<num>(ii)</num>
+											<content> make the records described in clause (i) available for review and audit by the Secretary; and</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/10/A/iii">
+											<num>(iii)</num>
+											<content> periodically report to the Secretary such information as the Secretary considers necessary to assess progress.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/10/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Efficient use of non-federal funds.—</inline>
+										</heading>
+										<clause identifier="/us/usc/t46/s54301/a/10/B/i">
+											<num>(i)</num>
+											<heading>
+												<inline>In general</inline>
+												.—
+											</heading>
+											<chapeau>Notwithstanding any other provision of law ans subject to approval by the Secretary, in the case of any grant for a project under this section, during the period beginning on the date on which the grant recipient is selected and ending on the date on which the grant agreement is signed—</chapeau>
+											<subclause identifier="/us/usc/t46/s54301/a/10/B/i/I">
+												<num>(I)</num>
+												<content> the grant recipient may obligate and expend non-Federal funds with respect to the project for which the grant is provided; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t46/s54301/a/10/B/i/II">
+												<num>(II)</num>
+												<content> any non-Federal funds obligated or expended in accordance with subclause (I) shall be credited toward the non-Federal cost share for the project for which the grant is provided.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/10/B/ii">
+											<num>(ii)</num>
+											<heading>
+												<inline>Requirements.—</inline>
+											</heading>
+											<subclause identifier="/us/usc/t46/s54301/a/10/B/ii/I">
+												<num>(I)</num>
+												<heading>
+													<inline>Application</inline>
+													.—
+												</heading>
+												<chapeau>In order to obligate and expend non-Federal funds under clause (i), the grant recipient shall submit to the Secretary a request to obligate and expend non- Federal funds under that clause, including—</chapeau>
+												<item identifier="/us/usc/t46/s54301/a/10/B/ii/I/aa">
+													<num>(aa)</num>
+													<content> a description of the activities the grant recipient intends to fund;</content>
+												</item>
+												<item identifier="/us/usc/t46/s54301/a/10/B/ii/I/bb">
+													<num>(bb)</num>
+													<content> a justification for advancing the activities described in item (aa), including an assessment of the effects to the project scope, schedule, and budget if the request is not approved; and</content>
+												</item>
+												<item identifier="/us/usc/t46/s54301/a/10/B/ii/I/cc">
+													<num>(cc)</num>
+													<content> the level of risk of the activities described in item (aa).</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t46/s54301/a/10/B/ii/II">
+												<num>(II)</num>
+												<heading>
+													<inline>Approval</inline>
+													.—
+												</heading>
+												<content>The Secretary shall approve or disapprove each request submitted under subclause (I).</content>
+											</subclause>
+											<subclause identifier="/us/usc/t46/s54301/a/10/B/ii/III">
+												<num>(III)</num>
+												<heading>
+													<inline>Compliance with applicable requirements</inline>
+													.—
+												</heading>
+												<content>Any obligation or expenditure of non-Federal funds under clause (i) shall be in compliance with all applicable requirements, including any requirements included in the grant agreement.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/10/B/iii">
+											<num>(iii)</num>
+											<heading>
+												<inline>Effect</inline>
+												.—
+											</heading>
+											<chapeau>The obligation or expenditure of any non-Federal funds in accordance with this subparagraph shall not—</chapeau>
+											<subclause identifier="/us/usc/t46/s54301/a/10/B/iii/I">
+												<num>(I)</num>
+												<content> affect the signing of a grant agreement or other applicable grant procedures with respect to the applicable grant;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t46/s54301/a/10/B/iii/II">
+												<num>(II)</num>
+												<content> create an obligation on the part of the Federal Government to repay any non-Federal funds if the grant agreement is not signed; or</content>
+											</subclause>
+											<subclause identifier="/us/usc/t46/s54301/a/10/B/iii/III">
+												<num>(III)</num>
+												<content> affect the ability of the recipient of the grant to obligate or expend non-Federal funds to meet the non-Federal cost share for the project for which the grant is provided after the period described in clause (i).</content>
+											</subclause>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/10/C">
+										<num>(C)</num>
+										<heading>
+											<inline>Additional requirement</inline>
+											.—
+										</heading>
+										<content>
+											The Secretary shall apply the same requirements of 
+											<ref href="/us/usc/t23/s117/k">section 117(k) of title 23</ref>
+											, United States Code, to a port project assisted in whole or in part under this section as the Secretary does a port-related freight project under 
+											<ref href="/us/usc/t23/s117">section 117 of title 23</ref>
+											, United States Code.
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/10/D">
+										<num>(D)</num>
+										<heading>
+											<inline>Construction, repair, or alteration of vessels</inline>
+											.—
+										</heading>
+										<content>
+											With regard to the construction, repair, or alteration of vessels, the same requirements of 
+											<ref href="/us/usc/t23/s117/k">section 117(k) of title 23</ref>
+											, United States Code, shall apply regardless of whether the location of contract performance is known when bids for such work are solicited.
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/a/11">
+									<num>(11)</num>
+									<heading>
+										<inline>Administration.—</inline>
+									</heading>
+									<subparagraph identifier="/us/usc/t46/s54301/a/11/A">
+										<num>(A)</num>
+										<heading>
+											<inline>Administrative and oversight costs</inline>
+											.—
+										</heading>
+										<content>The Secretary may retain not more than 2 percent of the amounts appropriated for each fiscal year to make grants for port development under this section for the administrative and oversight costs incurred by the Secretary to make grants for port development under this section.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/11/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Availability.—</inline>
+										</heading>
+										<clause identifier="/us/usc/t46/s54301/a/11/B/i">
+											<num>(i)</num>
+											<heading>
+												<inline>In general</inline>
+												.—
+											</heading>
+											<content>Amounts appropriated to make grants for port development under this section shall remain available until expended.</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/11/B/ii">
+											<num>(ii)</num>
+											<heading>
+												<inline>Unexpended funds</inline>
+												.—
+											</heading>
+											<content>Amounts awarded as a grant for port development under this section that are not expended by the grantee during the 5-year period following the date of the award or that are returned under paragraph (9)(C) shall remain available to the Secretary for use for grants under this subsection in a subsequent fiscal year. Any such amount may only be expended to award a grant under the same subsection of this section under which the original grant was made.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/a/12">
+									<num>(12)</num>
+									<heading>
+										<inline>Definitions</inline>
+										.—
+									</heading>
+									<chapeau>In this subsection and subsection (b):</chapeau>
+									<subparagraph identifier="/us/usc/t46/s54301/a/12/A">
+										<num>(A)</num>
+										<heading>
+											<inline>Port</inline>
+											.—
+										</heading>
+										<chapeau>The term “port” includes—</chapeau>
+										<clause identifier="/us/usc/t46/s54301/a/12/A/i">
+											<num>(i)</num>
+											<content> any port on the navigable waters of the United States; and</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/a/12/A/ii">
+											<num>(ii)</num>
+											<content> any harbor, marine terminal, or other shore side facility used principally for the movement of goods on inland waters.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/12/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Project</inline>
+											.—
+										</heading>
+										<content>The term “project” includes construction, reconstruction, environmental rehabilitation, acquisition of property, including land related to the project and improvements to the land, equipment acquisition, and operational improvements.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/12/C">
+										<num>(C)</num>
+										<heading>
+											<inline>Rural area</inline>
+											.—
+										</heading>
+										<content>The term “rural area” means an area that is outside an urbanized area.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/a/12/D">
+										<num>(D)</num>
+										<heading>
+											<inline>Resilience</inline>
+											.—
+										</heading>
+										<content>The term “resilience” means the ability to anticipate, prepare for, adapt to, withstand, respond to, and recover from operational disruptions and sustain critical operations at ports, including disruptions caused by natural or manmade hazards, such as sea level rise, flooding, earthquakes, hurricanes, tsunami inundation or other extreme weather events.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s54301/b">
+								<num>(b)</num>
+								<heading>
+									<inline>Assistance for Small Inland River and Coastal Ports and Terminals.—</inline>
+								</heading>
+								<paragraph identifier="/us/usc/t46/s54301/b/1">
+									<num>(1)</num>
+									<heading>
+										<inline>In general</inline>
+										.—
+									</heading>
+									<content>From amounts reserved under subsection (a)(7)(B), the Secretary, acting through the Administrator of the Maritime Administration, shall make grants under this subsection to eligible applicants for eligible projects at a port, to and from which the average annual tonnage of cargo for the immediately preceding 3 calendar years from the time an application is submitted is less than 8,000,000 short tons, as determined using United States Army Corps of Engineers data or data provided by an independent audit the findings of which are acceptable to the Secretary.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/b/2">
+									<num>(2)</num>
+									<heading>
+										<inline>Awards</inline>
+										.—
+									</heading>
+									<chapeau>In providing assistance under this subsection, the Secretary shall—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s54301/b/2/A">
+										<num>(A)</num>
+										<chapeau> take into account—</chapeau>
+										<clause identifier="/us/usc/t46/s54301/b/2/A/i">
+											<num>(i)</num>
+											<content> the economic advantage and the contribution to freight transportation at a port; and</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/b/2/A/ii">
+											<num>(ii)</num>
+											<content> the competitive disadvantage of such a port;</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/b/2/B">
+										<num>(B)</num>
+										<content> not make more than 1 award per applicant under this subsection for each fiscal year appropriation; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/b/2/C">
+										<num>(C)</num>
+										<content> take into consideration the degree to which a project would promote the enhancement and efficiencies of a port.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/b/3">
+									<num>(3)</num>
+									<heading>
+										<inline>Use of funds.—</inline>
+									</heading>
+									<subparagraph identifier="/us/usc/t46/s54301/b/3/A">
+										<num>(A)</num>
+										<heading>
+											<inline>In general</inline>
+											.—
+										</heading>
+										<chapeau>Assistance provided under this subsection may be used for a project that—</chapeau>
+										<clause identifier="/us/usc/t46/s54301/b/3/A/i">
+											<num>(i)</num>
+											<chapeau> is—</chapeau>
+											<subclause identifier="/us/usc/t46/s54301/b/3/A/i/I">
+												<num>(I)</num>
+												<content> within the boundary of a port; or</content>
+											</subclause>
+											<subclause identifier="/us/usc/t46/s54301/b/3/A/i/II">
+												<num>(II)</num>
+												<content> outside the boundary of a port, but is directly related to port operations or to an intermodal connection to a port; and</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/b/3/A/ii">
+											<num>(ii)</num>
+											<chapeau> for—</chapeau>
+											<subclause identifier="/us/usc/t46/s54301/b/3/A/ii/I">
+												<num>(I)</num>
+												<content> making capital improvements, including to piers, wharves, docks, terminals, and similar structures used principally for the movement of goods;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t46/s54301/b/3/A/ii/II">
+												<num>(II)</num>
+												<content> acquiring, improving, repairing, or maintaining transportation or physical infrastructure, buildings, or equipment;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t46/s54301/b/3/A/ii/III">
+												<num>(III)</num>
+												<content> performing development phase activities described in subsection (a)(3)(B) related to carrying out an activity described in this clause; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t46/s54301/b/3/A/ii/IV">
+												<num>(IV)</num>
+												<content> otherwise fulfilling the purposes for which such assistance is provided.</content>
+											</subclause>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/b/3/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Acquisition methods</inline>
+											.—
+										</heading>
+										<chapeau>The Secretary may not require as a condition of issuing a grant under this subsection—</chapeau>
+										<clause identifier="/us/usc/t46/s54301/b/3/B/i">
+											<num>(i)</num>
+											<content> direct ownership of either a facility or equipment to be procured using funds awarded under this subsection; or</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/b/3/B/ii">
+											<num>(ii)</num>
+											<content> that equipment procured using such funds be new.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/b/4">
+									<num>(4)</num>
+									<heading>
+										<inline>Prohibited uses</inline>
+										.—
+									</heading>
+									<chapeau>Funds provided under this subsection may not be used for—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s54301/b/4/A">
+										<num>(A)</num>
+										<content> projects conducted on property outside the boundary of a port unless such property is directly related to port operations or to an intermodal connection to a port;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/b/4/B">
+										<num>(B)</num>
+										<content> any single grant award more than 10 percent of total allocation of funds to carry out this subsection per fiscal year appropriation; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/b/4/C">
+										<num>(C)</num>
+										<content> activities, including channel improvements or harbor deepening that is part of a Federal channel or an access channel associated with a Federal channel, authorized, as of the date of the application for assistance under this subsection, to be carried out by of the United States Army Corps of Engineers.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/b/5">
+									<num>(5)</num>
+									<heading>
+										<inline>Matching requirements.—</inline>
+									</heading>
+									<subparagraph identifier="/us/usc/t46/s54301/b/5/A">
+										<num>(A)</num>
+										<heading>
+											<inline>In general</inline>
+											.—
+										</heading>
+										<chapeau>Any costs of the project to be paid by the recipient’s matching share pursuant to subsection (a)(8)(B) may—</chapeau>
+										<clause identifier="/us/usc/t46/s54301/b/5/A/i">
+											<num>(i)</num>
+											<content> be incurred prior to the date on which assistance is provided; and</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s54301/b/5/A/ii">
+											<num>(ii)</num>
+											<content> include a loan agreement, a commitment from investors, cash on balance sheet, or other contributions determined acceptable by the Secretary.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s54301/b/5/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Determination of effectiveness</inline>
+											.—
+										</heading>
+										<content>In determining whether a project meets the criteria under clauses (i), (iii), (iv), (v), and (vi) of subsection (c)(6)(A), the Secretary shall accept documentation used to obtain a commitment of the matching funds covered by this paragraph, including feasibility studies, business plans, investor prospectuses, loan applications, or similar documentation.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s54301/c">
+								<num>(c)</num>
+								<heading>
+									<inline>Additional Authority of the Secretary</inline>
+									.—
+								</heading>
+								<chapeau>In carrying out this section, the Secretary may—</chapeau>
+								<paragraph identifier="/us/usc/t46/s54301/c/1">
+									<num>(1)</num>
+									<content>
+										 coordinate with other Federal agencies to expedite the process established under the National Environmental Policy Act of 1969 (
+										<ref href="/us/usc/t42/s4321">42 U.S.C. 4321</ref>
+										 et seq.) for the improvement of port facilities to improve the efficiency of the transportation system, to increase port security, or to provide greater access to port facilities;
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/c/2">
+									<num>(2)</num>
+									<content> seek to coordinate all reviews or requirements with appropriate Federal, State, and local agencies; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s54301/c/3">
+									<num>(3)</num>
+									<content> in addition to any financial assistance provided under subsection (a) or subsection (b), provide such technical assistance to any eligible applicants as described in subsection (a)(2).</content>
+								</paragraph>
+							</subsection>
+						</section>
+					</chapter>
 				</part>
 				<part identifier="/us/usc/t46/stV/ptD">
 					<num>Part D—</num>
@@ -47927,349 +48561,6 @@ SUBCHAPTER III—AMERICAN GREAT LAKES VESSELS</column>
 								</content>
 							</section>
 						</subchapter>
-					</chapter>
-					<chapter identifier="/us/usc/t46/stV/ptD/ch555">
-						<num>CHAPTER 555—</num>
-						<heading>MISCELLANEOUS</heading>
-						<toc>
-							<layout>
-								<header>
-									<column>Sec.</column>
-								</header>
-								<tocItem>
-									<column>
-										<ref href="/us/usc/t46/s55501">55501.</ref>
-									</column>
-									<column>United States Committee on the Marine Transportation System.</column>
-								</tocItem>
-								<tocItem>
-									<column>
-										<ref href="/us/usc/t46/s55502">55502.</ref>
-									</column>
-									<column>Maritime Transportation System National Advisory Committee.</column>
-								</tocItem>
-							</layout>
-						</toc>
-						<section identifier="/us/usc/t46/s55501">
-							<num>§ 55501.</num>
-							<heading> United States Committee on the Marine Transportation System</heading>
-							<subsection identifier="/us/usc/t46/s55501/a">
-								<num>(a)</num>
-								<heading>
-									<inline>Establishment</inline>
-									.—
-								</heading>
-								<content>There is established a United States Committee on the Marine Transportation System (in this section referred to as the “Committee”).</content>
-							</subsection>
-							<subsection identifier="/us/usc/t46/s55501/b">
-								<num>(b)</num>
-								<heading>
-									<inline>Purpose</inline>
-									.—
-								</heading>
-								<chapeau>The Committee shall serve as a Federal interagency coordinating committee for the purpose of—</chapeau>
-								<paragraph identifier="/us/usc/t46/s55501/b/1">
-									<num>(1)</num>
-									<content> assessing the adequacy of the marine transportation system (including ports, waterways, channels, and their intermodal connections);</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55501/b/2">
-									<num>(2)</num>
-									<content> promoting the integration of the marine transportation system with other modes of transportation and other uses of the marine environment; and</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55501/b/3">
-									<num>(3)</num>
-									<content> coordinating, improving the coordination of, and making recommendations with regard to Federal policies that impact the marine transportation system.</content>
-								</paragraph>
-							</subsection>
-							<subsection identifier="/us/usc/t46/s55501/c">
-								<num>(c)</num>
-								<heading>
-									<inline>Membership.—</inline>
-								</heading>
-								<paragraph identifier="/us/usc/t46/s55501/c/1">
-									<num>(1)</num>
-									<heading>
-										<inline>In general</inline>
-										.—
-									</heading>
-									<chapeau>The Committee shall consist of—</chapeau>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/A">
-										<num>(A)</num>
-										<content> the Secretary of Transportation;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/B">
-										<num>(B)</num>
-										<content> the Secretary of Defense;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/C">
-										<num>(C)</num>
-										<content> the Secretary of Homeland Security;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/D">
-										<num>(D)</num>
-										<content> the Secretary of Commerce;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/E">
-										<num>(E)</num>
-										<content> the Secretary of the Treasury;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/F">
-										<num>(F)</num>
-										<content> the Secretary of State;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/G">
-										<num>(G)</num>
-										<content> the Secretary of the Interior;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/H">
-										<num>(H)</num>
-										<content> the Secretary of Agriculture;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/I">
-										<num>(I)</num>
-										<content> the Attorney General;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/J">
-										<num>(J)</num>
-										<content> the Secretary of Labor;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/K">
-										<num>(K)</num>
-										<content> the Secretary of Energy;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/L">
-										<num>(L)</num>
-										<content> the Administrator of the Environmental Protection Agency;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/M">
-										<num>(M)</num>
-										<content> the Chairman of the Federal Maritime Commission;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/N">
-										<num>(N)</num>
-										<content> the Chairman of the Joint Chiefs of Staff; and</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/c/1/O">
-										<num>(O)</num>
-										<content> the head of any other Federal agency who a majority of the voting members of the Committee determines can further the purpose and activities of the Committee.</content>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55501/c/2">
-									<num>(2)</num>
-									<heading>
-										<inline>Nonvoting members</inline>
-										.—
-									</heading>
-									<content>The Committee may include as many nonvoting members as a majority of the voting members of the Committee determines is appropriate to further the purpose and activities of the Committee.</content>
-								</paragraph>
-							</subsection>
-							<subsection identifier="/us/usc/t46/s55501/d">
-								<num>(d)</num>
-								<heading>
-									<inline>Support.—</inline>
-								</heading>
-								<paragraph identifier="/us/usc/t46/s55501/d/1">
-									<num>(1)</num>
-									<heading>
-										<inline>Coordinating board.—</inline>
-									</heading>
-									<subparagraph identifier="/us/usc/t46/s55501/d/1/A">
-										<num>(A)</num>
-										<heading>
-											<inline>In general</inline>
-											.—
-										</heading>
-										<content>There is hereby established, within the Committee, a Coordinating Board. Each member of the Committee may select a senior level representative to serve on such Board. The Board shall assist the Committee in carrying out its purpose and activities.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/d/1/B">
-										<num>(B)</num>
-										<heading>
-											<inline>Chair</inline>
-											.—
-										</heading>
-										<content>There shall be a Chair of the Coordinating Board. The Chair of the Coordinating Board shall rotate each year among the Secretary of Transportation, the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Commerce. The order of rotation shall be determined by a majority of the voting members of the Committee.</content>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55501/d/2">
-									<num>(2)</num>
-									<heading>
-										<inline>Executive director</inline>
-										.—
-									</heading>
-									<content>The Secretary of Transportation, in consultation with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Commerce, shall appoint an Executive Director of the Committee.</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55501/d/3">
-									<num>(3)</num>
-									<heading>
-										<inline>Transfers</inline>
-										.—
-									</heading>
-									<chapeau>Notwithstanding any other provision of law, the head of a Federal department or agency who is a member of the Committee may—</chapeau>
-									<subparagraph identifier="/us/usc/t46/s55501/d/3/A">
-										<num>(A)</num>
-										<content> provide, on a reimbursable or nonreimbursable basis, facilities, equipment, services, personnel, and other support services to carry out the activities of the Committee; and</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55501/d/3/B">
-										<num>(B)</num>
-										<content> transfer funds to another Federal department or agency in order to carry out the activities of the Committee.</content>
-									</subparagraph>
-								</paragraph>
-							</subsection>
-							<subsection identifier="/us/usc/t46/s55501/e">
-								<num>(e)</num>
-								<heading>
-									<inline>Marine Transportation System Assessment and Strategy</inline>
-									.—
-								</heading>
-								<chapeau>Not later than one year after the date of enactment of this Act and every 5 years thereafter, the Committee shall provide to the Committee on Commerce, Science, and Transportation and the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—</chapeau>
-								<paragraph identifier="/us/usc/t46/s55501/e/1">
-									<num>(1)</num>
-									<content> steps taken to implement actions recommended in the document titled “National Strategy for the Marine Transportation System: A Framework for Action” and dated July 2008;</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55501/e/2">
-									<num>(2)</num>
-									<content> a conditions and performance analysis of the marine transportation system;</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55501/e/3">
-									<num>(3)</num>
-									<content> a discussion of the challenges the marine transportation system faces in meeting user demand, including estimates of investment levels required to ensure system infrastructure meets such demand;</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55501/e/4">
-									<num>(4)</num>
-									<content> a plan, with recommended actions, for improving the marine transportation system to meet current and future challenges;</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55501/e/5">
-									<num>(5)</num>
-									<content> steps taken to implement actions recommended in previous reports required under this subsection; and</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55501/e/6">
-									<num>(6)</num>
-									<content> a compendium of the Federal programs engaged in the maritime transportation system.</content>
-								</paragraph>
-							</subsection>
-							<subsection identifier="/us/usc/t46/s55501/f">
-								<num>(f)</num>
-								<heading>
-									<inline>Consultation</inline>
-									.—
-								</heading>
-								<content>In carrying out its purpose and activities, the Committee may consult with marine transportation system-related advisory committees, interested parties, and the public.</content>
-							</subsection>
-						</section>
-						<section identifier="/us/usc/t46/s55502">
-							<num>§ 55502.</num>
-							<heading> Maritime Transportation System National Advisory Committee</heading>
-							<subsection identifier="/us/usc/t46/s55502/a">
-								<num>(a)</num>
-								<heading>
-									<inline>Establishment</inline>
-									.—
-								</heading>
-								<content>There is established a Maritime Transportation System National Advisory Committee (in this section referred to as the “Committee”).</content>
-							</subsection>
-							<subsection identifier="/us/usc/t46/s55502/b">
-								<num>(b)</num>
-								<heading>
-									<inline>Function</inline>
-									.—
-								</heading>
-								<content>The Committee shall advise the Secretary of Transportation on matters relating to the United States maritime transportation system and its seamless integration with other segments of the transportation system, including the viability of the United States Merchant Marine.</content>
-							</subsection>
-							<subsection identifier="/us/usc/t46/s55502/c">
-								<num>(c)</num>
-								<heading>
-									<inline>Membership.—</inline>
-								</heading>
-								<paragraph identifier="/us/usc/t46/s55502/c/1">
-									<num>(1)</num>
-									<heading>
-										<inline>In general</inline>
-										.—
-									</heading>
-									<content>The Committee shall consist of 27 members appointed by the Secretary of Transportation in accordance with this section and section 15109.</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55502/c/2">
-									<num>(2)</num>
-									<heading>
-										<inline>Expertise</inline>
-										.—
-									</heading>
-									<content>Each member of the Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55502/c/3">
-									<num>(3)</num>
-									<heading>
-										<inline>Representation</inline>
-										.—
-									</heading>
-									<chapeau>Members of the Committee shall be appointed as follows:</chapeau>
-									<subparagraph identifier="/us/usc/t46/s55502/c/3/A">
-										<num>(A)</num>
-										<content> At least one member shall represent the Environmental Protection Agency.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55502/c/3/B">
-										<num>(B)</num>
-										<content> At least one member shall represent the Department of Commerce.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55502/c/3/C">
-										<num>(C)</num>
-										<content> At least one member shall represent the Corps of Engineers.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55502/c/3/D">
-										<num>(D)</num>
-										<content> At least one member shall represent the Coast Guard.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55502/c/3/E">
-										<num>(E)</num>
-										<content> At least one member shall represent Customs and Border Protection.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55502/c/3/F">
-										<num>(F)</num>
-										<content> At least one member shall represent State and local governmental entities.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55502/c/3/G">
-										<num>(G)</num>
-										<content> Additional members shall represent private sector entities that reflect a cross-section of maritime industries, including port and water stakeholders, academia, and labor.</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55502/c/3/H">
-										<num>(H)</num>
-										<content> The Secretary may appoint additional representatives from other Federal agencies as the Secretary considers appropriate.</content>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55502/c/4">
-									<num>(4)</num>
-									<heading>
-										<inline>Restrictions on members representing federal agencies</inline>
-										.—
-									</heading>
-									<chapeau>Members of the Committee that represent Federal agencies shall not—</chapeau>
-									<subparagraph identifier="/us/usc/t46/s55502/c/4/A">
-										<num>(A)</num>
-										<content> comprise more than one-third of the total membership of the Committee or of any subcommittee therein; or</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55502/c/4/B">
-										<num>(B)</num>
-										<content> serve as the chair or co-chair of the Committee or of any subcommittee therein.</content>
-									</subparagraph>
-								</paragraph>
-								<paragraph identifier="/us/usc/t46/s55502/c/5">
-									<num>(5)</num>
-									<heading>
-										<inline>Administration</inline>
-										.—
-									</heading>
-									<chapeau>For purposes of section 15109—</chapeau>
-									<subparagraph identifier="/us/usc/t46/s55502/c/5/A">
-										<num>(A)</num>
-										<content> the Committee shall be treated as a committee established under chapter 151; and</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t46/s55502/c/5/B">
-										<num>(B)</num>
-										<content> the Secretary of Transportation shall fulfill all duties and responsibilities and have all authorities of the Secretary of Homeland Security with regard to the Committee.</content>
-									</subparagraph>
-								</paragraph>
-							</subsection>
-						</section>
 					</chapter>
 					<chapter identifier="/us/usc/t46/stV/ptD/ch556">
 						<num>CHAPTER 556—</num>

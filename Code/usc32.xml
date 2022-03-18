@@ -750,7 +750,7 @@
 								<num>(B)</num>
 								<content>
 									 the Army National Guard was selected to perform the activity under competitive procedures that permit all qualified public-sector and private-sector sources to submit offers and be considered for selection to perform the activity on the basis of the offers, subject to the exceptions provided in 
-									<ref href="/us/usc/t10/s2304/c">section 2304(c) of title 10</ref>
+									<ref href="/us/usc/t10/s3204/a">section 3204(a) of title 10</ref>
 									.
 								</content>
 							</subparagraph>
@@ -804,7 +804,8 @@
 						<content>
 							A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to funeral honors duty, with the consent of the member, to prepare for or perform funeral honors functions at the funeral of a veteran under 
 							<ref href="/us/usc/t10/s1491">section 1491 of title 10</ref>
-							. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to perform funeral honors functions under this section without the consent of the Governor or other appropriate authority of the State concerned. Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 of title 37.
+							. However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to perform funeral honors functions under this section without the consent of the Governor or other appropriate authority of the State concerned. Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 
+							 of title 37.
 						</content>
 					</subsection>
 					<subsection identifier="/us/usc/t32/s115/b">
@@ -828,9 +829,9 @@
 							<subparagraph identifier="/us/usc/t32/s115/b/2/A">
 								<num>(A)</num>
 								<content>
-									 the allowance under 
-									<ref href="/us/usc/t37/s495">section 495 of title 37</ref>
-									; or
+									 the allowance under section 495 
+									<sup>1</sup>
+									 of title 37; or
 								</content>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t32/s115/b/2/B">
@@ -1012,8 +1013,14 @@
 						</tocItem>
 						<tocItem>
 							<column>
+								<ref href="/us/usc/t32/s329">329.</ref>
+							</column>
+							<column>Prohibition on private funding for interstate deployment.</column>
+						</tocItem>
+						<tocItem>
+							<column>
 								[
-								<ref href="/us/usc/t32/s329">329</ref>
+								<ref href="/us/usc/t32/s330">330</ref>
 								 to 
 								<ref href="/us/usc/t32/s335">335.</ref>
 							</column>
@@ -1520,6 +1527,17 @@
 							 to the extent that the performance of those duties does not interfere with the performance of the member’s primary Active Guard and Reserve duties of organizing, administering, recruiting, instructing, and training the reserve components.
 						</content>
 					</subsection>
+				</section>
+				<section identifier="/us/usc/t32/s329">
+					<num>§ 329.</num>
+					<heading> Prohibition on private funding for interstate deployment</heading>
+					<content>
+						<p>
+							A member of the National Guard may not be ordered to cross a border of a State to perform duty (under this title or title 10) if such duty is paid for with private funds, unless such duty is in response to a major disaster or emergency under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (
+							<ref href="/us/usc/t42/s5170">42 U.S.C. 5170</ref>
+							).
+						</p>
+					</content>
 				</section>
 			</chapter>
 			<chapter identifier="/us/usc/t32/ch5">

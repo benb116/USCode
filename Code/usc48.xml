@@ -2340,6 +2340,11 @@ SUBCHAPTER VI—GUAM DEVELOPMENT FUND</column>
 						</tocItem>
 						<header>
 							<column>
+								<b>Statutory Notes and Related Subsidiaries</b>
+							</column>
+						</header>
+						<header>
+							<column>
 Constitutions for Virgin Islands and Guam: Establishment; Congressional Authorization</column>
 						</header>
 					</layout>
@@ -14040,6 +14045,12 @@ SUBCHAPTER III—ADJUSTMENTS OF DEBTS</column>
 							</column>
 							<column>Interim compensation.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t48/s2178">2178.</ref>
+							</column>
+							<column>Disclosure by professional persons seeking approval of compensation under section 2176 or 2177 of this title.</column>
+						</tocItem>
 						<header>
 							<column>
 SUBCHAPTER IV—MISCELLANEOUS PROVISIONS</column>
@@ -16977,6 +16988,180 @@ SUBCHAPTER VII—SENSE OF CONGRESS REGARDING PERMANENT, PRO-GROWTH FISCAL REFORM
 								.
 							</p>
 						</content>
+					</section>
+					<section identifier="/us/usc/t48/s2178">
+						<num>§ 2178.</num>
+						<heading> Disclosure by professional persons seeking approval of compensation under section 2176 or 2177 of this title</heading>
+						<subsection identifier="/us/usc/t48/s2178/a">
+							<num>(a)</num>
+							<heading> Definitions</heading>
+							<chapeau>In this section:</chapeau>
+							<paragraph identifier="/us/usc/t48/s2178/a/1">
+								<num>(1)</num>
+								<heading> List of Material Interested Parties</heading>
+								<content>
+									<p>The term “List of Material Interested Parties” means the List of Material Interested Parties established under subsection (c)(1).</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t48/s2178/a/2">
+								<num>(2)</num>
+								<heading> Oversight Board</heading>
+								<content>
+									<p>
+										The term “Oversight Board” has the meaning given the term in 
+										<ref href="/us/usc/t48/s2104">section 2104 of this title</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t48/s2178/b">
+							<num>(b)</num>
+							<heading> Required disclosure</heading>
+							<paragraph identifier="/us/usc/t48/s2178/b/1">
+								<num>(1)</num>
+								<heading> In general</heading>
+								<content>
+									<p>
+										In a case commenced under 
+										<ref href="/us/usc/t48/s2164">section 2164 of this title</ref>
+										, no attorney, accountant, appraiser, auctioneer, agent, or other professional person may be compensated under section 2176 or 2177 of this title unless prior to making a request for compensation, the professional person has filed with the court a verified statement conforming to the disclosure requirements of rule 2014(a) of the Federal Rules of Bankruptcy Procedure setting forth the connection of the professional person with any entity or person on the List of Material Interested Parties.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t48/s2178/b/2">
+								<num>(2)</num>
+								<heading> Supplement</heading>
+								<content>
+									<p>A professional person that submits a statement under paragraph (1) shall promptly supplement the statement with any additional relevant information that becomes known to the person.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t48/s2178/b/3">
+								<num>(3)</num>
+								<heading> Disclosure</heading>
+								<content>
+									<p>Subject to any other applicable law, rule, or regulation, a professional person that fails to file or update a statement required under paragraph (1) or files a statement that the court determines does not represent a good faith effort to comply with this section shall disclose such failure in any filing required to conform to the disclosure requirements under rule 2014(a) of the Federal Rules of Bankruptcy Procedure.</p>
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t48/s2178/c">
+							<num>(c)</num>
+							<heading> List of Material Interested Parties</heading>
+							<paragraph identifier="/us/usc/t48/s2178/c/1">
+								<num>(1)</num>
+								<heading> Preparation</heading>
+								<chapeau>
+									Not later than 30 days after 
+									<date date="2022-01-20">January 20, 2022</date>
+									, the Oversight Board shall establish a List of Material Interested Parties subject to—
+								</chapeau>
+								<subparagraph identifier="/us/usc/t48/s2178/c/1/A">
+									<num>(A)</num>
+									<content> the approval of the court; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t48/s2178/c/1/B">
+									<num>(B)</num>
+									<content> the right of the United States trustee or any party in interest to be heard on the approval.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t48/s2178/c/2">
+								<num>(2)</num>
+								<heading> Inclusions</heading>
+								<chapeau>Except as provided in paragraph (3), the List of Material Interested Parties shall include—</chapeau>
+								<subparagraph identifier="/us/usc/t48/s2178/c/2/A">
+									<num>(A)</num>
+									<content> the debtor;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t48/s2178/c/2/B">
+									<num>(B)</num>
+									<content> any creditor;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t48/s2178/c/2/C">
+									<num>(C)</num>
+									<content> any other party in interest;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t48/s2178/c/2/D">
+									<num>(D)</num>
+									<chapeau> any attorney or accountant of—</chapeau>
+									<clause identifier="/us/usc/t48/s2178/c/2/D/i">
+										<num>(i)</num>
+										<content> the debtor;</content>
+									</clause>
+									<clause identifier="/us/usc/t48/s2178/c/2/D/ii">
+										<num>(ii)</num>
+										<content> any creditor; or</content>
+									</clause>
+									<clause identifier="/us/usc/t48/s2178/c/2/D/iii">
+										<num>(iii)</num>
+										<content> any other party in interest;</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t48/s2178/c/2/E">
+									<num>(E)</num>
+									<content> the United States trustee and any person employed in the office of the United States trustee; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t48/s2178/c/2/F">
+									<num>(F)</num>
+									<content> the Oversight Board, including the members, the Executive Director, and the employees of the Oversight Board.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t48/s2178/c/3">
+								<num>(3)</num>
+								<heading> Exclusions</heading>
+								<content>
+									<p>The List of Material Interested Parties may not include any person with a claim, the amount of which is below a threshold dollar amount established by the court that is consistent with the purpose of this section.</p>
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t48/s2178/d">
+							<num>(d)</num>
+							<heading> Review</heading>
+							<paragraph identifier="/us/usc/t48/s2178/d/1">
+								<num>(1)</num>
+								<heading> In general</heading>
+								<content>
+									<p>The United States trustee shall review each verified statement submitted pursuant to subsection (b) and may file with the court comments on such verified statements before the professionals filing such statements seek compensation under section 2176 or 2177 of this title.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t48/s2178/d/2">
+								<num>(2)</num>
+								<heading> Objection</heading>
+								<content>
+									<p>The United States trustee may object to applications filed under section 2176 or 2177 of this title that fail to satisfy the requirements of subsection (b).</p>
+								</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t48/s2178/e">
+							<num>(e)</num>
+							<heading> Limitation on compensation</heading>
+							<chapeau>
+								In a case commenced under 
+								<ref href="/us/usc/t48/s2164">section 2164 of this title</ref>
+								, in connection with the review and approval of professional compensation under section 2176 or 2177 of this title filed after 
+								<date date="2022-01-20">January 20, 2022</date>
+								, the court may deny allowance of compensation or reimbursement of expenses if—
+							</chapeau>
+							<paragraph identifier="/us/usc/t48/s2178/e/1">
+								<num>(1)</num>
+								<content> the professional person has failed to file the verified disclosure statements required under subsection (b)(1) or has filed inadequate disclosure statements under that subsection; or</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t48/s2178/e/2">
+								<num>(2)</num>
+								<chapeau> during the professional person’s employment in connection with the case, the professional person—</chapeau>
+								<subparagraph identifier="/us/usc/t48/s2178/e/2/A">
+									<num>(A)</num>
+									<content>
+										 is not a disinterested person (as defined in 
+										<ref href="/us/usc/t11/s101">section 101 of title 11</ref>
+										) relative to any entity or person on the List of Material Interested Parties; or
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t48/s2178/e/2/B">
+									<num>(B)</num>
+									<content> represents or holds an adverse interest in connection with the case.</content>
+								</subparagraph>
+							</paragraph>
+						</subsection>
 					</section>
 				</subchapter>
 				<subchapter identifier="/us/usc/t48/ch20/schIV">

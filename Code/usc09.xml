@@ -39,6 +39,15 @@
 							<ref href="/us/usc/t9/s301">301</ref>
 						</column>
 					</tocItem>
+					<tocItem>
+						<column>
+							<ref href="/us/usc/t9/ch4">4.</ref>
+						</column>
+						<column>Arbitration of disputes involving sexual assault and sexual harassment</column>
+						<column>
+							<ref href="/us/usc/t9/s401">401</ref>
+						</column>
+					</tocItem>
 				</layout>
 			</toc>
 			<chapter identifier="/us/usc/t9/ch1">
@@ -158,7 +167,7 @@
 					<num>§ 2.</num>
 					<heading> Validity, irrevocability, and enforcement of agreements to arbitrate</heading>
 					<content>
-						<p>A written provision in any maritime transaction or a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy arising out of such a contract, transaction, or refusal, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.</p>
+						<p>A written provision in any maritime transaction or a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy arising out of such a contract, transaction, or refusal, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract or as otherwise provided in chapter 4.</p>
 					</content>
 				</section>
 				<section identifier="/us/usc/t9/s3">
@@ -457,7 +466,7 @@
 							<column>
 								<ref href="/us/usc/t9/s208">208.</ref>
 							</column>
-							<column>Chapter 1; residual application.</column>
+							<column>Application.</column>
 						</tocItem>
 					</layout>
 				</toc>
@@ -528,9 +537,9 @@
 				</section>
 				<section identifier="/us/usc/t9/s208">
 					<num>§ 208.</num>
-					<heading> Chapter 1; residual application</heading>
+					<heading> Application</heading>
 					<content>
-						<p>Chapter 1 applies to actions and proceedings brought under this chapter to the extent that chapter is not in conflict with this chapter or the Convention as ratified by the United States.</p>
+						<p>Chapter 1 applies to actions and proceedings brought under this chapter to the extent that chapter is not in conflict with this chapter or the Convention as ratified by the United States. This chapter applies to the extent that this chapter is not in conflict with chapter 4.</p>
 					</content>
 				</section>
 			</chapter>
@@ -586,7 +595,7 @@
 							<column>
 								<ref href="/us/usc/t9/s307">307.</ref>
 							</column>
-							<column>Chapter 1; residual application.</column>
+							<column>Application.</column>
 						</tocItem>
 					</layout>
 				</toc>
@@ -673,10 +682,94 @@
 				</section>
 				<section identifier="/us/usc/t9/s307">
 					<num>§ 307.</num>
-					<heading> Chapter 1; residual application</heading>
+					<heading> Application</heading>
 					<content>
-						<p>Chapter 1 applies to actions and proceedings brought under this chapter to the extent chapter 1 is not in conflict with this chapter or the Inter-American Convention as ratified by the United States.</p>
+						<p>Chapter 1 applies to actions and proceedings brought under this chapter to the extent chapter 1 is not in conflict with this chapter or the Inter-American Convention as ratified by the United States. This chapter applies to the extent that this chapter is not in conflict with chapter 4.</p>
 					</content>
+				</section>
+			</chapter>
+			<chapter identifier="/us/usc/t9/ch4">
+				<num>CHAPTER 4—</num>
+				<heading>ARBITRATION OF DISPUTES INVOLVING SEXUAL ASSAULT AND SEXUAL HARASSMENT</heading>
+				<toc>
+					<layout>
+						<header>
+							<column>Sec.</column>
+						</header>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t9/s401">401.</ref>
+							</column>
+							<column>Definitions.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t9/s402">402.</ref>
+							</column>
+							<column>No validity or enforceability.</column>
+						</tocItem>
+					</layout>
+				</toc>
+				<section identifier="/us/usc/t9/s401">
+					<num>§ 401.</num>
+					<heading> Definitions</heading>
+					<chapeau>In this chapter:</chapeau>
+					<paragraph identifier="/us/usc/t9/s401/1">
+						<num>(1)</num>
+						<heading>
+							<inline>Predispute arbitration agreement</inline>
+							.—
+						</heading>
+						<content>The term “predispute arbitration agreement” means any agreement to arbitrate a dispute that had not yet arisen at the time of the making of the agreement.</content>
+					</paragraph>
+					<paragraph identifier="/us/usc/t9/s401/2">
+						<num>(2)</num>
+						<heading>
+							<inline>Predispute joint-action waiver</inline>
+							.—
+						</heading>
+						<content>The term “predispute joint-action waiver” means an agreement, whether or not part of a predispute arbitration agreement, that would prohibit, or waive the right of, one of the parties to the agreement to participate in a joint, class, or collective action in a judicial, arbitral, administrative, or other forum, concerning a dispute that has not yet arisen at the time of the making of the agreement.</content>
+					</paragraph>
+					<paragraph identifier="/us/usc/t9/s401/3">
+						<num>(3)</num>
+						<heading>
+							<inline>Sexual assault dispute</inline>
+							.—
+						</heading>
+						<content>
+							The term “sexual assault dispute” means a dispute involving a nonconsensual sexual act or sexual contact, as such terms are defined in 
+							<ref href="/us/usc/t18/s2246">section 2246 of title 18</ref>
+							 or similar applicable Tribal or State law, including when the victim lacks capacity to consent.
+						</content>
+					</paragraph>
+					<paragraph identifier="/us/usc/t9/s401/4">
+						<num>(4)</num>
+						<heading>
+							<inline>Sexual harassment dispute</inline>
+							.—
+						</heading>
+						<content>The term “sexual harassment dispute” means a dispute relating to conduct that is alleged to constitute sexual harassment under applicable Federal, Tribal, or State law.</content>
+					</paragraph>
+				</section>
+				<section identifier="/us/usc/t9/s402">
+					<num>§ 402.</num>
+					<heading> No validity or enforceability</heading>
+					<subsection identifier="/us/usc/t9/s402/a">
+						<num>(a)</num>
+						<heading>
+							<inline>In General</inline>
+							.—
+						</heading>
+						<content>Notwithstanding any other provision of this title, at the election of the person alleging conduct constituting a sexual harassment dispute or sexual assault dispute, or the named representative of a class or in a collective action alleging such conduct, no predispute arbitration agreement or predispute joint-action waiver shall be valid or enforceable with respect to a case which is filed under Federal, Tribal, or State law and relates to the sexual assault dispute or the sexual harassment dispute.</content>
+					</subsection>
+					<subsection identifier="/us/usc/t9/s402/b">
+						<num>(b)</num>
+						<heading>
+							<inline>Determination of Applicability</inline>
+							.—
+						</heading>
+						<content>An issue as to whether this chapter applies with respect to a dispute shall be determined under Federal law. The applicability of this chapter to an agreement to arbitrate and the validity and enforceability of an agreement to which this chapter applies shall be determined by a court, rather than an arbitrator, irrespective of whether the party resisting arbitration challenges the arbitration agreement specifically or in conjunction with other terms of the contract containing such agreement, and irrespective of whether the agreement purports to delegate such determinations to an arbitrator.</content>
+					</subsection>
 				</section>
 			</chapter>
 		</title>

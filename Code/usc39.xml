@@ -59,15 +59,6 @@
 					</tocItem>
 				</layout>
 			</toc>
-			<toc>
-				<layout>
-					<header>
-						<column>
-							<b>Editorial Notes</b>
-						</column>
-					</header>
-				</layout>
-			</toc>
 			<part identifier="/us/usc/t39/ptI">
 				<num>PART I—</num>
 				<heading>GENERAL</heading>
@@ -165,7 +156,7 @@ Amendments</column>
 						</subsection>
 						<subsection identifier="/us/usc/t39/s101/b">
 							<num>(b)</num>
-							<content> The Postal Service shall provide a maximum degree of effective and regular postal services to rural areas, communities, and small towns where post offices are not self-sustaining. No small post office shall be closed solely for operating at a deficit, it being the specific intent of the Congress that effective postal services be insured to residents of both urban and rural communities.</content>
+							<content> The Postal Service shall maintain an integrated network for the delivery of market-dominant and competitive products (as defined in chapter 36 of this title). Delivery shall occur at least six days a week, except during weeks that include a Federal holiday, in emergency situations, such as natural disasters, or in geographic areas where the Postal Service has established a policy of delivering mail fewer than six days a week as of the date of enactment of the Postal Service Reform Act of 2022. The Postal Service shall provide a maximum degree of effective and regular postal services to rural areas, communities, and small towns where post offices are not self-sustaining. No small post office shall be closed solely for operating at a deficit, it being the specific intent of the Congress that effective postal services be insured to residents of both urban and rural communities.</content>
 						</subsection>
 						<subsection identifier="/us/usc/t39/s101/c">
 							<num>(c)</num>
@@ -181,7 +172,7 @@ Amendments</column>
 						</subsection>
 						<subsection identifier="/us/usc/t39/s101/f">
 							<num>(f)</num>
-							<content> In selecting modes of transportation, the Postal Service shall give highest consideration to the prompt and economical delivery of all mail. Modern methods of transporting mail by containerization and programs designed to achieve overnight transportation to the destination of important letter mail to all parts of the Nation shall be a primary goal of postal operations.</content>
+							<content> In selecting modes of transportation, the Postal Service shall give highest consideration to the prompt, economical, consistent, and reliable delivery of all mail in a manner that increases operational efficiency and reduces complexity. Modern methods of transporting mail by containerization and programs designed to achieve cost-effective overnight transportation to the destination of important letter mail to all parts of the Nation shall also be a primary goal of postal operations.</content>
 						</subsection>
 						<subsection identifier="/us/usc/t39/s101/g">
 							<num>(g)</num>
@@ -801,7 +792,7 @@ Amendments</column>
 								<content>
 									 Nothing in this section shall be considered to permit or require that the Postal Service provide any nonpostal service, except that the Postal Service may provide nonpostal services which were offered as of 
 									<date date="2006-01-01">January 1, 2006</date>
-									, as provided under this subsection.
+									, as provided under this subsection, or any nonpostal products or services authorized by chapter 37.
 								</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t39/s404/e/3">
@@ -1342,7 +1333,7 @@ Amendments</column>
 							<p>
 								Executive agencies within the meaning of 
 								<ref href="/us/usc/t5/s105">section 105 of title 5</ref>
-								 and the Government Publishing Office are authorized to furnish property, both real and personal, and personal and nonpersonal services to the Postal Service, and the Postal Service is authorized to furnish property and services to them. The furnishing of property and services under this section shall be under such terms and conditions, including reimbursability, as the Postal Service and the head of the agency concerned shall deem appropriate.
+								 and the Government Publishing Office are authorized to furnish property, both real and personal, and personal and nonpersonal services to the Postal Service, and the Postal Service is authorized to furnish property and services to them. The furnishing of property and services under this section shall be under such terms and conditions, including reimbursability within the limitations of chapter 37, as the Postal Service and the head of the agency concerned shall deem appropriate.
 							</p>
 						</content>
 					</section>
@@ -1785,7 +1776,25 @@ Amendments</column>
 						</subsection>
 						<subsection identifier="/us/usc/t39/s504/d">
 							<num>(d)</num>
-							<content> There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Postal Regulatory Commission. In requesting an appropriation under this subsection for a fiscal year, the Commission shall prepare and submit to the Congress under section 2009 a budget of the Commission’s expenses, including expenses for facilities, supplies, compensation, and employee benefits.</content>
+							<paragraph identifier="/us/usc/t39/s504/d/1">
+								<num>(1)</num>
+								<content> Not later than September 1 of each fiscal year (beginning with fiscal year 2022), the Postal Regulatory Commission shall submit to the Postal Service a budget of the Commission’s expenses, including expenses for facilities, supplies, compensation, and employee benefits, for the following fiscal year. Any such budget shall be deemed approved as submitted if the Governors fail to adjust the budget in accordance with paragraph (2).</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t39/s504/d/2">
+								<num>(2)</num>
+								<subparagraph identifier="/us/usc/t39/s504/d/2/A">
+									<num>(A)</num>
+									<content> Not later than 30 days after receiving a budget under paragraph (1), the Governors holding office, by unanimous written decision, may adjust the total amount of funding requested in such budget. Nothing in this subparagraph may be construed to authorize the Governors to adjust any activity proposed to be funded by the budget.</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t39/s504/d/2/B">
+									<num>(B)</num>
+									<content> If the Governors adjust the budget under subparagraph (A), the Postal Regulatory Commission shall adjust the suballocations within such budget to reflect the total adjustment made by the Governors. The budget shall be deemed approved on the date the Commission makes any such adjustments. The Commission may make further adjustments to the suballocations within such budget as necessary.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t39/s504/d/3">
+								<num>(3)</num>
+								<content> Expenses incurred under any budget approved under this subsection shall be paid out of the Postal Service Fund established under section 2003.</content>
+							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t39/s504/e">
 							<num>(e)</num>
@@ -3274,7 +3283,7 @@ Amendments</column>
 							<paragraph identifier="/us/usc/t39/s2003/e/1">
 								<num>(1)</num>
 								<content>
-									 The Fund shall be available for the payment of (A) all expenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, subject to the availability of amounts appropriated under section 504(d); and (C) all expenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978. The Postmaster General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of Department of the Treasury law enforcement organizations (described in section 9705(
+									 The Fund shall be available for the payment of (A) all expenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, pursuant to section 504(d); and (C) all expenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978. The Postmaster General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of Department of the Treasury law enforcement organizations (described in section 9705(
 									<i>o</i>
 									) of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Postal Service. Neither the Fund nor any of the funds credited to it shall be subject to apportionment under the provisions of subchapter II of chapter 15 of title 31.
 								</content>
@@ -3490,9 +3499,7 @@ Amendments</column>
 						<heading> Annual budget</heading>
 						<content>
 							<p>
-								The Postal Service shall cause to be prepared annually a budget program which shall be submitted to the Office of Management and Budget, under such rules and regulations as the President may establish as to the date of submission, the form and content, the classifications of data, and the manner in which such budget program shall be prepared and presented. The budget program shall be a business-type budget, or plan of operations, with due allowance given to the need for flexibility, including provision for emergencies and contingencies, in order that the Postal Service may properly carry out its activities as authorized by law. The budget program shall contain estimates of the financial condition and operations of the Postal Service for the current and ensuing fiscal years and the actual condition and results of operation for the last completed fiscal year. Such budget program shall include a statement of financial condition, a statement of income and expense, an analysis of surplus or deficit, a statement of sources and application of funds, and such other supplementary statements and information as are necessary or desirable to make known the financial condition and operations of the Postal Service. Such statements shall include estimates of operations by major types of activities, together with estimates of administrative expenses and estimates of borrowings. The budget program shall also include separate statements of the amounts which (1) the Postal Service requests to be appropriated under subsections (b) and (c) of section 2401, (2) the Office of Inspector General of the United States Postal Service requests to be appropriated, out of the Postal Service Fund, under section 8G(f) of the Inspector General Act of 1978, and (3) the Postal Regulatory Commission requests to be appropriated, out of the Postal Service Fund, under 
-								<ref href="/us/usc/t39/s504/d">section 504(d) of this title</ref>
-								. The President shall include these amounts, with his recommendations but without revision, in the budget transmitted to Congress under 
+								The Postal Service shall cause to be prepared annually a budget program which shall be submitted to the Office of Management and Budget, under such rules and regulations as the President may establish as to the date of submission, the form and content, the classifications of data, and the manner in which such budget program shall be prepared and presented. The budget program shall be a business-type budget, or plan of operations, with due allowance given to the need for flexibility, including provision for emergencies and contingencies, in order that the Postal Service may properly carry out its activities as authorized by law. The budget program shall contain estimates of the financial condition and operations of the Postal Service for the current and ensuing fiscal years and the actual condition and results of operation for the last completed fiscal year. Such budget program shall include a statement of financial condition, a statement of income and expense, an analysis of surplus or deficit, a statement of sources and application of funds, and such other supplementary statements and information as are necessary or desirable to make known the financial condition and operations of the Postal Service. Such statements shall include estimates of operations by major types of activities, together with estimates of administrative expenses and estimates of borrowings. The budget program shall also include separate statements of the amounts which (1) the Postal Service requests to be appropriated under subsections (b) and (c) of section 2401, and (2) the Office of Inspector General of the United States Postal Service requests to be appropriated, out of the Postal Service Fund, under section 8G(f) of the Inspector General Act of 1978. The President shall include these amounts, with his recommendations but without revision, in the budget transmitted to Congress under 
 								<ref href="/us/usc/t31/s1105">section 1105 of title 31</ref>
 								.
 							</p>
@@ -4405,6 +4412,12 @@ Amendments</column>
 								</column>
 								<column>Property management.</column>
 							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t39/s2903">2903.</ref>
+								</column>
+								<column>Use of funds from sale of property.</column>
+							</tocItem>
 						</layout>
 					</toc>
 					<section identifier="/us/usc/t39/s2901">
@@ -4544,6 +4557,17 @@ Amendments</column>
 							<content>Nothing in subsection (a)(4)(B) shall be construed to require the Postal Service to obtain an appraisal of postal property.</content>
 						</subsection>
 					</section>
+					<section identifier="/us/usc/t39/s2903">
+						<num>§ 2903.</num>
+						<heading> Use of funds from sale of property</heading>
+						<content>
+							<p>
+								In the event that the Postal Service permanently ceases operations, any funds derived from the sale of any real property owned by the Postal Service shall be used to pay any outstanding liability with respect to the salaries and expenses of any Postal Service employee. The balance of any remaining funds shall be deposited into the Postal Service Retiree Health Benefits Fund established under 
+								<ref href="/us/usc/t5/s8909a">section 8909a of title 5</ref>
+								.
+							</p>
+						</content>
+					</section>
 				</chapter>
 			</part>
 			<part identifier="/us/usc/t39/ptIV">
@@ -4592,6 +4616,24 @@ Amendments</column>
 								<ref href="/us/usc/t39/s3601">3601</ref>
 							</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t39/ptIV/ch37">37.</ref>
+							</column>
+							<column>Nonpostal services </column>
+							<column>
+								<ref href="/us/usc/t39/s3701">3701</ref>
+							</column>
+						</tocItem>
+						<header>
+							<column>
+								<b>Editorial Notes</b>
+							</column>
+						</header>
+						<header>
+							<column>
+Amendments</column>
+						</header>
 					</layout>
 				</toc>
 				<chapter identifier="/us/usc/t39/ptIV/ch30">
@@ -7664,6 +7706,12 @@ SUBCHAPTER VII—MODERN SERVICE STANDARDS</column>
 								</column>
 								<column>Establishment of modern service standards.</column>
 							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t39/s3692">3692.</ref>
+								</column>
+								<column>Performance targets and transparency.</column>
+							</tocItem>
 						</layout>
 					</toc>
 					<subchapter identifier="/us/usc/t39/ptIV/ch36/schI">
@@ -8275,7 +8323,7 @@ SUBCHAPTER VII—MODERN SERVICE STANDARDS</column>
 								<content>
 									 In the administration of this section, the number of copies of a subscription publication mailed to nonsubscribers during a calendar year at rates under subsections (a), (b), and (c) of former 
 									<ref href="/us/usc/t39/s4358">section 4358 of this title</ref>
-									 may not exceed 10 percent of the number of copies of such publication mailed at such rates to subscribers.
+									 may not exceed 50 percent of the number of copies of such publication mailed at such rates to subscribers.
 								</content>
 							</subsection>
 							<subsection identifier="/us/usc/t39/s3626/j">
@@ -9780,7 +9828,581 @@ SUBCHAPTER VII—MODERN SERVICE STANDARDS</column>
 								<content>The regulations promulgated pursuant to this section (and any revisions thereto), and any violations thereof, shall be subject to review upon complaint under sections 3662 and 3663.</content>
 							</subsection>
 						</section>
+						<section identifier="/us/usc/t39/s3692">
+							<num>§ 3692.</num>
+							<heading> Performance targets and transparency</heading>
+							<subsection identifier="/us/usc/t39/s3692/a">
+								<num>(a)</num>
+								<heading>
+									<inline>Performance Targets</inline>
+									.—
+								</heading>
+								<chapeau>Each year, to ensure that mail service for postal customers meets the service standards for market-dominant products, established under section 3691, the Postal Service shall—</chapeau>
+								<paragraph identifier="/us/usc/t39/s3692/a/1">
+									<num>(1)</num>
+									<content> not later than 60 days after the beginning of the fiscal year in which they will apply, establish and provide to the Postal Regulatory Commission reasonable targets for performance for each product; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t39/s3692/a/2">
+									<num>(2)</num>
+									<content> provide the previous fiscal year’s performance targets in its Annual Compliance Report to the Postal Regulatory Commission for evaluation of compliance for each product.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t39/s3692/b">
+								<num>(b)</num>
+								<heading>
+									<inline>Postal Regulatory Commission Determination of Certain Performance Information</inline>
+									.—
+								</heading>
+								<chapeau>Not later than 90 days after first receiving the performance targets under subsection (a)(1), the Postal Regulatory Commission shall provide to the Postal Service—</chapeau>
+								<paragraph identifier="/us/usc/t39/s3692/b/1">
+									<num>(1)</num>
+									<chapeau> requirements for the Postal Service to publish nationwide, regional, and local delivery area performance information in accordance with subsection (c)(2) that—</chapeau>
+									<subparagraph identifier="/us/usc/t39/s3692/b/1/A">
+										<num>(A)</num>
+										<content> are consistent with the organizational structure of the delivery network of the Postal Service (including at the District and Area organizational levels, or the functional equivalents, and, to the extent practicable, at the U.S. ZIP Code Area level);</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t39/s3692/b/1/B">
+										<num>(B)</num>
+										<content> reflect the most granular geographic level of performance information appropriate for the Postal Service to publish; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t39/s3692/b/1/C">
+										<num>(C)</num>
+										<content> includes time period segments for the published geographic levels to satisfy the publishing requirements of subparagraphs (A) and (C) of subsection (c)(2); and</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t39/s3692/b/2">
+									<num>(2)</num>
+									<content> recommendations for any modifications to the Postal Service’s measurement systems necessary to measure and publish the performance information under subsection (c)(2) that the Postal Regulatory Commission deems relevant.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t39/s3692/c">
+								<num>(c)</num>
+								<heading>
+									<inline>Public Performance Dashboard.—</inline>
+								</heading>
+								<paragraph identifier="/us/usc/t39/s3692/c/1">
+									<num>(1)</num>
+									<heading>
+										<inline>In general</inline>
+										.—
+									</heading>
+									<content>The Postal Service shall develop and maintain a publicly available Website with an interactive web-tool that provides performance information for market-dominant products that is updated on a weekly basis.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t39/s3692/c/2">
+									<num>(2)</num>
+									<heading>
+										<inline>Performance information</inline>
+										.—
+									</heading>
+									<chapeau>The performance information provided for a market-dominant product on the Website shall include—</chapeau>
+									<subparagraph identifier="/us/usc/t39/s3692/c/2/A">
+										<num>(A)</num>
+										<content> the type of market-dominant product;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t39/s3692/c/2/B">
+										<num>(B)</num>
+										<content> performance information for different geographic areas, consistent with subsection (b);</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t39/s3692/c/2/C">
+										<num>(C)</num>
+										<content> performance information for different time periods, including annual, quarterly, monthly, and weekly segments;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t39/s3692/c/2/D">
+										<num>(D)</num>
+										<content> comparisons of performance information for market-dominant products to performance information for previous time periods to facilitate identification of performance trends; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t39/s3692/c/2/E">
+										<num>(E)</num>
+										<content> the performance targets then in effect, and the performance targets for the previous fiscal year, as established under subsection (a)(1).</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t39/s3692/c/3">
+									<num>(3)</num>
+									<heading>
+										<inline>Comprehensibility</inline>
+										.—
+									</heading>
+									<content>The Website shall include plain language descriptions of the elements required under paragraph (2) and information on the collection process, measurement methodology, completeness, accuracy, and validity of the performance information provided on the Website.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t39/s3692/c/4">
+									<num>(4)</num>
+									<heading>
+										<inline>Address search functionality</inline>
+										.—
+									</heading>
+									<content>The Website shall include functionality to enable a user to search for performance information by street address, ZIP Code, or post office box.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t39/s3692/c/5">
+									<num>(5)</num>
+									<heading>
+										<inline>Format</inline>
+										.—
+									</heading>
+									<chapeau>The Postal Service shall make the performance information provided on the Website available—</chapeau>
+									<subparagraph identifier="/us/usc/t39/s3692/c/5/A">
+										<num>(A)</num>
+										<chapeau> in a manner that—</chapeau>
+										<clause identifier="/us/usc/t39/s3692/c/5/A/i">
+											<num>(i)</num>
+											<content> presents the information required under paragraph (2) on an interactive dashboard;</content>
+										</clause>
+										<clause identifier="/us/usc/t39/s3692/c/5/A/ii">
+											<num>(ii)</num>
+											<content> is searchable and may be sorted and filtered by the elements described in paragraph (2); and</content>
+										</clause>
+										<clause identifier="/us/usc/t39/s3692/c/5/A/iii">
+											<num>(iii)</num>
+											<chapeau> to the extent practicable, enables any person or entity to download in bulk—</chapeau>
+											<subclause identifier="/us/usc/t39/s3692/c/5/A/iii/I">
+												<num>(I)</num>
+												<content> such performance information; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t39/s3692/c/5/A/iii/II">
+												<num>(II)</num>
+												<content> the results of a search by the elements described in paragraph (2);</content>
+											</subclause>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t39/s3692/c/5/B">
+										<num>(B)</num>
+										<content>
+											 under an “open license” which has the meaning given that term in 
+											<ref href="/us/usc/t44/s3502">section 3502 of title 44</ref>
+											; and
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t39/s3692/c/5/C">
+										<num>(C)</num>
+										<content>
+											 as an “open Government data asset” and in a “machine-readable” format which have the meaning given those terms in 
+											<ref href="/us/usc/t44/s3502">section 3502 of title 44</ref>
+											.
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t39/s3692/c/6">
+									<num>(6)</num>
+									<heading>
+										<inline>Consultation</inline>
+										.—
+									</heading>
+									<content>The Postal Service shall regularly consult with the Postal Regulatory Commission on appropriate features and information to be included on the Website.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t39/s3692/c/7">
+									<num>(7)</num>
+									<heading>
+										<inline>Public input</inline>
+										.—
+									</heading>
+									<chapeau>The Postal Service shall—</chapeau>
+									<subparagraph identifier="/us/usc/t39/s3692/c/7/A">
+										<num>(A)</num>
+										<content> solicit public input on the design and implementation of the Website; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t39/s3692/c/7/B">
+										<num>(B)</num>
+										<content> maintain a public feedback tool to ensure each feature of, and the information on, the Website is usable and understandable.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t39/s3692/c/8">
+									<num>(8)</num>
+									<heading>
+										<inline>Deadline</inline>
+										.—
+									</heading>
+									<content>The Postal Service shall implement and make available to the public (and make any subsequent changes in accordance with subsection (b)) the Website not later than 60 days from the date on which the Postal Service receives the requirements and recommendations from the Postal Regulatory Commission under subsection (b), and shall continuously update such information on the Website as required by subsection (b).</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t39/s3692/c/9">
+									<num>(9)</num>
+									<heading>
+										<inline>Availability</inline>
+										.—
+									</heading>
+									<content>A link and plain language description of the Website shall be made available on any webpage where performance targets and measurements established under subsection (a)(1) are made available to the public.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t39/s3692/c/10">
+									<num>(10)</num>
+									<heading>
+										<inline>Reporting</inline>
+										.—
+									</heading>
+									<content>The Postal Service, the Postmaster General, or the Board, as applicable, shall reference the dashboard described in paragraph (5)(A)(i) in the Annual Performance Plan under section 2803, the Annual Performance Report under section 2804, and the Annual Report under section 2402.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t39/s3692/c/11">
+									<num>(11)</num>
+									<heading>
+										<inline>Definitions</inline>
+										.—
+									</heading>
+									<chapeau>In this subsection—</chapeau>
+									<subparagraph identifier="/us/usc/t39/s3692/c/11/A">
+										<num>(A)</num>
+										<heading>
+											<inline>Performance information</inline>
+											.—
+										</heading>
+										<content>The term “performance information” means the objective external performance measurements established under section 3691(b)(1)(D).</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t39/s3692/c/11/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Website</inline>
+											.—
+										</heading>
+										<content>The term “Website” means the website described in paragraph (1).</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+						</section>
 					</subchapter>
+				</chapter>
+				<chapter identifier="/us/usc/t39/ptIV/ch37">
+					<num>CHAPTER 37—</num>
+					<heading>NONPOSTAL SERVICES</heading>
+					<toc>
+						<layout>
+							<header>
+								<column>Sec.</column>
+							</header>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t39/s3701">3701.</ref>
+								</column>
+								<column>Purpose.</column>
+							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t39/s3702">3702.</ref>
+								</column>
+								<column>Definitions.</column>
+							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t39/s3703">3703.</ref>
+								</column>
+								<column>Postal Service program for State governments.</column>
+							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t39/s3704">3704.</ref>
+								</column>
+								<column>Postal Service program for other Government agencies.</column>
+							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t39/s3705">3705.</ref>
+								</column>
+								<column>Transparency and accountability for nonpostal services.</column>
+							</tocItem>
+						</layout>
+					</toc>
+					<section identifier="/us/usc/t39/s3701">
+						<num>§ 3701.</num>
+						<heading> Purpose</heading>
+						<content>
+							<p>The purpose of this chapter is to enable the Postal Service to increase its net revenues through specific nonpostal products and services that are expressly authorized by this chapter.</p>
+						</content>
+					</section>
+					<section identifier="/us/usc/t39/s3702">
+						<num>§ 3702.</num>
+						<heading> Definitions</heading>
+						<chapeau>In this chapter—</chapeau>
+						<paragraph identifier="/us/usc/t39/s3702/1">
+							<num>(1)</num>
+							<content> the term “nonpostal services” is limited to services offered by the Postal Service that are expressly authorized by this chapter and are not postal products or services;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t39/s3702/2">
+							<num>(2)</num>
+							<content> the term “costs attributable” has the meaning given such term in section 3631;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t39/s3702/3">
+							<num>(3)</num>
+							<content> the term “year” means a fiscal year;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t39/s3702/4">
+							<num>(4)</num>
+							<content> the term “local government” means a county, municipality, city, town, township, local public authority, school district, special district, intrastate district, council of governments, or regional or interstate government entity;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t39/s3702/5">
+							<num>(5)</num>
+							<content> the term “State government” includes the government of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States;</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t39/s3702/6">
+							<num>(6)</num>
+							<content>
+								 the term “tribal government” means the government of an Indian tribe, as that term is defined in section 4 of the Indian Self-Determination and Education Assistance Act (
+								<ref href="/us/usc/t25/s5304">25 U.S.C. 5304</ref>
+								); and
+							</content>
+						</paragraph>
+						<paragraph identifier="/us/usc/t39/s3702/7">
+							<num>(7)</num>
+							<content> the term “United States”, when used in a geographical sense, means the States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.</content>
+						</paragraph>
+					</section>
+					<section identifier="/us/usc/t39/s3703">
+						<num>§ 3703.</num>
+						<heading> Postal Service program for State governments</heading>
+						<subsection identifier="/us/usc/t39/s3703/a">
+							<num>(a)</num>
+							<heading>
+								<inline>In General</inline>
+								.—
+							</heading>
+							<chapeau>Notwithstanding any other provision of this title, the Postal Service may establish a program to enter into agreements with an agency of any State government, local government, or tribal government to provide property or nonpostal services to the public on behalf of such agencies for non-commercial purposes, but only if—</chapeau>
+							<paragraph identifier="/us/usc/t39/s3703/a/1">
+								<num>(1)</num>
+								<chapeau> such property or nonpostal services—</chapeau>
+								<subparagraph identifier="/us/usc/t39/s3703/a/1/A">
+									<num>(A)</num>
+									<content> provide enhanced value to the public, such as by lowering the cost or raising the quality of such services or by making such services more accessible;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t39/s3703/a/1/B">
+									<num>(B)</num>
+									<chapeau> do not interfere with or detract from the value of postal services, including by—</chapeau>
+									<clause identifier="/us/usc/t39/s3703/a/1/B/i">
+										<num>(i)</num>
+										<content> harming the cost and efficiency of postal services; and</content>
+									</clause>
+									<clause identifier="/us/usc/t39/s3703/a/1/B/ii">
+										<num>(ii)</num>
+										<content> unreasonably restricting access to postal retail service, such as customer waiting time and access to parking; and</content>
+									</clause>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t39/s3703/a/2">
+								<num>(2)</num>
+								<content> such agreements provide a net contribution to the Postal Service, defined as reimbursement that covers at least 100 percent of the costs attributable to all property and nonpostal services provided under each relevant agreement in each year, except that agreements determined to be substantially similar by the Postal Service with the concurrence of the Postal Regulatory Commission shall be reviewed based on their collective revenue and costs attributable.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t39/s3703/b">
+							<num>(b)</num>
+							<heading>
+								<inline>Public Notice</inline>
+								.—
+							</heading>
+							<chapeau>Not more than 90 days after offering a service under the program, the Postal Service shall make available to the public on its website—</chapeau>
+							<paragraph identifier="/us/usc/t39/s3703/b/1">
+								<num>(1)</num>
+								<content> the agreement with the agency regarding such service; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t39/s3703/b/2">
+								<num>(2)</num>
+								<content> a business plan that describes the specific property or nonpostal service to be provided, the enhanced value to the public, and terms of reimbursement to the Postal Service.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t39/s3703/c">
+							<num>(c)</num>
+							<heading>
+								<inline>Approval Required</inline>
+								.—
+							</heading>
+							<content>The Postal Service may not establish the program under subsection (a) unless the Governors of the Postal Service approve such program by a recorded vote that is publicly disclosed on the Postal Service website with a majority of the Governors then in office voting for approval.</content>
+						</subsection>
+						<subsection identifier="/us/usc/t39/s3703/d">
+							<num>(d)</num>
+							<heading>
+								<inline>Confidential Information</inline>
+								.—
+							</heading>
+							<chapeau>Subsection (b) shall not be construed as requiring the Postal Service to disclose to the public any information—</chapeau>
+							<paragraph identifier="/us/usc/t39/s3703/d/1">
+								<num>(1)</num>
+								<content> described in section 410(c); or</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t39/s3703/d/2">
+								<num>(2)</num>
+								<content>
+									 exempt from public disclosure under 
+									<ref href="/us/usc/t5/s552/b">section 552(b) of title 5</ref>
+									.
+								</content>
+							</paragraph>
+						</subsection>
+					</section>
+					<section identifier="/us/usc/t39/s3704">
+						<num>§ 3704.</num>
+						<heading> Postal Service program for other Government agencies</heading>
+						<content>
+							<p>The Postal Service may establish a program to provide property and nonpostal services to other Government agencies within the meaning of section 411, but only if such program provides a net contribution to the Postal Service, defined as reimbursement that covers at least 100 percent of the costs attributable for property and nonpostal services provided by the Postal Service in each year to such agencies.</p>
+						</content>
+					</section>
+					<section identifier="/us/usc/t39/s3705">
+						<num>§ 3705.</num>
+						<heading> Transparency and accountability for nonpostal services</heading>
+						<subsection identifier="/us/usc/t39/s3705/a">
+							<num>(a)</num>
+							<heading>
+								<inline>Annual Report to the Commission.—</inline>
+							</heading>
+							<paragraph identifier="/us/usc/t39/s3705/a/1">
+								<num>(1)</num>
+								<heading>
+									<inline>In general</inline>
+									.—
+								</heading>
+								<content>Not later than 90 days after the last day of each year, the Postal Service shall submit to the Postal Regulatory Commission a report that analyzes costs, revenues, rates, and quality of service for each agreement or substantially similar set of agreements for the provision of property or nonpostal services under section 3703 or the program as a whole under section 3704, and any other nonpostal service authorized under this chapter, using such methodologies as the Commission may prescribe, and in sufficient detail to demonstrate compliance with the requirements of this chapter.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t39/s3705/a/2">
+								<num>(2)</num>
+								<heading>
+									<inline>Supporting matter</inline>
+									.—
+								</heading>
+								<content>A report submitted under paragraph (1) shall include any nonpublic annex, the working papers, and any other supporting matter of the Postal Service and the Inspector General related to the information submitted in such report.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t39/s3705/b">
+							<num>(b)</num>
+							<heading>
+								<inline>Content and Form of Report.—</inline>
+							</heading>
+							<paragraph identifier="/us/usc/t39/s3705/b/1">
+								<num>(1)</num>
+								<heading>
+									<inline>In general</inline>
+									.—
+								</heading>
+								<chapeau>The Postal Regulatory Commission shall, by regulation, prescribe the content and form of the report required under subsection (a). In prescribing such regulations, the Commission shall give due consideration to—</chapeau>
+								<subparagraph identifier="/us/usc/t39/s3705/b/1/A">
+									<num>(A)</num>
+									<content> providing the public with timely, adequate information to assess compliance;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t39/s3705/b/1/B">
+									<num>(B)</num>
+									<content> avoiding unnecessary or unwarranted administrative effort and expense on the part of the Postal Service; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t39/s3705/b/1/C">
+									<num>(C)</num>
+									<content>
+										 protecting the confidentiality of information that is commercially sensitive or is exempt from public disclosure under 
+										<ref href="/us/usc/t5/s552/b">section 552(b) of title 5</ref>
+										.
+									</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t39/s3705/b/2">
+								<num>(2)</num>
+								<heading>
+									<inline>Revised requirements</inline>
+									.—
+								</heading>
+								<chapeau>The Commission may, on its own motion or on request of any interested party, initiate proceedings to improve the quality, accuracy, or completeness of Postal Service data required by the Commission if—</chapeau>
+								<subparagraph identifier="/us/usc/t39/s3705/b/2/A">
+									<num>(A)</num>
+									<content> the attribution of costs or revenues to property, products, or services under this chapter has become significantly inaccurate or can be significantly improved;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t39/s3705/b/2/B">
+									<num>(B)</num>
+									<content> the quality of service data provided to the Commission for a report under this chapter has become significantly inaccurate or can be significantly improved; or</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t39/s3705/b/2/C">
+									<num>(C)</num>
+									<content> such revisions are, in the judgment of the Commission, otherwise necessitated by the public interest.</content>
+								</subparagraph>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t39/s3705/c">
+							<num>(c)</num>
+							<heading>
+								<inline>Audits</inline>
+								.—
+							</heading>
+							<content>The Inspector General shall regularly audit the data collection systems and procedures used in collecting information and preparing the report required under subsection (a). The results of any such audit shall be submitted to the Postal Service and the Postal Regulatory Commission.</content>
+						</subsection>
+						<subsection identifier="/us/usc/t39/s3705/d">
+							<num>(d)</num>
+							<heading>
+								<inline>Confidential Information.—</inline>
+							</heading>
+							<paragraph identifier="/us/usc/t39/s3705/d/1">
+								<num>(1)</num>
+								<heading>
+									<inline>In general</inline>
+									.—
+								</heading>
+								<content>
+									If the Postal Service determines that any document or portion of a document, or other matter, which it provides to the Postal Regulatory Commission in a nonpublic annex under this section contains information described in section 410(c), or exempt from public disclosure under 
+									<ref href="/us/usc/t5/s552/b">section 552(b) of title 5</ref>
+									, the Postal Service shall, at the time of providing such matter to the Commission, notify the Commission of its determination, in writing, and describe with particularity the documents (or portions of documents) or other matter for which confidentiality is sought and the reasons therefor.
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t39/s3705/d/2">
+								<num>(2)</num>
+								<heading>
+									<inline>Treatment</inline>
+									.—
+								</heading>
+								<content>Any information or other matter described in paragraph (1) to which the Commission gains access under this section shall be subject to paragraphs (2) and (3) of section 504(g) in the same way as if the Commission had received notification with respect to such matter under section 504(g)(1).</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t39/s3705/e">
+							<num>(e)</num>
+							<heading>
+								<inline>Annual Compliance Determination.—</inline>
+							</heading>
+							<paragraph identifier="/us/usc/t39/s3705/e/1">
+								<num>(1)</num>
+								<heading>
+									<inline>Opportunity for public comment</inline>
+									.—
+								</heading>
+								<chapeau>Upon receiving a report required under subsection (a), the Postal Regulatory Commission shall promptly—</chapeau>
+								<subparagraph identifier="/us/usc/t39/s3705/e/1/A">
+									<num>(A)</num>
+									<content> provide an opportunity for comment on such report by any interested party; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t39/s3705/e/1/B">
+									<num>(B)</num>
+									<content> appoint an officer of the Commission to represent the interests of the general public.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t39/s3705/e/2">
+								<num>(2)</num>
+								<heading>
+									<inline>Determination of compliance or noncompliance</inline>
+									.—
+								</heading>
+								<content>Not later than 90 days after receiving a report required under subsection (a), the Postal Regulatory Commission shall make a written determination as to whether the activities carried out pursuant to this chapter during the applicable year were or were not in compliance with the provisions of this chapter. For purposes of this paragraph, any case in which the requirements for coverage of costs attributable have not been met shall be considered to be a case of noncompliance. If, with respect to a year, no instance of noncompliance is found to have occurred, the determination shall be to that effect. Such determination of noncompliance shall be included with the annual compliance determination required under section 3653.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t39/s3705/e/3">
+								<num>(3)</num>
+								<heading>
+									<inline>Noncompliance</inline>
+									.—
+								</heading>
+								<content>If a timely written determination of noncompliance is made under paragraph (2), the Postal Regulatory Commission shall take appropriate action. If the requirements for coverage of costs attributable specified by this chapter are not met, the Commission shall, within 60 days after the determination, prescribe remedial action to restore compliance as soon as practicable, including the full restoration of revenue shortfalls during the following year. The Commission may order the Postal Service to discontinue a nonpostal service under section 3703 that persistently fails to meet cost coverage requirements.</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t39/s3705/e/4">
+								<num>(4)</num>
+								<heading>
+									<inline>Deliberate noncompliance</inline>
+									.—
+								</heading>
+								<content>In the case of deliberate noncompliance by the Postal Service with the requirements of this chapter, the Postal Regulatory Commission may order, based on the nature, circumstances, extent, and seriousness of the noncompliance, a fine (in the amount specified by the Commission in its order) for each incidence of such noncompliance. All receipts from fines imposed under this subsection shall be deposited in the general fund of the Treasury.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t39/s3705/f">
+							<num>(f)</num>
+							<heading>
+								<inline>Regulations Required</inline>
+								.—
+							</heading>
+							<content>The Postal Regulatory Commission shall issue such regulations as are necessary to carry out this section.</content>
+						</subsection>
+						<subsection identifier="/us/usc/t39/s3705/g">
+							<num>(g)</num>
+							<heading>
+								<inline>Experimental Product Authority</inline>
+								.—
+							</heading>
+							<content>
+								The Postal Service may conduct market tests of agreements pursuant to section 3703 and section 3704 of this chapter subject to the same terms and conditions described in 
+								<ref href="/us/usc/t39/s3641">section 3641 of this title</ref>
+								. For the purposes of a market test, the cost coverage requirements in sections 3703 and 3704 of this chapter shall not apply.
+							</content>
+						</subsection>
+					</section>
 				</chapter>
 			</part>
 			<part identifier="/us/usc/t39/ptV">

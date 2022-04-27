@@ -60,4 +60,7 @@ with open('map.txt') as f:
             elif j == i and int(pln.split(':')[1]) > int(refpln.split(':')[1]):
               G.add_edge(pln, refpln)
 
-print(list(G.edges()))
+ed = list(G.edges())
+ed.sort(key = lambda x: x[0])
+# print('\n'.join(ed))
+print(ed)

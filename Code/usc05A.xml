@@ -2709,30 +2709,37 @@
 				</subsection>
 				<subsection identifier="/us/usc/t5a/pl/95/452/s8H/h">
 					<num>(h)</num>
-					<chapeau> In this section:</chapeau>
 					<paragraph identifier="/us/usc/t5a/pl/95/452/s8H/h/1">
 						<num>(1)</num>
-						<chapeau> The term “urgent concern” means any of the following:</chapeau>
+						<chapeau> In this section:</chapeau>
 						<subparagraph identifier="/us/usc/t5a/pl/95/452/s8H/h/1/A">
 							<num>(A)</num>
-							<content> A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operations of an intelligence activity involving classified information, but does not include differences of opinions concerning public policy matters.</content>
+							<chapeau> The term “urgent concern” means any of the following:</chapeau>
+							<clause identifier="/us/usc/t5a/pl/95/452/s8H/h/1/A/i">
+								<num>(i)</num>
+								<content> A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operations of an intelligence activity involving classified information, but does not include differences of opinions concerning public policy matters.</content>
+							</clause>
+							<clause identifier="/us/usc/t5a/pl/95/452/s8H/h/1/A/ii">
+								<num>(ii)</num>
+								<content> A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.</content>
+							</clause>
+							<clause identifier="/us/usc/t5a/pl/95/452/s8H/h/1/A/iii">
+								<num>(iii)</num>
+								<content>
+									 An action, including a personnel action described in 
+									<ref href="/us/usc/t5/s2302/a/2/A">section 2302(a)(2)(A) of title 5</ref>
+									, United States Code, constituting reprisal or threat of reprisal prohibited under section 7(c) in response to an employee’s reporting an urgent concern in accordance with this section.
+								</content>
+							</clause>
 						</subparagraph>
 						<subparagraph identifier="/us/usc/t5a/pl/95/452/s8H/h/1/B">
 							<num>(B)</num>
-							<content> A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.</content>
-						</subparagraph>
-						<subparagraph identifier="/us/usc/t5a/pl/95/452/s8H/h/1/C">
-							<num>(C)</num>
-							<content>
-								 An action, including a personnel action described in 
-								<ref href="/us/usc/t5/s2302/a/2/A">section 2302(a)(2)(A) of title 5</ref>
-								, United States Code, constituting reprisal or threat of reprisal prohibited under section 7(c) in response to an employee’s reporting an urgent concern in accordance with this section.
-							</content>
+							<content> The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.</content>
 						</subparagraph>
 					</paragraph>
 					<paragraph identifier="/us/usc/t5a/pl/95/452/s8H/h/2">
 						<num>(2)</num>
-						<content> The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.</content>
+						<content> Within the executive branch, an Inspector General to whom any complaint or information is reported under this section shall have sole authority to determine whether the complaint or information is a matter of urgent concern under this section.</content>
 					</paragraph>
 				</subsection>
 			</section>

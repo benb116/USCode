@@ -327,6 +327,12 @@ Part I—Selection System</column>
 						</tocItem>
 						<tocItem>
 							<column>
+								<ref href="/us/usc/t8/s1153a">1153a.</ref>
+							</column>
+							<column>Transparency.</column>
+						</tocItem>
+						<tocItem>
+							<column>
 								<ref href="/us/usc/t8/s1154">1154.</ref>
 							</column>
 							<column>Procedure for granting immigrant status.</column>
@@ -4505,37 +4511,147 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 											<content>
 												 in which such alien has invested (after 
 												<date date="1990-11-29">November 29, 1990</date>
-												) or, is actively in the process of investing, capital in an amount not less than the amount specified in subparagraph (C), and
+												) or, is actively in the process of investing, capital in an amount not less than the amount specified in subparagraph (C) and which is expected to remain invested for not less than 2 years; and
 											</content>
 										</clause>
 										<clause identifier="/us/usc/t8/s1153/b/5/A/ii">
 											<num>(ii)</num>
-											<content> which will benefit the United States economy and create full-time employment for not fewer than 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the immigrant and the immigrant’s spouse, sons, or daughters).</content>
+											<content> which will benefit the United States economy by creating full-time employment for not fewer than 10 United States citizens, United States nationals, or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the immigrant and the immigrant’s spouse, sons, or daughters).</content>
 										</clause>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1153/b/5/B">
 										<num>(B)</num>
-										<heading> Set-aside for targeted employment areas</heading>
+										<heading> Designations and reserved visas</heading>
 										<clause identifier="/us/usc/t8/s1153/b/5/B/i">
 											<num>(i)</num>
-											<heading> In general</heading>
-											<content>
-												<p>Not less than 3,000 of the visas made available under this paragraph in each fiscal year shall be reserved for qualified immigrants who invest in a new commercial enterprise described in subparagraph (A) which will create employment in a targeted employment area.</p>
-											</content>
+											<heading> Reserved visas</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/B/i/I">
+												<num>(I)</num>
+												<heading> In general</heading>
+												<chapeau>Of the visas made available under this paragraph in each fiscal year—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/B/i/I/aa">
+													<num>(aa)</num>
+													<content> 20 percent shall be reserved for qualified immigrants who invest in a rural area;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/B/i/I/bb">
+													<num>(bb)</num>
+													<content> 10 percent shall be reserved for qualified immigrants who invest in an area designated by the Secretary of Homeland Security under clause (ii) as a high unemployment area; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/B/i/I/cc">
+													<num>(cc)</num>
+													<content> 2 percent shall be reserved for qualified immigrants who invest in infrastructure projects.</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/B/i/II">
+												<num>(II)</num>
+												<heading> Unused visas</heading>
+												<item identifier="/us/usc/t8/s1153/b/5/B/i/II/aa">
+													<num>(aa)</num>
+													<heading> Carryover</heading>
+													<content>
+														<p>At the end of each fiscal year, any unused visas reserved for qualified immigrants investing in each of the categories described in items (aa) through (cc) of subclause (I) shall remain available within the same category for the immediately succeeding fiscal year.</p>
+													</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/B/i/II/bb">
+													<num>(bb)</num>
+													<heading> General availability</heading>
+													<content>
+														<p>Visas described in items (aa) through (cc) of subclause (I) that are not issued by the end of the succeeding fiscal year referred to in item (aa) shall be made available to qualified immigrants described under subparagraph (A).</p>
+													</content>
+												</item>
+											</subclause>
 										</clause>
 										<clause identifier="/us/usc/t8/s1153/b/5/B/ii">
 											<num>(ii)</num>
-											<heading> “Targeted employment area” defined</heading>
-											<content>
-												<p>In this paragraph, the term “targeted employment area” means, at the time of the investment, a rural area or an area which has experienced high unemployment (of at least 150 percent of the national average rate).</p>
-											</content>
+											<heading> Designation of high unemployment area</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/B/ii/I">
+												<num>(I)</num>
+												<heading> In general</heading>
+												<chapeau>The Secretary of Homeland Security, or a designee of the Secretary who is an employee of the Department of Homeland Security, may designate, as a high unemployment area, a census tract, or contiguous census tracts, in which—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/B/ii/I/aa">
+													<num>(aa)</num>
+													<content> the new commercial enterprise is principally doing business; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/B/ii/I/bb">
+													<num>(bb)</num>
+													<content> the weighted average of the unemployment rate for the census tracts, based on the labor force employment measure for each applicable census tract and any adjacent tract included under subclause (III), is not less than 150 percent of the national average unemployment rate.</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/B/ii/II">
+												<num>(II)</num>
+												<heading> Prohibition on designation by any other official</heading>
+												<chapeau>A targeted employment area may not be designated as a high unemployment area by—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/B/ii/II/aa">
+													<num>(aa)</num>
+													<content> a Federal official other than the Secretary of Homeland Security or a designee of the Secretary; or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/B/ii/II/bb">
+													<num>(bb)</num>
+													<content> any official of a State or local government.</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/B/ii/III">
+												<num>(III)</num>
+												<heading> Inclusion</heading>
+												<content>
+													<p>In making a designation under subclause (I), the Secretary of Homeland Security may include a census tract directly adjacent to a census tract or contiguous census tracts described in that subclause.</p>
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/B/ii/IV">
+												<num>(IV)</num>
+												<heading> Duration</heading>
+												<item identifier="/us/usc/t8/s1153/b/5/B/ii/IV/aa">
+													<num>(aa)</num>
+													<heading> In general</heading>
+													<chapeau>A designation under this clause shall be in effect for the 2-year period beginning on—</chapeau>
+													<subitem identifier="/us/usc/t8/s1153/b/5/B/ii/IV/aa/AA">
+														<num>(AA)</num>
+														<content> the date on which an application under subparagraph (F) is filed; or</content>
+													</subitem>
+													<subitem identifier="/us/usc/t8/s1153/b/5/B/ii/IV/aa/BB">
+														<num>(BB)</num>
+														<content> in the case of an alien who is not subject to subparagraph (F), at the time of investment.</content>
+													</subitem>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/B/ii/IV/bb">
+													<num>(bb)</num>
+													<heading> Renewal</heading>
+													<content>
+														<p>A designation under this clause may be renewed for 1 or more additional 2-year periods if the applicable area continues to meet the criteria described in subclause (I).</p>
+													</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/B/ii/V">
+												<num>(V)</num>
+												<heading> Additional investment not required</heading>
+												<content>
+													<p>An immigrant investor who has invested the amount of capital required by subparagraph (C) in a targeted employment area designated as a high unemployment area during the period in which the area is so designated shall not be required to increase the amount of investment due to the expiration of the designation.</p>
+												</content>
+											</subclause>
 										</clause>
 										<clause identifier="/us/usc/t8/s1153/b/5/B/iii">
 											<num>(iii)</num>
-											<heading> “Rural area” defined</heading>
-											<content>
-												<p>In this paragraph, the term “rural area” means any area other than an area within a metropolitan statistical area or within the outer boundary of any city or town having a population of 20,000 or more (based on the most recent decennial census of the United States).</p>
-											</content>
+											<heading> Infrastructure projects</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/B/iii/I">
+												<num>(I)</num>
+												<heading> In general</heading>
+												<content>
+													<p>The Secretary of Homeland Security shall determine whether a specific capital investment project meets the definition of “infrastructure project” set forth in subparagraph (D)(iv).</p>
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/B/iii/II">
+												<num>(II)</num>
+												<heading> Prohibition on designation by any other official</heading>
+												<chapeau>A determination under subclause (I) may not be made by—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/B/iii/II/aa">
+													<num>(aa)</num>
+													<content> a Federal official other than the Secretary of Homeland Security or a designee of the Secretary; or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/B/iii/II/bb">
+													<num>(bb)</num>
+													<content> any official of a State or local government.</content>
+												</item>
+											</subclause>
 										</clause>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1153/b/5/C">
@@ -4545,37 +4661,1756 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 											<num>(i)</num>
 											<heading> In general</heading>
 											<content>
-												<p>Except as otherwise provided in this subparagraph, the amount of capital required under subparagraph (A) shall be $1,000,000. The Attorney General, in consultation with the Secretary of Labor and the Secretary of State, may from time to time prescribe regulations increasing the dollar amount specified under the previous sentence.</p>
+												<p>Except as otherwise provided in this subparagraph, the amount of capital required under subparagraph (A) shall be $1,050,000.</p>
 											</content>
 										</clause>
 										<clause identifier="/us/usc/t8/s1153/b/5/C/ii">
 											<num>(ii)</num>
-											<heading> Adjustment for targeted employment areas</heading>
+											<heading> Adjustment for targeted employment areas and infrastructure projects</heading>
 											<content>
-												<p>The Attorney General may, in the case of investment made in a targeted employment area, specify an amount of capital required under subparagraph (A) that is less than (but not less than ½ of) the amount specified in clause (i).</p>
+												<p>The amount of capital required under subparagraph (A) for an investment in a targeted employment area or in an infrastructure project shall be $800,000.</p>
 											</content>
 										</clause>
 										<clause identifier="/us/usc/t8/s1153/b/5/C/iii">
 											<num>(iii)</num>
+											<heading> Automatic adjustment in minimum investment amount</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/C/iii/I">
+												<num>(I)</num>
+												<heading>
+													<inline>In general</inline>
+													.—
+												</heading>
+												<content>
+													Beginning on 
+													<date date="2027-01-01">January 1, 2027</date>
+													, and every 5 years thereafter, the amount in clause (i) shall automatically adjust for petitions filed on or after the effective date of each adjustment, based on the cumulative annual percentage change in the unadjusted consumer price index for all urban consumers (all items; U.S. city average) reported by the Bureau of Labor Statistics between 
+													<date date="2022-01-01">January 1, 2022</date>
+													, and the date of adjustment. The qualifying investment amounts shall be rounded down to the nearest $50,000. The Secretary of Homeland Security shall update such amounts by publication of a technical amendment in the Federal Register.
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/C/iii/II">
+												<num>(II)</num>
+												<content>
+													 Beginning on 
+													<date date="2027-01-01">January 1, 2027</date>
+													, and every 5 years thereafter, the amount in clause (ii) shall automatically adjust for petitions filed on or after the effective date of each adjustment, to be equal to 75 percent of the standard investment amount under subclause (I).
+												</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/C/iv">
+											<num>(iv)</num>
 											<heading> Adjustment for high employment areas</heading>
 											<chapeau>In the case of an investment made in a part of a metropolitan statistical area that at the time of the investment—</chapeau>
-											<subclause identifier="/us/usc/t8/s1153/b/5/C/iii/I">
+											<subclause identifier="/us/usc/t8/s1153/b/5/C/iv/I">
 												<num>(I)</num>
 												<content> is not a targeted employment area, and</content>
 											</subclause>
-											<subclause identifier="/us/usc/t8/s1153/b/5/C/iii/II">
+											<subclause identifier="/us/usc/t8/s1153/b/5/C/iv/II">
 												<num>(II)</num>
 												<content> is an area with an unemployment rate significantly below the national average unemployment rate,</content>
 											</subclause>
 										</clause>
-										<continuation> the Attorney General may specify an amount of capital required under subparagraph (A) that is greater than (but not greater than 3 times) the amount specified in clause (i).</continuation>
+										<continuation> the Secretary of Homeland Security may specify an amount of capital required under subparagraph (A) that is greater than (but not greater than 3 times) the amount specified in clause (i), as adjusted under clause (iii).</continuation>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1153/b/5/D">
 										<num>(D)</num>
-										<heading> Full-time employment defined</heading>
+										<heading> Definitions</heading>
+										<chapeau>In this paragraph:</chapeau>
+										<clause identifier="/us/usc/t8/s1153/b/5/D/i">
+											<num>(i)</num>
+											<heading> Affiliated job-creating entity</heading>
+											<content>
+												<p>The term “affiliated job-creating entity” means any job-creating entity that is controlled, managed, or owned by any of the people involved with the regional center or new commercial enterprise under subsection (b)(5)(H)(v).</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/D/ii">
+											<num>(ii)</num>
+											<heading> Capital</heading>
+											<chapeau>The term “capital”—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/D/ii/I">
+												<num>(I)</num>
+												<content> means cash and all real, personal, or mixed tangible assets owned and controlled by the alien investor, or held in trust for the benefit of the alien and to which the alien has unrestricted access;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/D/ii/II">
+												<num>(II)</num>
+												<content> shall be valued at fair market value in United States dollars, in accordance with Generally Accepted Accounting Principles or other standard accounting practice adopted by the Securities and Exchange Commission, at the time it is invested under this paragraph;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/D/ii/III">
+												<num>(III)</num>
+												<chapeau> does not include—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/D/ii/III/aa">
+													<num>(aa)</num>
+													<content> assets directly or indirectly acquired by unlawful means, including any cash proceeds of indebtedness secured by such assets;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/D/ii/III/bb">
+													<num>(bb)</num>
+													<content> capital invested in exchange for a note, bond, convertible debt, obligation, or any other debt arrangement between the alien investor and the new commercial enterprise;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/D/ii/III/cc">
+													<num>(cc)</num>
+													<content> capital invested with a guaranteed rate of return on the amount invested by the alien investor; or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/D/ii/III/dd">
+													<num>(dd)</num>
+													<content> except as provided in subclause (IV), capital invested that is subject to any agreement between the alien investor and the new commercial enterprise that provides the investor with a contractual right to repayment, such as a mandatory redemption at a certain time or upon the occurrence of a certain event, or a put or sell-back option held by the alien investor, even if such contractual right is contingent on the success of the new commercial enterprise, such as having sufficient available cash flow; and</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/D/ii/IV">
+												<num>(IV)</num>
+												<chapeau> includes capital invested that—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/D/ii/IV/aa">
+													<num>(aa)</num>
+													<content> is subject to a buy back option that may be exercised solely at the discretion of the new commercial enterprise; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/D/ii/IV/bb">
+													<num>(bb)</num>
+													<content> results in the alien investor withdrawing his or her petition unless the alien investor has fulfilled his or her sustainment period and other requirements under this paragraph.</content>
+												</item>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/D/iii">
+											<num>(iii)</num>
+											<heading> Certifier</heading>
+											<content>
+												<p>The term “certifier” means a person in a position of substantive authority for the management or operations of a regional center, new commercial enterprise, affiliated job-creating entity, or issuer of securities, such as a principal executive officer or principal financial officer, with knowledge of such entities’ policies and procedures related to compliance with the requirements under this paragraph.</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/D/iv">
+											<num>(iv)</num>
+											<heading> Infrastructure project</heading>
+											<content>
+												<p>The term “infrastructure project” means a capital investment project in a filed or approved business plan, which is administered by a governmental entity (such as a Federal, State, or local agency or authority) that is the job-creating entity contracting with a regional center or new commercial enterprise to receive capital investment under the regional center program described in subparagraph (E) from alien investors or the new commercial enterprise as financing for maintaining, improving, or constructing a public works project.</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/D/v">
+											<num>(v)</num>
+											<heading> Job-creating entity</heading>
+											<content>
+												<p>The term “job-creating entity” means any organization formed in the United States for the ongoing conduct of lawful business, including sole proprietorship, partnership (whether limited or general), corporation, limited liability company, business trust, or other entity, which may be publicly or privately owned, including an entity consisting of a holding company and its wholly owned subsidiaries or affiliates (provided that each subsidiary or affiliate is engaged in an activity formed for the ongoing conduct of a lawful business) that receives, or is established to receive, capital investment from alien investors or a new commercial enterprise under the regional center program described in this subparagraph and which is responsible for creating jobs to satisfy the requirement under subparagraph (A)(ii).</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/D/vi">
+											<num>(vi)</num>
+											<heading> New commercial enterprise</heading>
+											<content>
+												<p>The term “new commercial enterprise” means any for-profit organization formed in the United States for the ongoing conduct of lawful business, including sole proprietorship, partnership (whether limited or general), holding company and its wholly owned subsidiaries (provided that each subsidiary is engaged in a for-profit activity formed for the ongoing conduct of a lawful business), joint venture, corporation, business trust, limited liability company, or other entity (which may be publicly or privately owned) that receives, or is established to receive, capital investment from investors under this paragraph.</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/D/vii">
+											<num>(vii)</num>
+											<heading> Rural area</heading>
+											<content>
+												<p>The term “rural area” means any area other than an area within a metropolitan statistical area (as designated by the Director of the Office of Management and Budget) or within the outer boundary of any city or town having a population of 20,000 or more (based on the most recent decennial census of the United States).</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/D/viii">
+											<num>(viii)</num>
+											<heading> Targeted employment area</heading>
+											<content>
+												<p>The term “targeted employment area” means, at the time of investment, a rural area or an area designated by the Secretary of Homeland Security under subparagraph (B)(ii) as a high unemployment area.</p>
+											</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/E">
+										<num>(E)</num>
+										<heading> Regional center program</heading>
+										<clause identifier="/us/usc/t8/s1153/b/5/E/i">
+											<num>(i)</num>
+											<heading> In general</heading>
+											<content>
+												<p>
+													Visas under this subparagraph shall be made available through 
+													<date date="2027-09-30">September 30, 2027</date>
+													, to qualified immigrants (and the eligible spouses and children of such immigrants) pooling their investments with 1 or more qualified immigrants participating in a program implementing this paragraph that involves a regional center in the United States, which has been designated by the Secretary of Homeland Security on the basis of a proposal for the promotion of economic growth, including prospective job creation and increased domestic capital investment.
+												</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/E/ii">
+											<num>(ii)</num>
+											<heading> Processing</heading>
+											<chapeau>
+												In processing petitions under 
+												<ref href="/us/usc/t8/s1154/a/1/H">section 1154(a)(1)(H) of this title</ref>
+												 for classification under this paragraph, the Secretary of Homeland Security—
+											</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/ii/I">
+												<num>(I)</num>
+												<content> shall prioritize the processing and adjudication of petitions for rural areas;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/ii/II">
+												<num>(II)</num>
+												<content> may process petitions in a manner and order established by the Secretary; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/ii/III">
+												<num>(III)</num>
+												<content> shall deem such petitions to include records previously filed with the Secretary pursuant to subparagraph (F) if the alien petitioner certifies that such records are incorporated by reference into the alien’s petition.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/E/iii">
+											<num>(iii)</num>
+											<heading> Establishment of a regional center</heading>
+											<chapeau>A regional center shall operate within a defined, contiguous, and limited geographic area, which shall be described in the proposal and be consistent with the purpose of concentrating pooled investment within such area. The proposal to establish a regional center shall demonstrate that the pooled investment will have a substantive economic impact on such geographic area, and shall include—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/iii/I">
+												<num>(I)</num>
+												<content> reasonable predictions, supported by economically and statistically valid and transparent forecasting tools, concerning the amount of investment that will be pooled, the kinds of commercial enterprises that will receive such investments, details of the jobs that will be created directly or indirectly as a result of such investments, and other positive economic effects such investments will have;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/iii/II">
+												<num>(II)</num>
+												<chapeau> a description of the policies and procedures in place reasonably designed to monitor new commercial enterprises and any associated job-creating entity to seek to ensure compliance with—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/E/iii/II/aa">
+													<num>(aa)</num>
+													<content> all applicable laws, regulations, and Executive orders of the United States, including immigration laws, criminal laws, and securities laws; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/E/iii/II/bb">
+													<num>(bb)</num>
+													<content> all securities laws of each State in which securities offerings will be conducted, investment advice will be rendered, or the offerors or offerees reside;</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/iii/III">
+												<num>(III)</num>
+												<content> attestations and information confirming that all persons involved with the regional center meet the requirements under clauses (i) and (ii) of subparagraph (H);</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/iii/IV">
+												<num>(IV)</num>
+												<content> a description of the policies and procedures in place that are reasonably designed to ensure program compliance; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/iii/V">
+												<num>(V)</num>
+												<content> the identities of all natural persons involved in the regional center, as described in subparagraph (H)(v).</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/E/iv">
+											<num>(iv)</num>
+											<heading> Indirect job creation</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/iv/I">
+												<num>(I)</num>
+												<heading> In general</heading>
+												<content>
+													<p>The Secretary of Homeland Security shall permit aliens seeking admission under this subparagraph to satisfy only up to 90 percent of the requirement under subparagraph (A)(ii) with jobs that are estimated to be created indirectly through investment under this paragraph in accordance with this subparagraph. An employee of the new commercial enterprise or job-creating entity may be considered to hold a job that has been directly created.</p>
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/iv/II">
+												<num>(II)</num>
+												<heading> Construction activity lasting less than 2 years</heading>
+												<content>
+													<p>If the jobs estimated to be created are created by construction activity lasting less than 2 years, the Secretary shall permit aliens seeking admission under this subparagraph to satisfy only up to 75 percent of the requirement under subparagraph (A)(ii) with jobs that are estimated to be created indirectly through investment under this paragraph in accordance with this subparagraph.</p>
+												</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/E/v">
+											<num>(v)</num>
+											<heading> Compliance</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/v/I">
+												<num>(I)</num>
+												<heading> In general</heading>
+												<chapeau>In determining compliance with subparagraph (A)(ii), the Secretary of Homeland Security shall permit aliens seeking admission under this subparagraph to rely on economically and statistically valid methodologies for determining the number of jobs created by the program, including—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/E/v/I/aa">
+													<num>(aa)</num>
+													<content> jobs estimated to have been created directly, which may be verified using such methodologies; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/E/v/I/bb">
+													<num>(bb)</num>
+													<content> consistent with this subparagraph, jobs estimated to have been directly or indirectly created through capital expenditures, revenues generated from increased exports, improved regional productivity, job creation, and increased domestic capital investment resulting from the program.</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/v/II">
+												<num>(II)</num>
+												<heading> Job and investment requirements</heading>
+												<item identifier="/us/usc/t8/s1153/b/5/E/v/II/aa">
+													<num>(aa)</num>
+													<heading> Relocated jobs</heading>
+													<content>
+														<p>In determining compliance with the job creation requirement under subparagraph (A)(ii), the Secretary of Homeland Security may include jobs estimated to be created under a methodology that attributes jobs to prospective tenants occupying commercial real estate created or improved by capital investments if the number of such jobs estimated to be created has been determined by an economically and statistically valid methodology and such jobs are not existing jobs that have been relocated.</p>
+													</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/E/v/II/bb">
+													<num>(bb)</num>
+													<heading> Publicly available bonds</heading>
+													<content>
+														<p>The Secretary of Homeland Security shall prescribe regulations to ensure that alien investor capital may not be utilized, by a new commercial enterprise or otherwise, to purchase municipal bonds or any other bonds, if such bonds are available to the general public, either as part of a primary offering or from a secondary market.</p>
+													</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/E/v/II/cc">
+													<num>(cc)</num>
+													<heading> Construction activity jobs</heading>
+													<content>
+														<p>If the number of direct jobs estimated to be created has been determined by an economically and statistically valid methodology, and such direct jobs are created by construction activity lasting less than 2 years, the number of such jobs that may be considered direct jobs for purposes of clause (iv) shall be calculated by multiplying the total number of such jobs estimated to be created by the fraction of the 2-year period that the construction activity lasts.</p>
+													</content>
+												</item>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/E/vi">
+											<num>(vi)</num>
+											<heading> Amendments</heading>
+											<chapeau>The Secretary of Homeland Security shall—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/vi/I">
+												<num>(I)</num>
+												<chapeau> require a regional center—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/E/vi/I/aa">
+													<num>(aa)</num>
+													<content> to notify the Secretary, not later than 120 days before the implementation of significant proposed changes to its organizational structure, ownership, or administration, including the sale of such center, or other arrangements which would result in individuals not previously subject to the requirements under subparagraph (H) becoming involved with the regional center; or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/E/vi/I/bb">
+													<num>(bb)</num>
+													<content> if exigent circumstances are present, to provide the notice described in item (aa) to the Secretary not later than 5 business days after a change described in such item; and</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/vi/II">
+												<num>(II)</num>
+												<content>
+													 adjudicate business plans under subparagraph (F) and petitions under 
+													<ref href="/us/usc/t8/s1154/a/1/H">section 1154(a)(1)(H) of this title</ref>
+													 during any notice period as long as the amendment to the business or petition does not negatively impact program eligibility.
+												</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/E/vii">
+											<num>(vii)</num>
+											<heading> Record keeping and audits</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/vii/I">
+												<num>(I)</num>
+												<heading> Record keeping</heading>
+												<chapeau>Each regional center shall make and preserve, during the 5-year period beginning on the last day of the Federal fiscal year in which any transactions occurred, books, ledgers, records, and other documentation from the regional center, new commercial enterprise, or job-creating entity used to support—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/E/vii/I/aa">
+													<num>(aa)</num>
+													<content> any claims, evidence, or certifications contained in the regional center’s annual statements under subparagraph (G); and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/E/vii/I/bb">
+													<num>(bb)</num>
+													<content>
+														 associated petitions by aliens seeking classification under this section or removal of conditions under 
+														<ref href="/us/usc/t8/s1186b">section 1186b of this title</ref>
+														.
+													</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/vii/II">
+												<num>(II)</num>
+												<heading> Audits</heading>
+												<content>
+													<p>The Secretary shall audit each regional center not less frequently than once every 5 years. Each such audit shall include a review of any documentation required to be maintained under subclause (I) for the preceding 5 years and a review of the flow of alien investor capital into any capital investment project. To the extent multiple regional centers are located at a single site, the Secretary may audit multiple regional centers in a single site visit.</p>
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/E/vii/III">
+												<num>(III)</num>
+												<heading> Termination</heading>
+												<content>
+													<p>The Secretary shall terminate the designation of a regional center that fails to consent to an audit under subclause (II) or deliberately attempts to impede such an audit.</p>
+												</content>
+											</subclause>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/F">
+										<num>(F)</num>
+										<heading> Business plans for regional center investments</heading>
+										<clause identifier="/us/usc/t8/s1153/b/5/F/i">
+											<num>(i)</num>
+											<heading> Application for approval of an investment in a commercial enterprise</heading>
+											<chapeau>A regional center shall file an application with the Secretary of Homeland Security for each particular investment offering through an associated new commercial enterprise before any alien files a petition for classification under this paragraph by reason of investment in that offering. The application shall include—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/i/I">
+												<num>(I)</num>
+												<content> a comprehensive business plan for a specific capital investment project;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/i/II">
+												<num>(II)</num>
+												<content> a credible economic analysis regarding estimated job creation that is based upon economically and statistically valid and transparent methodologies;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/i/III">
+												<num>(III)</num>
+												<content>
+													 any documents filed with the Securities and Exchange Commission under the Securities Act of 1933 (
+													<ref href="/us/usc/t15/s77a">15 U.S.C. 77a</ref>
+													 et seq.) or with the securities regulator of any State, as required by law;
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/i/IV">
+												<num>(IV)</num>
+												<chapeau> any investment and offering documents, including subscription, investment, partnership, and operating agreements, private placement memoranda, term sheets, biographies of management, officers, directors, and any person with similar responsibilities, the description of the business plan to be provided to potential alien investors, and marketing materials used, or drafts prepared for use, in connection with the offering, which shall contain references, as appropriate, to—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/F/i/IV/aa">
+													<num>(aa)</num>
+													<content> all material investment risks associated with the new commercial enterprise and the job-creating entity;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/F/i/IV/bb">
+													<num>(bb)</num>
+													<content> any conflicts of interest that currently exist or may arise among the regional center, the new commercial enterprise, the job-creating entity, or the principals, attorneys, or individuals responsible for recruitment or promotion of such entities;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/F/i/IV/cc">
+													<num>(cc)</num>
+													<content> any pending material litigation or bankruptcy, or material adverse judgments or bankruptcy orders issued during the most recent 10-year period, in the United States or in another country, affecting the regional center, the new commercial enterprise, any associated job-creating entity, or any other enterprise in which any principal of any of the aforementioned entities held majority ownership at the time; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/F/i/IV/dd">
+													<num>(dd)</num>
+													<subitem identifier="/us/usc/t8/s1153/b/5/F/i/IV/dd/AA">
+														<num>(AA)</num>
+														<content> any fees, ongoing interest, or other compensation paid, or to be paid by the regional center, the new commercial enterprise, or any issuer of securities intended to be offered to alien investors, to agents, finders, or broker dealers involved in the offering of securities to alien investors in connection with the investment;</content>
+													</subitem>
+													<subitem identifier="/us/usc/t8/s1153/b/5/F/i/IV/dd/BB">
+														<num>(BB)</num>
+														<content> a description of the services performed, or that will be performed, by such person to entitle the person to such fees, interest, or compensation; and</content>
+													</subitem>
+													<subitem identifier="/us/usc/t8/s1153/b/5/F/i/IV/dd/CC">
+														<num>(CC)</num>
+														<content> the name and contact information of any such person, if known at the time of filing;</content>
+													</subitem>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/i/V">
+												<num>(V)</num>
+												<content> a description of the policies and procedures, such as those related to internal and external due diligence, reasonably designed to cause the regional center and any issuer of securities intended to be offered to alien investors in connection with the relevant capital investment project, to comply, as applicable, with the securities laws of the United States and the laws of the applicable States in connection with the offer, purchase, or sale of its securities; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/i/VI">
+												<num>(VI)</num>
+												<content> a certification from the regional center, and any issuer of securities intended to be offered to alien investors in connection with the relevant capital investment project, that their respective agents and employees, and any parties associated with the regional center and such issuer of securities affiliated with the regional center are in compliance with the securities laws of the United States and the laws of the applicable States in connection with the offer, purchase, or sale of its securities, to the best of the certifier’s knowledge, after a due diligence investigation.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/F/ii">
+											<num>(ii)</num>
+											<heading> Effect of approval of a business plan for an investment in a regional center’s commercial enterprise</heading>
+											<chapeau>
+												The approval of an application under this subparagraph, including an approval before the date of the enactment of this subparagraph, shall be binding for purposes of the adjudication of subsequent petitions seeking classification under this paragraph by immigrants investing in the same offering described in such application, and of petitions by the same immigrants filed under 
+												<ref href="/us/usc/t8/s1186b">section 1186b of this title</ref>
+												 unless—
+											</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/ii/I">
+												<num>(I)</num>
+												<content> the applicant engaged in fraud, misrepresentation, or criminal misuse;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/ii/II">
+												<num>(II)</num>
+												<content> such approval would threaten public safety or national security;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/ii/III">
+												<num>(III)</num>
+												<content> there has been a material change that affects eligibility;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/ii/IV">
+												<num>(IV)</num>
+												<content> the discovery of other evidence affecting program eligibility was not disclosed by the applicant during the adjudication process; or</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/ii/V">
+												<num>(V)</num>
+												<content> the previous adjudication involved a material mistake of law or fact.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/F/iii">
+											<num>(iii)</num>
+											<heading> Amendments</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/iii/I">
+												<num>(I)</num>
+												<heading> Approval</heading>
+												<content>
+													<p>The Secretary of Homeland Security may establish procedures by which a regional center may seek approval of an amendment to an approved application under this subparagraph that reflects changes specified by the Secretary to any information, documents, or other aspects of the investment offering described in such approved application not later than 30 days after any such changes.</p>
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/iii/II">
+												<num>(II)</num>
+												<heading> Incorporation</heading>
+												<chapeau>Upon the approval of a timely filed amendment to an approved application, any changes reflected in such amendment may be incorporated into and considered in determining program eligibility through adjudication of—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/F/iii/II/aa">
+													<num>(aa)</num>
+													<content> pending petitions from immigrants investing in the offering described in the approved application who are seeking classification under this paragraph; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/F/iii/II/bb">
+													<num>(bb)</num>
+													<content>
+														 petitions by immigrants described in item (aa) that are filed under 
+														<ref href="/us/usc/t8/s1186b">section 1186b of this title</ref>
+														.
+													</content>
+												</item>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/F/iv">
+											<num>(iv)</num>
+											<heading> Site visits</heading>
+											<chapeau>The Secretary of Homeland Security shall—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/iv/I">
+												<num>(I)</num>
+												<content> perform site visits to regional centers not earlier than 24 hours after providing notice of such site visit; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/iv/II">
+												<num>(II)</num>
+												<content> perform at least 1 site visit to, as applicable, each new commercial enterprise or job-creating entity, or the business locations where any jobs that are claimed as being created.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/F/v">
+											<num>(v)</num>
+											<heading> Parameters for capital redeployment</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/v/I">
+												<num>(I)</num>
+												<heading> In general</heading>
+												<chapeau>The Secretary of Homeland Security shall prescribe regulations, in accordance with subchapter II of chapter 5 and chapter 7 of title 5 (commonly known as the “Administrative Procedure Act”), that allow a new commercial enterprise to redeploy investment funds anywhere within the United States or its territories for the purpose of maintaining the investors’ capital at risk if—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/F/v/I/aa">
+													<num>(aa)</num>
+													<content> the new commercial enterprise has executed the business plan for a capital investment project in good faith without a material change;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/F/v/I/bb">
+													<num>(bb)</num>
+													<content> the new commercial enterprise has created a sufficient number of new full time positions to satisfy the job creation requirements of the program for all investors in the new commercial enterprise, either directly or indirectly, as evidenced by the methodologies set forth in this chapter;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/F/v/I/cc">
+													<num>(cc)</num>
+													<content> the job creating entity has repaid the capital initially deployed in conformity with the initial investment contemplated by the business plan; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/F/v/I/dd">
+													<num>(dd)</num>
+													<content> the capital, after repayment by the job creating entity, remains at risk and it is not redeployed in passive investments, such as stocks or bonds.</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/F/v/II">
+												<num>(II)</num>
+												<heading> Termination</heading>
+												<content>
+													<p>The Secretary of Homeland Security shall terminate the designation of a regional center if the Secretary determines that a new commercial enterprise has violated any of the requirements under subclause (I) in the redeployment of funds invested in such regional center.</p>
+												</content>
+											</subclause>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/G">
+										<num>(G)</num>
+										<heading> Regional center annual statements</heading>
+										<clause identifier="/us/usc/t8/s1153/b/5/G/i">
+											<num>(i)</num>
+											<heading> In general</heading>
+											<chapeau>Each regional center designated under subparagraph (E) shall submit an annual statement, in a manner prescribed by the Secretary of Homeland Security. Each such statement shall include—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/G/i/I">
+												<num>(I)</num>
+												<content> a certification stating that, to the best of the certifier’s knowledge, after a due diligence investigation, the regional center is in compliance with clauses (i) and (ii) of subparagraph (H);</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/G/i/II">
+												<num>(II)</num>
+												<content> a certification described in subparagraph (I)(ii)(II);</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/G/i/III">
+												<num>(III)</num>
+												<content> a certification stating that, to the best of the certifier’s knowledge, after a due diligence investigation, the regional center is in compliance with subparagraph (K)(iii);</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/G/i/IV">
+												<num>(IV)</num>
+												<content> a description of any pending material litigation or bankruptcy proceedings, or material litigation or bankruptcy proceedings resolved during the preceding fiscal year, involving the regional center, the new commercial enterprise, or any affiliated job-creating entity;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/G/i/V">
+												<num>(V)</num>
+												<content> an accounting of all individual alien investor capital invested in the regional center, new commercial enterprise, and job-creating entity;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/G/i/VI">
+												<num>(VI)</num>
+												<chapeau> for each new commercial enterprise associated with the regional center—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/G/i/VI/aa">
+													<num>(aa)</num>
+													<content> an accounting of the aggregate capital invested in the new commercial enterprise and any job-creating entity by alien investors under this paragraph for each capital investment project being undertaken by the new commercial enterprise;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/G/i/VI/bb">
+													<num>(bb)</num>
+													<content> a description of how the capital described in item (aa) is being used to execute each capital investment project in the filed business plan or plans;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/G/i/VI/cc">
+													<num>(cc)</num>
+													<content> evidence that 100 percent of the capital described in item (aa) has been committed to each capital investment project;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/G/i/VI/dd">
+													<num>(dd)</num>
+													<content> detailed evidence of the progress made toward the completion of each capital investment project;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/G/i/VI/ee">
+													<num>(ee)</num>
+													<content> an accounting of the aggregate direct jobs created or preserved;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/G/i/VI/ff">
+													<num>(ff)</num>
+													<chapeau> to the best of the regional center’s knowledge, for all fees, including administrative fees, loan monitoring fees, loan management fees, commissions and similar transaction-based compensation, collected from alien investors by the regional center, the new commercial enterprise, any affiliated job-creating entity, any affiliated issuer of securities intended to be offered to alien investors, or any promoter, finder, broker-dealer, or other entity engaged by any of the aforementioned entities to locate individual investors—</chapeau>
+													<subitem identifier="/us/usc/t8/s1153/b/5/G/i/VI/ff/AA">
+														<num>(AA)</num>
+														<content> a description of all fees collected;</content>
+													</subitem>
+													<subitem identifier="/us/usc/t8/s1153/b/5/G/i/VI/ff/BB">
+														<num>(BB)</num>
+														<content> an accounting of the entities that received such fees; and</content>
+													</subitem>
+													<subitem identifier="/us/usc/t8/s1153/b/5/G/i/VI/ff/CC">
+														<num>(CC)</num>
+														<content> the purpose for which such fees were collected;</content>
+													</subitem>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/G/i/VI/gg">
+													<num>(gg)</num>
+													<content> any documentation referred to in subparagraph (F)(i)(IV) if there has been a material change during the preceding fiscal year; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/G/i/VI/hh">
+													<num>(hh)</num>
+													<content> a certification by the regional center that the information provided under items (aa) through (gg) is accurate, to the best of the certifier’s knowledge, after a due diligence investigation; and</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/G/i/VII">
+												<num>(VII)</num>
+												<content> a description of the regional center’s policies and procedures that are designed to enable the regional center to comply with applicable Federal labor laws.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/G/ii">
+											<num>(ii)</num>
+											<heading> Amendment of annual statements</heading>
+											<chapeau>The Secretary of Homeland Security—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/G/ii/I">
+												<num>(I)</num>
+												<content> shall require the regional center to amend or supplement an annual statement required under clause (i) if the Secretary determines that such statement is deficient; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/G/ii/II">
+												<num>(II)</num>
+												<content> may require the regional center to amend or supplement such annual statement if the Director determines that such an amendment or supplement is appropriate.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/G/iii">
+											<num>(iii)</num>
+											<heading> Sanctions</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/G/iii/I">
+												<num>(I)</num>
+												<heading> Effect of violation</heading>
+												<chapeau>The Director shall sanction any regional center entity in accordance with subclause (II) if the regional center fails to submit an annual statement or if the Director determines that the regional center—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/G/iii/I/aa">
+													<num>(aa)</num>
+													<content> knowingly submitted or caused to be submitted a statement, certification, or any information submitted pursuant to this subparagraph that contained an untrue statement of material fact; or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/G/iii/I/bb">
+													<num>(bb)</num>
+													<content> is conducting itself in a manner inconsistent with its designation under subparagraph (E), including any willful, undisclosed, and material deviation by new commercial enterprises from any filed business plan for such new commercial enterprises.</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/G/iii/II">
+												<num>(II)</num>
+												<heading> Authorized sanctions</heading>
+												<chapeau>The Director shall establish a graduated set of sanctions based on the severity of the violations referred to in subclause (I), including—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/G/iii/II/aa">
+													<num>(aa)</num>
+													<content> fines equal to not more than 10 percent of the total capital invested by alien investors in the regional center’s new commercial enterprises or job-creating entities directly involved in such violations, the payment of which shall not in any circumstance utilize any of such alien investors’ capital investments, and which shall be deposited into the EB–5 Integrity Fund established under subparagraph (J);</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/G/iii/II/bb">
+													<num>(bb)</num>
+													<content> temporary suspension from participation in the program described in subparagraph (E), which may be lifted by the Director if the individual or entity cures the alleged violation after being provided such an opportunity by the Director;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/G/iii/II/cc">
+													<num>(cc)</num>
+													<content> permanent bar from participation in the program described in subparagraph (E) for 1 or more individuals or business entities associated with the regional center, new commercial enterprise, or job-creating entity; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/G/iii/II/dd">
+													<num>(dd)</num>
+													<content> termination of regional center designation.</content>
+												</item>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/G/iv">
+											<num>(iv)</num>
+											<heading> Availability of annual statements to investors</heading>
+											<content>
+												<p>Not later than 30 days after a request from an alien investor, a regional center shall make available to such alien investor a copy of the filed annual statement and any amendments filed to such statement, which shall be redacted to exclude any information unrelated to such alien investor or the new commercial enterprise or job creating entity into which the alien investor invested.</p>
+											</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/H">
+										<num>(H)</num>
+										<heading> Bona fides of persons involved with regional center program</heading>
+										<clause identifier="/us/usc/t8/s1153/b/5/H/i">
+											<num>(i)</num>
+											<heading> In general</heading>
+											<chapeau>The Secretary of Homeland Security may not permit any person to be involved with any regional center, new commercial enterprise, or job-creating entity if—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/H/i/I">
+												<num>(I)</num>
+												<chapeau> the person has been found to have committed—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/I/aa">
+													<num>(aa)</num>
+													<content> a criminal or civil offense involving fraud or deceit within the previous 10 years;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/I/bb">
+													<num>(bb)</num>
+													<content> a civil offense involving fraud or deceit that resulted in a liability in excess of $1,000,000; or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/I/cc">
+													<num>(cc)</num>
+													<content> a crime for which the person was convicted and sentenced to a term of imprisonment of more than 1 year;</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/H/i/II">
+												<num>(II)</num>
+												<chapeau> the person is subject to a final order, for the duration of any penalty imposed by such order, of a State securities commission (or an agency or officer of a State performing similar functions), a State authority that supervises or examines banks, savings associations, or credit unions, a State insurance commission (or an agency or officer of a State performing similar functions), an appropriate Federal banking agency, the Commodity Futures Trading Commission, the Securities and Exchange Commission, a financial self-regulatory organization recognized by the Securities and Exchange Commission, or the National Credit Union Administration, which is based on a violation of any law or regulation that—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/II/aa">
+													<num>(aa)</num>
+													<content> prohibits fraudulent, manipulative, or deceptive conduct; or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/II/bb">
+													<num>(bb)</num>
+													<chapeau> bars the person from—</chapeau>
+													<subitem identifier="/us/usc/t8/s1153/b/5/H/i/II/bb/AA">
+														<num>(AA)</num>
+														<content> association with an entity regulated by such commission, authority, agency, or officer;</content>
+													</subitem>
+													<subitem identifier="/us/usc/t8/s1153/b/5/H/i/II/bb/BB">
+														<num>(BB)</num>
+														<content> appearing before such commission, authority, agency, or officer;</content>
+													</subitem>
+													<subitem identifier="/us/usc/t8/s1153/b/5/H/i/II/bb/CC">
+														<num>(CC)</num>
+														<content> engaging in the business of securities, insurance, or banking; or</content>
+													</subitem>
+													<subitem identifier="/us/usc/t8/s1153/b/5/H/i/II/bb/DD">
+														<num>(DD)</num>
+														<content> engaging in savings association or credit union activities;</content>
+													</subitem>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/H/i/III">
+												<num>(III)</num>
+												<chapeau> the Secretary determines that the person is engaged in, has ever been engaged in, or seeks to engage in—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/III/aa">
+													<num>(aa)</num>
+													<content>
+														 any illicit trafficking in any controlled substance or in any listed chemical (as defined in 
+														<ref href="/us/usc/t21/s802">section 802 of title 21</ref>
+														);
+													</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/III/bb">
+													<num>(bb)</num>
+													<content> any activity relating to espionage, sabotage, or theft of intellectual property;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/III/cc">
+													<num>(cc)</num>
+													<content> any activity related to money laundering (as described in section 1956 or 1957 of title 18);</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/III/dd">
+													<num>(dd)</num>
+													<content>
+														 any terrorist activity (as defined in 
+														<ref href="/us/usc/t8/s1182/a/3/B">section 1182(a)(3)(B) of this title</ref>
+														);
+													</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/III/ee">
+													<num>(ee)</num>
+													<content> any activity constituting or facilitating human trafficking or a human rights offense;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/III/ff">
+													<num>(ff)</num>
+													<content>
+														 any activity described in 
+														<ref href="/us/usc/t8/s1182/a/3/E">section 1182(a)(3)(E) of this title</ref>
+														; or
+													</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/III/gg">
+													<num>(gg)</num>
+													<content> the violation of any statute, regulation, or Executive order regarding foreign financial transactions or foreign asset control; or</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/H/i/IV">
+												<num>(IV)</num>
+												<chapeau> the person—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/IV/aa">
+													<num>(aa)</num>
+													<content> is, or during the preceding 10 years has been, included on the Department of Justice’s List of Currently Disciplined Practitioners; or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/i/IV/bb">
+													<num>(bb)</num>
+													<content> during the preceding 10 years, has received a reprimand or has otherwise been publicly disciplined for conduct related to fraud or deceit by a State bar association of which the person is or was a member.</content>
+												</item>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/H/ii">
+											<num>(ii)</num>
+											<heading> Foreign involvement in regional center program</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/H/ii/I">
+												<num>(I)</num>
+												<heading> Lawful status required</heading>
+												<chapeau>A person may not be involved with a regional center unless the person—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/H/ii/I/aa">
+													<num>(aa)</num>
+													<content>
+														 is a national of the United States or an individual who has been lawfully admitted for permanent residence (as such terms are defined in paragraphs (20) and (22) of 
+														<ref href="/us/usc/t8/s1101/a">section 1101(a) of this title</ref>
+														); and
+													</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/ii/I/bb">
+													<num>(bb)</num>
+													<content> is not the subject of rescission or removal proceedings.</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/H/ii/II">
+												<num>(II)</num>
+												<heading> Foreign governments</heading>
+												<content>
+													<p>No agency, official, or other similar entity or representative of a foreign government entity may provide capital to, or be directly or indirectly involved with the ownership or administration of, a regional center, a new commercial enterprise, or a job-creating entity, except that a foreign or domestic investment fund or other investment vehicle that is wholly or partially owned, directly or indirectly, by a bona fide foreign sovereign wealth fund or a foreign state-owned enterprise otherwise permitted to do business in the United States may be involved with the ownership, but not the administration, of a job-creating entity that is not an affiliated job-creating entity.</p>
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/H/ii/III">
+												<num>(III)</num>
+												<heading> Rulemaking</heading>
+												<content>
+													<p>
+														Not later than 270 days after 
+														<date date="2022-03-15">March 15, 2022</date>
+														, the Secretary shall issue regulations implementing subparagraphs (I) and (II).
+													</p>
+												</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/H/iii">
+											<num>(iii)</num>
+											<heading> Information required</heading>
+											<chapeau>The Secretary of Homeland Security—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/H/iii/I">
+												<num>(I)</num>
+												<content> shall require such attestations and information, including the submission of fingerprints or other biometrics to the Federal Bureau of Investigation with respect to a regional center, a new commercial enterprise, and any affiliated job creating entity, and persons involved with such entities (as described in clause (v)), as may be necessary to determine whether such entities are in compliance with clauses (i) and (ii);</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/H/iii/II">
+												<num>(II)</num>
+												<content> shall perform such criminal record checks and other background and database checks with respect to a regional center, a new commercial enterprise, and any affiliated job-creating entity, and persons involved with such entities (as described in clause (v)), as may be necessary to determine whether such entities are in compliance with clauses (i) and (ii); and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/H/iii/III">
+												<num>(III)</num>
+												<content> may, at the Secretary’s discretion, require the information described to in subclause (I) and may perform the checks described in subclause (II) with respect to any job creating entity and persons involved with such entity if there is a reasonable basis to believe such entity or person is not in compliance with clauses (i) and (ii).</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/H/iv">
+											<num>(iv)</num>
+											<heading> Termination</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/H/iv/I">
+												<num>(I)</num>
+												<heading> In general</heading>
+												<chapeau>The Secretary of Homeland Security may suspend or terminate the designation of any regional center, or the participation under the program of any new commercial enterprise or job-creating entity under this paragraph if the Secretary determines that such entity—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/H/iv/I/aa">
+													<num>(aa)</num>
+													<chapeau> knowingly involved a person with such entity in violation of clause (i) or (ii) by failing, within 14 days of acquiring such knowledge—</chapeau>
+													<subitem identifier="/us/usc/t8/s1153/b/5/H/iv/I/aa/AA">
+														<num>(AA)</num>
+														<content> to take commercially reasonable efforts to discontinue the prohibited person’s involvement; or</content>
+													</subitem>
+													<subitem identifier="/us/usc/t8/s1153/b/5/H/iv/I/aa/BB">
+														<num>(BB)</num>
+														<content> to provide notice to the Secretary;</content>
+													</subitem>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/iv/I/bb">
+													<num>(bb)</num>
+													<content> failed to provide an attestation or information requested by the Secretary under clause (iii)(I); or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/iv/I/cc">
+													<num>(cc)</num>
+													<content> knowingly provided any false attestation or information under clause (iii)(I).</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/H/iv/II">
+												<num>(II)</num>
+												<heading> Limitation</heading>
+												<content>
+													<p>The Secretary’s authorized sanctions under subclause (I) shall be limited to entities that have engaged in any activity described in subclause (I).</p>
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/H/iv/III">
+												<num>(III)</num>
+												<heading> Information</heading>
+												<item identifier="/us/usc/t8/s1153/b/5/H/iv/III/aa">
+													<num>(aa)</num>
+													<heading> Notification</heading>
+													<content>
+														<p>The Secretary, after performing the criminal record checks and other background checks described in clause (iii), shall notify a regional center, new commercial enterprise, or job-creating entity whether any person involved with such entities is not in compliance with clause (i) or (ii), unless the information that provides the basis for the determination is classified or disclosure is otherwise prohibited under law.</p>
+													</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/H/iv/III/bb">
+													<num>(bb)</num>
+													<heading> Effect of failure to respond</heading>
+													<content>
+														<p>If the regional center, new commercial enterprise, or job-creating entity fails to discontinue the prohibited person’s involvement with the regional center, new commercial enterprise, or job-creating entity, as applicable, within 30 days after receiving such notification, such entity shall be deemed to have knowledge under subclause (I)(aa) that the involvement of such person with the entity is in violation of clause (i) or (ii).</p>
+													</content>
+												</item>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/H/v">
+											<num>(v)</num>
+											<heading> Persons involved with a regional center, new commercial enterprise, or job-creating entity</heading>
+											<content>
+												<p>For the purposes of this paragraph, unless otherwise determined by the Secretary of Homeland Security, a person is involved with a regional center, a new commercial enterprise, any affiliated job-creating entity, as applicable, if the person is, directly or indirectly, in a position of substantive authority to make operational or managerial decisions over pooling, securitization, investment, release, acceptance, or control or use of any funding that was procured under the program described in subparagraph (E). An individual may be in a position of substantive authority if the person serves as a principal, a representative, an administrator, an owner, an officer, a board member, a manager, an executive, a general partner, a fiduciary, an agent, or in a similar position at the regional center, new commercial enterprise, or job-creating entity, respectively.</p>
+											</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/I">
+										<num>(I)</num>
+										<heading> Compliance with securities laws</heading>
+										<clause identifier="/us/usc/t8/s1153/b/5/I/i">
+											<num>(i)</num>
+											<heading> Jurisdiction</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/i/I">
+												<num>(I)</num>
+												<heading> In general</heading>
+												<content>
+													<p>The United States has jurisdiction, including subject matter jurisdiction, over the purchase or sale of any security offered or sold, or any investment advice provided, by any regional center or any party associated with a regional center for purposes of the securities laws.</p>
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/i/II">
+												<num>(II)</num>
+												<heading> Compliance with regulation s</heading>
+												<content>
+													<p>
+														For purposes of section 5 of the Securities Act of 1933 (
+														<ref href="/us/usc/t15/s77e">15 U.S.C. 77e</ref>
+														), a regional center or any party associated with a regional center is not precluded from offering or selling a security pursuant to Regulation S (17 C.F.R. 230.901 et seq.) to the extent that such offering or selling otherwise complies with that regulation.
+													</p>
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/i/III">
+												<num>(III)</num>
+												<heading> Savings provision</heading>
+												<content>
+													<p>
+														Subclause (I) is not intended to modify any existing rules or regulations of the Securities and Exchange Commission related to the application of section 78
+														<i>o</i>
+														(a) of title 15 to foreign brokers or dealers.
+													</p>
+												</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/I/ii">
+											<num>(ii)</num>
+											<heading> Regional center certifications required</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/ii/I">
+												<num>(I)</num>
+												<heading> Initial certification</heading>
+												<chapeau>The Secretary of Homeland Security may not approve an application for regional center designation or regional center amendment unless the regional center certifies that, to the best of the certifier’s knowledge, after a due diligence investigation, the regional center is in compliance with and has policies and procedures, including those related to internal and external due diligence, reasonably designed to confirm, as applicable, that all parties associated with the regional center are and will remain in compliance with the securities laws of the United States and of any State in which—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/I/ii/I/aa">
+													<num>(aa)</num>
+													<content> the offer, purchase, or sale of securities was conducted;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/I/ii/I/bb">
+													<num>(bb)</num>
+													<content> the issuer of securities was located; or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/I/ii/I/cc">
+													<num>(cc)</num>
+													<content> the investment advice was provided by the regional center or parties associated with the regional center.</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/ii/II">
+												<num>(II)</num>
+												<heading> Reissue</heading>
+												<chapeau>A regional center shall annually reissue a certification described in subclause (I), in accordance with subparagraph (G), to certify compliance with clause (iii) by stating that—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/I/ii/II/aa">
+													<num>(aa)</num>
+													<content> the certification is made by a certifier;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/I/ii/II/bb">
+													<num>(bb)</num>
+													<chapeau> to the best of the certifier’s knowledge, after a due diligence investigation, all such offers, purchases, and sales of securities or the provision of investment advice complied with the securities laws of the United States and the securities laws of any State in which—</chapeau>
+													<subitem identifier="/us/usc/t8/s1153/b/5/I/ii/II/bb/AA">
+														<num>(AA)</num>
+														<content> the offer, purchase, or sale of securities was conducted;</content>
+													</subitem>
+													<subitem identifier="/us/usc/t8/s1153/b/5/I/ii/II/bb/BB">
+														<num>(BB)</num>
+														<content> the issuer of securities was located; or</content>
+													</subitem>
+													<subitem identifier="/us/usc/t8/s1153/b/5/I/ii/II/bb/CC">
+														<num>(CC)</num>
+														<content> the investment advice was provided; and</content>
+													</subitem>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/I/ii/II/cc">
+													<num>(cc)</num>
+													<content> records, data, and information related to such offers, purchases, and sales have been maintained.</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/ii/III">
+												<num>(III)</num>
+												<heading> Effect of noncompliance</heading>
+												<chapeau>If a regional center, through its due diligence, discovered during the previous fiscal year that the regional center or any party associated with the regional center was not in compliance with the securities laws of the United States or the securities laws of any State in which the securities activities were conducted by any party associated with the regional center, the certifier shall—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/I/ii/III/aa">
+													<num>(aa)</num>
+													<content> describe the activities that led to noncompliance;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/I/ii/III/bb">
+													<num>(bb)</num>
+													<content> describe the actions taken to remedy the noncompliance; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/I/ii/III/cc">
+													<num>(cc)</num>
+													<content> certify that the regional center and all parties associated with the regional center are currently in compliance, to the best of the certifier’s knowledge, after a due diligence investigation.</content>
+												</item>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/I/iii">
+											<num>(iii)</num>
+											<heading> Oversight required</heading>
+											<chapeau>Each regional center shall—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/iii/I">
+												<num>(I)</num>
+												<content> use commercially reasonable efforts to monitor and supervise compliance with the securities laws in relations to all offers, purchases, and sales of, and investment advice relating to, securities made by parties associated with the regional center;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/iii/II">
+												<num>(II)</num>
+												<content> maintain records, data, and information relating to all such offers, purchases, sales, and investment advice during the 5-year period beginning on the date of their creation; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/iii/III">
+												<num>(III)</num>
+												<content> make the records, data, and information described in subclause (II) available to the Secretary or to the Securities and Exchange Commission upon request.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/I/iv">
+											<num>(iv)</num>
+											<heading> Suspension or termination</heading>
+											<chapeau>In addition to any other authority provided to the Secretary under this paragraph, the Secretary, in the Secretary’s discretion, may suspend or terminate the designation of any regional center or impose other sanctions against the regional center if the regional center, or any parties associated with the regional center that the regional center knew or reasonably should have known—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/iv/I">
+												<num>(I)</num>
+												<content> are permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction in connection with the offer, purchase, or sale of a security or the provision of investment advice;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/iv/II">
+												<num>(II)</num>
+												<chapeau> are subject to any final order of the Securities and Exchange Commission or a State securities regulator that—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/I/iv/II/aa">
+													<num>(aa)</num>
+													<content> bars such person from association with an entity regulated by the Securities and Exchange Commission or a State securities regulator; or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/I/iv/II/bb">
+													<num>(bb)</num>
+													<content> constitutes a final order based on a finding of an intentional violation or a violation related to fraud or deceit in connection with the offer, purchase, or sale of, or investment advice relating to, a security; or</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/iv/III">
+												<num>(III)</num>
+												<content> submitted, or caused to be submitted, a certification described in clause (ii) that contained an untrue statement of a material fact or omitted to state a material fact necessary in order to make the statements made, in light of the circumstances under which they were made, not misleading.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/I/v">
+											<num>(v)</num>
+											<heading> Defined term</heading>
+											<chapeau>In this subparagraph, the term “parties associated with a regional center” means—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/v/I">
+												<num>(I)</num>
+												<content> the regional center;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/v/II">
+												<num>(II)</num>
+												<content> any new commercial enterprise or affiliated job-creating entity or issuer of securities associated with the regional center;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/v/III">
+												<num>(III)</num>
+												<content> the regional center’s and new commercial enterprise’s owners, officers, directors, managers, partners, agents, employees, promoters and attorneys, or similar position, as determined by the Secretary; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/I/v/IV">
+												<num>(IV)</num>
+												<content> any person under the control of the regional center, new commercial enterprise, or issuer of securities associated with the regional center who is responsible for the marketing, offering, or sale of any security offered in connection with the capital investment project.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/I/vi">
+											<num>(vi)</num>
+											<heading> Savings provision</heading>
+											<content>
+												<p>Nothing in this subparagraph may be construed to impair or limit the authority of the Securities and Exchange Commission under the Federal securities laws or any State securities regulator under State securities laws.</p>
+											</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/J">
+										<num>(J)</num>
+										<heading> EB–5 Integrity Fund</heading>
+										<clause identifier="/us/usc/t8/s1153/b/5/J/i">
+											<num>(i)</num>
+											<heading> Establishment</heading>
+											<content>
+												<p>There is established in the United States Treasury a special fund, which shall be known as the “EB–5 Integrity Fund” (referred to in this subparagraph as the “Fund”). Amounts deposited into the Fund shall be available to the Secretary of Homeland Security until expended for the purposes set forth in clause (iii).</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/J/ii">
+											<num>(ii)</num>
+											<heading> Fees</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/J/ii/I">
+												<num>(I)</num>
+												<heading> Annual fee</heading>
+												<chapeau>
+													On 
+													<date date="2022-10-01">October 1, 2022</date>
+													, and each October 1 thereafter, the Secretary of Homeland Security shall collect for the Fund an annual fee—
+												</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/J/ii/I/aa">
+													<num>(aa)</num>
+													<content> except as provided in item (bb), of $20,000 from each regional center designated under subparagraph (E); and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/J/ii/I/bb">
+													<num>(bb)</num>
+													<content> of $10,000 from each such regional center with 20 or fewer total investors in the preceding fiscal year in its new commercial enterprises.</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/J/ii/II">
+												<num>(II)</num>
+												<heading> Petition fee</heading>
+												<content>
+													<p>
+														Beginning on 
+														<date date="2022-10-01">October 1, 2022</date>
+														, the Secretary shall collect a fee of $1,000 for the Fund with each petition filed under 
+														<ref href="/us/usc/t8/s1154/a/1/H">section 1154(a)(1)(H) of this title</ref>
+														 for classification under subparagraph (E). The fee under this subclause is in addition to the fee that the Secretary is authorized to establish and collect for each petition to recover the costs of adjudication and naturalization services under 
+														<ref href="/us/usc/t8/s1356/m">section 1356(m) of this title</ref>
+														.
+													</p>
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/J/ii/III">
+												<num>(III)</num>
+												<heading> Increases</heading>
+												<content>
+													<p>The Secretary may increase the amounts under this clause by prescribing such regulations as may be necessary to ensure that amounts in the Fund are sufficient to carry out the purposes set forth in clause (iii).</p>
+												</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/J/iii">
+											<num>(iii)</num>
+											<heading> Permissible uses of fund</heading>
+											<chapeau>The Secretary shall—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/J/iii/I">
+												<num>(I)</num>
+												<chapeau> use not less than ⅓ of the amounts deposited into the Fund for investigations based outside of the United States, including—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/J/iii/I/aa">
+													<num>(aa)</num>
+													<content> monitoring and investigating program-related events and promotional activities; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/J/iii/I/bb">
+													<num>(bb)</num>
+													<content> ensuring an alien investor’s compliance with subparagraph (L); and</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/J/iii/II">
+												<num>(II)</num>
+												<chapeau> use amounts deposited into the Fund—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/J/iii/II/aa">
+													<num>(aa)</num>
+													<content> to detect and investigate fraud or other crimes;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/J/iii/II/bb">
+													<num>(bb)</num>
+													<content> to determine whether regional centers, new commercial enterprises, job-creating entities, and alien investors (and their alien spouses and alien children) comply with the immigration laws;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/J/iii/II/cc">
+													<num>(cc)</num>
+													<content> to conduct audits and site visits; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/J/iii/II/dd">
+													<num>(dd)</num>
+													<content>
+														 as the Secretary determines to be necessary, including monitoring compliance with the requirements under 
+														<ref href="/us/usc/t8/s1153a">section 1153a of this title</ref>
+														.
+													</content>
+												</item>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/J/iv">
+											<num>(iv)</num>
+											<heading> Failure to pay fee</heading>
+											<chapeau>The Secretary of Homeland Security shall—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/J/iv/I">
+												<num>(I)</num>
+												<content> impose a reasonable penalty, which shall be deposited into the Fund, if any regional center does not pay the fee required under clause (ii) within 30 days after the date on which such fee is due; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/J/iv/II">
+												<num>(II)</num>
+												<content> terminate the designation of any regional center that does not pay the fee required under clause (ii) within 90 days after the date on which such fee is due.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/J/v">
+											<num>(v)</num>
+											<heading> Report</heading>
+											<content>
+												<p>The Secretary shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that describes how amounts in the Fund were expended during the previous fiscal year.</p>
+											</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/K">
+										<num>(K)</num>
+										<heading> Direct and third-party promoters</heading>
+										<clause identifier="/us/usc/t8/s1153/b/5/K/i">
+											<num>(i)</num>
+											<heading> Rules and standards</heading>
+											<chapeau>Direct and third-party promoters (including migration agents) of a regional center, any new commercial enterprise, an affiliated job-creating entity, or an issuer of securities intended to be offered to alien investors in connection with a particular capital investment project shall comply with the rules and standards prescribed by the Secretary of Homeland Security and any applicable Federal or State securities laws, to oversee promotion of any offering of securities related to the EB–5 Program, including—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/K/i/I">
+												<num>(I)</num>
+												<chapeau> registration with U.S. Citizenship and Immigration Services, which—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/K/i/I/aa">
+													<num>(aa)</num>
+													<content> includes identifying and contact information for such promoter and confirmation of the existence of the written agreement required under clause (iii); and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/K/i/I/bb">
+													<num>(bb)</num>
+													<content> may be made publicly available at the discretion of the Secretary;</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/K/i/II">
+												<num>(II)</num>
+												<content> certification by each promoter that such promoter is not ineligible under subparagraph (H)(i);</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/K/i/III">
+												<num>(III)</num>
+												<content> guidelines for accurately representing the visa process to foreign investors; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/K/i/IV">
+												<num>(IV)</num>
+												<content> guidelines describing permissible fee arrangements under applicable securities and immigration laws.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/K/ii">
+											<num>(ii)</num>
+											<heading> Effect of violation</heading>
+											<content>
+												<p>If the Secretary determines that a direct or third-party promoter has violated clause (i), the Secretary shall suspend or permanently bar such individual from participation in the program described in subparagraph (E).</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/K/iii">
+											<num>(iii)</num>
+											<heading> Compliance</heading>
+											<content>
+												<p>Each regional center, new commercial enterprise, and affiliated job-creating entity shall maintain a written agreement between or among such entities and each direct or third-party promoter operating on behalf of such entities that outlines the rules and standards prescribed under clause (i).</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/K/iv">
+											<num>(iv)</num>
+											<heading> Disclosure</heading>
+											<content>
+												<p>
+													Each petition filed under 
+													<ref href="/us/usc/t8/s1154/a/1/H">section 1154(a)(1)(H) of this title</ref>
+													 shall include a disclosure, signed by the investor, that reflects all fees, ongoing interest, and other compensation paid to any person that the regional center or new commercial enterprise knows has received, or will receive, in connection with the investment, including compensation to agents, finders, or broker dealers involved in the offering, to the extent not already specifically identified in the business plan filed under subparagraph (F).
+												</p>
+											</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/L">
+										<num>(L)</num>
+										<heading> Source of funds</heading>
+										<clause identifier="/us/usc/t8/s1153/b/5/L/i">
+											<num>(i)</num>
+											<heading> In general</heading>
+											<content>
+												<p>An alien investor shall demonstrate that the capital required under subparagraph (A) and any funds used to pay administrative costs and fees associated with the alien’s investment were obtained from a lawful source and through lawful means.</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/L/ii">
+											<num>(ii)</num>
+											<heading> Required information</heading>
+											<chapeau>The Secretary of Homeland Security shall require that an alien investor’s petition under this paragraph contain, as applicable—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/L/ii/I">
+												<num>(I)</num>
+												<chapeau> business and tax records, or similar records, including—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/L/ii/I/aa">
+													<num>(aa)</num>
+													<content> foreign business registration records;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/L/ii/I/bb">
+													<num>(bb)</num>
+													<content> corporate or partnership tax returns (or tax returns of any other entity in any form filed in any country or subdivision of such country), and personal tax returns, including income, franchise, property (whether real, personal, or intangible), or any other tax returns of any kind, filed during the past 7 years (or another period to be determined by the Secretary to ensure that the investment is obtained from a lawful source of funds) with any taxing jurisdiction within or outside the United States by or on behalf of the alien investor; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/L/ii/I/cc">
+													<num>(cc)</num>
+													<content> any other evidence identifying any other source of capital or administrative fees;</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/L/ii/II">
+												<num>(II)</num>
+												<content> evidence related to monetary judgments against the alien investor, including certified copies of any judgments, and evidence of all pending governmental civil or criminal actions, governmental administrative proceedings, and any private civil actions (pending or otherwise) involving possible monetary judgments against the alien investor from any court within or outside the United States; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/L/ii/III">
+												<num>(III)</num>
+												<content> the identity of all persons who transfer into the United States, on behalf of the investor, any funds that are used to meet the capital requirement under subparagraph (A).</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/L/iii">
+											<num>(iii)</num>
+											<heading> Gift and loan restrictions</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/L/iii/I">
+												<num>(I)</num>
+												<heading> In general</heading>
+												<chapeau>Gifted and borrowed funds may not be counted toward the minimum capital investment requirement under subparagraph (C) unless such funds—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/L/iii/I/aa">
+													<num>(aa)</num>
+													<content> were gifted or loaned to the alien investor in good faith; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/L/iii/I/bb">
+													<num>(bb)</num>
+													<content> were not gifted or loaned to circumvent any limitations imposed on permissible sources of capital under this subparagraph, including but not limited to proceeds from illegal activity.</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/L/iii/II">
+												<num>(II)</num>
+												<heading> Records requirement</heading>
+												<content>
+													<p>If funds invested under subparagraph (A) are gifted or loaned to the alien investor, the Secretary shall require that the alien investor’s petition under this paragraph includes the records described in subclauses (I) and (II) of clause (ii) from the donor or, if other than a bank, the lender.</p>
+												</content>
+											</subclause>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/M">
+										<num>(M)</num>
+										<heading> Treatment of good faith investors following program noncompliance</heading>
+										<clause identifier="/us/usc/t8/s1153/b/5/M/i">
+											<num>(i)</num>
+											<heading> Termination or debarment of EB–5 entity</heading>
+											<chapeau>Except as provided in clause (vi), upon the termination or debarment, as applicable, from the program under this paragraph of a regional center, a new commercial enterprise, or a job-creating entity—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/M/i/I">
+												<num>(I)</num>
+												<content>
+													 an otherwise qualified petition under 
+													<ref href="/us/usc/t8/s1154/a/1/H">section 1154(a)(1)(H) of this title</ref>
+													 or the conditional permanent residence of an alien who has been admitted to the United States pursuant to 
+													<ref href="/us/usc/t8/s1186b/a/1">section 1186b(a)(1) of this title</ref>
+													 based on an investment in a terminated regional center, new commercial enterprise, or job-creating entity shall remain valid or continue to be authorized, as applicable, consistent with this subparagraph; and
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/M/i/II">
+												<num>(II)</num>
+												<content> the Secretary of Homeland Security shall notify the alien beneficiaries of such petitions of such termination or debarment.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/M/ii">
+											<num>(ii)</num>
+											<heading> New regional center or investment</heading>
+											<chapeau>
+												The petition under 
+												<ref href="/us/usc/t8/s1154/a/1/H">section 1154(a)(1)(H) of this title</ref>
+												 of an alien described in clause (i) and the conditional permanent resident status of an alien described in clause (i) shall be terminated 180 days after notification of the termination from the program under this paragraph of a regional center, a new commercial enterprise, or a job creating entity (but not sooner than 180 days after 
+												<date date="2022-03-15">March 15, 2022</date>
+												) unless—
+											</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/M/ii/I">
+												<num>(I)</num>
+												<chapeau> in the case of the termination of a regional center—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/M/ii/I/aa">
+													<num>(aa)</num>
+													<content> the new commercial enterprise associates with an approved regional center, regardless of the approved geographical boundaries of such regional center’s designation; or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/M/ii/I/bb">
+													<num>(bb)</num>
+													<content> such alien makes a qualifying investment in another new commercial enterprise; or</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/M/ii/II">
+												<num>(II)</num>
+												<chapeau> in the case of the debarment of a new commercial enterprise or job-creating entity, such alien—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/M/ii/II/aa">
+													<num>(aa)</num>
+													<content> associates with a new commercial enterprise in good standing; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/M/ii/II/bb">
+													<num>(bb)</num>
+													<content> invests additional investment capital solely to the extent necessary to satisfy remaining job creation requirements under subparagraph (A)(ii).</content>
+												</item>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/M/iii">
+											<num>(iii)</num>
+											<heading> Amendments</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/M/iii/I">
+												<num>(I)</num>
+												<heading> Filing requirement</heading>
+												<content>
+													<p>The Secretary shall permit a petition described in clause (i)(I) to be amended to allow such petition to meet the applicable eligibility requirements under clause (ii), or to notify the Secretary that a pending or approved petition continues to meet the eligibility requirements described in clause (ii) notwithstanding termination or debarment described in clause (i) if such amendment is filed not later than 180 days after the Secretary provides notification of termination or debarment of a regional center, a new commercial enterprise, or a job-creating entity, as applicable.</p>
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/M/iii/II">
+												<num>(II)</num>
+												<heading> Determination of eligibility</heading>
+												<chapeau>For purposes of determining eligibility under subclause (I)—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/M/iii/II/aa">
+													<num>(aa)</num>
+													<content> the Secretary shall permit amendments to the business plan, without such facts underlying the amendment being deemed a material change; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/M/iii/II/bb">
+													<num>(bb)</num>
+													<content>
+														 may deem any funds obtained or recovered by an alien investor, directly or indirectly, from claims against third parties, including insurance proceeds, or any additional investment capital provided by the alien, to be such alien’s investment capital for the purposes of subparagraph (A) if such investment otherwise complies with the requirements under this paragraph and 
+														<ref href="/us/usc/t8/s1186b">section 1186b of this title</ref>
+														.
+													</content>
+												</item>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/M/iv">
+											<num>(iv)</num>
+											<heading> Removal of conditions</heading>
+											<content>
+												<p>
+													Aliens described in subclauses (I)(bb) and (II) of clause (ii) shall be eligible to have their conditions removed pursuant to 
+													<ref href="/us/usc/t8/s1186b">section 1186b of this title</ref>
+													 beginning on the date that is 2 years after the date of the subsequent investment.
+												</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/M/v">
+											<num>(v)</num>
+											<heading> Remedies</heading>
+											<chapeau>For petitions approved under clause (ii), including following an amendment filed under clause (iii), the Secretary—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/M/v/I">
+												<num>(I)</num>
+												<content> shall retain the immigrant visa priority date related to the original petition and prevent age-out of derivative beneficiaries; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/M/v/II">
+												<num>(II)</num>
+												<content> may hold such petition in abeyance and extend any applicable deadlines under this paragraph.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/M/vi">
+											<num>(vi)</num>
+											<heading> Exception</heading>
+											<chapeau>If the Secretary has reason to believe that an alien was a knowing participant in the conduct that led to the termination of a regional center, new commercial enterprise, or job-creating entity described in clause (i)—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/M/vi/I">
+												<num>(I)</num>
+												<content> the alien shall not be accorded any benefit under this subparagraph; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/M/vi/II">
+												<num>(II)</num>
+												<chapeau> the Secretary shall—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/M/vi/II/aa">
+													<num>(aa)</num>
+													<content> notify the alien of such belief; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/M/vi/II/bb">
+													<num>(bb)</num>
+													<content>
+														 subject to 
+														<ref href="/us/usc/t8/s1186b/b/2">section 1186b(b)(2) of this title</ref>
+														, shall deny or initiate proceedings to revoke the approval of such alien’s petition, application, or benefit (and that of any spouse or child, if applicable) described in this paragraph.
+													</content>
+												</item>
+											</subclause>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/N">
+										<num>(N)</num>
+										<heading> Threats to the national interest</heading>
+										<clause identifier="/us/usc/t8/s1153/b/5/N/i">
+											<num>(i)</num>
+											<heading> Denial or revocation</heading>
+											<content>
+												<p>The Secretary of Homeland Security shall deny or revoke the approval of a petition, application, or benefit described in this paragraph, including the documents described in clause (ii), if the Secretary determines, in the Secretary’s discretion, that the approval of such petition, application, or benefit is contrary to the national interest of the United States for reasons relating to threats to public safety or national security.</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/N/ii">
+											<num>(ii)</num>
+											<heading> Documents</heading>
+											<chapeau>The documents described in this clause are—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/N/ii/I">
+												<num>(I)</num>
+												<content> a certification, designation, or amendment to the designation of a regional center;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/N/ii/II">
+												<num>(II)</num>
+												<content> a petition seeking classification of an alien as an alien investor under this paragraph;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/N/ii/III">
+												<num>(III)</num>
+												<content>
+													 a petition to remove conditions under 
+													<ref href="/us/usc/t8/s1186b">section 1186b of this title</ref>
+													;
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/N/ii/IV">
+												<num>(IV)</num>
+												<content> an application for approval of a business plan in a new commercial enterprise under subparagraph (F); or</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/N/ii/V">
+												<num>(V)</num>
+												<content>
+													 a document evidencing conditional permanent resident status that was issued to an alien pursuant to 
+													<ref href="/us/usc/t8/s1186b">section 1186b of this title</ref>
+													.
+												</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/N/iii">
+											<num>(iii)</num>
+											<heading> Debarment</heading>
+											<content>
+												<p>If a regional center, new commercial enterprise, or job-creating entity has its designation or participation in the program under this paragraph terminated for reasons relating to public safety or national security, any person associated with such regional center, new commercial enterprise, or job-creating entity, including an alien investor, shall be permanently barred from future participation in the program under this paragraph if the Secretary of Homeland Security, in the Secretary’s discretion, determines, by a preponderance of the evidence, that such person was a knowing participant in the conduct that led to the termination.</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/N/iv">
+											<num>(iv)</num>
+											<heading> Notice</heading>
+											<chapeau>If the Secretary of Homeland Security determines that the approval of a petition, application, or benefit described in this paragraph should be denied or revoked pursuant to clause (i), the Secretary shall—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/N/iv/I">
+												<num>(I)</num>
+												<content> notify the relevant individual, regional center, or commercial entity of such determination;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/N/iv/II">
+												<num>(II)</num>
+												<content> deny or revoke such petition, application, or benefit or terminate the permanent resident status of the alien (and the alien spouse and alien children of such immigrant), as of the date of such determination; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/N/iv/III">
+												<num>(III)</num>
+												<content> provide any United States-owned regional center, new commercial enterprise, or job creating entity an explanation for such determination unless the relevant information is classified or disclosure is otherwise prohibited under law.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/N/v">
+											<num>(v)</num>
+											<heading> Judicial review</heading>
+											<content>
+												<p>
+													Notwithstanding any other provision of law (statutory or nonstatutory), including 
+													<ref href="/us/usc/t28/s2241">section 2241 of title 28</ref>
+													 or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to review a denial or revocation under this subparagraph. Nothing in this clause may be construed as precluding review of constitutional claims or questions of law raised upon a petition for review filed with an appropriate court of appeals in accordance with 
+													<ref href="/us/usc/t8/s1252">section 1252 of this title</ref>
+													.
+												</p>
+											</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/O">
+										<num>(O)</num>
+										<heading> Fraud, misrepresentation, and criminal misuse</heading>
+										<clause identifier="/us/usc/t8/s1153/b/5/O/i">
+											<num>(i)</num>
+											<heading> Denial or revocation</heading>
+											<content>
+												<p>Subject to subparagraph (M), the Secretary of Homeland Security shall deny or revoke the approval of a petition, application, or benefit described in this paragraph, including the documents described in subparagraph (N)(ii), if the Secretary determines, in the Secretary’s discretion, that such petition, application, or benefit was predicated on or involved fraud, deceit, intentional material misrepresentation, or criminal misuse.</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/O/ii">
+											<num>(ii)</num>
+											<heading> Debarment</heading>
+											<content>
+												<p>If a regional center, new commercial enterprise, or job-creating entity has its designation or participation in the program under this paragraph terminated for reasons relating to fraud, intentional material misrepresentation, or criminal misuse, any person associated with such regional center, new commercial enterprise, or job-creating entity, including an alien investor, shall be permanently barred from future participation in the program if the Secretary determines, in the Secretary’s discretion, by a preponderance of the evidence, that such person was a knowing participant in the conduct that led to the termination.</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/O/iii">
+											<num>(iii)</num>
+											<heading> Notice</heading>
+											<chapeau>If the Secretary determines that the approval of a petition, application, or benefit described in this paragraph should be denied or revoked pursuant to clause (i), the Secretary shall—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/O/iii/I">
+												<num>(I)</num>
+												<content> notify the relevant individual, regional center, or commercial entity of such determination; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/O/iii/II">
+												<num>(II)</num>
+												<content> deny or revoke such petition, application, or benefit or terminate the permanent resident status of the alien (and the alien spouse and alien children of such immigrant), in accordance with clause (i), as of the date of such determination.</content>
+											</subclause>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/P">
+										<num>(P)</num>
+										<heading> Administrative appellate review</heading>
+										<clause identifier="/us/usc/t8/s1153/b/5/P/i">
+											<num>(i)</num>
+											<heading> In general</heading>
+											<chapeau>The Director of U.S. Citizenship and Immigration Services shall provide an opportunity for an administrative appellate review by the Administrative Appeals Office of U.S. Citizenship and Immigration Services of any determination made under this paragraph, including—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/P/i/I">
+												<num>(I)</num>
+												<content> an application for regional center designation or regional center amendment;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/P/i/II">
+												<num>(II)</num>
+												<content> an application for approval of a business plan filed under subparagraph (F);</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/P/i/III">
+												<num>(III)</num>
+												<content> a petition by an alien investor for status as an immigrant under this paragraph;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/P/i/IV">
+												<num>(IV)</num>
+												<content> the termination or suspension of any benefit accorded under this paragraph; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/P/i/V">
+												<num>(V)</num>
+												<content> any sanction imposed by the Secretary under this paragraph.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/P/ii">
+											<num>(ii)</num>
+											<heading> Judicial review</heading>
+											<content>
+												<p>
+													Subject to subparagraph (N)(v) and 
+													<ref href="/us/usc/t8/s1252/a/2">section 1252(a)(2) of this title</ref>
+													, and notwithstanding any other provision of law (statutory or nonstatutory), including 
+													<ref href="/us/usc/t28/s2241">section 2241 of title 28</ref>
+													 or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to review a determination under this paragraph until the regional center, its associated entities, or the alien investor has exhausted all administrative appeals.
+												</p>
+											</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/Q">
+										<num>(Q)</num>
+										<heading> Fund administration</heading>
+										<clause identifier="/us/usc/t8/s1153/b/5/Q/i">
+											<num>(i)</num>
+											<heading> In general</heading>
+											<content>
+												<p>Each new commercial enterprise shall deposit and maintain the capital investment of each alien investor in a separate account, including amounts held in escrow.</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/Q/ii">
+											<num>(ii)</num>
+											<heading> Use of funds</heading>
+											<chapeau>Amounts in a separate account may only—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/ii/I">
+												<num>(I)</num>
+												<content> be transferred to another separate account or a job creating entity;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/ii/II">
+												<num>(II)</num>
+												<content> otherwise be deployed into the capital investment project for which the funds were intended; or</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/ii/III">
+												<num>(III)</num>
+												<content> be transferred to the alien investor who contributed the funds as a refund of that investor’s capital investment, if otherwise permitted under this paragraph.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/Q/iii">
+											<num>(iii)</num>
+											<heading> Deployment of funds into an affiliated job-creating entity</heading>
+											<chapeau>If amounts are transferred to an affiliated job-creating entity pursuant to clause (ii)(I)—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/iii/I">
+												<num>(I)</num>
+												<content> the affiliated job-creating entity shall maintain such amounts in a separate account until they are deployed into the capital investment project for which they were intended; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/iii/II">
+												<num>(II)</num>
+												<content> not later than 30 days after such amounts are deployed pursuant to subclause (I), the affiliated job-creating entity shall provide written notice to the fund administrator retained pursuant to clause (iv) that a construction consultant or other individual authorized by the Secretary has verified that such amounts have been deployed into the project.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/Q/iv">
+											<num>(iv)</num>
+											<heading> Fund administrator</heading>
+											<chapeau>Except as provided in clause (v), the new commercial enterprise shall retain a fund administrator to fulfill the requirements under this subparagraph. The fund administrator—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/iv/I">
+												<num>(I)</num>
+												<content> shall be independent of, and not directly related to, the new commercial enterprise, the regional center associated with the new commercial enterprise, the job creating entity, or any of the principals or managers of such entities;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/iv/II">
+												<num>(II)</num>
+												<chapeau> shall be licensed, active, and in good standing as—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/Q/iv/II/aa">
+													<num>(aa)</num>
+													<content> a certified public accountant;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/Q/iv/II/bb">
+													<num>(bb)</num>
+													<content> an attorney;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/Q/iv/II/cc">
+													<num>(cc)</num>
+													<content> a broker-dealer or investment adviser registered with the Securities and Exchange Commission; or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/Q/iv/II/dd">
+													<num>(dd)</num>
+													<content> an individual or company that otherwise meets such requirements as may be established by the Secretary;</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/iv/III">
+												<num>(III)</num>
+												<content> shall monitor and track any transfer of amounts from the separate account;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/iv/IV">
+												<num>(IV)</num>
+												<content> shall serve as a cosignatory on all separate accounts;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/iv/V">
+												<num>(V)</num>
+												<chapeau> before any transfer of amounts from a separate account, shall—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/Q/iv/V/aa">
+													<num>(aa)</num>
+													<content> verify that the transfer complies with all governing documents, including organizational, operational, and investment documents; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/Q/iv/V/bb">
+													<num>(bb)</num>
+													<content> approve such transfer with a written or electronic signature;</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/iv/VI">
+												<num>(VI)</num>
+												<chapeau> shall periodically provide each alien investor with information about the activity of the account in which the investor’s capital investment is held, including—</chapeau>
+												<item identifier="/us/usc/t8/s1153/b/5/Q/iv/VI/aa">
+													<num>(aa)</num>
+													<content> the name and location of the bank or financial institution at which the account is maintained;</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/Q/iv/VI/bb">
+													<num>(bb)</num>
+													<content> the history of the account; and</content>
+												</item>
+												<item identifier="/us/usc/t8/s1153/b/5/Q/iv/VI/cc">
+													<num>(cc)</num>
+													<content> any additional information required by the Secretary; and</content>
+												</item>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/iv/VII">
+												<num>(VII)</num>
+												<content> shall make and preserve, during the 5-year period beginning on the last day of the Federal fiscal year in which any transactions occurred, books, ledgers, records, and other documentation necessary to comply with this clause, which shall be provided to the Secretary upon request.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/Q/v">
+											<num>(v)</num>
+											<heading> Waiver</heading>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/v/I">
+												<num>(I)</num>
+												<heading> Waiver permitted</heading>
+												<content>
+													<p>The Secretary of Homeland Security, after consultation with the Securities and Exchange Commission, may waive the requirements under clause (iv) for any new commercial enterprise or affiliated job-creating entity that is controlled by or under common control of an investment adviser or broker-dealer that is registered with the Securities and Exchange Commission if the Secretary, in the Secretary’s discretion, determines that the Securities and Exchange Commission provides comparable protections and transparency for alien investors as the protections and transparency provided under clause (iv).</p>
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/v/II">
+												<num>(II)</num>
+												<heading> Waiver required</heading>
+												<content>
+													<p>The Secretary of Homeland Security shall waive the requirements under clause (iv) for any new commercial enterprise that commissions an annual independent financial audit of such new commercial enterprise or job creating entity conducted in accordance with Generally Accepted Auditing Standards, which audit shall be provided to the Secretary and all investors in the new commercial enterprise.</p>
+												</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/Q/vi">
+											<num>(vi)</num>
+											<heading> Defined term</heading>
+											<chapeau>In this subparagraph, the term “separate account” means an account that—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/vi/I">
+												<num>(I)</num>
+												<content>
+													 is maintained in the United States by a new commercial enterprise or job creating entity at a federally regulated bank or at another financial institution (as defined in 
+													<ref href="/us/usc/t18/s20">section 20 of title 18</ref>
+													) in the United States;
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/vi/II">
+												<num>(II)</num>
+												<content> is insured; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153/b/5/Q/vi/III">
+												<num>(III)</num>
+												<content> contains only the pooled investment funds of alien investors in a new commercial enterprise with respect to a single capital investment project.</content>
+											</subclause>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/R">
+										<num>(R)</num>
+										<heading> Required checks</heading>
 										<content>
-											<p>In this paragraph, the term “full-time employment” means employment in a position that requires at least 35 hours of service per week at any time, regardless of who fills the position.</p>
+											<p>
+												Any petition filed by an alien under 
+												<ref href="/us/usc/t8/s1154/a/1/H">section 1154(a)(1)(H) of this title</ref>
+												 may not be approved under this paragraph unless the Secretary of Homeland Security has searched for the alien and any associated employer of such alien on the Specially Designated Nationals List of the Department of the Treasury Office of Foreign Assets Control.
+											</p>
 										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153/b/5/S">
+										<num>(S)</num>
+										<heading> Protection from expired legislation</heading>
+										<chapeau>Notwithstanding the expiration of legislation authorizing the regional center program under subparagraph (E), the Secretary of Homeland Security—</chapeau>
+										<clause identifier="/us/usc/t8/s1153/b/5/S/i">
+											<num>(i)</num>
+											<content>
+												 shall continue processing petitions under sections 1154(a)(1)(H) and 1186b of this title based on an investment in a new commercial enterprise associated with a regional center that were filed on or before 
+												<date date="2026-09-30">September 30, 2026</date>
+												;
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/S/ii">
+											<num>(ii)</num>
+											<content> may not deny a petition described in clause (i) based on the expiration of such legislation; and</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153/b/5/S/iii">
+											<num>(iii)</num>
+											<content> may not suspend or terminate the allocation of visas to the beneficiaries of approved petitions described in clause (i).</content>
+										</clause>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t8/s1153/b/6">
@@ -4924,6 +6759,324 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 										<p>Paragraphs (1) through (3) shall apply to self-petitioners and derivatives of self-petitioners.</p>
 									</content>
 								</paragraph>
+								<paragraph identifier="/us/usc/t8/s1153/h/5">
+									<num>(5)</num>
+									<heading> Age determination for children of alien investors</heading>
+									<content>
+										<p>
+											An alien who has reached 21 years of age and has been admitted under subsection (d) as a lawful permanent resident on a conditional basis as the child of an alien lawfully admitted for permanent residence under subsection (b)(5), whose lawful permanent resident status on a conditional basis is terminated under 
+											<ref href="/us/usc/t8/s1186b">section 1186b of this title</ref>
+											 or subsection (b)(5)(M), shall continue to be considered a child of the principal alien for the purpose of a subsequent immigrant petition by such alien under subsection (b)(5) if the alien remains unmarried and the subsequent petition is filed by the principal alien not later than 1 year after the termination of conditional lawful permanent resident status. No alien shall be considered a child under this paragraph with respect to more than 1 petition filed after the alien reaches 21 years of age.
+										</p>
+									</content>
+								</paragraph>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t8/s1153a">
+							<num>§ 1153a.</num>
+							<heading> Transparency</heading>
+							<subsection identifier="/us/usc/t8/s1153a/a">
+								<num>(a)</num>
+								<heading> In general</heading>
+								<content>
+									<p>
+										Employees of the Department of Homeland Security, including the Secretary of Homeland Security, the Secretary’s counselors, the Assistant Secretary for the Private Sector, the Director of U.S. Citizenship and Immigration Services, counselors to such Director, and the Chief of the Immigrant Investor Programs Office (or any successor to such Office) at U.S. Citizenship and Immigration Services, shall act impartially and may not give preferential treatment to any entity, organization, or individual in connection with any aspect of the immigrant visa program described in 
+										<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+										.
+									</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t8/s1153a/b">
+								<num>(b)</num>
+								<heading> Improper activities</heading>
+								<chapeau>Activities that constitute preferential treatment under subsection (a) shall include—</chapeau>
+								<paragraph identifier="/us/usc/t8/s1153a/b/1">
+									<num>(1)</num>
+									<chapeau> working on, or in any way attempting to influence, in a manner not available to or accorded to all other petitioners, applicants, and seekers of benefits under the immigrant visa program referred to in subsection (a), the standard processing of an application, petition, or benefit for—</chapeau>
+									<subparagraph identifier="/us/usc/t8/s1153a/b/1/A">
+										<num>(A)</num>
+										<content> a regional center;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153a/b/1/B">
+										<num>(B)</num>
+										<content> a new commercial enterprise;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153a/b/1/C">
+										<num>(C)</num>
+										<content> a job-creating entity; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153a/b/1/D">
+										<num>(D)</num>
+										<content> any person or entity associated with such regional center, new commercial enterprise, or job-creating entity; and</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t8/s1153a/b/2">
+									<num>(2)</num>
+									<content> meeting or communicating with persons associated with the entities listed in paragraph (1), at the request of such persons, in a manner not available to or accorded to all other petitioners, applicants, and seekers of benefits under such immigrant visa program.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t8/s1153a/c">
+								<num>(c)</num>
+								<heading> Reporting of communications</heading>
+								<paragraph identifier="/us/usc/t8/s1153a/c/1">
+									<num>(1)</num>
+									<heading> Written communication</heading>
+									<content>
+										<p>
+											Employees of the Department of Homeland Security, including the officials listed in subsection (a), shall include, in the record of proceeding for a case under 
+											<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+											, actual or electronic copies of all case-specific written communication, including emails from government and private accounts, with non-Department persons or entities advocating for regional center applications or individual petitions under such section that are pending on or after 
+											<date date="2022-03-15">March 15, 2022</date>
+											 (other than routine communications with other agencies of the Federal Government regarding the case, including communications involving background checks and litigation defense).
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t8/s1153a/c/2">
+									<num>(2)</num>
+									<heading> Oral communication</heading>
+									<chapeau>
+										If substantive oral communication, including telephonic communication, virtual communication, or in-person meetings, takes place between officials of the Department of Homeland Security and non-Department persons or entities advocating for regional center applications or individual petitions under 
+										<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+										 that are pending on or after 
+										<date date="2022-03-15">March 15, 2022</date>
+										 (except communications exempted under paragraph (1))—
+									</chapeau>
+									<subparagraph identifier="/us/usc/t8/s1153a/c/2/A">
+										<num>(A)</num>
+										<content> the conversation shall be recorded; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153a/c/2/B">
+										<num>(B)</num>
+										<content> detailed minutes of the session shall be taken and included in the record of proceeding.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t8/s1153a/c/3">
+									<num>(3)</num>
+									<heading> Notification</heading>
+									<subparagraph identifier="/us/usc/t8/s1153a/c/3/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<chapeau>If the Secretary, in the course of written or oral communication described in this subsection, receives evidence about a specific case from anyone other than an affected party or his or her representative (excluding Federal Government or law enforcement sources), such information may not be made part of the record of proceeding and may not be considered in adjudicative proceedings unless—</chapeau>
+										<clause identifier="/us/usc/t8/s1153a/c/3/A/i">
+											<num>(i)</num>
+											<content> the affected party has been given notice of such evidence; and</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153a/c/3/A/ii">
+											<num>(ii)</num>
+											<content> if such evidence is derogatory, the affected party has been given an opportunity to respond to the evidence.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153a/c/3/B">
+										<num>(B)</num>
+										<heading> Information from law enforcement, intelligence agencies, or confidential sources</heading>
+										<clause identifier="/us/usc/t8/s1153a/c/3/B/i">
+											<num>(i)</num>
+											<heading> Law enforcement or intelligence agencies</heading>
+											<content>
+												<p>Evidence received from law enforcement or intelligence agencies may not be made part of the record of proceeding without the consent of the relevant agency or law enforcement entity.</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153a/c/3/B/ii">
+											<num>(ii)</num>
+											<heading> Whistleblowers, confidential sources, or intelligence agencies</heading>
+											<content>
+												<p>Evidence received from whistleblowers, other confidential sources, or the intelligence community that is included in the record of proceeding and considered in adjudicative proceedings shall be handled in a manner that does not reveal the identity of the whistleblower or confidential source, or reveal classified information.</p>
+											</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t8/s1153a/d">
+								<num>(d)</num>
+								<heading> Consideration of evidence</heading>
+								<paragraph identifier="/us/usc/t8/s1153a/d/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>
+											No case-specific communication with persons or entities that are not part of the Department of Homeland Security may be considered in the adjudication of an application or petition under 
+											<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+											 unless the communication is included in the record of proceeding of the case.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t8/s1153a/d/2">
+									<num>(2)</num>
+									<heading> Waiver</heading>
+									<content>
+										<p>The Secretary of Homeland Security may waive the requirement under paragraph (1) only in the interests of national security or for investigative or law enforcement purposes.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t8/s1153a/e">
+								<num>(e)</num>
+								<heading> Channels of communication</heading>
+								<paragraph identifier="/us/usc/t8/s1153a/e/1">
+									<num>(1)</num>
+									<heading> Email address or equivalent</heading>
+									<chapeau>The Director of U.S. Citizenship and Immigration Services shall maintain an email account (or equivalent means of communication) for persons or entities—</chapeau>
+									<subparagraph identifier="/us/usc/t8/s1153a/e/1/A">
+										<num>(A)</num>
+										<content>
+											 with inquiries regarding specific petitions or applications under the immigrant visa program described in 
+											<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+											; or
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153a/e/1/B">
+										<num>(B)</num>
+										<content> seeking information that is not case-specific about the immigrant visa program described in such section 1153(b)(5).</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t8/s1153a/e/2">
+									<num>(2)</num>
+									<heading> Communication only through appropriate channels or offices</heading>
+									<subparagraph identifier="/us/usc/t8/s1153a/e/2/A">
+										<num>(A)</num>
+										<heading> Announcement of appropriate channels of communication</heading>
+										<chapeau>
+											Not later than 40 days after 
+											<date date="2022-03-15">March 15, 2022</date>
+											, the Director of U.S. Citizenship and Immigration Services shall announce that the only channels or offices by which industry stakeholders, petitioners, applicants, and seekers of benefits under the immigrant visa program described in 
+											<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+											 may communicate with the Department of Homeland Security regarding specific cases under such section (except for communication made by applicants and petitioners pursuant to regular adjudicatory procedures), or information that is not case-specific about the visa program applicable to certain cases under such section, are through—
+										</chapeau>
+										<clause identifier="/us/usc/t8/s1153a/e/2/A/i">
+											<num>(i)</num>
+											<content> the email address or equivalent channel described in paragraph (1);</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153a/e/2/A/ii">
+											<num>(ii)</num>
+											<content> the National Customer Service Center, or any successor to such Center; or</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153a/e/2/A/iii">
+											<num>(iii)</num>
+											<content> the Office of Public Engagement, Immigrant Investor Program Office, including the Stakeholder Engagement Branch, or any successors to those Offices or that Branch.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153a/e/2/B">
+										<num>(B)</num>
+										<heading> Direction of incoming communications</heading>
+										<clause identifier="/us/usc/t8/s1153a/e/2/B/i">
+											<num>(i)</num>
+											<heading> In general</heading>
+											<content>
+												<p>Employees of the Department of Homeland Security shall direct communications described in subparagraph (A) to the channels of communication or offices listed in clauses (i) through (iii) of subparagraph (A).</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153a/e/2/B/ii">
+											<num>(ii)</num>
+											<heading> Rule of construction</heading>
+											<chapeau>Nothing in this subparagraph may be construed to prevent—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153a/e/2/B/ii/I">
+												<num>(I)</num>
+												<content>
+													 any person from communicating with the Ombudsman of U.S. Citizenship and Immigration Services regarding the immigrant investor program under 
+													<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+													; or
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153a/e/2/B/ii/II">
+												<num>(II)</num>
+												<content>
+													 the Ombudsman from resolving problems regarding such immigrant investor program pursuant to the authority granted under 
+													<ref href="/us/usc/t6/s272">section 272 of title 6</ref>
+													.
+												</content>
+											</subclause>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1153a/e/2/C">
+										<num>(C)</num>
+										<heading> Log</heading>
+										<clause identifier="/us/usc/t8/s1153a/e/2/C/i">
+											<num>(i)</num>
+											<heading> In general</heading>
+											<chapeau>The Director of U.S. Citizenship and Immigration Services shall maintain a written or electronic log of—</chapeau>
+											<subclause identifier="/us/usc/t8/s1153a/e/2/C/i/I">
+												<num>(I)</num>
+												<content> all communications described in subparagraph (A) and communications from Members of Congress, which shall reference the date, time, and subject of the communication, and the identity of the Department official, if any, to whom the inquiry was forwarded;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153a/e/2/C/i/II">
+												<num>(II)</num>
+												<content> with respect to written communications described in subsection (c)(1), the date on which the communication was received, the identities of the sender and addressee, and the subject of the communication; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1153a/e/2/C/i/III">
+												<num>(III)</num>
+												<content> with respect to oral communications described in subsection (c)(2), the date on which the communication occurred, the participants in the conversation or meeting, and the subject of the communication.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1153a/e/2/C/ii">
+											<num>(ii)</num>
+											<heading> Transparency</heading>
+											<content>
+												<p>
+													The log of communications described in clause (i) shall be made publicly available in accordance with 
+													<ref href="/us/usc/t5/s552">section 552 of title 5</ref>
+													 (commonly known as the “Freedom of Information Act”).
+												</p>
+											</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t8/s1153a/e/3">
+									<num>(3)</num>
+									<heading> Publication of information</heading>
+									<content>
+										<p>
+											Not later than 30 days after a person or entity inquiring about a specific case or generally about the immigrant visa program described in 
+											<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+											 receives, as a result of a communication with an official of the Department of Homeland Security, generally applicable information that is not case-specific about program requirements or administration that has not been made publicly available by the Department, the Director of U.S. Citizenship and Immigration Services shall publish such information on the U.S. Citizenship and Immigration Services website as an update to the relevant Frequently Asked Questions page or by some other comparable mechanism.
+										</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t8/s1153a/f">
+								<num>(f)</num>
+								<heading> Penalty</heading>
+								<paragraph identifier="/us/usc/t8/s1153a/f/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>Any person who intentionally violates the prohibition on preferential treatment under this section or intentionally violates the reporting requirements under subsection (c) shall be disciplined in accordance with paragraph (2).</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t8/s1153a/f/2">
+									<num>(2)</num>
+									<heading> Sanctions</heading>
+									<content>
+										<p>
+											Not later than 90 days after 
+											<date date="2022-03-15">March 15, 2022</date>
+											, the Secretary of Homeland Security shall establish a graduated set of sanctions based on the severity of the violation referred to in paragraph (1), which may include, in addition to any criminal or civil penalties that may be imposed, written reprimand, suspension, demotion, or removal.
+										</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t8/s1153a/g">
+								<num>(g)</num>
+								<heading> Rule of construction regarding classified information</heading>
+								<content>
+									<p>Nothing in this section may be construed to modify any law, regulation, or policy regarding the handling or disclosure of classified information.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t8/s1153a/h">
+								<num>(h)</num>
+								<heading> Rule of construction regarding private right of action</heading>
+								<content>
+									<p>Nothing in this section may be construed to create or authorize a private right of action to challenge a decision of an employee of the Department of Homeland Security.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t8/s1153a/i">
+								<num>(i)</num>
+								<heading> Effective date</heading>
+								<content>
+									<p>
+										This section, and the amendments made by this section, shall take effect on 
+										<date date="2022-03-15">March 15, 2022</date>
+										.
+									</p>
+								</content>
 							</subsection>
 						</section>
 						<section identifier="/us/usc/t8/s1154">
@@ -5336,11 +7489,36 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1154/a/1/H">
 										<num>(H)</num>
-										<content>
-											 Any alien desiring to be classified under 
-											<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
-											 may file a petition with the Attorney General for such classification.
-										</content>
+										<clause identifier="/us/usc/t8/s1154/a/1/H/i">
+											<num>(i)</num>
+											<content>
+												 Any alien seeking classification under 
+												<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+												 may file a petition for such classification with the Secretary of Homeland Security. An alien seeking to pool his or her investment with 1 or more additional aliens seeking classification under 
+												<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+												 shall file for such classification in accordance with 
+												<ref href="/us/usc/t8/s1153/b/5/E">section 1153(b)(5)(E) of this title</ref>
+												, or before 
+												<date date="2022-03-15">March 15, 2022</date>
+												, in accordance with 
+												<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+												. An alien petitioning for classification under 
+												<ref href="/us/usc/t8/s1153/b/5/E">section 1153(b)(5)(E) of this title</ref>
+												 may file a petition with the Secretary after a regional center has filed an application for approval of an investment under 
+												<ref href="/us/usc/t8/s1153/b/5/F">section 1153(b)(5)(F) of this title</ref>
+												.
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1154/a/1/H/ii">
+											<num>(ii)</num>
+											<content>
+												 A petitioner described in clause (i) shall establish eligibility at the time he or she files a petition for classification under 
+												<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+												. A petitioner who was eligible for such classification at the time of such filing shall be deemed eligible for such classification at the time such petition is adjudicated, subject to the approval of the petitioner’s associated application under 
+												<ref href="/us/usc/t8/s1153/b/5/F">section 1153(b)(5)(F) of this title</ref>
+												, if applicable.
+											</content>
+										</clause>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1154/a/1/I">
 										<num>(I)</num>
@@ -12872,7 +15050,7 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 									<num>(1)</num>
 									<heading> Conditional basis for status</heading>
 									<content>
-										<p>Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1)), alien spouse, and alien child (as defined in subsection (f)(2)) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.</p>
+										<p>An alien investor, alien spouse, and alien child shall be considered, at the time of obtaining status as an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.</p>
 									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t8/s1186b/a/2">
@@ -12882,46 +15060,39 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 										<num>(A)</num>
 										<heading> At time of obtaining permanent residence</heading>
 										<content>
-											<p>At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) to have the conditional basis of such status removed.</p>
+											<p>At the time an alien investor, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Secretary of Homeland Security shall provide for notice to such an investor, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) to have the conditional basis of such status removed.</p>
 										</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1186b/a/2/B">
 										<num>(B)</num>
 										<heading> At time of required petition</heading>
 										<content>
-											<p>In addition, the Attorney General shall attempt to provide notice to such an entrepreneur, spouse, or child, at or about the beginning of the 90-day period described in subsection (d)(2)(A), of the requirements of subsection (c)(1).</p>
+											<p>In addition, the Secretary of Homeland Security shall attempt to provide notice to such an investor, spouse, or child, at or about the beginning of the 90-day period described in subsection (d)(2)(A), of the requirements of subsection (c)(1).</p>
 										</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1186b/a/2/C">
 										<num>(C)</num>
 										<heading> Effect of failure to provide notice</heading>
 										<content>
-											<p>The failure of the Attorney General to provide a notice under this paragraph shall not affect the enforcement of the provisions of this section with respect to such an entrepreneur, spouse, or child.</p>
+											<p>The failure of the Secretary of Homeland Security to provide a notice under this paragraph shall not affect the enforcement of the provisions of this section with respect to such an investor, spouse, or child.</p>
 										</content>
 									</subparagraph>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t8/s1186b/b">
 								<num>(b)</num>
-								<heading> Termination of status if finding that qualifying entrepreneurship improper</heading>
+								<heading> Termination of status if finding that qualifying investment improper</heading>
 								<paragraph identifier="/us/usc/t8/s1186b/b/1">
 									<num>(1)</num>
 									<heading> In general</heading>
-									<chapeau>In the case of an alien entrepreneur with permanent resident status on a conditional basis under subsection (a), if the Attorney General determines, before the second anniversary of the alien’s obtaining the status of lawful admission for permanent residence, that—</chapeau>
+									<chapeau>In the case of an alien investor with permanent resident status on a conditional basis under subsection (a), if the Secretary of Homeland Security determines, before the second anniversary of the alien’s obtaining the status of lawful admission for permanent residence, that—</chapeau>
 									<subparagraph identifier="/us/usc/t8/s1186b/b/1/A">
 										<num>(A)</num>
 										<content> the investment in the commercial enterprise was intended solely as a means of evading the immigration laws of the United States,</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1186b/b/1/B">
 										<num>(B)</num>
-										<clause identifier="/us/usc/t8/s1186b/b/1/B/i">
-											<num>(i)</num>
-											<content> the alien did not invest, or was not actively in the process of investing, the requisite capital; or</content>
-										</clause>
-										<clause identifier="/us/usc/t8/s1186b/b/1/B/ii">
-											<num>(ii)</num>
-											<content> the alien was not sustaining the actions described in clause (i) throughout the period of the alien’s residence in the United States; or</content>
-										</clause>
+										<content> the alien did not invest the requisite capital; or</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1186b/b/1/C">
 										<num>(C)</num>
@@ -12931,30 +15102,30 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 											,
 										</content>
 									</subparagraph>
-									<continuation>then the Attorney General shall so notify the alien involved and, subject to paragraph (2), shall terminate the permanent resident status of the alien (and the alien spouse and alien child) involved as of the date of the determination.</continuation>
+									<continuation>then the Secretary of Homeland Security shall so notify the alien involved and, subject to paragraph (2), shall terminate the permanent resident status of the alien (and the alien spouse and alien child) involved as of the date of the determination.</continuation>
 								</paragraph>
 								<paragraph identifier="/us/usc/t8/s1186b/b/2">
 									<num>(2)</num>
 									<heading> Hearing in removal proceeding</heading>
 									<content>
-										<p>Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.</p>
+										<p>Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Secretary of Homeland Security to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.</p>
 									</content>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t8/s1186b/c">
 								<num>(c)</num>
-								<heading> Requirements of timely petition and interview for removal of condition</heading>
+								<heading> Requirements for removal of condition</heading>
 								<paragraph identifier="/us/usc/t8/s1186b/c/1">
 									<num>(1)</num>
 									<heading> In general</heading>
-									<chapeau>In order for the conditional basis established under subsection (a) for an alien entrepreneur, alien spouse, or alien child to be removed—</chapeau>
+									<chapeau>Except as provided in paragraph (3)(D), in order for the conditional basis established under subsection (a) for an alien investor, alien spouse, or alien child to be removed—</chapeau>
 									<subparagraph identifier="/us/usc/t8/s1186b/c/1/A">
 										<num>(A)</num>
-										<content> the alien entrepreneur must submit to the Attorney General, during the period described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1), and</content>
+										<content> the alien investor shall submit to the Secretary of Homeland Security, during the period described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1);</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1186b/c/1/B">
 										<num>(B)</num>
-										<content> in accordance with subsection (d)(3), the alien entrepreneur must appear for a personal interview before an officer or employee of the Service respecting the facts and information described in subsection (d)(1).</content>
+										<content> in accordance with subsection (d)(3), the alien investor shall appear for a personal interview before an officer or employee of the Department of Homeland Security respecting the facts and information described in subsection (d)(1); and </content>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t8/s1186b/c/2">
@@ -12970,10 +15141,10 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 										</clause>
 										<clause identifier="/us/usc/t8/s1186b/c/2/A/ii">
 											<num>(ii)</num>
-											<content> unless there is good cause shown, the alien entrepreneur fails to appear at the interview described in paragraph (1)(B) (if required under subsection (d)(3)),</content>
+											<content> unless there is good cause shown, the alien investor fails to appear at the interview described in paragraph (1)(B) (if required under subsection (d)(3)),</content>
 										</clause>
 										<continuation>
-											the Attorney General shall terminate the permanent resident status of the alien (and the alien’s spouse and children if it was obtained on a conditional basis under this section or 
+											the Secretary of Homeland Security shall terminate the permanent resident status of the alien (and the alien’s spouse and children if it was obtained on a conditional basis under this section or 
 											<ref href="/us/usc/t8/s1186a">section 1186a of this title</ref>
 											) as of the second anniversary of the alien’s lawful admission for permanent residence.
 										</continuation>
@@ -12999,32 +15170,59 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 										</clause>
 										<clause identifier="/us/usc/t8/s1186b/c/3/A/ii">
 											<num>(ii)</num>
-											<content> the alien entrepreneur appears at any interview described in paragraph (1)(B),</content>
+											<content> the alien investor appears at any interview described in paragraph (1)(B),</content>
 										</clause>
-										<continuation>
-											the Attorney General shall make a determination, within 90 days of the date of the such filing 
-											 or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) and alleged in the petition are true with respect to the qualifying commercial enterprise.
-										</continuation>
+										<continuation>the Secretary of Homeland Security shall make a determination, within 90 days of the date of such filing or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) and alleged in the petition are true with respect to the qualifying commercial enterprise.</continuation>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1186b/c/3/B">
 										<num>(B)</num>
-										<heading> Removal of conditional basis if favorable determination</heading>
-										<content>
-											<p>If the Attorney General determines that such facts and information are true, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien’s status effective as of the second anniversary of the alien’s lawful admission for permanent residence.</p>
-										</content>
+										<heading> Removal or extension of conditional basis</heading>
+										<clause identifier="/us/usc/t8/s1186b/c/3/B/i">
+											<num>(i)</num>
+											<heading> In general</heading>
+											<chapeau>Except as provided in clause (ii), if the Secretary determines that the facts and information contained in a petition submitted under paragraph (1)(A) are true, including demonstrating that the alien complied with subsection (d)(1)(B)(i), the Secretary shall—</chapeau>
+											<subclause identifier="/us/usc/t8/s1186b/c/3/B/i/I">
+												<num>(I)</num>
+												<content> notify the alien involved of such determination; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1186b/c/3/B/i/II">
+												<num>(II)</num>
+												<content> remove the conditional basis of the alien’s status effective as of the second anniversary of the alien’s lawful admission for permanent residence.</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t8/s1186b/c/3/B/ii">
+											<num>(ii)</num>
+											<heading> Exception</heading>
+											<chapeau>If the petition demonstrates that the facts and information are true and that the alien is in compliance with subsection (d)(1)(B)(ii)—</chapeau>
+											<subclause identifier="/us/usc/t8/s1186b/c/3/B/ii/I">
+												<num>(I)</num>
+												<content> the Secretary, in the Secretary’s discretion, may provide a 1-year extension of the alien’s conditional status; and</content>
+											</subclause>
+											<subclause identifier="/us/usc/t8/s1186b/c/3/B/ii/II">
+												<num>(II)</num>
+												<item identifier="/us/usc/t8/s1186b/c/3/B/ii/II/aa">
+													<num>(aa)</num>
+													<content> if the alien files a petition not later than 30 days after the third anniversary of the alien’s lawful admission for permanent residence demonstrating that the alien complied with subsection (d)(1)(B)(i), the Secretary shall remove the conditional basis of the alien’s status effective as of such third anniversary; or</content>
+												</item>
+												<item identifier="/us/usc/t8/s1186b/c/3/B/ii/II/bb">
+													<num>(bb)</num>
+													<content> if the alien does not file the petition described in item (aa), the conditional status shall terminate at the end of such additional year.</content>
+												</item>
+											</subclause>
+										</clause>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1186b/c/3/C">
 										<num>(C)</num>
 										<heading> Termination if adverse determination</heading>
 										<content>
-											<p>If the Attorney General determines that such facts and information are not true, the Attorney General shall so notify the alien involved and, subject to subparagraph (D), shall terminate the permanent resident status of an alien entrepreneur, alien spouse, or alien child as of the date of the determination.</p>
+											<p>If the Secretary of Homeland Security determines that such facts and information are not true, the Secretary of Homeland Security shall so notify the alien involved and, subject to subparagraph (D), shall terminate the permanent resident status of an alien investor, alien spouse, or alien child as of the date of the determination.</p>
 										</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1186b/c/3/D">
 										<num>(D)</num>
 										<heading> Hearing in removal proceeding</heading>
 										<content>
-											<p>Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) and alleged in the petition are not true with respect to the qualifying commercial enterprise.</p>
+											<p>Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Secretary of Homeland Security to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) and alleged in the petition are not true with respect to the qualifying commercial enterprise.</p>
 										</content>
 									</subparagraph>
 								</paragraph>
@@ -13038,17 +15236,29 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 									<chapeau>Each petition under subsection (c)(1)(A) shall contain facts and information demonstrating that the alien—</chapeau>
 									<subparagraph identifier="/us/usc/t8/s1186b/d/1/A">
 										<num>(A)</num>
-										<clause identifier="/us/usc/t8/s1186b/d/1/A/i">
-											<num>(i)</num>
-											<content> invested, or is actively in the process of investing, the requisite capital; and</content>
-										</clause>
-										<clause identifier="/us/usc/t8/s1186b/d/1/A/ii">
-											<num>(ii)</num>
-											<content> sustained the actions described in clause (i) throughout the period of the alien’s residence in the United States; and</content>
-										</clause>
+										<content> invested the requisite capital;</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1186b/d/1/B">
 										<num>(B)</num>
+										<clause identifier="/us/usc/t8/s1186b/d/1/B/i">
+											<num>(i)</num>
+											<content>
+												 created the employment required under 
+												<ref href="/us/usc/t8/s1153/b/5/A/ii">section 1153(b)(5)(A)(ii) of this title</ref>
+												; or
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1186b/d/1/B/ii">
+											<num>(ii)</num>
+											<content>
+												 is actively in the process of creating the employment required under 
+												<ref href="/us/usc/t8/s1153/b/5/A/ii">section 1153(b)(5)(A)(ii) of this title</ref>
+												 and will create such employment before the third anniversary of the alien’s lawful admission for permanent residence, provided that such alien’s capital will remain invested during such time; and
+											</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1186b/d/1/C">
+										<num>(C)</num>
 										<content>
 											 is otherwise conforming to the requirements of 
 											<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
@@ -13061,16 +15271,31 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 									<heading> Period for filing petition</heading>
 									<subparagraph identifier="/us/usc/t8/s1186b/d/2/A">
 										<num>(A)</num>
-										<heading> 90-day period before second anniversary</heading>
-										<content>
-											<p>Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) must be filed during the 90-day period before the second anniversary of the alien’s lawful admission for permanent residence.</p>
-										</content>
+										<heading> Ninety-day period before second anniversary</heading>
+										<clause identifier="/us/usc/t8/s1186b/d/2/A/i">
+											<num>(i)</num>
+											<heading> In general</heading>
+											<content>
+												<p>Except as provided in clause (ii) and subparagraph (B), a petition under subsection (c)(1)(A) shall be filed during the 90-day period immediately preceding the second anniversary of the alien investor’s lawful admission for permanent residence.</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1186b/d/2/A/ii">
+											<num>(ii)</num>
+											<heading> Exception</heading>
+											<content>
+												<p>
+													Aliens described in subclauses (I)(bb) and (II) of 
+													<ref href="/us/usc/t8/s1153/b/5/M/ii">section 1153(b)(5)(M)(ii) of this title</ref>
+													 shall file a petition under subsection (c)(1)(A) during the 90-day period before the second anniversary of the subsequent investment.
+												</p>
+											</content>
+										</clause>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1186b/d/2/B">
 										<num>(B)</num>
 										<heading> Date petitions for good cause</heading>
 										<content>
-											<p>Such a petition may be considered if filed after such date, but only if the alien establishes to the satisfaction of the Attorney General good cause and extenuating circumstances for failure to file the petition during the period described in subparagraph (A).</p>
+											<p>Such a petition may be considered if filed after such date, but only if the alien establishes to the satisfaction of the Secretary of Homeland Security good cause and extenuating circumstances for failure to file the petition during the period described in subparagraph (A).</p>
 										</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t8/s1186b/d/2/C">
@@ -13084,9 +15309,30 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 								<paragraph identifier="/us/usc/t8/s1186b/d/3">
 									<num>(3)</num>
 									<heading> Personal interview</heading>
-									<content>
-										<p>The interview under subsection (c)(1)(B) shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in the Attorney General’s discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.</p>
-									</content>
+									<subparagraph identifier="/us/usc/t8/s1186b/d/3/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>The interview under subsection (c)(1)(B) shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) and at a local office of the Department of Homeland Security, designated by the Secretary of Homeland Security, which is convenient to the parties involved.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t8/s1186b/d/3/B">
+										<num>(B)</num>
+										<heading> Waiver</heading>
+										<chapeau>The Secretary of Homeland Security, in the Secretary’s discretion, may waive the deadline for an interview under subsection (c)(1)(B) or the requirement for such an interview according to criteria developed by U.S. Citizenship and Immigration Services, in consultation with its Fraud Detection and National Security Directorate and U.S. Immigration and Customs Enforcement, provided that such criteria do not include a reduction of case processing times or the allocation of adjudicatory resources. A waiver may not be granted under this subparagraph if the alien to be interviewed—</chapeau>
+										<clause identifier="/us/usc/t8/s1186b/d/3/B/i">
+											<num>(i)</num>
+											<content>
+												 invested in a regional center, new commercial enterprise, or job-creating entity that was sanctioned under 
+												<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+												; or
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t8/s1186b/d/3/B/ii">
+											<num>(ii)</num>
+											<content> is in a class of aliens determined by the Secretary to be threats to public safety or national security.</content>
+										</clause>
+									</subparagraph>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t8/s1186b/e">
@@ -13103,18 +15349,18 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 								<paragraph identifier="/us/usc/t8/s1186b/f/1">
 									<num>(1)</num>
 									<content>
-										 The term “alien entrepreneur” means an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) under 
+										 The term “alien investor” means an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) under 
 										<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
 										.
 									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t8/s1186b/f/2">
 									<num>(2)</num>
-									<content> The term “alien spouse” and the term “alien child” mean an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the spouse or child, respectively, of an alien entrepreneur.</content>
+									<content> The term “alien spouse” and the term “alien child” mean an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the spouse or child, respectively, of an alien investor.</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t8/s1186b/f/3">
 									<num>(3)</num>
-									<content> The term “commercial enterprise” includes a limited partnership.</content>
+									<content> The term “commercial enterprise” includes any entity formed for the purpose of doing for-profit business.</content>
 								</paragraph>
 							</subsection>
 						</section>
@@ -14379,7 +16625,7 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 											<content>
 												<p>
 													The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after 
-													<date date="2027-09-30">September 30, 2027</date>
+													<date date="2028-10-31">October 31, 2028</date>
 													.
 												</p>
 											</content>
@@ -21807,7 +24053,7 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 								<num>(k)</num>
 								<heading> Inapplicability of certain provisions for certain employment-based immigrants</heading>
 								<chapeau>
-									An alien who is eligible to receive an immigrant visa under paragraph (1), (2), or (3) of 
+									An alien who is eligible to receive an immigrant visa under paragraph (1), (2), (3), or (5) of 
 									<ref href="/us/usc/t8/s1153/b">section 1153(b) of this title</ref>
 									 (or, in the case of an alien who is an immigrant described in 
 									<ref href="/us/usc/t8/s1101/a/27/C">section 1101(a)(27)(C) of this title</ref>
@@ -22021,6 +24267,17 @@ SUBCHAPTER V—ALIEN TERRORIST REMOVAL PROCEDURES</column>
 										</content>
 									</subparagraph>
 								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t8/s1255/n">
+								<num>(n)</num>
+								<heading> Concurrent or subsequent filing of application for adjustment of status based on visa petition approval</heading>
+								<content>
+									<p>
+										If the approval of a petition for classification under 
+										<ref href="/us/usc/t8/s1153/b/5">section 1153(b)(5) of this title</ref>
+										 would make a visa immediately available to the alien beneficiary, the alien beneficiary’s application for adjustment of status under this section shall be considered to be properly filed whether the application is submitted concurrently with, or subsequent to, the visa petition.
+									</p>
+								</content>
 							</subsection>
 						</section>
 						<section identifier="/us/usc/t8/s1255a">

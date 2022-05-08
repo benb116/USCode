@@ -12004,17 +12004,53 @@
 						<subsection identifier="/us/usc/t28/s534/d">
 							<num>(d)</num>
 							<heading>
-								<inline>Indian Law Enforcement Agencies</inline>
-								.—
+								<inline>Indian Law Enforcement Agencies.—</inline>
 							</heading>
-							<chapeau>The Attorney General shall permit tribal and Bureau of Indian Affairs law enforcement agencies—</chapeau>
 							<paragraph identifier="/us/usc/t28/s534/d/1">
 								<num>(1)</num>
-								<content> to access and enter information into Federal criminal information databases; and</content>
+								<heading>
+									<inline>In general</inline>
+									.—
+								</heading>
+								<chapeau>The Attorney General shall permit tribal and Bureau of Indian Affairs law enforcement agencies—</chapeau>
+								<subparagraph identifier="/us/usc/t28/s534/d/1/A">
+									<num>(A)</num>
+									<content> to access and enter information into Federal criminal information databases; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t28/s534/d/1/B">
+									<num>(B)</num>
+									<content> to obtain information from the databases.</content>
+								</subparagraph>
 							</paragraph>
 							<paragraph identifier="/us/usc/t28/s534/d/2">
 								<num>(2)</num>
-								<content> to obtain information from the databases.</content>
+								<heading>
+									<inline>Tribal Access Program.—</inline>
+								</heading>
+								<subparagraph identifier="/us/usc/t28/s534/d/2/A">
+									<num>(A)</num>
+									<heading>
+										<inline>In general</inline>
+										.—
+									</heading>
+									<content>The Attorney General shall establish a program, to be known as the “Tribal Access Program”, to enhance the ability of tribal governments and their authorized agencies to access, enter information into, and obtain information from national criminal information databases under this section.</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t28/s534/d/2/B">
+									<num>(B)</num>
+									<heading>
+										<inline>Authorization of appropriations</inline>
+										.—
+									</heading>
+									<content>There is authorized to be appropriated to carry out the Tribal Access Program under subparagraph (A) $6,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t28/s534/d/3">
+								<num>(3)</num>
+								<heading>
+									<inline>Information sharing</inline>
+									.—
+								</heading>
+								<content>To the extent otherwise permitted by law, any report issued as a result of the analysis of information entered into national criminal information databases or obtained from Federal criminal databases shall be shared with each Indian tribe of jurisdiction, including Indian tribes located in the State of Maine.</content>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t28/s534/e">

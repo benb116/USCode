@@ -3403,6 +3403,12 @@
 							</column>
 							<column>Inspector General of the Library of Congress.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t2/s186">186.</ref>
+							</column>
+							<column>Library of Congress orders under task and delivery order contracts.</column>
+						</tocItem>
 					</layout>
 				</toc>
 				<section identifier="/us/usc/t2/s131">
@@ -4372,7 +4378,7 @@
 					<content>
 						<p>
 							Nothing in sections 154 to 162 and 163 
-							 of this title shall be construed as prohibiting or restricting the Librarian of Congress from accepting in the name of the United States gifts or bequests in the interest of the Library, its collections, or its service, of the following: (1) nonpersonal services; (2) voluntary and uncompensated personal services not to exceed $10,000 per person, per year in value; and (3) gifts or bequests of money for immediate disbursement. Such gifts or bequests, after acceptance by the librarian, shall be paid by the donor or his representative to the Treasurer of the United States, whose receipts shall be their acquittance. The Treasurer of the United States shall enter them in a special account to the credit of the Library of Congress and subject to disbursement by the librarian for the purposes in each case specified. The Librarian shall make an annual public report regarding gifts accepted under this section.
+							 of this title shall be construed as prohibiting or restricting the Librarian of Congress from accepting in the name of the United States gifts or bequests in the interest of the Library, its collections, or its service, of the following: (1) nonpersonal services; (2) voluntary and uncompensated personal services not to exceed $10,000 per person, per year in value; (3) gifts or bequests of money for immediate disbursement; and (4) gifts or bequests of securities or other personal property. Such gifts or bequests of money, after acceptance by the librarian, shall be paid by the donor or his representative to the Treasurer of the United States, whose receipts shall be their acquittance. In the case of a gift of securities, the Librarian shall sell the gift and provide the donor with such acknowledgment as needed for the donor to substantiate the gift. The Treasurer of the United States shall enter the gift, bequest, or proceeds in a special account to the credit of the Library of Congress and subject to disbursement by the librarian for the purposes in each case specified. The Librarian shall make an annual public report regarding gifts accepted under this section.
 						</p>
 						<p>
 							Upon agreement by the Librarian of Congress and the Board, a gift or bequest accepted by the Librarian under the first paragraph of this section may be invested or reinvested in the same manner as provided for trust funds under 
@@ -7156,6 +7162,61 @@
 								<date date="2005-08-02">August 2, 2005</date>
 								.
 							</p>
+						</content>
+					</subsection>
+				</section>
+				<section identifier="/us/usc/t2/s186">
+					<num>§ 186.</num>
+					<heading> Library of Congress orders under task and delivery order contracts</heading>
+					<subsection identifier="/us/usc/t2/s186/a">
+						<num>(a)</num>
+						<heading> Contract modifications</heading>
+						<content>
+							<p>
+								An order issued under a task order contract or a delivery order contract (as such terms are defined in 
+								<ref href="/us/usc/t41/s4101">section 4101 of title 41</ref>
+								) entered into by the Librarian of Congress may not increase the scope, period, or maximum value of the contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
+							</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t2/s186/b">
+						<num>(b)</num>
+						<heading> Omitted</heading>
+						<content/>
+					</subsection>
+					<subsection identifier="/us/usc/t2/s186/c">
+						<num>(c)</num>
+						<heading> Protests</heading>
+						<paragraph identifier="/us/usc/t2/s186/c/1">
+							<num>(1)</num>
+							<heading> Protest not authorized</heading>
+							<chapeau>A protest to an order described in subsection (a) filed pursuant to the procedures in subchapter V of chapter 35 of title 31 is not authorized unless such protest—</chapeau>
+							<subparagraph identifier="/us/usc/t2/s186/c/1/A">
+								<num>(A)</num>
+								<content> is an objection on the basis that the order is in violation of subsection (a); or</content>
+							</subparagraph>
+							<subparagraph identifier="/us/usc/t2/s186/c/1/B">
+								<num>(B)</num>
+								<content> concerns an order valued in excess of $10,000,000.</content>
+							</subparagraph>
+						</paragraph>
+						<paragraph identifier="/us/usc/t2/s186/c/2">
+							<num>(2)</num>
+							<heading> Jurisdiction over protests</heading>
+							<content>
+								<p>
+									Notwithstanding 
+									<ref href="/us/usc/t31/s3556">section 3556 of title 31</ref>
+									, the Comptroller General shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
+								</p>
+							</content>
+						</paragraph>
+					</subsection>
+					<subsection identifier="/us/usc/t2/s186/d">
+						<num>(d)</num>
+						<heading> Effective date</heading>
+						<content>
+							<p>This section and the amendment made by this section shall apply with respect to fiscal year 2022 and each succeeding fiscal year.</p>
 						</content>
 					</subsection>
 				</section>
@@ -22466,7 +22527,7 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 			</chapter>
 			<chapter identifier="/us/usc/t2/ch22A">
 				<num>CHAPTER 22A—</num>
-				<heading>OPEN WORLD LEADERSHIP CENTER</heading>
+				<heading>CONGRESSIONAL OFFICE FOR INTERNATIONAL LEADERSHIP</heading>
 				<toc>
 					<layout>
 						<header>
@@ -22476,13 +22537,13 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 							<column>
 								<ref href="/us/usc/t2/s1151">1151.</ref>
 							</column>
-							<column>Open World Leadership Center.</column>
+							<column>Congressional Office for International Leadership.</column>
 						</tocItem>
 					</layout>
 				</toc>
 				<section identifier="/us/usc/t2/s1151">
 					<num>§ 1151.</num>
-					<heading> Open World Leadership Center</heading>
+					<heading> Congressional Office for International Leadership</heading>
 					<subsection identifier="/us/usc/t2/s1151/a">
 						<num>(a)</num>
 						<heading> Establishment</heading>
@@ -22490,16 +22551,13 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 							<num>(1)</num>
 							<heading> In general</heading>
 							<content>
-								<p>
-									There is established in the legislative branch of the Government a center to be known as the “Open World Leadership Center 
-									 (the “Center”).
-								</p>
+								<p>There is established in the legislative branch of the Government an office to be known as the “Congressional Office for International Leadership” (the “Office”).</p>
 							</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t2/s1151/a/2">
 							<num>(2)</num>
 							<heading> Board of Trustees</heading>
-							<chapeau>The Center shall be subject to the supervision and direction of a Board of Trustees (the “Board”) which shall be composed of 11 members as follows:</chapeau>
+							<chapeau>The Office shall be subject to the supervision and direction of a Board of Trustees (the “Board”) which shall be composed of 11 members as follows:</chapeau>
 							<subparagraph identifier="/us/usc/t2/s1151/a/2/A">
 								<num>(A)</num>
 								<content> Two Members of the House of Representatives appointed by the Speaker of the House of Representatives, one of whom shall be designated by the Majority Leader of the House of Representatives and one of whom shall be designated by the Minority Leader of the House of Representatives.</content>
@@ -22525,19 +22583,19 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 					</subsection>
 					<subsection identifier="/us/usc/t2/s1151/b">
 						<num>(b)</num>
-						<heading> Purpose and authority of the Center</heading>
+						<heading> Purpose and authority of the Office</heading>
 						<paragraph identifier="/us/usc/t2/s1151/b/1">
 							<num>(1)</num>
 							<heading> Purpose</heading>
 							<content>
-								<p>The purpose of the Center is to establish, in accordance with the provisions of paragraph (2), a program to enable emerging political leaders of eligible foreign states at all levels of government to gain significant, firsthand exposure to the American free market economic system and the operation of American democratic institutions through visits to governments and communities at comparable levels in the United States and to establish and administer a program to enable cultural leaders of Russia to gain significant, firsthand exposure to the operation of American cultural institutions.</p>
+								<p>The purpose of the Office is to establish, in accordance with the provisions of paragraph (2), a program to enable emerging political and civic leaders of eligible foreign states at all levels of government to gain significant, firsthand exposure to the American free market economic system and the operation of American democratic institutions through visits to governments and communities at comparable levels in the United States and to establish and administer a program to enable cultural leaders of Russia to gain significant, firsthand exposure to the operation of American cultural institutions.</p>
 							</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t2/s1151/b/2">
 							<num>(2)</num>
 							<heading> Grant program</heading>
 							<content>
-								<p>Subject to the provisions of paragraphs (3) and (4), the Center shall establish a program under which the Center annually awards grants to government or community organizations in the United States that seek to establish programs under which those organizations will host nationals of eligible foreign states who are emerging political leaders at any level of government.</p>
+								<p>Subject to the provisions of paragraphs (3) and (4), the Office shall establish a program under which the Office annually awards grants to government or community organizations in the United States that seek to establish programs under which those organizations will host nationals of eligible foreign states who are emerging political and civic leaders at any level of government.</p>
 							</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t2/s1151/b/3">
@@ -22571,7 +22629,7 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 								</clause>
 								<clause identifier="/us/usc/t2/s1151/b/3/C/iii">
 									<num>(iii)</num>
-									<content> such additional administrative expenses incurred by organizations in carrying out the program as the Center may prescribe.</content>
+									<content> such additional administrative expenses incurred by organizations in carrying out the program as the Office may prescribe.</content>
 								</clause>
 							</subparagraph>
 						</paragraph>
@@ -22582,7 +22640,7 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 								<num>(A)</num>
 								<heading> In general</heading>
 								<content>
-									<p>Each organization in the United States desiring a grant under this section shall submit an application to the Center at such time, in such manner, and accompanied by such information as the Center may reasonably require.</p>
+									<p>Each organization in the United States desiring a grant under this section shall submit an application to the Office at such time, in such manner, and accompanied by such information as the Office may reasonably require.</p>
 								</content>
 							</subparagraph>
 							<subparagraph identifier="/us/usc/t2/s1151/b/4/B">
@@ -22603,7 +22661,7 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 								</clause>
 								<clause identifier="/us/usc/t2/s1151/b/4/B/iv">
 									<num>(iv)</num>
-									<content> provide such additional assurances as the Center determines to be essential to ensure compliance with the requirements of this section.</content>
+									<content> provide such additional assurances as the Office determines to be essential to ensure compliance with the requirements of this section.</content>
 								</clause>
 							</subparagraph>
 						</paragraph>
@@ -22615,14 +22673,14 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 							<num>(1)</num>
 							<heading> In general</heading>
 							<content>
-								<p>There is established in the Treasury of the United States a trust fund to be known as the “Open World Leadership Center Trust Fund” (the “Fund”) which shall consist of amounts which may be appropriated, credited, or transferred to it under this section.</p>
+								<p>There is established in the Treasury of the United States a trust fund to be known as the “Congressional Office for International Leadership Fund” (the “Fund”), which shall consist of amounts which may be appropriated, credited, or transferred to it under this section.</p>
 							</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t2/s1151/c/2">
 							<num>(2)</num>
 							<heading> Donations</heading>
 							<content>
-								<p>Any money or other property donated, bequeathed, or devised to the Center under the authority of this section shall be credited to the Fund.</p>
+								<p>Any money or other property donated, bequeathed, or devised to the Office under the authority of this section shall be credited to the Fund.</p>
 							</content>
 						</paragraph>
 						<paragraph identifier="/us/usc/t2/s1151/c/3">
@@ -22645,7 +22703,7 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 								<num>(B)</num>
 								<heading> Expenditures</heading>
 								<content>
-									<p>The Secretary of the Treasury is authorized to pay to the Center from amounts in the Fund such sums as the Board determines are necessary and appropriate to enable the Center to carry out the provisions of this section.</p>
+									<p>The Secretary of the Treasury is authorized to pay to the Office from amounts in the Fund such sums as the Board determines are necessary and appropriate to enable the Office to carry out the provisions of this section.</p>
 								</content>
 							</subparagraph>
 						</paragraph>
@@ -22655,7 +22713,7 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 						<heading> Executive Director</heading>
 						<content>
 							<p>
-								On behalf of the Board, the Librarian of Congress shall appoint an Executive Director who shall be the chief executive officer of the Center and who shall carry out the functions of the Center subject to the supervision and direction of the Board of Trustees. The Executive Director of the Center shall be compensated at the annual rate specified by the Board, but in no event shall such rate exceed level III of the Executive Schedule under 
+								On behalf of the Board, the Librarian of Congress shall appoint an Executive Director who shall be the chief executive officer of the Office and who shall carry out the functions of the Office subject to the supervision and direction of the Board of Trustees. The Executive Director of the Office shall be compensated at the annual rate specified by the Board, but in no event shall such rate exceed level III of the Executive Schedule under 
 								<ref href="/us/usc/t5/s5314">section 5314 of title 5</ref>
 								.
 							</p>
@@ -22671,7 +22729,7 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 								<p>
 									The provisions of 
 									<ref href="/us/usc/t2/s1108">section 1108 of this title</ref>
-									 shall apply to the Center.
+									 shall apply to the Office.
 								</p>
 							</content>
 						</paragraph>
@@ -22679,7 +22737,7 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 							<num>(2)</num>
 							<heading> Support provided by Library of Congress</heading>
 							<content>
-								<p>The Library of Congress may disburse funds appropriated to the Center, compute and disburse the basic pay for all personnel of the Center, provide administrative, legal, financial management, and other appropriate services to the Center, and collect from the Fund the full costs of providing services under this paragraph, as provided under an agreement for services ordered under sections 1535 and 1536 of title 31.</p>
+								<p>The Library of Congress may disburse funds appropriated to the Office, compute and disburse the basic pay for all personnel of the Office, provide administrative, legal, financial management, and other appropriate services to the Office, and collect from the Fund the full costs of providing services under this paragraph, as provided under an agreement for services ordered under sections 1535 and 1536 of title 31.</p>
 							</content>
 						</paragraph>
 					</subsection>
@@ -32676,8 +32734,8 @@ SUBCHAPTER V—CAPITOL-FLOWN FLAGS FOR FAMILIES OF FALLEN HEROES</column>
 						<heading> Compensation</heading>
 						<content>
 							<p>
-								The compensation of the Architect of the Capitol shall be at an annual rate which is equal to the maximum rate of pay in effect under 
-								<ref href="/us/usc/t2/s4575/f">section 4575(f) of this title</ref>
+								The compensation of the Architect of the Capitol shall be at an annual rate which is equal to the annual rate of basic pay for level II of the Executive Schedule under 
+								<ref href="/us/usc/t5/s5313">section 5313 of title 5</ref>
 								.
 							</p>
 						</content>
@@ -34732,6 +34790,12 @@ Part A—General</column>
 						</tocItem>
 						<tocItem>
 							<column>
+								<ref href="/us/usc/t2/s1905b">1905b.</ref>
+							</column>
+							<column>Notification of obligation.</column>
+						</tocItem>
+						<tocItem>
+							<column>
 								<ref href="/us/usc/t2/s1906">1906.</ref>
 							</column>
 							<column>Disposal of surplus property.</column>
@@ -35215,8 +35279,8 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 							<heading> Compensation of Chief</heading>
 							<content>
 								<p>
-									The annual rate of pay for the Chief of the Capitol Police shall be the amount equal to $1,000 less than the maximum rate of pay in effect under 
-									<ref href="/us/usc/t2/s4575/f">section 4575(f) of this title</ref>
+									The annual rate of pay for the Chief of the Capitol Police shall be the amount equal to the annual rate of basic pay for level II of the Executive Schedule under 
+									<ref href="/us/usc/t5/s5313">section 5313 of title 5</ref>
 									.
 								</p>
 							</content>
@@ -35443,6 +35507,24 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 							<content>
 								<p>Notwithstanding any other provision of law, the Chief of the Capitol Police is authorized to receive moneys from the Department of the Treasury as reimbursements for salaries paid by the Capitol Police in connection with certain officers and members of the United States Capitol Police serving as instructors at the Federal Law Enforcement Training Center. Moneys so received shall be deposited in the Treasury of the United States as miscellaneous receipts.</p>
 							</content>
+						</section>
+						<section identifier="/us/usc/t2/s1905b">
+							<num>§ 1905b.</num>
+							<heading> Notification of obligation</heading>
+							<subsection identifier="/us/usc/t2/s1905b/a">
+								<num>(a)</num>
+								<content>
+									 Beginning on 
+									<date date="2022-03-15">March 15, 2022</date>
+									, the Chief of the United States Capitol Police shall provide written notice to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives before any obligation of funds under 
+									<ref href="/us/usc/t2/s1905/a/2">section 1905(a)(2) of this title</ref>
+									 that equals or exceeds $100,000.
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s1905b/b">
+								<num>(b)</num>
+								<content> This section shall apply with respect to fiscal year 2022 and each fiscal year thereafter.</content>
+							</subsection>
 						</section>
 						<section identifier="/us/usc/t2/s1906">
 							<num>§ 1906.</num>
@@ -37081,7 +37163,7 @@ SUBCHAPTER II—POWERS AND DUTIES</column>
 							<p>
 								None of the funds made available in this or any other Act in prior fiscal years, this fiscal year, or any fiscal year thereafter may be used to install permanent, above-ground fencing around the perimeter, or any portion thereof, of the United States Capitol Grounds, as described in 
 								<ref href="/us/usc/t40/s5102">section 5102 of title 40</ref>
-								, United States Code.
+								.
 							</p>
 						</content>
 					</section>
@@ -43277,7 +43359,7 @@ SUBCHAPTER VI—AUTHORIZATION OF APPROPRIATIONS</column>
 							<num>(c)</num>
 							<heading> Cost reimbursement</heading>
 							<content>
-								<p>Any amount collected under this section shall first be used to reimburse the Architect of the Capitol for any costs incurred in the collection and processing of the coins. The amount of any such reimbursement is appropriated to the account from which such costs were paid and may be used for any authorized purpose of that account.</p>
+								<p>Any amount collected under this section shall first be used to reimburse the Architect of the Capitol for any costs incurred in the collection and processing of the coins, and maintaining fountains under the jurisdiction of the Architect of the Capitol. The amount of any such reimbursement is appropriated to the account from which such costs were paid and may be used for any authorized purpose of that account.</p>
 							</content>
 						</subsection>
 						<subsection identifier="/us/usc/t2/s2273/d">
@@ -43969,6 +44051,12 @@ SUBCHAPTER II—HOUSE OF REPRESENTATIVES</column>
 							</column>
 							<column>Overtime pay for FBI employees detailed to House Committee on Appropriations.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t2/s4316">4316.</ref>
+							</column>
+							<column>Allowances for compensation of interns in House committee offices.</column>
+						</tocItem>
 						<header>
 							<column>
 SUBCHAPTER III—SENATE</column>
@@ -44281,6 +44369,56 @@ SUBCHAPTER III—SENATE</column>
 						<content>
 							<p>The Federal Bureau of Investigation, notwithstanding any other provision of law, may in any fiscal year pay all administrative uncontrollable overtime accrued by its employees while on detail to the Committee on Appropriations.</p>
 						</content>
+					</section>
+					<section identifier="/us/usc/t2/s4316">
+						<num>§ 4316.</num>
+						<heading> Allowances for compensation of interns in House committee offices</heading>
+						<subsection identifier="/us/usc/t2/s4316/a">
+							<num>(a)</num>
+							<heading> Establishment of allowances</heading>
+							<chapeau>There are established for the House of Representatives the following allowances:</chapeau>
+							<paragraph identifier="/us/usc/t2/s4316/a/1">
+								<num>(1)</num>
+								<content> An allowance which shall be available for the compensation of interns who serve in offices of a standing, special, or select committee of the House (other than the Committee on Appropriations).</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t2/s4316/a/2">
+								<num>(2)</num>
+								<content> An allowance which shall be available for the compensation of interns who serve in offices of the Committee on Appropriations.</content>
+							</paragraph>
+						</subsection>
+						<subsection identifier="/us/usc/t2/s4316/b">
+							<num>(b)</num>
+							<heading> Benefit exclusion</heading>
+							<content>
+								<p>
+									<ref href="/us/usc/t2/s5321/b">Section 5321(b) of this title</ref>
+									 shall apply with respect to an intern who is compensated under an allowance under this section in the same manner as such section applies with respect to an intern who is compensated under the Members’ Representational Allowance.
+								</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t2/s4316/c">
+							<num>(c)</num>
+							<heading> Definitions</heading>
+							<content>
+								<p>
+									In this section, the term “intern”, with respect to a committee of the House, has the meaning given such term with respect to a Member of the House of Representatives in 
+									<ref href="/us/usc/t2/s5321/c/2">section 5321(c)(2) of this title</ref>
+									.
+								</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t2/s4316/d">
+							<num>(d)</num>
+							<heading> Omitted</heading>
+							<content/>
+						</subsection>
+						<subsection identifier="/us/usc/t2/s4316/e">
+							<num>(e)</num>
+							<heading> Authorization of appropriations</heading>
+							<content>
+								<p>There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2022 and each succeeding fiscal year.</p>
+							</content>
+						</subsection>
 					</section>
 				</subchapter>
 				<subchapter identifier="/us/usc/t2/ch43/schIII">
@@ -46077,7 +46215,11 @@ Part B—Administration</column>
 									<num>(2)</num>
 									<content> adjust any limitation or allowance applicable to such personnel;</content>
 								</paragraph>
-								<continuation>by percentages which are equal or equivalent, insofar as practicable, to the percentages of the adjustments made by the President under such section 5303 (and, as the case may be, section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area) for corresponding rates of pay for employees subject to the General Schedule contained in section 5332 of such title and adjust the rates of such personnel by such amounts as necessary to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators. Such rates, limitations, and allowances adjusted by the President pro tempore shall become effective on the first day of the month in which any adjustment becomes effective under such section 5303 or section 3(c) of this Act.</continuation>
+								<continuation>
+									by percentages which are equal or equivalent, insofar as practicable, to the percentages of the adjustments made by the President under such section 5303 (and, as the case may be, section 5304 or 5304a of such title, as applied to employees employed in the pay locality of the Washington, D.C.-Baltimore, Maryland consolidated metropolitan statistical area) for corresponding rates of pay for employees subject to the General Schedule contained in section 5332 of such title, subject to 
+									<ref href="/us/usc/t2/s4575/f">section 4575(f) of this title</ref>
+									. Such rates, limitations, and allowances adjusted by the President pro tempore shall become effective on the first day of the month in which any adjustment becomes effective under such section 5303 or section 3(c) of this Act.
+								</continuation>
 							</subsection>
 							<subsection identifier="/us/usc/t2/s4571/b">
 								<num>(b)</num>
@@ -46090,21 +46232,13 @@ Part B—Administration</column>
 							<subsection identifier="/us/usc/t2/s4571/d">
 								<num>(d)</num>
 								<content>
-									 No rate of pay shall be adjusted under the provisions of this section to an amount in excess of the rate of basic pay for level III of the Executive Schedule contained in 
-									<ref href="/us/usc/t5/s5314">section 5314 of title 5</ref>
-									, except in cases in which it is necessary to maintain the pay relationships that existed on the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 between the maximum rate of pay for Senate personnel and Senators.
-								</content>
-							</subsection>
-							<subsection identifier="/us/usc/t2/s4571/e">
-								<num>(e)</num>
-								<content>
 									 Any percentage used in any statute specifically providing for an adjustment in rates of pay in lieu of an adjustment made under 
 									<ref href="/us/usc/t5/s5303">section 5303 of title 5</ref>
 									 and, as the case may be, section 5304 or 5304a of such title for any calendar year shall be treated as the percentage used in an adjustment made under such section 5303, 5304, or 5304a, as applicable, for purposes of subsection (a).
 								</content>
 							</subsection>
-							<subsection identifier="/us/usc/t2/s4571/f">
-								<num>(f)</num>
+							<subsection identifier="/us/usc/t2/s4571/e">
+								<num>(e)</num>
 								<content> For purposes of this section, the term “personnel” does not include any Senator.</content>
 							</subsection>
 						</section>
@@ -46131,7 +46265,7 @@ Part B—Administration</column>
 									<date date="1990-11-05">November 5, 1990</date>
 									, there is an adjustment in rates of pay for Senators (other than an adjustment which occurs by virtue of an adjustment under 
 									<ref href="/us/usc/t5/s5303">section 5303 of title 5</ref>
-									 in rates of pay under the General Schedule), the President pro tempore of the Senate may, notwithstanding any other provision of law, rule, or regulation, adjust the rate of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Secretary of the Senate (including such personnel appointed to positions for which the specific amount of the rate of pay for the particular position is fixed by statute on the day before the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 and such personnel appointed to positions for which the maximum rates of pay for the particular positions were fixed by or pursuant to law on the day before such effective date) to the extent necessary to maintain the pay relationships that existed on such effective date between the maximum rate of pay for Senate personnel and Senators.
+									 in rates of pay under the General Schedule), the President pro tempore of the Senate may, notwithstanding any other provision of law, rule, or regulation, adjust the rate of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Secretary of the Senate (including such personnel appointed to positions for which the specific amount of the rate of pay for the particular position is fixed by statute on the day before the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 and such personnel appointed to positions for which the maximum rates of pay for the particular positions were fixed by or pursuant to law on the day before such effective date), subject to section 4575(f)of this title.
 								</content>
 							</subsection>
 							<subsection identifier="/us/usc/t2/s4573/b">
@@ -46324,9 +46458,11 @@ Part B—Administration</column>
 								<paragraph identifier="/us/usc/t2/s4575/d/2">
 									<num>(2)</num>
 									<content>
-										 Within the limits prescribed by paragraph (1) of this subsection, Senators may fix the number and the rates of compensation of employees in their respective offices. The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $3,164 
+										 Within the limits prescribed by paragraph (1) of this subsection, Senators may fix the number and the rates of compensation of employees in their respective offices. The salary of an employee in a Senator’s office shall not be fixed under this paragraph at a rate less than $3,293 
 										<sup>1</sup>
-										 or in excess of $173,900. A Senator may establish such titles for positions in his office as he may desire to designate, by written notification to the disbursing office of the Senate.
+										 or in excess of the annual rate of basic pay in effect for level II of the Executive Schedule under 
+										<ref href="/us/usc/t5/s5313">section 5313 of title 5</ref>
+										. A Senator may establish such titles for positions in his office as he may desire to designate, by written notification to the disbursing office of the Senate.
 									</content>
 								</paragraph>
 							</subsection>
@@ -46373,7 +46509,11 @@ Part B—Administration</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t2/s4575/e/3/B">
 										<num>(B)</num>
-										<content> Subject to adjustment as provided by law, no employee of a committee of the Senate shall be paid at a per annum gross rate in excess of $173,900.</content>
+										<content>
+											 Subject to adjustment as provided by law, no employee of a committee of the Senate shall be paid at a per annum gross rate in excess of the annual rate of basic pay in effect for level II of the Executive Schedule under 
+											<ref href="/us/usc/t5/s5313">section 5313 of title 5</ref>
+											.
+										</content>
 									</subparagraph>
 								</paragraph>
 							</subsection>
@@ -46382,9 +46522,11 @@ Part B—Administration</column>
 								<heading> General limitation</heading>
 								<content>
 									<p>
-										No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid gross compensation at a rate less than $3,164 
+										No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid gross compensation at a rate less than $3,293 
 										<sup>1</sup>
-										 or in excess of $173,900, unless expressly authorized by law. The limitation on the minimum rate of gross compensation under this subsection shall not apply to any member or civilian employee of the Capitol Police whose compensation is disbursed by the Secretary of the Senate.
+										 or in excess of the annual rate of basic pay in effect for level II of the Executive Schedule under 
+										<ref href="/us/usc/t5/s5313">section 5313 of title 5</ref>
+										, unless expressly authorized by law. The limitation on the minimum rate of gross compensation under this subsection shall not apply to any member or civilian employee of the Capitol Police whose compensation is disbursed by the Secretary of the Senate.
 									</p>
 								</content>
 							</subsection>
@@ -50076,6 +50218,12 @@ SUBCHAPTER I—GENERAL</column>
 							</column>
 							<column>House of Representatives Modernization Initiatives Account.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t2/s5514">5514.</ref>
+							</column>
+							<column>Green and Gold Congressional Aide Program.</column>
+						</tocItem>
 						<header>
 							<column>
 SUBCHAPTER II—CHAPLAIN</column>
@@ -50484,7 +50632,7 @@ SUBCHAPTER IX—CORRECTIONS CALENDAR OFFICE</column>
 								<num>(2)</num>
 								<content>
 									 The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, “Allowances and Expenses”, the heading for any joint committee under the heading “Joint Items” (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), “Office of the Attending Physician”, “Allowance for Compensation of Interns in Member Offices” 
-									 “Allowance for Compensation of Interns in House Leadership Offices”, and “House of Representatives Modernization Initiatives Account”.
+									 “Allowance for Compensation of Interns in House Appropriations Committee Offices”, “Allowance for Compensation of Interns in House Standing, Special and Select Committee Offices”, “Allowance for Compensation of Interns in House Leadership Offices”, and “House of Representatives Modernization Initiatives Account”.
 								</content>
 							</paragraph>
 						</subsection>
@@ -50743,6 +50891,56 @@ SUBCHAPTER IX—CORRECTIONS CALENDAR OFFICE</column>
 							<heading> Effective date</heading>
 							<content>
 								<p>This section and the amendments made by this section shall apply with respect to fiscal year 2021 and each succeeding fiscal year.</p>
+							</content>
+						</subsection>
+					</section>
+					<section identifier="/us/usc/t2/s5514">
+						<num>§ 5514.</num>
+						<heading> Green and Gold Congressional Aide Program</heading>
+						<subsection identifier="/us/usc/t2/s5514/a">
+							<num>(a)</num>
+							<heading> Establishment</heading>
+							<content>
+								<p>There is established in the House of Representatives the Green and Gold Congressional Aide Program (hereafter in this section referred to as the “Program”) for veterans and Gold Star Families, under the direction of the Chief Administrative Officer of the House of Representatives, under which an eligible individual may serve a 2-year fellowship in the office of a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) or House Officer.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t2/s5514/b">
+							<num>(b)</num>
+							<heading> Placement</heading>
+							<content>
+								<p>An individual may serve a fellowship under the Program at the Member’s office in the District of Columbia or the Member’s office in the congressional district the Member represents. Fellows assigned to House Officers may serve where assigned.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t2/s5514/c">
+							<num>(c)</num>
+							<heading> Exclusion of appointees for purposes of limit on number of employees in Member offices</heading>
+							<content>
+								<p>
+									Any individual serving a fellowship under the Program in the office of a Member shall not be included in the determination of the number of employees employed by the Member under 
+									<ref href="/us/usc/t2/s5321/a">section 5321(a) of this title</ref>
+									.
+								</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t2/s5514/d">
+							<num>(d)</num>
+							<heading> Regulations</heading>
+							<content>
+								<p>The Program shall be carried out in accordance with regulations promulgated by the Committee on House Administration.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t2/s5514/e">
+							<num>(e)</num>
+							<heading> Authorization of appropriations</heading>
+							<content>
+								<p>There are authorized to be appropriated for fiscal year 2022 and each succeeding fiscal year such sums as may be necessary to carry out the Program.</p>
+							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t2/s5514/f">
+							<num>(f)</num>
+							<heading> Effective date</heading>
+							<content>
+								<p>This section shall apply with respect to fiscal year 2022 and each succeeding fiscal year.</p>
 							</content>
 						</subsection>
 					</section>
@@ -53845,7 +54043,7 @@ Part B—General Powers and Duties</column>
 							<column>
 								<ref href="/us/usc/t2/s6611">6611.</ref>
 							</column>
-							<column>Transfers from appropriations account for expenses of Office of Sergeant at Arms and Doorkeeper of Senate.</column>
+							<column>Transfer authority and Sergeant at Arms Business Continuity and Disaster Recovery Fund.</column>
 						</tocItem>
 						<tocItem>
 							<column>
@@ -54963,10 +55161,98 @@ SUBCHAPTER IV—CHAPLAIN</column>
 						<heading>General Powers and Duties</heading>
 						<section identifier="/us/usc/t2/s6611">
 							<num>§ 6611.</num>
-							<heading> Transfers from appropriations account for expenses of Office of Sergeant at Arms and Doorkeeper of Senate</heading>
-							<content>
-								<p>The Sergeant at Arms and Doorkeeper of the Senate is authorized, with the approval of the Senate Committee on Appropriations, to transfer, during any fiscal year, from the appropriations account, appropriated under the headings “Salaries, Officers and Employees” and “Office of the Sergeant at Arms and Doorkeeper”, such sums as he shall specify to the appropriations account, within the contingent fund of the Senate, for expenses of the Office of the Sergeant at Arms and Doorkeeper of the Senate; and any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.</p>
-							</content>
+							<heading> Transfer authority and Sergeant at Arms Business Continuity and Disaster Recovery Fund</heading>
+							<subsection identifier="/us/usc/t2/s6611/a">
+								<num>(a)</num>
+								<heading> In general</heading>
+								<content>
+									<p>The Sergeant at Arms and Doorkeeper of the Senate is authorized, with the approval of the Senate Committee on Appropriations, to transfer, during any fiscal year, from the appropriations account, appropriated under the headings “Salaries, Officers and Employees” and “Office of the Sergeant at Arms and Doorkeeper”, such sums as he shall specify to the appropriations account, within the contingent fund of the Senate, for expenses of the Office of the Sergeant at Arms and Doorkeeper of the Senate; and any funds so transferred shall be available in like manner and for the same purposes as are other funds in the account to which the funds are transferred.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t2/s6611/b">
+								<num>(b)</num>
+								<heading> Sergeant at Arms Business Continuity and Disaster Recovery Fund</heading>
+								<paragraph identifier="/us/usc/t2/s6611/b/1">
+									<num>(1)</num>
+									<heading> Definitions</heading>
+									<chapeau>In this subsection—</chapeau>
+									<subparagraph identifier="/us/usc/t2/s6611/b/1/A">
+										<num>(A)</num>
+										<content> the term “Fund” means the Sergeant at Arms Business Continuity and Disaster Recovery Fund established under paragraph (2); and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t2/s6611/b/1/B">
+										<num>(B)</num>
+										<content> the term “Sergeant at Arms” means the Sergeant at Arms and Doorkeeper of the Senate.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s6611/b/2">
+									<num>(2)</num>
+									<heading> Establishment</heading>
+									<content>
+										<p>
+											There is established under the heading “
+											<inline>Contingent Expenses of the Senate</inline>
+											” an account to be known as the “Sergeant at Arms Business Continuity and Disaster Recovery Fund”.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s6611/b/3">
+									<num>(3)</num>
+									<heading> Use of amounts</heading>
+									<content>
+										<p>Amounts in the Fund shall be available to the Sergeant at Arms for purposes of the business continuity and disaster recovery needs of the Senate.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s6611/b/4">
+									<num>(4)</num>
+									<heading> Authority to transfer</heading>
+									<subparagraph identifier="/us/usc/t2/s6611/b/4/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>
+												Subject to subparagraph (C), prior to the date of the withdrawal of amounts appropriated under the heading “
+												<inline>Contingent Expenses of the Senate—sergeant at arms and doorkeeper of the senate</inline>
+												” in accordance with 
+												<ref href="/us/usc/t2/s4107">section 4107 of this title</ref>
+												, any unobligated balances of expired discretionary appropriations of such amounts may be transferred by the Sergeant at Arms to the Fund.
+											</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t2/s6611/b/4/B">
+										<num>(B)</num>
+										<heading> Period of availability</heading>
+										<content>
+											<p>Amounts transferred under subparagraph (A) shall remain available until expended.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t2/s6611/b/4/C">
+										<num>(C)</num>
+										<heading> Notice</heading>
+										<content>
+											<p>
+												If the Sergeant at Arms intends to transfer amounts under subparagraph (A), the Sergeant at Arms shall submit to the Committee on Appropriations of the Senate written notice not later than 15 days before the date of the withdrawal of such amounts in accordance with 
+												<ref href="/us/usc/t2/s4107">section 4107 of this title</ref>
+												.
+											</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t2/s6611/b/4/D">
+										<num>(D)</num>
+										<heading> Applicability</heading>
+										<content>
+											<p>The authority to transfer amounts under this paragraph shall apply with respect to amounts appropriated for fiscal year 2022, or any fiscal year thereafter.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t2/s6611/b/5">
+									<num>(5)</num>
+									<heading> Authorization of appropriations</heading>
+									<content>
+										<p>There are authorized to be appropriated to the Fund such sums as are necessary for fiscal year 2022 and each fiscal year thereafter.</p>
+									</content>
+								</paragraph>
+							</subsection>
 						</section>
 						<section identifier="/us/usc/t2/s6612">
 							<num>§ 6612.</num>

@@ -1481,6 +1481,12 @@ Subtitle III—Treaty Obligation Organizations</column>
 									</column>
 									<column>National Atomic Veterans Day.</column>
 								</tocItem>
+								<tocItem>
+									<column>
+										<ref href="/us/usc/t36/s146">146.</ref>
+									</column>
+									<column>Choose Respect Day.</column>
+								</tocItem>
 							</layout>
 						</toc>
 						<section identifier="/us/usc/t36/s101">
@@ -2436,6 +2442,26 @@ Subtitle III—Treaty Obligation Organizations</column>
 								<num>(2)</num>
 								<content> remember and honor the atomic veterans of the United States whose brave service and sacrifice played an important role in the defense of the Nation.</content>
 							</paragraph>
+						</section>
+						<section identifier="/us/usc/t36/s146">
+							<num>§ 146.</num>
+							<heading> Choose Respect Day</heading>
+							<subsection identifier="/us/usc/t36/s146/a">
+								<num>(a)</num>
+								<heading>
+									<inline>Designation</inline>
+									.—
+								</heading>
+								<content>October 1 is Choose Respect Day.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t36/s146/b">
+								<num>(b)</num>
+								<heading>
+									<inline>Recognition</inline>
+									.—
+								</heading>
+								<content>All private citizens, organizations, and Federal, State, and local governmental and legislative entities are encouraged to recognize Choose Respect Day through proclamations, activities, and educational efforts in furtherance of changing the culture around the tolerance of violence against women.</content>
+							</subsection>
 						</section>
 					</chapter>
 					<chapter identifier="/us/usc/t36/stI/ptA/ch3">

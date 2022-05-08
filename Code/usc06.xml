@@ -96,6 +96,12 @@
 						</tocItem>
 						<tocItem>
 							<column>
+								<ref href="/us/usc/t6/s103a">103a.</ref>
+							</column>
+							<column>Department of Homeland Security Nonrecurring Expenses Fund.</column>
+						</tocItem>
+						<tocItem>
+							<column>
 								<ref href="/us/usc/t6/s104">104.</ref>
 							</column>
 							<column>National biodefense strategy.</column>
@@ -2437,7 +2443,7 @@ Part A—Cybersecurity and Infrastructure Security</column>
 							<column>
 								<ref href="/us/usc/t6/s665d">665d.</ref>
 							</column>
-							<column>Sector risk management agencies.</column>
+							<column>Sector Risk Management Agencies.</column>
 						</tocItem>
 						<tocItem>
 							<column>
@@ -2468,6 +2474,12 @@ Part A—Cybersecurity and Infrastructure Security</column>
 								<ref href="/us/usc/t6/s665i">665i.</ref>
 							</column>
 							<column>CyberSentry program.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s665j">665j.</ref>
+							</column>
+							<column>Ransomware threat mitigation activities.</column>
 						</tocItem>
 						<header>
 							<column>
@@ -2548,6 +2560,58 @@ Part C—Declaration of a Significant Incident</column>
 								<ref href="/us/usc/t6/s677g">677g.</ref>
 							</column>
 							<column>Sunset.</column>
+						</tocItem>
+						<header>
+							<column>
+Part D—Cyber Incident Reporting</column>
+						</header>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s681">681.</ref>
+							</column>
+							<column>Definitions.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s681a">681a.</ref>
+							</column>
+							<column>Cyber incident review.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s681b">681b.</ref>
+							</column>
+							<column>Required reporting of certain cyber incidents.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s681c">681c.</ref>
+							</column>
+							<column>Voluntary reporting of other cyber incidents.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s681d">681d.</ref>
+							</column>
+							<column>Noncompliance with required reporting.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s681e">681e.</ref>
+							</column>
+							<column>Information shared with or provided to the Federal Government.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s681f">681f.</ref>
+							</column>
+							<column>Cyber Incident Reporting Council.</column>
+						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s681g">681g.</ref>
+							</column>
+							<column>Federal sharing of incident reports.</column>
 						</tocItem>
 					</layout>
 				</toc>
@@ -2725,6 +2789,38 @@ Part C—Declaration of a Significant Incident</column>
 					<content>
 						<p>Notwithstanding any other provision of this chapter, any report, notification, or consultation addressing directly or indirectly the use of appropriated funds and stipulated by this chapter to be submitted to, or held with, the Congress or any Congressional committee shall also be submitted to, or held with, the Committees on Appropriations of the Senate and the House of Representatives under the same conditions and with the same restrictions as stipulated by this chapter.</p>
 					</content>
+				</section>
+				<section identifier="/us/usc/t6/s103a">
+					<num>§ 103a.</num>
+					<heading> Department of Homeland Security Nonrecurring Expenses Fund</heading>
+					<subsection identifier="/us/usc/t6/s103a/a">
+						<num>(a)</num>
+						<heading> Establishment</heading>
+						<content>
+							<p>There is hereby established in the Treasury of the United States a fund to be known as the “Department of Homeland Security Nonrecurring Expenses Fund” (the Fund).</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t6/s103a/b">
+						<num>(b)</num>
+						<heading> Transfer of unobligated balances of expired discretionary funds</heading>
+						<content>
+							<p>Unobligated balances of expired discretionary funds appropriated for this or any succeeding fiscal year from the General Fund of the Treasury to the Department of Homeland Security by this or any other Act may be transferred (not later than the end of the fifth fiscal year after the last fiscal year for which such funds are available for the purposes for which appropriated) into the Fund.</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t6/s103a/c">
+						<num>(c)</num>
+						<heading> Availability of funds</heading>
+						<content>
+							<p>Amounts deposited in the Fund shall be available until expended, and in addition to such other funds as may be available for such purposes, for information technology system modernization and facilities infrastructure improvements necessary for the operation of the Department, subject to approval by the Office of Management and Budget.</p>
+						</content>
+					</subsection>
+					<subsection identifier="/us/usc/t6/s103a/d">
+						<num>(d)</num>
+						<heading> Notification of planned use of funds</heading>
+						<content>
+							<p>Amounts in the Fund may be obligated only after the Committees on Appropriations of the House of Representatives and the Senate are notified at least 15 days in advance of the planned use of funds.</p>
+						</content>
+					</subsection>
 				</section>
 				<section identifier="/us/usc/t6/s104">
 					<num>§ 104.</num>
@@ -11391,7 +11487,7 @@ Part C—Declaration of a Significant Incident</column>
 									<num>(3)</num>
 									<heading> Rescue beacons</heading>
 									<content>
-										<p>Beginning in fiscal year 2019, in carrying out subsection (c)(8), the Commissioner shall purchase, deploy, and maintain not more than 170 self-powering, 9–1–1 cellular relay rescue beacons along the southern border of the United States at locations determined appropriate by the Commissioner to mitigate migrant deaths.</p>
+										<p>Beginning in fiscal year 2019, in carrying out subsection (c)(8), the Commissioner shall purchase, deploy, and maintain not more than 250 self-powering, 9–1–1 cellular relay rescue beacons along the southern border of the United States at locations determined appropriate by the Commissioner to mitigate migrant deaths.</p>
 									</content>
 								</paragraph>
 							</subsection>
@@ -16308,7 +16404,10 @@ Part C—Declaration of a Significant Incident</column>
 									<subparagraph identifier="/us/usc/t6/s301a/c/6/B">
 										<num>(B)</num>
 										<heading> Certification requirement</heading>
-										<chapeau>Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that </chapeau>
+										<chapeau>
+											Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that 
+											<sup>1</sup>
+										</chapeau>
 										<clause identifier="/us/usc/t6/s301a/c/6/B/i">
 											<num>(i)</num>
 											<content> the donation will not be used for the construction of a detention facility or a border fence or wall; and</content>
@@ -36191,7 +36290,7 @@ Part C—Declaration of a Significant Incident</column>
 							</subsection>
 							<subsection identifier="/us/usc/t6/s652a/c">
 								<num>(c)</num>
-								<heading> Sector risk management agencies</heading>
+								<heading> Sector Risk Management Agencies</heading>
 								<paragraph identifier="/us/usc/t6/s652a/c/1">
 									<num>(1)</num>
 									<heading> Omitted</heading>
@@ -36839,9 +36938,9 @@ Part C—Declaration of a Significant Incident</column>
 								<paragraph identifier="/us/usc/t6/s659/a/1">
 									<num>(1)</num>
 									<content>
-										 the term “cybersecurity purpose” has the meaning given that term in 
-										<ref href="/us/usc/t6/s1501">section 1501 of this title</ref>
-										;
+										 the term “cybersecurity purpose” has the meaning given that term in section 102 of the Cybersecurity Information Sharing Act of 2015 (
+										<ref href="/us/usc/t6/s1501">6 U.S.C. 1501</ref>
+										);
 									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/a/2">
@@ -36895,9 +36994,9 @@ Part C—Declaration of a Significant Incident</column>
 								<paragraph identifier="/us/usc/t6/s659/a/8">
 									<num>(8)</num>
 									<content>
-										 the term “security vulnerability” has the meaning given that term in 
-										<ref href="/us/usc/t6/s1501">section 1501 of this title</ref>
-										; and
+										 the term “security vulnerability” has the meaning given that term in section 102 of the Cybersecurity Information Sharing Act of 2015 (
+										<ref href="/us/usc/t6/s1501">6 U.S.C. 1501</ref>
+										); and
 									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/a/9">
@@ -36993,11 +37092,25 @@ Part C—Declaration of a Significant Incident</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/c/11">
 									<num>(11)</num>
-									<content> in coordination with the Emergency Communications Division of the Department, assessing and evaluating consequence, vulnerability, and threat information regarding cyber incidents to public safety communications to help facilitate continuous improvements to the security and resiliency of such communications; and</content>
+									<content> in coordination with the Emergency Communications Division of the Department, assessing and evaluating consequence, vulnerability, and threat information regarding cyber incidents to public safety communications to help facilitate continuous improvements to the security and resiliency of such communications;</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/c/12">
 									<num>(12)</num>
-									<content> detecting, identifying, and receiving information for a cybersecurity purpose about security vulnerabilities relating to critical infrastructure in information systems and devices.</content>
+									<content> detecting, identifying, and receiving information for a cybersecurity purpose about security vulnerabilities relating to critical infrastructure in information systems and devices; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s659/c/13">
+									<num>(13)</num>
+									<content>
+										 receiving, aggregating, and analyzing reports related to covered cyber incidents (as defined in 
+										<ref href="/us/usc/t6/s681">section 681 of this title</ref>
+										) submitted by covered entities (as defined in 
+										<ref href="/us/usc/t6/s681">section 681 of this title</ref>
+										) and reports related to ransom payments (as defined in 
+										<ref href="/us/usc/t6/s681">section 681 of this title</ref>
+										) submitted by covered entities (as defined in 
+										<ref href="/us/usc/t6/s681">section 681 of this title</ref>
+										) in furtherance of the activities specified in sections 652(e), 653, and 681a of this title, this subsection, and any other authorized activity of the Director, to enhance the situational awareness of cybersecurity threats across critical infrastructure sectors.
+									</content>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t6/s659/d">
@@ -38981,7 +39094,7 @@ Part C—Declaration of a Significant Incident</column>
 						</section>
 						<section identifier="/us/usc/t6/s665d">
 							<num>§ 665d.</num>
-							<heading> Sector risk management agencies</heading>
+							<heading> Sector Risk Management Agencies</heading>
 							<subsection identifier="/us/usc/t6/s665d/a">
 								<num>(a)</num>
 								<heading> In general</heading>
@@ -39595,7 +39708,7 @@ Part C—Declaration of a Significant Incident</column>
 						</section>
 						<section identifier="/us/usc/t6/s665g">
 							<num>§ 665g.</num>
-							<heading> State and local cybersecurity grant program</heading>
+							<heading> State and Local Cybersecurity Grant Program</heading>
 							<subsection identifier="/us/usc/t6/s665g/a">
 								<num>(a)</num>
 								<heading> Definitions</heading>
@@ -39648,7 +39761,11 @@ Part C—Declaration of a Significant Incident</column>
 									<num>(5)</num>
 									<heading> Incident</heading>
 									<content>
-										<p>The term “incident” has the meaning given the term in section 2209.</p>
+										<p>
+											The term “incident” has the meaning given the term in 
+											<ref href="/us/usc/t6/s659">section 659 of this title</ref>
+											.
+										</p>
 									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s665g/a/6">
@@ -40624,7 +40741,7 @@ Part C—Declaration of a Significant Incident</column>
 											<p>
 												In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under 
 												<ref href="/us/usc/t5/s552">section 552 of title 5</ref>
-												 (commonly referred to as the ‘Freedom of Information Act’).
+												 (commonly referred to as the “Freedom of Information Act”).
 											</p>
 										</content>
 									</subparagraph>
@@ -40775,7 +40892,7 @@ Part C—Declaration of a Significant Incident</column>
 							<heading> National Cyber Exercise Program</heading>
 							<subsection identifier="/us/usc/t6/s665h/a">
 								<num>(a)</num>
-								<heading> Establishment of Program</heading>
+								<heading> Establishment of program</heading>
 								<paragraph identifier="/us/usc/t6/s665h/a/1">
 									<num>(1)</num>
 									<heading> In general</heading>
@@ -40868,7 +40985,11 @@ Part C—Declaration of a Significant Incident</column>
 								<num>(c)</num>
 								<heading> Rule of construction</heading>
 								<content>
-									<p>Nothing in this section shall be construed to affect the authorities or responsibilities of the Administrator of the Federal Emergency Management Agency pursuant to section748 of this title.</p>
+									<p>
+										Nothing in this section shall be construed to affect the authorities or responsibilities of the Administrator of the Federal Emergency Management Agency pursuant to 
+										<ref href="/us/usc/t6/s748">section 748 of this title</ref>
+										.
+									</p>
 								</content>
 							</subsection>
 						</section>
@@ -40991,6 +41112,87 @@ Part C—Declaration of a Significant Incident</column>
 										<date date="2021-12-27">December 27, 2021</date>
 										.
 									</p>
+								</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s665j">
+							<num>§ 665j.</num>
+							<heading> Ransomware threat mitigation activities</heading>
+							<subsection identifier="/us/usc/t6/s665j/a">
+								<num>(a)</num>
+								<heading> Joint Ransomware Task Force</heading>
+								<paragraph identifier="/us/usc/t6/s665j/a/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>
+											Not later than 180 days after 
+											<date date="2022-03-15">March 15, 2022</date>
+											, the Director, in consultation with the National Cyber Director, the Attorney General, and the Director of the Federal Bureau of Investigation, shall establish and chair the Joint Ransomware Task Force to coordinate an ongoing nationwide campaign against ransomware attacks, and identify and pursue opportunities for international cooperation.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665j/a/2">
+									<num>(2)</num>
+									<heading> Composition</heading>
+									<content>
+										<p>The Joint Ransomware Task Force shall consist of participants from Federal agencies, as determined appropriate by the National Cyber Director in consultation with the Secretary of Homeland Security.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665j/a/3">
+									<num>(3)</num>
+									<heading> Responsibilities</heading>
+									<chapeau>The Joint Ransomware Task Force, utilizing only existing authorities of each participating Federal agency, shall coordinate across the Federal Government the following activities:</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665j/a/3/A">
+										<num>(A)</num>
+										<content> Prioritization of intelligence-driven operations to disrupt specific ransomware actors.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665j/a/3/B">
+										<num>(B)</num>
+										<content> Consult with relevant private sector, State, local, Tribal, and territorial governments and international stakeholders to identify needs and establish mechanisms for providing input into the Joint Ransomware Task Force.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665j/a/3/C">
+										<num>(C)</num>
+										<chapeau> Identifying, in consultation with relevant entities, a list of highest threat ransomware entities updated on an ongoing basis, in order to facilitate—</chapeau>
+										<clause identifier="/us/usc/t6/s665j/a/3/C/i">
+											<num>(i)</num>
+											<content> prioritization for Federal action by appropriate Federal agencies; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665j/a/3/C/ii">
+											<num>(ii)</num>
+											<content>
+												 identify 
+												 metrics for success of said actions.
+											</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665j/a/3/D">
+										<num>(D)</num>
+										<content> Disrupting ransomware criminal actors, associated infrastructure, and their finances.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665j/a/3/E">
+										<num>(E)</num>
+										<content> Facilitating coordination and collaboration between Federal entities and relevant entities, including the private sector, to improve Federal actions against ransomware threats.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665j/a/3/F">
+										<num>(F)</num>
+										<content> Collection, sharing, and analysis of ransomware trends to inform Federal actions.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665j/a/3/G">
+										<num>(G)</num>
+										<content> Creation of after-action reports and other lessons learned from Federal actions that identify successes and failures to improve subsequent actions.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665j/a/3/H">
+										<num>(H)</num>
+										<content> Any other activities determined appropriate by the Joint Ransomware Task Force to mitigate the threat of ransomware attacks.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665j/b">
+								<num>(b)</num>
+								<heading> Rule of construction</heading>
+								<content>
+									<p>Nothing in this section shall be construed to provide any additional authority to any Federal agency.</p>
 								</content>
 							</subsection>
 						</section>
@@ -41841,6 +42043,1427 @@ Part C—Declaration of a Significant Incident</column>
 									.
 								</p>
 							</content>
+						</section>
+					</part>
+					<part identifier="/us/usc/t6/ch1/schXVIII/ptD">
+						<num>Part D—</num>
+						<heading>Cyber Incident Reporting</heading>
+						<section identifier="/us/usc/t6/s681">
+							<num>§ 681.</num>
+							<heading> Definitions</heading>
+							<chapeau>In this part:</chapeau>
+							<paragraph identifier="/us/usc/t6/s681/1">
+								<num>(1)</num>
+								<heading> Center</heading>
+								<content>
+									<p>
+										The term “Center” means the center established under 
+										<ref href="/us/usc/t6/s659">section 659 of this title</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/2">
+								<num>(2)</num>
+								<heading> Cloud service provider</heading>
+								<content>
+									<p>The term “cloud service provider” means an entity offering products or services related to cloud computing, as defined by the National Institute of Standards and Technology in NIST Special Publication 800–145 and any amendatory or superseding document relating thereto.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/3">
+								<num>(3)</num>
+								<heading> Council</heading>
+								<content>
+									<p>
+										The term “Council” means the Cyber Incident Reporting Council described in 
+										<ref href="/us/usc/t6/s681f">section 681f of this title</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/4">
+								<num>(4)</num>
+								<heading> Covered cyber incident</heading>
+								<content>
+									<p>
+										The term “covered cyber incident” means a substantial cyber incident experienced by a covered entity that satisfies the definition and criteria established by the Director in the final rule issued pursuant to 
+										<ref href="/us/usc/t6/s681b/b">section 681b(b) of this title</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/5">
+								<num>(5)</num>
+								<heading> Covered entity</heading>
+								<content>
+									<p>
+										The term “covered entity” means an entity in a critical infrastructure sector, as defined in Presidential Policy Directive 21, that satisfies the definition established by the Director in the final rule issued pursuant to 
+										<ref href="/us/usc/t6/s681b/b">section 681b(b) of this title</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/6">
+								<num>(6)</num>
+								<heading> Cyber incident</heading>
+								<chapeau>The term “cyber incident”—</chapeau>
+								<subparagraph identifier="/us/usc/t6/s681/6/A">
+									<num>(A)</num>
+									<content>
+										 has the meaning given the term “incident” in 
+										<ref href="/us/usc/t6/s659">section 659 of this title</ref>
+										; and
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s681/6/B">
+									<num>(B)</num>
+									<chapeau> does not include an occurrence that imminently, but not actually, jeopardizes—</chapeau>
+									<clause identifier="/us/usc/t6/s681/6/B/i">
+										<num>(i)</num>
+										<content> information on information systems; or</content>
+									</clause>
+									<clause identifier="/us/usc/t6/s681/6/B/ii">
+										<num>(ii)</num>
+										<content> information systems.</content>
+									</clause>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/7">
+								<num>(7)</num>
+								<heading> Cyber threat</heading>
+								<content>
+									<p>
+										The term “cyber threat” has the meaning given the term “cybersecurity threat” in 
+										<ref href="/us/usc/t6/s651">section 651 of this title</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/8">
+								<num>(8)</num>
+								<heading> Cyber threat indicator; cybersecurity purpose; defensive measure; federal entity; security vulnerability</heading>
+								<content>
+									<p>
+										The terms “cyber threat indicator”, “cybersecurity purpose”, “defensive measure”, “Federal entity”, and “security vulnerability” have the meanings given those terms in 
+										<ref href="/us/usc/t6/s1501">section 1501 of this title</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/9">
+								<num>(9)</num>
+								<heading> Incident; sharing</heading>
+								<content>
+									<p>
+										The terms “incident” and “sharing” have the meanings given those terms in 
+										<ref href="/us/usc/t6/s659">section 659 of this title</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/10">
+								<num>(10)</num>
+								<heading> Information Sharing and Analysis Organization</heading>
+								<content>
+									<p>
+										The term “Information Sharing and Analysis Organization” has the meaning given the term in 
+										<ref href="/us/usc/t6/s671">section 671 of this title</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/11">
+								<num>(11)</num>
+								<heading> Information system</heading>
+								<chapeau>The term “information system”—</chapeau>
+								<subparagraph identifier="/us/usc/t6/s681/11/A">
+									<num>(A)</num>
+									<content>
+										 has the meaning given the term in 
+										<ref href="/us/usc/t44/s3502">section 3502 of title 44</ref>
+										; and
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s681/11/B">
+									<num>(B)</num>
+									<content> includes industrial control systems, such as supervisory control and data acquisition systems, distributed control systems, and programmable logic controllers.</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/12">
+								<num>(12)</num>
+								<heading> Managed service provider</heading>
+								<content>
+									<p>The term “managed service provider” means an entity that delivers services, such as network, application, infrastructure, or security services, via ongoing and regular support and active administration on the premises of a customer, in the data center of the entity (such as hosting), or in a third party data center.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/13">
+								<num>(13)</num>
+								<heading> Ransom payment</heading>
+								<content>
+									<p>The term “ransom payment” means the transmission of any money or other property or asset, including virtual currency, or any portion thereof, which has at any time been delivered as ransom in connection with a ransomware attack.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/14">
+								<num>(14)</num>
+								<heading> Ransomware attack</heading>
+								<chapeau>The term “ransomware attack”—</chapeau>
+								<subparagraph identifier="/us/usc/t6/s681/14/A">
+									<num>(A)</num>
+									<content> means an incident that includes the use or threat of use of unauthorized or malicious code on an information system, or the use or threat of use of another digital mechanism such as a denial of service attack, to interrupt or disrupt the operations of an information system or compromise the confidentiality, availability, or integrity of electronic data stored on, processed by, or transiting an information system to extort a demand for a ransom payment; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s681/14/B">
+									<num>(B)</num>
+									<chapeau> does not include any such event where the demand for payment is—</chapeau>
+									<clause identifier="/us/usc/t6/s681/14/B/i">
+										<num>(i)</num>
+										<content> not genuine; or</content>
+									</clause>
+									<clause identifier="/us/usc/t6/s681/14/B/ii">
+										<num>(ii)</num>
+										<content> made in good faith by an entity in response to a specific request by the owner or operator of the information system.</content>
+									</clause>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/15">
+								<num>(15)</num>
+								<heading> Sector Risk Management Agency</heading>
+								<content>
+									<p>
+										The term “Sector Risk Management Agency” has the meaning given the term in 
+										<ref href="/us/usc/t6/s651">section 651 of this title</ref>
+										.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/16">
+								<num>(16)</num>
+								<heading> Significant cyber incident</heading>
+								<content>
+									<p>The term “significant cyber incident” means a cyber incident, or a group of related cyber incidents, that the Secretary determines is likely to result in demonstrable harm to the national security interests, foreign relations, or economy of the United States or to the public confidence, civil liberties, or public health and safety of the people of the United States.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/17">
+								<num>(17)</num>
+								<heading> Supply chain compromise</heading>
+								<content>
+									<p>The term “supply chain compromise” means an incident within the supply chain of an information system that an adversary can leverage or does leverage to jeopardize the confidentiality, integrity, or availability of the information system or the information the system processes, stores, or transmits, and can occur at any point during the life cycle.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/18">
+								<num>(18)</num>
+								<heading> Virtual currency</heading>
+								<content>
+									<p>The term “virtual currency” means the digital representation of value that functions as a medium of exchange, a unit of account, or a store of value.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t6/s681/19">
+								<num>(19)</num>
+								<heading> Virtual currency address</heading>
+								<content>
+									<p>The term “virtual currency address” means a unique public cryptographic key identifying the location to which a virtual currency payment can be made.</p>
+								</content>
+							</paragraph>
+						</section>
+						<section identifier="/us/usc/t6/s681a">
+							<num>§ 681a.</num>
+							<heading> Cyber incident review</heading>
+							<subsection identifier="/us/usc/t6/s681a/a">
+								<num>(a)</num>
+								<heading> Activities</heading>
+								<chapeau>The Center shall—</chapeau>
+								<paragraph identifier="/us/usc/t6/s681a/a/1">
+									<num>(1)</num>
+									<content>
+										 receive, aggregate, analyze, and secure, using processes consistent with the processes developed pursuant to the Cybersecurity Information Sharing Act of 2015 (
+										<ref href="/us/usc/t6/s1501">6 U.S.C. 1501</ref>
+										 et seq.) reports from covered entities related to a covered cyber incident to assess the effectiveness of security controls, identify tactics, techniques, and procedures adversaries use to overcome those controls and other cybersecurity purposes, including to assess potential impact of cyber incidents on public health and safety and to enhance situational awareness of cyber threats across critical infrastructure sectors;
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681a/a/2">
+									<num>(2)</num>
+									<content> coordinate and share information with appropriate Federal departments and agencies to identify and track ransom payments, including those utilizing virtual currencies;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681a/a/3">
+									<num>(3)</num>
+									<chapeau> leverage information gathered about cyber incidents to—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s681a/a/3/A">
+										<num>(A)</num>
+										<content> enhance the quality and effectiveness of information sharing and coordination efforts with appropriate entities, including agencies, sector coordinating councils, Information Sharing and Analysis Organizations, State, local, Tribal, and territorial governments, technology providers, critical infrastructure owners and operators, cybersecurity and cyber incident response firms, and security researchers; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681a/a/3/B">
+										<num>(B)</num>
+										<content>
+											 provide appropriate entities, including sector coordinating councils, Information Sharing and Analysis Organizations, State, local, Tribal, and territorial governments, technology providers, cybersecurity and cyber incident response firms, and security researchers, with timely, actionable, and anonymized reports of cyber incident campaigns and trends, including, to the maximum extent practicable, related contextual information, cyber threat indicators, and defensive measures, pursuant to 
+											<ref href="/us/usc/t6/s681e">section 681e of this title</ref>
+											;
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681a/a/4">
+									<num>(4)</num>
+									<content> establish mechanisms to receive feedback from stakeholders on how the Agency can most effectively receive covered cyber incident reports, ransom payment reports, and other voluntarily provided information, and how the Agency can most effectively support private sector cybersecurity;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681a/a/5">
+									<num>(5)</num>
+									<content> facilitate the timely sharing, on a voluntary basis, between relevant critical infrastructure owners and operators of information relating to covered cyber incidents and ransom payments, particularly with respect to ongoing cyber threats or security vulnerabilities and identify and disseminate ways to prevent or mitigate similar cyber incidents in the future;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681a/a/6">
+									<num>(6)</num>
+									<content> for a covered cyber incident, including a ransomware attack, that also satisfies the definition of a significant cyber incident, or is part of a group of related cyber incidents that together satisfy such definition, conduct a review of the details surrounding the covered cyber incident or group of those incidents and identify and disseminate ways to prevent or mitigate similar incidents in the future;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681a/a/7">
+									<num>(7)</num>
+									<content>
+										 with respect to covered cyber incident reports under section 
+										 681b(a) and 681c of this title involving an ongoing cyber threat or security vulnerability, immediately review those reports for cyber threat indicators that can be anonymized and disseminated, with defensive measures, to appropriate stakeholders, in coordination with other divisions within the Agency, as appropriate;
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681a/a/8">
+									<num>(8)</num>
+									<content> publish quarterly unclassified, public reports that describe aggregated, anonymized observations, findings, and recommendations based on covered cyber incident reports, which may be based on the unclassified information contained in the briefings required under subsection (c);</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681a/a/9">
+									<num>(9)</num>
+									<content>
+										 proactively identify opportunities, consistent with the protections in 
+										<ref href="/us/usc/t6/s681e">section 681e of this title</ref>
+										, to leverage and utilize data on cyber incidents in a manner that enables and strengthens cybersecurity research carried out by academic institutions and other private sector organizations, to the greatest extent practicable; and
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681a/a/10">
+									<num>(10)</num>
+									<content>
+										 in accordance with 
+										<ref href="/us/usc/t6/s681e">section 681e of this title</ref>
+										 and subsection (b) of this section, as soon as possible but not later than 24 hours after receiving a covered cyber incident report, ransom payment report, voluntarily submitted information pursuant to 
+										<ref href="/us/usc/t6/s681c">section 681c of this title</ref>
+										, or information received pursuant to a request for information or subpoena under 
+										<ref href="/us/usc/t6/s681d">section 681d of this title</ref>
+										, make available the information to appropriate Sector Risk Management Agencies and other appropriate Federal agencies.
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681a/b">
+								<num>(b)</num>
+								<heading> Interagency sharing</heading>
+								<chapeau>The President or a designee of the President—</chapeau>
+								<paragraph identifier="/us/usc/t6/s681a/b/1">
+									<num>(1)</num>
+									<content> may establish a specific time requirement for sharing information under subsection (a)(10); and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681a/b/2">
+									<num>(2)</num>
+									<content> shall determine the appropriate Federal agencies under subsection (a)(10).</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681a/c">
+								<num>(c)</num>
+								<heading> Periodic briefing</heading>
+								<chapeau>
+									Not later than 60 days after the effective date of the final rule required under 
+									<ref href="/us/usc/t6/s681b/b">section 681b(b) of this title</ref>
+									, and on the first day of each month thereafter, the Director, in consultation with the National Cyber Director, the Attorney General, and the Director of National Intelligence, shall provide to the majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, the minority leader of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Homeland Security of the House of Representatives a briefing that characterizes the national cyber threat landscape, including the threat facing Federal agencies and covered entities, and applicable intelligence and law enforcement information, covered cyber incidents, and ransomware attacks, as of the date of the briefing, which shall—
+								</chapeau>
+								<paragraph identifier="/us/usc/t6/s681a/c/1">
+									<num>(1)</num>
+									<content> include the total number of reports submitted under sections 681b and 681c of this title during the preceding month, including a breakdown of required and voluntary reports;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681a/c/2">
+									<num>(2)</num>
+									<chapeau> include any identified trends in covered cyber incidents and ransomware attacks over the course of the preceding month and as compared to previous reports, including any trends related to the information collected in the reports submitted under sections 681b and 681c of this title, including—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s681a/c/2/A">
+										<num>(A)</num>
+										<content> the infrastructure, tactics, and techniques malicious cyber actors commonly use; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681a/c/2/B">
+										<num>(B)</num>
+										<content> intelligence gaps that have impeded, or currently are impeding, the ability to counter covered cyber incidents and ransomware threats;</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681a/c/3">
+									<num>(3)</num>
+									<content> include a summary of the known uses of the information in reports submitted under sections 681b and 681c of this title; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681a/c/4">
+									<num>(4)</num>
+									<content> include an unclassified portion, but may include a classified component.</content>
+								</paragraph>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s681b">
+							<num>§ 681b.</num>
+							<heading> Required reporting of certain cyber incidents</heading>
+							<subsection identifier="/us/usc/t6/s681b/a">
+								<num>(a)</num>
+								<heading> In general</heading>
+								<paragraph identifier="/us/usc/t6/s681b/a/1">
+									<num>(1)</num>
+									<heading> Covered cyber incident reports</heading>
+									<subparagraph identifier="/us/usc/t6/s681b/a/1/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>A covered entity that experiences a covered cyber incident shall report the covered cyber incident to the Agency not later than 72 hours after the covered entity reasonably believes that the covered cyber incident has occurred.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/a/1/B">
+										<num>(B)</num>
+										<heading> Limitation</heading>
+										<content>
+											<p>The Director may not require reporting under subparagraph (A) any earlier than 72 hours after the covered entity reasonably believes that a covered cyber incident has occurred.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/a/2">
+									<num>(2)</num>
+									<heading> Ransom payment reports</heading>
+									<subparagraph identifier="/us/usc/t6/s681b/a/2/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>A covered entity that makes a ransom payment as the result of a ransomware attack against the covered entity shall report the payment to the Agency not later than 24 hours after the ransom payment has been made.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/a/2/B">
+										<num>(B)</num>
+										<heading> Application</heading>
+										<content>
+											<p>The requirements under subparagraph (A) shall apply even if the ransomware attack is not a covered cyber incident subject to the reporting requirements under paragraph (1).</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/a/3">
+									<num>(3)</num>
+									<heading> Supplemental reports</heading>
+									<content>
+										<p>A covered entity shall promptly submit to the Agency an update or supplement to a previously submitted covered cyber incident report if substantial new or different information becomes available or if the covered entity makes a ransom payment after submitting a covered cyber incident report required under paragraph (1), until such date that such covered entity notifies the Agency that the covered cyber incident at issue has concluded and has been fully mitigated and resolved.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/a/4">
+									<num>(4)</num>
+									<heading> Preservation of information</heading>
+									<content>
+										<p>Any covered entity subject to requirements of paragraph (1), (2), or (3) shall preserve data relevant to the covered cyber incident or ransom payment in accordance with procedures established in the final rule issued pursuant to subsection (b).</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/a/5">
+									<num>(5)</num>
+									<heading> Exceptions</heading>
+									<subparagraph identifier="/us/usc/t6/s681b/a/5/A">
+										<num>(A)</num>
+										<heading> Reporting of covered cyber incident with ransom payment</heading>
+										<content>
+											<p>If a covered entity is the victim of a covered cyber incident and makes a ransom payment prior to the 72 hour requirement under paragraph (1), such that the reporting requirements under paragraphs (1) and (2) both apply, the covered entity may submit a single report to satisfy the requirements of both paragraphs in accordance with procedures established in the final rule issued pursuant to subsection (b).</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/a/5/B">
+										<num>(B)</num>
+										<heading> Substantially similar reported information</heading>
+										<clause identifier="/us/usc/t6/s681b/a/5/B/i">
+											<num>(i)</num>
+											<heading> In general</heading>
+											<content>
+												<p>
+													Subject to the limitation described in clause (ii), where the Agency has an agreement in place that satisfies the requirements of 
+													<ref href="/us/usc/t6/s681g/a">section 681g(a) of this title</ref>
+													, the requirements under paragraphs (1), (2), and (3) shall not apply to a covered entity required by law, regulation, or contract to report substantially similar information to another Federal agency within a substantially similar timeframe.
+												</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s681b/a/5/B/ii">
+											<num>(ii)</num>
+											<heading> Limitation</heading>
+											<content>
+												<p>
+													The exemption in clause (i) shall take effect with respect to a covered entity once an agency agreement and sharing mechanism is in place between the Agency and the respective Federal agency, pursuant to 
+													<ref href="/us/usc/t6/s681g/a">section 681g(a) of this title</ref>
+													.
+												</p>
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s681b/a/5/B/iii">
+											<num>(iii)</num>
+											<heading> Rules of construction</heading>
+											<chapeau>Nothing in this paragraph shall be construed to—</chapeau>
+											<subclause identifier="/us/usc/t6/s681b/a/5/B/iii/I">
+												<num>(I)</num>
+												<content> exempt a covered entity from the reporting requirements under paragraph (3) unless the supplemental report also meets the requirements of clauses (i) and (ii) of this paragraph;</content>
+											</subclause>
+											<subclause identifier="/us/usc/t6/s681b/a/5/B/iii/II">
+												<num>(II)</num>
+												<content>
+													 prevent the Agency from contacting an entity submitting information to another Federal agency that is provided to the Agency pursuant to 
+													<ref href="/us/usc/t6/s681g">section 681g of this title</ref>
+													; or
+												</content>
+											</subclause>
+											<subclause identifier="/us/usc/t6/s681b/a/5/B/iii/III">
+												<num>(III)</num>
+												<content> prevent an entity from communicating with the Agency.</content>
+											</subclause>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/a/5/C">
+										<num>(C)</num>
+										<heading> Domain name system</heading>
+										<content>
+											<p>The requirements under paragraphs (1), (2) and (3) shall not apply to a covered entity or the functions of a covered entity that the Director determines constitute critical infrastructure owned, operated, or governed by multi-stakeholder organizations that develop, implement, and enforce policies concerning the Domain Name System, such as the Internet Corporation for Assigned Names and Numbers or the Internet Assigned Numbers Authority.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/a/6">
+									<num>(6)</num>
+									<heading> Manner, timing, and form of reports</heading>
+									<content>
+										<p>Reports made under paragraphs (1), (2), and (3) shall be made in the manner and form, and within the time period in the case of reports made under paragraph (3), prescribed in the final rule issued pursuant to subsection (b).</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/a/7">
+									<num>(7)</num>
+									<heading> Effective date</heading>
+									<content>
+										<p>Paragraphs (1) through (4) shall take effect on the dates prescribed in the final rule issued pursuant to subsection (b).</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681b/b">
+								<num>(b)</num>
+								<heading> Rulemaking</heading>
+								<paragraph identifier="/us/usc/t6/s681b/b/1">
+									<num>(1)</num>
+									<heading> Notice of proposed rulemaking</heading>
+									<content>
+										<p>
+											Not later than 24 months after 
+											<date date="2022-03-15">March 15, 2022</date>
+											, the Director, in consultation with Sector Risk Management Agencies, the Department of Justice, and other Federal agencies, shall publish in the Federal Register a notice of proposed rulemaking to implement subsection (a).
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/b/2">
+									<num>(2)</num>
+									<heading> Final rule</heading>
+									<content>
+										<p>Not later than 18 months after publication of the notice of proposed rulemaking under paragraph (1), the Director shall issue a final rule to implement subsection (a).</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/b/3">
+									<num>(3)</num>
+									<heading> Subsequent rulemakings</heading>
+									<subparagraph identifier="/us/usc/t6/s681b/b/3/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>The Director is authorized to issue regulations to amend or revise the final rule issued pursuant to paragraph (2).</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/b/3/B">
+										<num>(B)</num>
+										<heading> Procedures</heading>
+										<content>
+											<p>Any subsequent rules issued under subparagraph (A) shall comply with the requirements under chapter 5 of title 5, including the issuance of a notice of proposed rulemaking under section 553 of such title.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681b/c">
+								<num>(c)</num>
+								<heading> Elements</heading>
+								<chapeau>The final rule issued pursuant to subsection (b) shall be composed of the following elements:</chapeau>
+								<paragraph identifier="/us/usc/t6/s681b/c/1">
+									<num>(1)</num>
+									<chapeau> A clear description of the types of entities that constitute covered entities, based on—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s681b/c/1/A">
+										<num>(A)</num>
+										<content> the consequences that disruption to or compromise of such an entity could cause to national security, economic security, or public health and safety;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/1/B">
+										<num>(B)</num>
+										<content> the likelihood that such an entity may be targeted by a malicious cyber actor, including a foreign country; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/1/C">
+										<num>(C)</num>
+										<content> the extent to which damage, disruption, or unauthorized access to such an entity, including the accessing of sensitive cybersecurity vulnerability information or penetration testing tools or techniques, will likely enable the disruption of the reliable operation of critical infrastructure.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/c/2">
+									<num>(2)</num>
+									<chapeau> A clear description of the types of substantial cyber incidents that constitute covered cyber incidents, which shall—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s681b/c/2/A">
+										<num>(A)</num>
+										<chapeau> at a minimum, require the occurrence of—</chapeau>
+										<clause identifier="/us/usc/t6/s681b/c/2/A/i">
+											<num>(i)</num>
+											<content> a cyber incident that leads to substantial loss of confidentiality, integrity, or availability of such information system or network, or a serious impact on the safety and resiliency of operational systems and processes;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s681b/c/2/A/ii">
+											<num>(ii)</num>
+											<chapeau> a disruption of business or industrial operations, including due to a denial of service attack, ransomware attack, or exploitation of a zero day vulnerability, against </chapeau>
+											<subclause identifier="/us/usc/t6/s681b/c/2/A/ii/I">
+												<num>(I)</num>
+												<content> an information system or network; or</content>
+											</subclause>
+											<subclause identifier="/us/usc/t6/s681b/c/2/A/ii/II">
+												<num>(II)</num>
+												<content> an operational technology system or process; or</content>
+											</subclause>
+										</clause>
+										<clause identifier="/us/usc/t6/s681b/c/2/A/iii">
+											<num>(iii)</num>
+											<content> unauthorized access or disruption of business or industrial operations due to loss of service facilitated through, or caused by, a compromise of a cloud service provider, managed service provider, or other third-party data hosting provider or by a supply chain compromise;</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/2/B">
+										<num>(B)</num>
+										<chapeau> consider—</chapeau>
+										<clause identifier="/us/usc/t6/s681b/c/2/B/i">
+											<num>(i)</num>
+											<content> the sophistication or novelty of the tactics used to perpetrate such a cyber incident, as well as the type, volume, and sensitivity of the data at issue;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s681b/c/2/B/ii">
+											<num>(ii)</num>
+											<content> the number of individuals directly or indirectly affected or potentially affected by such a cyber incident; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s681b/c/2/B/iii">
+											<num>(iii)</num>
+											<content> potential impacts on industrial control systems, such as supervisory control and data acquisition systems, distributed control systems, and programmable logic controllers; and</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/2/C">
+										<num>(C)</num>
+										<chapeau> exclude—</chapeau>
+										<clause identifier="/us/usc/t6/s681b/c/2/C/i">
+											<num>(i)</num>
+											<content> any event where the cyber incident is perpetrated in good faith by an entity in response to a specific request by the owner or operator of the information system; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s681b/c/2/C/ii">
+											<num>(ii)</num>
+											<content>
+												 the threat of disruption as extortion, as described in 
+												<ref href="/us/usc/t6/s681/14/A">section 681(14)(A) of this title</ref>
+												.
+											</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/c/3">
+									<num>(3)</num>
+									<content> A requirement that, if a covered cyber incident or a ransom payment occurs following an exempted threat described in paragraph (2)(C)(ii), the covered entity shall comply with the requirements in this part in reporting the covered cyber incident or ransom payment.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/c/4">
+									<num>(4)</num>
+									<chapeau> A clear description of the specific required contents of a report pursuant to subsection (a)(1), which shall include the following information, to the extent applicable and available, with respect to a covered cyber incident:</chapeau>
+									<subparagraph identifier="/us/usc/t6/s681b/c/4/A">
+										<num>(A)</num>
+										<chapeau> A description of the covered cyber incident, including—</chapeau>
+										<clause identifier="/us/usc/t6/s681b/c/4/A/i">
+											<num>(i)</num>
+											<content> identification and a description of the function of the affected information systems, networks, or devices that were, or are reasonably believed to have been, affected by such cyber incident;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s681b/c/4/A/ii">
+											<num>(ii)</num>
+											<content> a description of the unauthorized access with substantial loss of confidentiality, integrity, or availability of the affected information system or network or disruption of business or industrial operations;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s681b/c/4/A/iii">
+											<num>(iii)</num>
+											<content> the estimated date range of such incident; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s681b/c/4/A/iv">
+											<num>(iv)</num>
+											<content> the impact to the operations of the covered entity.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/4/B">
+										<num>(B)</num>
+										<content> Where applicable, a description of the vulnerabilities exploited and the security defenses that were in place, as well as the tactics, techniques, and procedures used to perpetrate the covered cyber incident.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/4/C">
+										<num>(C)</num>
+										<content> Where applicable, any identifying or contact information related to each actor reasonably believed to be responsible for such cyber incident.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/4/D">
+										<num>(D)</num>
+										<content> Where applicable, identification of the category or categories of information that were, or are reasonably believed to have been, accessed or acquired by an unauthorized person.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/4/E">
+										<num>(E)</num>
+										<content> The name and other information that clearly identifies the covered entity impacted by the covered cyber incident, including, as applicable, the State of incorporation or formation of the covered entity, trade names, legal names, or other identifiers.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/4/F">
+										<num>(F)</num>
+										<content> Contact information, such as telephone number or electronic mail address, that the Agency may use to contact the covered entity or an authorized agent of such covered entity, or, where applicable, the service provider of such covered entity acting with the express permission of, and at the direction of, the covered entity to assist with compliance with the requirements of this part.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/c/5">
+									<num>(5)</num>
+									<chapeau> A clear description of the specific required contents of a report pursuant to subsection (a)(2), which shall be the following information, to the extent applicable and available, with respect to a ransom payment:</chapeau>
+									<subparagraph identifier="/us/usc/t6/s681b/c/5/A">
+										<num>(A)</num>
+										<content> A description of the ransomware attack, including the estimated date range of the attack.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/5/B">
+										<num>(B)</num>
+										<content> Where applicable, a description of the vulnerabilities, tactics, techniques, and procedures used to perpetrate the ransomware attack.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/5/C">
+										<num>(C)</num>
+										<content> Where applicable, any identifying or contact information related to the actor or actors reasonably believed to be responsible for the ransomware attack.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/5/D">
+										<num>(D)</num>
+										<content> The name and other information that clearly identifies the covered entity that made the ransom payment or on whose behalf the payment was made.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/5/E">
+										<num>(E)</num>
+										<content> Contact information, such as telephone number or electronic mail address, that the Agency may use to contact the covered entity that made the ransom payment or an authorized agent of such covered entity, or, where applicable, the service provider of such covered entity acting with the express permission of, and at the direction of, that covered entity to assist with compliance with the requirements of this part.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/5/F">
+										<num>(F)</num>
+										<content> The date of the ransom payment.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/5/G">
+										<num>(G)</num>
+										<content> The ransom payment demand, including the type of virtual currency or other commodity requested, if applicable.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/5/H">
+										<num>(H)</num>
+										<content> The ransom payment instructions, including information regarding where to send the payment, such as the virtual currency address or physical address the funds were requested to be sent to, if applicable.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/5/I">
+										<num>(I)</num>
+										<content> The amount of the ransom payment.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/c/6">
+									<num>(6)</num>
+									<content> A clear description of the types of data required to be preserved pursuant to subsection (a)(4), the period of time for which the data is required to be preserved, and allowable uses, processes, and procedures.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/c/7">
+									<num>(7)</num>
+									<chapeau> Deadlines and criteria for submitting supplemental reports to the Agency required under subsection (a)(3), which shall—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s681b/c/7/A">
+										<num>(A)</num>
+										<content> be established by the Director in consultation with the Council;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/7/B">
+										<num>(B)</num>
+										<content> consider any existing regulatory reporting requirements similar in scope, purpose, and timing to the reporting requirements to which such a covered entity may also be subject, and make efforts to harmonize the timing and contents of any such reports to the maximum extent practicable;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/7/C">
+										<num>(C)</num>
+										<content> balance the need for situational awareness with the ability of the covered entity to conduct cyber incident response and investigations; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/7/D">
+										<num>(D)</num>
+										<content> provide a clear description of what constitutes substantial new or different information.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/c/8">
+									<num>(8)</num>
+									<chapeau> Procedures for—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s681b/c/8/A">
+										<num>(A)</num>
+										<content> entities, including third parties pursuant to subsection (d)(1), to submit reports required by paragraphs (1), (2), and (3) of subsection (a), including the manner and form thereof, which shall include, at a minimum, a concise, user-friendly web-based form;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/8/B">
+										<num>(B)</num>
+										<chapeau> the Agency to carry out—</chapeau>
+										<clause identifier="/us/usc/t6/s681b/c/8/B/i">
+											<num>(i)</num>
+											<content>
+												 the enforcement provisions of 
+												<ref href="/us/usc/t6/s681d">section 681d of this title</ref>
+												, including with respect to the issuance, service, withdrawal, referral process, and enforcement of subpoenas, appeals and due process procedures;
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s681b/c/8/B/ii">
+											<num>(ii)</num>
+											<content> other available enforcement mechanisms including acquisition, suspension and debarment procedures; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s681b/c/8/B/iii">
+											<num>(iii)</num>
+											<content> other aspects of noncompliance;</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/8/C">
+										<num>(C)</num>
+										<content> implementing the exceptions provided in subsection (a)(5); and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/c/8/D">
+										<num>(D)</num>
+										<content>
+											 protecting privacy and civil liberties consistent with processes adopted pursuant to 
+											<ref href="/us/usc/t6/s1504/b">section 1504(b) of this title</ref>
+											 and anonymizing and safeguarding, or no longer retaining, information received and disclosed through covered cyber incident reports and ransom payment reports that is known to be personal information of a specific individual or information that identifies a specific individual that is not directly related to a cybersecurity threat.
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/c/9">
+									<num>(9)</num>
+									<content> Other procedural measures directly necessary to implement subsection (a).</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681b/d">
+								<num>(d)</num>
+								<heading> Third party report submission and ransom payment</heading>
+								<paragraph identifier="/us/usc/t6/s681b/d/1">
+									<num>(1)</num>
+									<heading> Report submission</heading>
+									<content>
+										<p>A covered entity that is required to submit a covered cyber incident report or a ransom payment report may use a third party, such as an incident response company, insurance provider, service provider, Information Sharing and Analysis Organization, or law firm, to submit the required report under subsection (a).</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/d/2">
+									<num>(2)</num>
+									<heading> Ransom payment</heading>
+									<content>
+										<p>If a covered entity impacted by a ransomware attack uses a third party to make a ransom payment, the third party shall not be required to submit a ransom payment report for itself under subsection (a)(2).</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/d/3">
+									<num>(3)</num>
+									<heading> Duty to report</heading>
+									<content>
+										<p>Third-party reporting under this subparagraph does not relieve a covered entity from the duty to comply with the requirements for covered cyber incident report or ransom payment report submission.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/d/4">
+									<num>(4)</num>
+									<heading> Responsibility to advise</heading>
+									<content>
+										<p>Any third party used by a covered entity that knowingly makes a ransom payment on behalf of a covered entity impacted by a ransomware attack shall advise the impacted covered entity of the responsibilities of the impacted covered entity regarding reporting ransom payments under this section.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681b/e">
+								<num>(e)</num>
+								<heading> Outreach to covered entities</heading>
+								<paragraph identifier="/us/usc/t6/s681b/e/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>The Agency shall conduct an outreach and education campaign to inform likely covered entities, entities that offer or advertise as a service to customers to make or facilitate ransom payments on behalf of covered entities impacted by ransomware attacks and other appropriate entities of the requirements of paragraphs (1), (2), and (3) of subsection (a).</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/e/2">
+									<num>(2)</num>
+									<heading> Elements</heading>
+									<chapeau>The outreach and education campaign under paragraph (1) shall include the following:</chapeau>
+									<subparagraph identifier="/us/usc/t6/s681b/e/2/A">
+										<num>(A)</num>
+										<content> An overview of the final rule issued pursuant to subsection (b).</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/e/2/B">
+										<num>(B)</num>
+										<content> An overview of mechanisms to submit to the Agency covered cyber incident reports, ransom payment reports, and information relating to the disclosure, retention, and use of covered cyber incident reports and ransom payment reports under this section.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/e/2/C">
+										<num>(C)</num>
+										<content> An overview of the protections afforded to covered entities for complying with the requirements under paragraphs (1), (2), and (3) of subsection (a).</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/e/2/D">
+										<num>(D)</num>
+										<content>
+											 An overview of the steps taken under 
+											<ref href="/us/usc/t6/s681d">section 681d of this title</ref>
+											 when a covered entity is not in compliance with the reporting requirements under subsection (a).
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/e/2/E">
+										<num>(E)</num>
+										<content> Specific outreach to cybersecurity vendors, cyber incident response providers, cybersecurity insurance entities, and other entities that may support covered entities.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/e/2/F">
+										<num>(F)</num>
+										<content> An overview of the privacy and civil liberties requirements in this part.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681b/e/3">
+									<num>(3)</num>
+									<heading> Coordination</heading>
+									<chapeau>In conducting the outreach and education campaign required under paragraph (1), the Agency may coordinate with—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s681b/e/3/A">
+										<num>(A)</num>
+										<content>
+											 the Critical Infrastructure Partnership Advisory Council established under 
+											<ref href="/us/usc/t6/s451">section 451 of this title</ref>
+											;
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/e/3/B">
+										<num>(B)</num>
+										<content> Information Sharing and Analysis Organizations;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/e/3/C">
+										<num>(C)</num>
+										<content> trade associations;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/e/3/D">
+										<num>(D)</num>
+										<content> information sharing and analysis centers;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/e/3/E">
+										<num>(E)</num>
+										<content> sector coordinating councils; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681b/e/3/F">
+										<num>(F)</num>
+										<content> any other entity as determined appropriate by the Director.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681b/f">
+								<num>(f)</num>
+								<heading> Exemption</heading>
+								<content>
+									<p>Sections 3506(c), 3507, 3508, and 3509 of title 44 shall not apply to any action to carry out this section.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681b/g">
+								<num>(g)</num>
+								<heading> Rule of construction</heading>
+								<content>
+									<p>Nothing in this section shall affect the authorities of the Federal Government to implement the requirements of Executive Order 14028 (86 Fed. Reg. 26633; relating to improving the nation’s cybersecurity), including changes to the Federal Acquisition Regulations and remedies to include suspension and debarment.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681b/h">
+								<num>(h)</num>
+								<heading> Savings provision</heading>
+								<content>
+									<p>Nothing in this section shall be construed to supersede or to abrogate, modify, or otherwise limit the authority that is vested in any officer or any agency of the United States Government to regulate or take action with respect to the cybersecurity of an entity.</p>
+								</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s681c">
+							<num>§ 681c.</num>
+							<heading> Voluntary reporting of other cyber incidents</heading>
+							<subsection identifier="/us/usc/t6/s681c/a">
+								<num>(a)</num>
+								<heading> In general</heading>
+								<content>
+									<p>
+										Entities may voluntarily report cyber incidents or ransom payments to the Agency that are not required under paragraph (1), (2), or (3) of 
+										<ref href="/us/usc/t6/s681b/a">section 681b(a) of this title</ref>
+										, but may enhance the situational awareness of cyber threats.
+									</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681c/b">
+								<num>(b)</num>
+								<heading> Voluntary provision of additional information in required reports</heading>
+								<content>
+									<p>
+										Covered entities may voluntarily include in reports required under paragraph (1), (2), or (3) of 
+										<ref href="/us/usc/t6/s681b/a">section 681b(a) of this title</ref>
+										 information that is not required to be included, but may enhance the situational awareness of cyber threats.
+									</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681c/c">
+								<num>(c)</num>
+								<heading> Application of protections</heading>
+								<content>
+									<p>
+										The protections under 
+										<ref href="/us/usc/t6/s681e">section 681e of this title</ref>
+										 applicable to reports made under 
+										<ref href="/us/usc/t6/s681b">section 681b of this title</ref>
+										 shall apply in the same manner and to the same extent to reports and information submitted under subsections (a) and (b).
+									</p>
+								</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s681d">
+							<num>§ 681d.</num>
+							<heading> Noncompliance with required reporting</heading>
+							<subsection identifier="/us/usc/t6/s681d/a">
+								<num>(a)</num>
+								<heading> Purpose</heading>
+								<content>
+									<p>
+										In the event that a covered entity that is required to submit a report under 
+										<ref href="/us/usc/t6/s681b/a">section 681b(a) of this title</ref>
+										 fails to comply with the requirement to report, the Director may obtain information about the cyber incident or ransom payment by engaging the covered entity directly to request information about the cyber incident or ransom payment, and if the Director is unable to obtain information through such engagement, by issuing a subpoena to the covered entity, pursuant to subsection (c), to gather information sufficient to determine whether a covered cyber incident or ransom payment has occurred.
+									</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681d/b">
+								<num>(b)</num>
+								<heading> Initial request for information</heading>
+								<paragraph identifier="/us/usc/t6/s681d/b/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>
+											If the Director has reason to believe, whether through public reporting or other information in the possession of the Federal Government, including through analysis performed pursuant to paragraph (1) or (2) of 
+											<ref href="/us/usc/t6/s681a/a">section 681a(a) of this title</ref>
+											, that a covered entity has experienced a covered cyber incident or made a ransom payment but failed to report such cyber incident or payment to the Agency in accordance with 
+											<ref href="/us/usc/t6/s681b/a">section 681b(a) of this title</ref>
+											, the Director may request additional information from the covered entity to confirm whether or not a covered cyber incident or ransom payment has occurred.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681d/b/2">
+									<num>(2)</num>
+									<heading> Treatment</heading>
+									<content>
+										<p>
+											Information provided to the Agency in response to a request under paragraph (1) shall be treated as if it was submitted through the reporting procedures established in 
+											<ref href="/us/usc/t6/s681b">section 681b of this title</ref>
+											.
+										</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681d/c">
+								<num>(c)</num>
+								<heading> Enforcement</heading>
+								<paragraph identifier="/us/usc/t6/s681d/c/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>
+											If, after the date that is 72 hours from the date on which the Director made the request for information in subsection (b), the Director has received no response from the covered entity from which such information was requested, or received an inadequate response, the Director may issue to such covered entity a subpoena to compel disclosure of information the Director deems necessary to determine whether a covered cyber incident or ransom payment has occurred and obtain the information required to be reported pursuant to 
+											<ref href="/us/usc/t6/s681b">section 681b of this title</ref>
+											 and any implementing regulations, and assess potential impacts to national security, economic security, or public health and safety.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681d/c/2">
+									<num>(2)</num>
+									<heading> Civil action</heading>
+									<subparagraph identifier="/us/usc/t6/s681d/c/2/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>If a covered entity fails to comply with a subpoena, the Director may refer the matter to the Attorney General to bring a civil action in a district court of the United States to enforce such subpoena.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681d/c/2/B">
+										<num>(B)</num>
+										<heading> Venue</heading>
+										<content>
+											<p>An action under this paragraph may be brought in the judicial district in which the covered entity against which the action is brought resides, is found, or does business.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681d/c/2/C">
+										<num>(C)</num>
+										<heading> Contempt of court</heading>
+										<content>
+											<p>A court may punish a failure to comply with a subpoena issued under this subsection as contempt of court.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681d/c/3">
+									<num>(3)</num>
+									<heading> Non-delegation</heading>
+									<content>
+										<p>The authority of the Director to issue a subpoena under this subsection may not be delegated.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681d/c/4">
+									<num>(4)</num>
+									<heading> Authentication</heading>
+									<subparagraph identifier="/us/usc/t6/s681d/c/4/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>Any subpoena issued electronically pursuant to this subsection shall be authenticated with a cryptographic digital signature of an authorized representative of the Agency, or other comparable successor technology, that allows the Agency to demonstrate that such subpoena was issued by the Agency and has not been altered or modified since such issuance.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681d/c/4/B">
+										<num>(B)</num>
+										<heading> Invalid if not authenticated</heading>
+										<content>
+											<p>Any subpoena issued electronically pursuant to this subsection that is not authenticated in accordance with subparagraph (A) shall not be considered to be valid by the recipient of such subpoena.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681d/d">
+								<num>(d)</num>
+								<heading> Provision of certain information to Attorney General</heading>
+								<paragraph identifier="/us/usc/t6/s681d/d/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>
+											Notwithstanding 
+											<ref href="/us/usc/t6/s681e/a/5">section 681e(a)(5) of this title</ref>
+											 and paragraph (b)(2) of this section, if the Director determines, based on the information provided in response to a subpoena issued pursuant to subsection (c), that the facts relating to the cyber incident or ransom payment at issue may constitute grounds for a regulatory enforcement action or criminal prosecution, the Director may provide such information to the Attorney General or the head of the appropriate Federal regulatory agency, who may use such information for a regulatory enforcement action or criminal prosecution.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681d/d/2">
+									<num>(2)</num>
+									<heading> Consultation</heading>
+									<content>
+										<p>The Director may consult with the Attorney General or the head of the appropriate Federal regulatory agency when making the determination under paragraph (1).</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681d/e">
+								<num>(e)</num>
+								<heading> Considerations</heading>
+								<chapeau>When determining whether to exercise the authorities provided under this section, the Director shall take into consideration—</chapeau>
+								<paragraph identifier="/us/usc/t6/s681d/e/1">
+									<num>(1)</num>
+									<content> the complexity in determining if a covered cyber incident has occurred; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681d/e/2">
+									<num>(2)</num>
+									<content> prior interaction with the Agency or awareness of the covered entity of the policies and procedures of the Agency for reporting covered cyber incidents and ransom payments.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681d/f">
+								<num>(f)</num>
+								<heading> Exclusions</heading>
+								<content>
+									<p>This section shall not apply to a State, local, Tribal, or territorial government entity.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681d/g">
+								<num>(g)</num>
+								<heading> Report to Congress</heading>
+								<chapeau>The Director shall submit to Congress an annual report on the number of times the Director—</chapeau>
+								<paragraph identifier="/us/usc/t6/s681d/g/1">
+									<num>(1)</num>
+									<content> issued an initial request for information pursuant to subsection (b);</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681d/g/2">
+									<num>(2)</num>
+									<content> issued a subpoena pursuant to subsection (c); or</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681d/g/3">
+									<num>(3)</num>
+									<content> referred a matter to the Attorney General for a civil action pursuant to subsection (c)(2).</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681d/h">
+								<num>(h)</num>
+								<heading> Publication of the annual report</heading>
+								<chapeau>The Director shall publish a version of the annual report required under subsection (g) on the website of the Agency, which shall include, at a minimum, the number of times the Director—</chapeau>
+								<paragraph identifier="/us/usc/t6/s681d/h/1">
+									<num>(1)</num>
+									<content> issued an initial request for information pursuant to subsection (b); or</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681d/h/2">
+									<num>(2)</num>
+									<content> issued a subpoena pursuant to subsection (c).</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681d/i">
+								<num>(i)</num>
+								<heading> Anonymization of reports</heading>
+								<content>
+									<p>The Director shall ensure any victim information contained in a report required to be published under subsection (h) be anonymized before the report is published.</p>
+								</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s681e">
+							<num>§ 681e.</num>
+							<heading> Information shared with or provided to the Federal Government</heading>
+							<subsection identifier="/us/usc/t6/s681e/a">
+								<num>(a)</num>
+								<heading> Disclosure, retention, and use</heading>
+								<paragraph identifier="/us/usc/t6/s681e/a/1">
+									<num>(1)</num>
+									<heading> Authorized activities</heading>
+									<chapeau>Information provided to the Agency pursuant to section 681b or 681c of this title may be disclosed to, retained by, and used by, consistent with otherwise applicable provisions of Federal law, any Federal agency or department, component, officer, employee, or agent of the Federal Government solely for—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s681e/a/1/A">
+										<num>(A)</num>
+										<content> a cybersecurity purpose;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681e/a/1/B">
+										<num>(B)</num>
+										<chapeau> the purpose of identifying—</chapeau>
+										<clause identifier="/us/usc/t6/s681e/a/1/B/i">
+											<num>(i)</num>
+											<content> a cyber threat, including the source of the cyber threat; or</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s681e/a/1/B/ii">
+											<num>(ii)</num>
+											<content> a security vulnerability;</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681e/a/1/C">
+										<num>(C)</num>
+										<content> the purpose of responding to, or otherwise preventing or mitigating, a specific threat of death, a specific threat of serious bodily harm, or a specific threat of serious economic harm, including a terrorist act or use of a weapon of mass destruction;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681e/a/1/D">
+										<num>(D)</num>
+										<content> the purpose of responding to, investigating, prosecuting, or otherwise preventing or mitigating, a serious threat to a minor, including sexual exploitation and threats to physical safety; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681e/a/1/E">
+										<num>(E)</num>
+										<content>
+											 the purpose of preventing, investigating, disrupting, or prosecuting an offense arising out of a cyber incident reported pursuant to section 681b or 681c of this title or any of the offenses listed in 
+											<ref href="/us/usc/t6/s1504/d/5/A/v">section 1504(d)(5)(A)(v) of this title</ref>
+											.
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681e/a/2">
+									<num>(2)</num>
+									<heading> Agency actions after receipt</heading>
+									<subparagraph identifier="/us/usc/t6/s681e/a/2/A">
+										<num>(A)</num>
+										<heading> Rapid, confidential sharing of cyber threat indicators</heading>
+										<content>
+											<p>Upon receiving a covered cyber incident or ransom payment report submitted pursuant to this section, the Agency shall immediately review the report to determine whether the cyber incident that is the subject of the report is connected to an ongoing cyber threat or security vulnerability and where applicable, use such report to identify, develop, and rapidly disseminate to appropriate stakeholders actionable, anonymized cyber threat indicators and defensive measures.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681e/a/2/B">
+										<num>(B)</num>
+										<heading> Principles for sharing security vulnerabilities</heading>
+										<content>
+											<p>With respect to information in a covered cyber incident or ransom payment report regarding a security vulnerability referred to in paragraph (1)(B)(ii), the Director shall develop principles that govern the timing and manner in which information relating to security vulnerabilities may be shared, consistent with common industry best practices and United States and international standards.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681e/a/3">
+									<num>(3)</num>
+									<heading> Privacy and civil liberties</heading>
+									<content>
+										<p>
+											Information contained in covered cyber incident and ransom payment reports submitted to the Agency pursuant to 
+											<ref href="/us/usc/t6/s681b">section 681b of this title</ref>
+											 shall be retained, used, and disseminated, where permissible and appropriate, by the Federal Government in accordance with processes to be developed for the protection of personal information consistent with processes adopted pursuant to 
+											<ref href="/us/usc/t6/s1504">section 1504 of this title</ref>
+											 and in a manner that protects personal information from unauthorized use or unauthorized disclosure.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681e/a/4">
+									<num>(4)</num>
+									<heading> Digital security</heading>
+									<content>
+										<p>
+											The Agency shall ensure that reports submitted to the Agency pursuant to 
+											<ref href="/us/usc/t6/s681b">section 681b of this title</ref>
+											, and any information contained in those reports, are collected, stored, and protected at a minimum in accordance with the requirements for moderate impact Federal information systems, as described in Federal Information Processing Standards Publication 199, or any successor document.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681e/a/5">
+									<num>(5)</num>
+									<heading> Prohibition on use of information in regulatory actions</heading>
+									<subparagraph identifier="/us/usc/t6/s681e/a/5/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>A Federal, State, local, or Tribal government shall not use information about a covered cyber incident or ransom payment obtained solely through reporting directly to the Agency in accordance with this part to regulate, including through an enforcement action, the activities of the covered entity or entity that made a ransom payment, unless the government entity expressly allows entities to submit reports to the Agency to meet regulatory reporting obligations of the entity.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681e/a/5/B">
+										<num>(B)</num>
+										<heading> Clarification</heading>
+										<content>
+											<p>A report submitted to the Agency pursuant to section 681b or 681c of this title may, consistent with Federal or State regulatory authority specifically relating to the prevention and mitigation of cybersecurity threats to information systems, inform the development or implementation of regulations relating to such systems.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681e/b">
+								<num>(b)</num>
+								<heading> Protections for reporting entities and information</heading>
+								<chapeau>
+									Reports describing covered cyber incidents or ransom payments submitted to the Agency by entities in accordance with 
+									<ref href="/us/usc/t6/s681b">section 681b of this title</ref>
+									, as well as voluntarily-submitted cyber incident reports submitted to the Agency pursuant to 
+									<ref href="/us/usc/t6/s681c">section 681c of this title</ref>
+									, shall—
+								</chapeau>
+								<paragraph identifier="/us/usc/t6/s681e/b/1">
+									<num>(1)</num>
+									<content> be considered the commercial, financial, and proprietary information of the covered entity when so designated by the covered entity;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681e/b/2">
+									<num>(2)</num>
+									<content>
+										 be exempt from disclosure under 
+										<ref href="/us/usc/t5/s552/b/3">section 552(b)(3) of title 5</ref>
+										 (commonly known as the “Freedom of Information Act”), as well as any provision of State, Tribal, or local freedom of information law, open government law, open meetings law, open records law, sunshine law, or similar law requiring disclosure of information or records;
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681e/b/3">
+									<num>(3)</num>
+									<content> be considered not to constitute a waiver of any applicable privilege or protection provided by law, including trade secret protection; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681e/b/4">
+									<num>(4)</num>
+									<content> not be subject to a rule of any Federal agency or department or any judicial doctrine regarding ex parte communications with a decision-making official.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681e/c">
+								<num>(c)</num>
+								<heading> Liability protections</heading>
+								<paragraph identifier="/us/usc/t6/s681e/c/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>
+											No cause of action shall lie or be maintained in any court by any person or entity and any such action shall be promptly dismissed for the submission of a report pursuant to 
+											<ref href="/us/usc/t6/s681b/a">section 681b(a) of this title</ref>
+											 that is submitted in conformance with this part and the rule promulgated under 
+											<ref href="/us/usc/t6/s681b/b">section 681b(b) of this title</ref>
+											, except that this subsection shall not apply with regard to an action by the Federal Government pursuant to 
+											<ref href="/us/usc/t6/s681d/c/2">section 681d(c)(2) of this title</ref>
+											.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681e/c/2">
+									<num>(2)</num>
+									<heading> Scope</heading>
+									<content>
+										<p>The liability protections provided in this subsection shall only apply to or affect litigation that is solely based on the submission of a covered cyber incident report or ransom payment report to the Agency.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681e/c/3">
+									<num>(3)</num>
+									<heading> Restrictions</heading>
+									<content>
+										<p>Notwithstanding paragraph (2), no report submitted to the Agency pursuant to this part or any communication, document, material, or other record, created for the sole purpose of preparing, drafting, or submitting such report, may be received in evidence, subject to discovery, or otherwise used in any trial, hearing, or other proceeding in or before any court, regulatory body, or other authority of the United States, a State, or a political subdivision thereof, provided that nothing in this part shall create a defense to discovery or otherwise affect the discovery of any communication, document, material, or other record not created for the sole purpose of preparing, drafting, or submitting such report.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681e/d">
+								<num>(d)</num>
+								<heading> Sharing with non-Federal entities</heading>
+								<content>
+									<p>
+										The Agency shall anonymize the victim who reported the information when making information provided in reports received under 
+										<ref href="/us/usc/t6/s681b">section 681b of this title</ref>
+										 available to critical infrastructure owners and operators and the general public.
+									</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681e/e">
+								<num>(e)</num>
+								<heading> Stored Communications Act</heading>
+								<content>
+									<p>Nothing in this part shall be construed to permit or require disclosure by a provider of a remote computing service or a provider of an electronic communication service to the public of information not otherwise permitted or required to be disclosed under chapter 121 of title 18 (commonly known as the “Stored Communications Act”).</p>
+								</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s681f">
+							<num>§ 681f.</num>
+							<heading> Cyber Incident Reporting Council</heading>
+							<subsection identifier="/us/usc/t6/s681f/a">
+								<num>(a)</num>
+								<heading> Responsibility of the Secretary</heading>
+								<content>
+									<p>The Secretary shall lead an intergovernmental Cyber Incident Reporting Council, in consultation with the Director of the Office of Management and Budget, the Attorney General, the National Cyber Director, Sector Risk Management Agencies, and other appropriate Federal agencies, to coordinate, deconflict, and harmonize Federal incident reporting requirements, including those issued through regulations.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681f/b">
+								<num>(b)</num>
+								<heading> Rule of construction</heading>
+								<content>
+									<p>Nothing in subsection (a) shall be construed to provide any additional regulatory authority to any Federal entity.</p>
+								</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s681g">
+							<num>§ 681g.</num>
+							<heading> Federal sharing of incident reports</heading>
+							<subsection identifier="/us/usc/t6/s681g/a">
+								<num>(a)</num>
+								<heading> Cyber incident reporting sharing</heading>
+								<paragraph identifier="/us/usc/t6/s681g/a/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>
+											Notwithstanding any other provision of law or regulation, any Federal agency, including any independent establishment (as defined in 
+											<ref href="/us/usc/t5/s104">section 104 of title 5</ref>
+											), that receives a report from an entity of a cyber incident, including a ransomware attack, shall provide the report to the Agency as soon as possible, but not later than 24 hours after receiving the report, unless a shorter period is required by an agreement made between the Department of Homeland Security (including the Cybersecurity and Infrastructure Security Agency) and the recipient Federal agency. The Director shall share and coordinate each report pursuant to 
+											<ref href="/us/usc/t6/s681a/b">section 681a(b) of this title</ref>
+											, as added by section 103 of this division.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681g/a/2">
+									<num>(2)</num>
+									<heading> Rule of construction</heading>
+									<content>
+										<p>
+											The requirements described in paragraph (1) and 
+											<ref href="/us/usc/t6/s681e/d">section 681e(d) of this title</ref>
+											, as added by section 103 of this division, may not be construed to be a violation of any provision of law or policy that would otherwise prohibit disclosure or provision of information within the executive branch.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681g/a/3">
+									<num>(3)</num>
+									<heading> Protection of information</heading>
+									<content>
+										<p>The Director shall comply with any obligations of the recipient Federal agency described in paragraph (1) to protect information, including with respect to privacy, confidentiality, or information security, if those obligations would impose greater protection requirements than this division or the amendments made by this division.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681g/a/4">
+									<num>(4)</num>
+									<heading> Effective date</heading>
+									<content>
+										<p>
+											This subsection shall take effect on the effective date of the final rule issued pursuant to 
+											<ref href="/us/usc/t6/s681b/b">section 681b(b) of this title</ref>
+											, as added by section 103 of this division.
+										</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681g/a/5">
+									<num>(5)</num>
+									<heading> Agency agreements</heading>
+									<subparagraph identifier="/us/usc/t6/s681g/a/5/A">
+										<num>(A)</num>
+										<heading> In general</heading>
+										<content>
+											<p>
+												The Agency and any Federal agency, including any independent establishment (as defined in 
+												<ref href="/us/usc/t5/s104">section 104 of title 5</ref>
+												), that receives incident reports from entities, including due to ransomware attacks, shall, as appropriate, enter into a documented agreement to establish policies, processes, procedures, and mechanisms to ensure reports are shared with the Agency pursuant to paragraph (1).
+											</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681g/a/5/B">
+										<num>(B)</num>
+										<heading> Availability</heading>
+										<content>
+											<p>To the maximum extent practicable, each documented agreement required under subparagraph (A) shall be made publicly available.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s681g/a/5/C">
+										<num>(C)</num>
+										<heading> Requirement</heading>
+										<content>
+											<p>
+												The documented agreements required by subparagraph (A) shall require reports be shared from Federal agencies with the Agency in such time as to meet the overall timeline for covered entity reporting of covered cyber incidents and ransom payments established in 
+												<ref href="/us/usc/t6/s681b">section 681b of this title</ref>
+												, as added by section 103 of this division.
+											</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s681g/b">
+								<num>(b)</num>
+								<heading> Harmonizing reporting requirements</heading>
+								<chapeau>
+									The Secretary of Homeland Security, acting through the Director, shall, in consultation with the Cyber Incident Reporting Council described in 
+									<ref href="/us/usc/t6/s681f">section 681f of this title</ref>
+									, as added by section 103 of this division, to the maximum extent practicable—
+								</chapeau>
+								<paragraph identifier="/us/usc/t6/s681g/b/1">
+									<num>(1)</num>
+									<content> periodically review existing regulatory requirements, including the information required in such reports, to report incidents and ensure that any such reporting requirements and procedures avoid conflicting, duplicative, or burdensome requirements; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s681g/b/2">
+									<num>(2)</num>
+									<content> coordinate with appropriate Federal partners and regulatory authorities that receive reports relating to incidents to identify opportunities to streamline reporting processes, and where feasible, facilitate interagency agreements between such authorities to permit the sharing of such reports, consistent with applicable law and policy, without impacting the ability of the Agency to gain timely situational awareness of a covered cyber incident or ransom payment.</content>
+								</paragraph>
+							</subsection>
 						</section>
 					</part>
 				</subchapter>
@@ -50352,9 +51975,9 @@ Part D—Hazardous Material and Pipeline Security</column>
 							<paragraph identifier="/us/usc/t6/s1137a/d/1">
 								<num>(1)</num>
 								<content>
-									 The term “public and private sector stakeholders” has the meaning given such term in 
-									<ref href="/us/usc/t49/s114/t/1/c">section 114(t)(1)(c) of title 49</ref>
-									.
+									 The term “public and private sector stakeholders” has the meaning given such term in section 114(t)(1)(c) 
+									<sup>1</sup>
+									 of title 49.
 								</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t6/s1137a/d/2">

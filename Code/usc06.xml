@@ -3325,6 +3325,13 @@ Part D—Cyber Incident Reporting</column>
 								</p>
 							</content>
 						</subsection>
+						<subsection identifier="/us/usc/t6/s112/h">
+							<num>(h)</num>
+							<heading> Planning requirements</heading>
+							<content>
+								<p>The Secretary shall ensure the head of each office and component of the Department takes into account the needs of children, including children within under-served communities, in mission planning and mission execution. In furtherance of this subsection, the Secretary shall require each such head to seek, to the extent practicable, advice and feedback from organizations representing the needs of children. The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply whenever such advice or feedback is sought in accordance with this subsection.</p>
+							</content>
+						</subsection>
 					</section>
 					<section identifier="/us/usc/t6/s113">
 						<num>§ 113.</num>
@@ -16726,6 +16733,10 @@ Part D—Cyber Incident Reporting</column>
 									<num>(H)</num>
 									<content> develop and coordinate the implementation of a risk-based, all-hazards strategy for preparedness that builds those common capabilities necessary to respond to natural disasters, acts of terrorism, and other man-made disasters while also building the unique capabilities necessary to respond to specific types of incidents that pose the greatest risk to our Nation.</content>
 								</subparagraph>
+								<subparagraph identifier="/us/usc/t6/s313/b/2/I">
+									<num>(I)</num>
+									<content> identify, integrate, and implement the needs of children, including children within under-served communities, into activities to prepare for, protect against, respond to, recover from, and mitigate against the risk of natural disasters, acts of terrorism, and other disasters, including catastrophic incidents, including by appointing a technical expert, who may consult with relevant outside organizations and experts, as necessary, to coordinate such integration, as necessary.</content>
+								</subparagraph>
 							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t6/s313/c">
@@ -23595,18 +23606,11 @@ Part D—Cyber Incident Reporting</column>
 									<chapeau>In part V of subtitle A of title 10:</chapeau>
 									<subparagraph identifier="/us/usc/t6/s426/a/2/A">
 										<num>(A)</num>
-										<content>
-											 Paragraphs (1), (2), (6), and (7) of subsection (a) of 
-											<ref href="/us/usc/t10/s3204">section 3204 of title 10</ref>
-											, relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (d) of such section).
-										</content>
+										<content> Paragraphs (1), (2), (6), and (7) of subsection (a) of section 3204, relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (d) of such section).</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s426/a/2/B">
 										<num>(B)</num>
-										<content>
-											<ref href="/us/usc/t10/s3406">Section 3406 of title 10</ref>
-											, relating to orders under task and delivery order contracts.
-										</content>
+										<content> Section 3406, relating to orders under task and delivery order contracts.</content>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s426/a/3">
@@ -39919,7 +39923,10 @@ Part D—Cyber Incident Reporting</column>
 										</clause>
 										<clause identifier="/us/usc/t6/s665g/e/2/B/ii">
 											<num>(ii)</num>
-											<content> monitor, audit, and, track network traffic and activity transiting or traveling to or from information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity;</content>
+											<content>
+												 monitor, audit, and,
+												 track network traffic and activity transiting or traveling to or from information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity;
+											</content>
 										</clause>
 										<clause identifier="/us/usc/t6/s665g/e/2/B/iii">
 											<num>(iii)</num>

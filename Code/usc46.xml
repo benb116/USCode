@@ -25919,15 +25919,15 @@ Amendments</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t46/s40101/2">
 								<num>(2)</num>
-								<content> provide an efficient and economic transportation system in the ocean commerce of the United States that is, insofar as possible, in harmony with, and responsive to, international shipping practices;</content>
+								<content> ensure an efficient, competitive, and economical transportation system in the ocean commerce of the United States;</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t46/s40101/3">
 								<num>(3)</num>
-								<content> encourage the development of an economically sound and efficient liner fleet of vessels of the United States capable of meeting national security needs; and</content>
+								<content> encourage the development of an economically sound and efficient liner fleet of vessels of the United States capable of meeting national security needs and supporting commerce; and</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t46/s40101/4">
 								<num>(4)</num>
-								<content> promote the growth and development of United States exports through competitive and efficient ocean transportation and by placing a greater reliance on the marketplace.</content>
+								<content> promote the growth and development of United States exports through a competitive and efficient system for the carriage of goods by water in the foreign commerce of the United States, and by placing a greater reliance on the marketplace.</content>
 							</paragraph>
 						</section>
 						<section identifier="/us/usc/t46/s40102">
@@ -27009,6 +27009,12 @@ Amendments</column>
 									</column>
 									<column>Refunds and waivers.</column>
 								</tocItem>
+								<tocItem>
+									<column>
+										<ref href="/us/usc/t46/s40504">40504.</ref>
+									</column>
+									<column>Shipping exchange registry.</column>
+								</tocItem>
 							</layout>
 						</toc>
 						<section identifier="/us/usc/t46/s40501">
@@ -27215,11 +27221,15 @@ Amendments</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t46/s40502/c/7">
 									<num>(7)</num>
-									<content> service commitments; and</content>
+									<content> service commitments;</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t46/s40502/c/8">
 									<num>(8)</num>
-									<content> the liquidated damages for nonperformance, if any.</content>
+									<content> the liquidated damages for nonperformance, if any; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s40502/c/9">
+									<num>(9)</num>
+									<content> any other essential terms that the Federal Maritime Commission determines necessary or appropriate through a rulemaking process.</content>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s40502/d">
@@ -27322,6 +27332,54 @@ Amendments</column>
 								<num>(3)</num>
 								<content> the application for the refund or waiver is filed with the Commission within 180 days from the date of shipment.</content>
 							</paragraph>
+						</section>
+						<section identifier="/us/usc/t46/s40504">
+							<num>§ 40504.</num>
+							<heading> Shipping exchange registry</heading>
+							<subsection identifier="/us/usc/t46/s40504/a">
+								<num>(a)</num>
+								<heading>
+									<inline>In General</inline>
+									.—
+								</heading>
+								<content>No person may operate a shipping exchange involving ocean transportation in the foreign commerce of the United States unless the shipping exchange is registered as a national shipping exchange under the terms and conditions provided in this section and the regulations issued pursuant to this section.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s40504/b">
+								<num>(b)</num>
+								<heading>
+									<inline>Registration</inline>
+									.—
+								</heading>
+								<content>A person shall register a shipping exchange by filing with the Federal Maritime Commission an application for registration in such form as the Commission, by rule, may prescribe, containing the rules of the exchange and such other information and documents as the Commission, by rule, may prescribe as necessary or appropriate to complete a shipping exchange’s registration.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s40504/c">
+								<num>(c)</num>
+								<heading>
+									<inline>Exemption</inline>
+									.—
+								</heading>
+								<content>The Commission may exempt, conditionally or unconditionally, a shipping exchange from registration under this section if the Commission finds that the shipping exchange is subject to comparable, comprehensive supervision and regulation by the appropriate governmental authorities in a foreign country where the shipping exchange is headquartered.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s40504/d">
+								<num>(d)</num>
+								<heading>
+									<inline>Regulations</inline>
+									.—
+								</heading>
+								<content>
+									Not later than 3 years after the date of enactment of the Ocean Shipping Reform Act of 2022, the Commission shall issue regulations pursuant to subsection (a), which shall set standards necessary to carry out subtitle IV of this title for registered national shipping exchanges. For consideration of a service contract entered into by a shipping exchange, the Commission shall be limited to the minimum essential terms for service contracts established under 
+									<ref href="/us/usc/t46/s40502">section 40502 of this title</ref>
+									.
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s40504/e">
+								<num>(e)</num>
+								<heading>
+									<inline>Definition of Shipping Exchange</inline>
+									.—
+								</heading>
+								<content>In this section, the term “shipping exchange” means a platform (digital, over-the-counter, or otherwise) that connects shippers with common carriers for the purpose of entering into underlying agreements or contracts for the transport of cargo, by vessel or other modes of transportation.</content>
+							</subsection>
 						</section>
 					</chapter>
 					<chapter identifier="/us/usc/t46/stIV/ptA/ch407">
@@ -27859,6 +27917,12 @@ Amendments</column>
 									</column>
 									<column>Assessment of penalties.</column>
 								</tocItem>
+								<tocItem>
+									<column>
+										<ref href="/us/usc/t46/s41110">41110.</ref>
+									</column>
+									<column>Data collection.</column>
+								</tocItem>
 							</layout>
 						</toc>
 						<section identifier="/us/usc/t46/s41101">
@@ -27906,6 +27970,38 @@ Amendments</column>
 									.—
 								</heading>
 								<content>A common carrier, marine terminal operator, or ocean transportation intermediary may not fail to establish, observe, and enforce just and reasonable regulations and practices relating to or connected with receiving, handling, storing, or delivering property.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s41102/d">
+								<num>(d)</num>
+								<heading>
+									<inline>Retaliation and Other Discriminatory Actions</inline>
+									.—
+								</heading>
+								<chapeau>A common carrier, marine terminal operator, or ocean transportation intermediary, acting alone or in conjunction with any other person, directly or indirectly, may not—</chapeau>
+								<paragraph identifier="/us/usc/t46/s41102/d/1">
+									<num>(1)</num>
+									<content> retaliate against a shipper, an agent of a shipper, an ocean transportation intermediary, or a motor carrier by refusing, or threatening to refuse, an otherwise-available cargo space accommodation; or</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s41102/d/2">
+									<num>(2)</num>
+									<chapeau> resort to any other unfair or unjustly discriminatory action for—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s41102/d/2/A">
+										<num>(A)</num>
+										<chapeau> the reason that a shipper, an agent of a shipper, an ocean transportation intermediary, or motor carrier has—</chapeau>
+										<clause identifier="/us/usc/t46/s41102/d/2/A/i">
+											<num>(i)</num>
+											<content> patronized another carrier; or</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s41102/d/2/A/ii">
+											<num>(ii)</num>
+											<content> filed a complaint against the common carrier, marine terminal operator, or ocean transportation intermediary; or</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41102/d/2/B">
+										<num>(B)</num>
+										<content> any other reason.</content>
+									</subparagraph>
+								</paragraph>
 							</subsection>
 						</section>
 						<section identifier="/us/usc/t46/s41103">
@@ -27985,7 +28081,7 @@ Amendments</column>
 									<inline>In General</inline>
 									.—
 								</heading>
-								<chapeau>A common carrier, either alone or in conjunction with any other person, directly or indirectly, may not—</chapeau>
+								<chapeau>A common carrier, either alone or in conjunction with any other person, directly or indirectly, shall not—</chapeau>
 								<paragraph identifier="/us/usc/t46/s41104/a/1">
 									<num>(1)</num>
 									<content> allow a person to obtain transportation for property at less than the rates or charges established by the carrier in its tariff or service contract by means of false billing, false classification, false weighing, false measurement, or any other unjust or unfair device or means;</content>
@@ -28004,7 +28100,7 @@ Amendments</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t46/s41104/a/3">
 									<num>(3)</num>
-									<content> retaliate against a shipper by refusing, or threatening to refuse, cargo space accommodations when available, or resort to other unfair or unjustly discriminatory methods because the shipper has patronized another carrier, or has filed a complaint, or for any other reason;</content>
+									<content> unreasonably refuse cargo space accommodations when available, or resort to other unfair or unjustly discriminatory methods;</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t46/s41104/a/4">
 									<num>(4)</num>
@@ -28032,7 +28128,7 @@ Amendments</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t46/s41104/a/5">
 									<num>(5)</num>
-									<content> for service pursuant to a service contract, engage in any unfair or unjustly discriminatory practice in the matter of rates or charges with respect to any port;</content>
+									<content> for service pursuant to a service contract, engage in any unfair or unjustly discriminatory practice against any commodity group or type of shipment or in the matter of rates or charges with respect to any port;</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t46/s41104/a/6">
 									<num>(6)</num>
@@ -28052,7 +28148,7 @@ Amendments</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t46/s41104/a/10">
 									<num>(10)</num>
-									<content> unreasonably refuse to deal or negotiate;</content>
+									<content> unreasonably refuse to deal or negotiate, including with respect to vessel space accommodations provided by an ocean common carrier;</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t46/s41104/a/11">
 									<num>(11)</num>
@@ -28071,12 +28167,36 @@ Amendments</column>
 										<ref href="/us/usc/t46/s40501">section 40501 of this title</ref>
 										 and a bond, insurance, or other surety as required by 
 										<ref href="/us/usc/t46/s40902">section 40902 of this title</ref>
-										, or with an affiliate of such an ocean transportation intermediary; or
+										, or with an affiliate of such an ocean transportation intermediary;
 									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t46/s41104/a/13">
 									<num>(13)</num>
-									<content> continue to participate simultaneously in a rate discussion agreement and an agreement to share vessels, in the same trade, if the interplay of the authorities exercised by the specified agreements is likely, by a reduction in competition, to produce an unreasonable reduction in transportation service or an unreasonable increase in transportation cost.</content>
+									<content> continue to participate simultaneously in a rate discussion agreement and an agreement to share vessels, in the same trade, if the interplay of the authorities exercised by the specified agreements is likely, by a reduction in competition, to produce an unreasonable reduction in transportation service or an unreasonable increase in transportation cost;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s41104/a/14">
+									<num>(14)</num>
+									<content> assess any party for a charge that is inconsistent or does not comply with all applicable provisions and regulations, including subsection (c) of section 41102 or part 545 of title 46, Code of Federal Regulations (or successor regulations);</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s41104/a/15">
+									<num>(15)</num>
+									<chapeau> invoice any party for demurrage or detention charges unless the invoice includes information as described in subsection (d) showing that such charges comply with—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s41104/a/15/A">
+										<num>(A)</num>
+										<content> all provisions of part 545 of title 46, Code of Federal Regulations (or successor regulations); and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41104/a/15/B">
+										<num>(B)</num>
+										<content>
+											 applicable provisions and regulations, including the principles of the final rule published on 
+											<date date="2020-05-18">May 18, 2020</date>
+											, entitled “Interpretive Rule on Demurrage and Detention Under the Shipping Act” (or successor rule); or
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s41104/a/16">
+									<num>(16)</num>
+									<content> for service pursuant to a service contract, give any undue or unreasonable preference or advantage or impose any undue or unreasonable prejudice or disadvantage against any commodity group or type of shipment.</content>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41104/b">
@@ -28094,6 +28214,96 @@ Amendments</column>
 									.—
 								</heading>
 								<content>Participants in an agreement found by the Commission to violate subsection (a)(13) shall have 90 days from the date of such Commission finding to withdraw from the agreement as necessary to comply with that subsection.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s41104/d">
+								<num>(d)</num>
+								<heading>
+									<inline>Detention and Demurrage Invoice Information.—</inline>
+								</heading>
+								<paragraph identifier="/us/usc/t46/s41104/d/1">
+									<num>(1)</num>
+									<heading>
+										<inline>Inaccurate invoice</inline>
+										.—
+									</heading>
+									<content>If the Commission determines, after an investigation in response to a submission under section 41310, that an invoice under subsection (a)(15) was inaccurate or false, penalties or refunds under section 41107 shall be applied.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s41104/d/2">
+									<num>(2)</num>
+									<heading>
+										<inline>Contents of invoice</inline>
+										.—
+									</heading>
+									<chapeau>An invoice under subsection (a)(15), unless otherwise determined by subsequent Commission rulemaking, shall include accurate information on each of the following, as well as minimum information as determined by the Commission:</chapeau>
+									<subparagraph identifier="/us/usc/t46/s41104/d/2/A">
+										<num>(A)</num>
+										<content> Date that container is made available.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41104/d/2/B">
+										<num>(B)</num>
+										<content> The port of discharge.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41104/d/2/C">
+										<num>(C)</num>
+										<content> The container number or numbers.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41104/d/2/D">
+										<num>(D)</num>
+										<content> For exported shipments, the earliest return date.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41104/d/2/E">
+										<num>(E)</num>
+										<content> The allowed free time in days.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41104/d/2/F">
+										<num>(F)</num>
+										<content> The start date of free time.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41104/d/2/G">
+										<num>(G)</num>
+										<content> The end date of free time.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41104/d/2/H">
+										<num>(H)</num>
+										<content> The applicable detention or demurrage rule on which the daily rate is based.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41104/d/2/I">
+										<num>(I)</num>
+										<content> The applicable rate or rates per the applicable rule.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41104/d/2/J">
+										<num>(J)</num>
+										<content> The total amount due.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41104/d/2/K">
+										<num>(K)</num>
+										<content> The email, telephone number, or other appropriate contact information for questions or requests for mitigation of fees.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41104/d/2/L">
+										<num>(L)</num>
+										<content> A statement that the charges are consistent with any of Federal Maritime Commission rules with respect to detention and demurrage.</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41104/d/2/M">
+										<num>(M)</num>
+										<content> A statement that the common carrier’s performance did not cause or contribute to the underlying invoiced charges.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s41104/e">
+								<num>(e)</num>
+								<heading>
+									<inline>Safe Harbor</inline>
+									.—
+								</heading>
+								<content>If a non-vessel operating common carrier passes through to the relevant shipper an invoice made by the ocean common carrier, and the Commission finds that the non-vessel operating common carrier is not otherwise responsible for the charge, then the ocean common carrier shall be subject to refunds or penalties pursuant to subsection (d)(1).</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s41104/f">
+								<num>(f)</num>
+								<heading>
+									<inline>Elimination of Charge Obligation</inline>
+									.—
+								</heading>
+								<content>Failure to include the information required under subsection (d) on an invoice with any demurrage or detention charge shall eliminate any obligation of the charged party to pay the applicable charge.</content>
 							</subsection>
 						</section>
 						<section identifier="/us/usc/t46/s41105">
@@ -28183,14 +28393,14 @@ Amendments</column>
 						</section>
 						<section identifier="/us/usc/t46/s41107">
 							<num>§ 41107.</num>
-							<heading> Monetary penalties</heading>
+							<heading> Monetary penalties or refunds</heading>
 							<subsection identifier="/us/usc/t46/s41107/a">
 								<num>(a)</num>
 								<heading>
 									<inline>In General</inline>
 									.—
 								</heading>
-								<content>A person that violates this part or a regulation or order of the Federal Maritime Commission issued under this part is liable to the United States Government for a civil penalty. Unless otherwise provided in this part, the amount of the penalty may not exceed $5,000 for each violation or, if the violation was willfully and knowingly committed, $25,000 for each violation. Each day of a continuing violation is a separate violation.</content>
+								<content>A person that violates this part or a regulation or order of the Federal Maritime Commission issued under this part is liable to the United States Government for a civil penalty or, in addition to or in lieu of a civil penalty, is liable for the refund of a charge. Unless otherwise provided in this part, the amount of the penalty may not exceed $5,000 for each violation or, if the violation was willfully and knowingly committed, $25,000 for each violation. Each day of a continuing violation is a separate violation.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41107/b">
 								<num>(b)</num>
@@ -28198,7 +28408,7 @@ Amendments</column>
 									<inline>Lien on Carrier’s Vessels</inline>
 									.—
 								</heading>
-								<content>The amount of a civil penalty imposed on a common carrier under this section constitutes a lien on the vessels operated by the carrier. Any such vessel is subject to an action in rem to enforce the lien in the district court of the United States for the district in which it is found.</content>
+								<content>The amount of a civil penalty or, in addition to or in lieu of a civil penalty, the refund of a charge, imposed on a common carrier under this section constitutes a lien on the vessels operated by the carrier. Any such vessel is subject to an action in rem to enforce the lien in the district court of the United States for the district in which it is found.</content>
 							</subsection>
 						</section>
 						<section identifier="/us/usc/t46/s41108">
@@ -28211,8 +28421,9 @@ Amendments</column>
 									.—
 								</heading>
 								<content>
-									For a violation of section 41104(1), (2), or (7) 
-									 of this title, the Federal Maritime Commission may suspend any or all tariffs of the common carrier, or that common carrier’s right to use any or all tariffs of conferences of which it is a member, for a period not to exceed 12 months.
+									For a violation of paragraph (1), (2), or (7) of 
+									<ref href="/us/usc/t46/s41104/a">section 41104(a) of this title</ref>
+									, the Federal Maritime Commission may suspend any or all tariffs of the common carrier, or that common carrier’s right to use any or all tariffs of conferences of which it is a member, for a period not to exceed 12 months.
 								</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41108/b">
@@ -28284,15 +28495,95 @@ Amendments</column>
 									<inline>General Authority</inline>
 									.—
 								</heading>
-								<content>Until a matter is referred to the Attorney General, the Federal Maritime Commission may, after notice and opportunity for a hearing, assess a civil penalty provided for in this part. The Commission may compromise, modify, or remit, with or without conditions, a civil penalty.</content>
+								<chapeau>Until a matter is referred to the Attorney General, the Federal Maritime Commission may—</chapeau>
+								<paragraph identifier="/us/usc/t46/s41109/a/1">
+									<num>(1)</num>
+									<chapeau> after notice and opportunity for a hearing, in accordance with this part—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s41109/a/1/A">
+										<num>(A)</num>
+										<content> assess a civil penalty; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41109/a/1/B">
+										<num>(B)</num>
+										<content> in addition to, or in lieu of, assessing a civil penalty under subparagraph (A), order a refund of money (including additional amounts in accordance with section 41305(c)), subject to subsection (b)(2); and</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s41109/a/2">
+									<num>(2)</num>
+									<content> compromise, modify, or remit, with or without conditions, a civil penalty or refund imposed under paragraph (1).</content>
+								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41109/b">
 								<num>(b)</num>
 								<heading>
-									<inline>Factors in Determining Amount</inline>
-									.—
+									<inline>Determination of Amount.—</inline>
 								</heading>
-								<content>In determining the amount of a civil penalty, the Commission shall take into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, ability to pay, and other matters justice may require.</content>
+								<paragraph identifier="/us/usc/t46/s41109/b/1">
+									<num>(1)</num>
+									<heading>
+										<inline>Factors for consideration</inline>
+										.—
+									</heading>
+									<chapeau>In determining the amount of a civil penalty assessed or refund of money ordered pursuant to subsection (a), the Federal Maritime Commission shall take into consideration—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s41109/b/1/A">
+										<num>(A)</num>
+										<content> the nature, circumstances, extent, and gravity of the violation committed;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41109/b/1/B">
+										<num>(B)</num>
+										<chapeau> with respect to the violator—</chapeau>
+										<clause identifier="/us/usc/t46/s41109/b/1/B/i">
+											<num>(i)</num>
+											<content> the degree of culpability;</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s41109/b/1/B/ii">
+											<num>(ii)</num>
+											<content> any history of prior offenses;</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s41109/b/1/B/iii">
+											<num>(iii)</num>
+											<content> the ability to pay; and</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s41109/b/1/B/iv">
+											<num>(iv)</num>
+											<content> such other matters as justice may require; and</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41109/b/1/C">
+										<num>(C)</num>
+										<content> the amount of any refund of money ordered pursuant to subsection (a)(1)(B).</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s41109/b/2">
+									<num>(2)</num>
+									<heading>
+										<inline>Commensurate reduction in civil penalty.—</inline>
+									</heading>
+									<subparagraph identifier="/us/usc/t46/s41109/b/2/A">
+										<num>(A)</num>
+										<heading>
+											<inline>In general</inline>
+											.—
+										</heading>
+										<content>In any case in which the Federal Maritime Commission orders a refund of money pursuant to subsection (a)(1)(B) in addition to assessing a civil penalty pursuant to subsection (a)(1)(A), the amount of the civil penalty assessed shall be decreased by any additional amounts included in the refund of money in excess of the actual injury (as defined in section 41305(a)).</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s41109/b/2/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Treatment of refunds</inline>
+											.—
+										</heading>
+										<chapeau>A refund of money ordered pursuant to subsection (a)(1)(B) shall be—</chapeau>
+										<clause identifier="/us/usc/t46/s41109/b/2/B/i">
+											<num>(i)</num>
+											<content> considered to be compensation paid to the applicable claimant; and</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s41109/b/2/B/ii">
+											<num>(ii)</num>
+											<content> deducted from the total amount of damages awarded to that claimant in a civil action against the violator relating to the applicable violation.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41109/c">
 								<num>(c)</num>
@@ -28300,10 +28591,7 @@ Amendments</column>
 									<inline>Exception</inline>
 									.—
 								</heading>
-								<content>
-									A civil penalty may not be imposed for conspiracy to violate section 41102(a) or 41104(1) or (2) 
-									 of this title or to defraud the Commission by concealing such a violation.
-								</content>
+								<content>A civil penalty or refund of money under subparagraph (A) or (B), respectively, of subsection (a)(1) may not be imposed for conspiracy to violate subsection (a) or (d) of section 41102 or paragraph (1) or (2) of section 41104(a) or to defraud the Commission by concealing such a violation.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41109/d">
 								<num>(d)</num>
@@ -28319,7 +28607,7 @@ Amendments</column>
 									<inline>Time Limit</inline>
 									.—
 								</heading>
-								<content>A proceeding to assess a civil penalty under this section must be commenced within 5 years after the date of the violation.</content>
+								<content>A proceeding to assess a civil penalty or order a refund of money under this section must be commenced within 5 years after the date of the violation.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41109/f">
 								<num>(f)</num>
@@ -28327,7 +28615,7 @@ Amendments</column>
 									<inline>Review of Civil Penalty</inline>
 									.—
 								</heading>
-								<content>A person against whom a civil penalty is assessed under this section may obtain review under chapter 158 of title 28.</content>
+								<content>A person against whom a civil penalty is assessed, or that is ordered to refund money, under this section may obtain review under chapter 158 of title 28.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41109/g">
 								<num>(g)</num>
@@ -28335,8 +28623,15 @@ Amendments</column>
 									<inline>Civil Actions To Collect</inline>
 									.—
 								</heading>
-								<content>If a person does not pay an assessment of a civil penalty after it has become final or after the appropriate court has entered final judgment in favor of the Commission, the Attorney General at the request of the Commission may seek to collect the amount assessed in an appropriate district court of the United States. The court shall enforce the order of the Commission unless it finds that the order was not regularly made and duly issued.</content>
+								<content>If a person does not pay an assessment of a civil penalty or a refund required under this section after it has become final or after the appropriate court has entered final judgment in favor of the Commission, the Attorney General at the request of the Commission may seek to collect the amount assessed in an appropriate district court of the United States. The court shall enforce the order of the Commission unless it finds that the order was not regularly made and duly issued.</content>
 							</subsection>
+						</section>
+						<section identifier="/us/usc/t46/s41110">
+							<num>§ 41110.</num>
+							<heading> Data collection</heading>
+							<content>
+								<p>The Federal Maritime Commission shall publish on its website a calendar quarterly report that describes the total import and export tonnage and the total loaded and empty 20-foot equivalent units per vessel (making port in the United States, including any territory or possession of the United States) operated by each ocean common carrier covered under this chapter. Ocean common carriers under this chapter shall provide to the Commission all necessary information, as determined by the Commission, for completion of this report.</p>
+							</content>
 						</section>
 					</chapter>
 					<chapter identifier="/us/usc/t46/stIV/ptA/ch413">
@@ -28401,6 +28696,12 @@ Amendments</column>
 									</column>
 									<column>Enforcement of reparation orders.</column>
 								</tocItem>
+								<tocItem>
+									<column>
+										<ref href="/us/usc/t46/s41310">41310.</ref>
+									</column>
+									<column>Charge complaints.</column>
+								</tocItem>
 							</layout>
 						</toc>
 						<section identifier="/us/usc/t46/s41301">
@@ -28440,15 +28741,18 @@ Amendments</column>
 									<inline>In General</inline>
 									.—
 								</heading>
-								<content>The Federal Maritime Commission, on complaint or its own motion, may investigate any conduct or agreement that the Commission believes may be in violation of this part. The Commission may by order disapprove, cancel, or modify any agreement that operates in violation of this part.</content>
+								<content>
+									The Federal Maritime Commission, on complaint or its own motion, may investigate any conduct 
+									 agreement, fee, or charge that the Commission believes may be in violation of this part. The Commission may by order disapprove, cancel, or modify any agreement that operates in violation of this part.
+								</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41302/b">
 								<num>(b)</num>
 								<heading>
-									<inline>Effectiveness of Agreement During Investigation</inline>
+									<inline>Effectiveness of Agreement, Fee, or Charge During Investigation</inline>
 									.—
 								</heading>
-								<content>Unless an injunction is issued under section 41306 or 41307 of this title, an agreement under investigation by the Commission remains in effect until the Commission issues its order.</content>
+								<content>Unless an injunction is issued under section 41306 or 41307 of this title, an agreement, fee, or charge under investigation by the Commission remains in effect until the Commission issues its order.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41302/c">
 								<num>(c)</num>
@@ -28572,7 +28876,10 @@ Amendments</column>
 									<inline>Additional Amounts</inline>
 									.—
 								</heading>
-								<content>On a showing that the injury was caused by an activity prohibited by section 41102(b), 41104(3) or (6), or 41105(1) or (3) of this title, the Commission may order the payment of additional amounts, but the total recovery of a complainant may not exceed twice the amount of the actual injury.</content>
+								<content>
+									On a showing that the injury was caused by an activity prohibited by section subsection 
+									 (b) or (c) of section 41102, paragraph (3) or (6) of section 41104(a), or paragraph (1) or (3) of section 41105, the Commission may order the payment of additional amounts, but the total recovery of a complainant may not exceed twice the amount of the actual injury.
+								</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41305/d">
 								<num>(d)</num>
@@ -28580,7 +28887,7 @@ Amendments</column>
 									<inline>Difference Between Rates</inline>
 									.—
 								</heading>
-								<content>If the injury was caused by an activity prohibited by section 41104(4)(A) or (B) of this title, the amount of the injury shall be the difference between the rate paid by the injured shipper and the most favorable rate paid by another shipper.</content>
+								<content>If the injury was caused by an activity prohibited by subparagraph (A) or (B) of section 41104(a)(4), the amount of the injury shall be the difference between the rate paid by the injured shipper and the most favorable rate paid by another shipper.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41305/e">
 								<num>(e)</num>
@@ -28775,7 +29082,7 @@ Amendments</column>
 									<inline>Civil Action</inline>
 									.—
 								</heading>
-								<content>If a person does not comply with an order of the Federal Maritime Commission for the payment of reparation, the person to whom the award was made may seek enforcement of the order in a district court of the United States having jurisdiction over the parties.</content>
+								<content>If a person does not comply with an order of the Federal Maritime Commission for the payment of a refund of money or reparation, the person to which the refund or reparation was awarded may seek enforcement of the order in a district court of the United States having jurisdiction over the parties.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41309/b">
 								<num>(b)</num>
@@ -28783,7 +29090,7 @@ Amendments</column>
 									<inline>Parties and Service of Process</inline>
 									.—
 								</heading>
-								<content>All parties in whose favor the Commission has made an award of reparation by a single order may be joined as plaintiffs, and all other parties in the order may be joined as defendants, in a single action in a judicial district in which any one plaintiff could maintain an action against any one defendant. Service of process against a defendant not found in that district may be made in a district in which any office of that defendant is located or in which any port of call on a regular route operated by that defendant is located. Judgment may be entered for any plaintiff against the defendant liable to that plaintiff.</content>
+								<content>All parties in whose favor the Commission has ordered a refund of money or any other award of reparation by a single order may be joined as plaintiffs, and all other parties in the order (except for the Commission or any component of the Commission) may be joined as defendants, in a single action in a judicial district in which any one plaintiff could maintain an action against any one defendant. Service of process against a defendant not found in that district may be made in a district in which any office of that defendant is located or in which any port of call on a regular route operated by that defendant is located. Judgment may be entered for any plaintiff against the defendant liable to that plaintiff.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s41309/c">
 								<num>(c)</num>
@@ -28808,6 +29115,66 @@ Amendments</column>
 									.—
 								</heading>
 								<content>An action under this section to enforce an order of the Commission must be brought within 3 years after the date the order was violated.</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t46/s41310">
+							<num>§ 41310.</num>
+							<heading> Charge complaints</heading>
+							<subsection identifier="/us/usc/t46/s41310/a">
+								<num>(a)</num>
+								<heading>
+									<inline>In General</inline>
+									.—
+								</heading>
+								<content>A person may submit to the Federal Maritime Commission, and the Commission shall accept, information concerning complaints about charges assessed by a common carrier. The information submitted to the Commission shall include the bill of lading numbers and invoices, and may include any other relevant information.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s41310/b">
+								<num>(b)</num>
+								<heading>
+									<inline>Investigation</inline>
+									.—
+								</heading>
+								<chapeau>Upon receipt of a submission under subsection (a), with respect to a charge assessed by a common carrier, the Commission shall promptly investigate the charge with regard to compliance with section 41104(a) and section 41102. The common carrier shall—</chapeau>
+								<paragraph identifier="/us/usc/t46/s41310/b/1">
+									<num>(1)</num>
+									<content> be provided an opportunity to submit additional information related to the charge in question; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s41310/b/2">
+									<num>(2)</num>
+									<content> bear the burden of establishing the reasonableness of any demurrage or detention charges pursuant to section 545.5 of title 46, Code of Federal Regulations (or successor regulations).</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s41310/c">
+								<num>(c)</num>
+								<heading>
+									<inline>Refund</inline>
+									.—
+								</heading>
+								<content>Upon receipt of submissions under subsection (a), if the Commission determines that a charge does not comply with section 41104(a) or 41102, the Commission shall promptly order the refund of charges paid.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s41310/d">
+								<num>(d)</num>
+								<heading>
+									<inline>Penalties</inline>
+									.—
+								</heading>
+								<content>In the event of a finding that a charge does not comply with section 41104(a) or 41102 after submission under subsection (a), a civil penalty under section 41107 shall be applied to the common carrier making such charge.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s41310/e">
+								<num>(e)</num>
+								<heading>
+									<inline>Considerations</inline>
+									.—
+								</heading>
+								<chapeau>If the common carrier assessing the charge is acting in the capacity of a non-vessel-operating common carrier, the Commission shall, while conducting an investigation under subsection (b), consider—</chapeau>
+								<paragraph identifier="/us/usc/t46/s41310/e/1">
+									<num>(1)</num>
+									<content> whether the non-vessel-operating common carrier is responsible for the noncompliant assessment of the charge, in whole or in part; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s41310/e/2">
+									<num>(2)</num>
+									<content> whether another party is ultimately responsible in whole or in part and potentially subject to action under subsections (c) and (d).</content>
+								</paragraph>
 							</subsection>
 						</section>
 					</chapter>
@@ -30530,15 +30897,51 @@ Amendments</column>
 									<content>
 										 a list of petitions filed under 
 										<ref href="/us/usc/t46/s42302/b">section 42302(b) of this title</ref>
-										 that the Commission rejected and the reasons for each rejection; and
+										 that the Commission rejected and the reasons for each rejection;
 									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t46/s46106/b/6">
 									<num>(6)</num>
 									<content>
 										 an analysis of the impacts on competition for the purchase of certain covered services by alliances of ocean common carriers acting pursuant to an agreement under this part 
-										 between or among ocean common carriers, including a summary of actions, including corrective actions, taken by the Commission to promote such competition.
+										 between or among ocean common carriers, including a summary of actions, including corrective actions, taken by the Commission to promote such competition; and
 									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s46106/b/7">
+									<num>(7)</num>
+									<chapeau> an identification of any otherwise concerning practices by ocean common carriers, particularly such carriers that are controlled carriers, that are—</chapeau>
+									<subparagraph identifier="/us/usc/t46/s46106/b/7/A">
+										<num>(A)</num>
+										<content> State-owned or State-controlled enterprises; or</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t46/s46106/b/7/B">
+										<num>(B)</num>
+										<chapeau> owned or controlled by, a subsidiary of, or otherwise related legally or financially (other than a minority relationship or investment) to a corporation based in a country—</chapeau>
+										<clause identifier="/us/usc/t46/s46106/b/7/B/i">
+											<num>(i)</num>
+											<content>
+												 identified as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 (
+												<ref href="/us/usc/t19/s1677/18">19 U.S.C. 1677(18)</ref>
+												)) as of the date of enactment of this paragraph;
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s46106/b/7/B/ii">
+											<num>(ii)</num>
+											<content>
+												 identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 (
+												<ref href="/us/usc/t19/s2242">19 U.S.C. 2242</ref>
+												) as a priority foreign country under subsection (a)(2) of that section; or
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t46/s46106/b/7/B/iii">
+											<num>(iii)</num>
+											<content>
+												 subject to monitoring by the United States Trade Representative under section 306 of the Trade Act of 1974 (
+												<ref href="/us/usc/t19/s2416">19 U.S.C. 2416</ref>
+												).
+											</content>
+										</clause>
+									</subparagraph>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t46/s46106/c">
@@ -30548,6 +30951,26 @@ Amendments</column>
 									.—
 								</heading>
 								<content>In this section, the term “certain covered services” has the meaning given the term in section 40102.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t46/s46106/d">
+								<num>(d)</num>
+								<heading>
+									<inline>Public Disclosures</inline>
+									.—
+								</heading>
+								<chapeau>The Federal Maritime Commission shall publish, and annually update, on the website of the Commission—</chapeau>
+								<paragraph identifier="/us/usc/t46/s46106/d/1">
+									<num>(1)</num>
+									<content>
+										 all findings by the Commission of false detention and demurrage invoice information by common carriers under 
+										<ref href="/us/usc/t46/s41104/a/15">section 41104(a)(15) of this title</ref>
+										; and
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t46/s46106/d/2">
+									<num>(2)</num>
+									<content> all penalties imposed or assessed against common carriers, as applicable, under sections 41107, 41108, and 41109, listed by each common carrier.</content>
+								</paragraph>
 							</subsection>
 						</section>
 						<section identifier="/us/usc/t46/s46107">
@@ -30574,7 +30997,7 @@ Amendments</column>
 							<num>§ 46108.</num>
 							<heading> Authorization of appropriations</heading>
 							<content>
-								<p>There is authorized to be appropriated to the Federal Maritime Commission $29,086,888 for fiscal year 2020 and $29,639,538 for fiscal year 2021 for the activities of the Commission authorized under this chapter and subtitle IV.</p>
+								<p>There is authorized to be appropriated to the Federal Maritime Commission $32,869,000 for fiscal year 2022, $38,260,000 for fiscal year 2023, $43,720,000 for fiscal year 2024, and $49,200,000 for fiscal year 2025 for the activities of the Commission authorized under this chapter and subtitle IV.</p>
 							</content>
 						</section>
 					</chapter>

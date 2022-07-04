@@ -372,20 +372,12 @@
 									<content>
 										 payments to victims of international terrorism or domestic terrorism, as those terms are defined in 
 										<ref href="/us/usc/t18/s2331">section 2331 of title 18</ref>
-										, on account of their status as victims of such terrorism;
+										, on account of their status as victims of such terrorism; and
 									</content>
 								</subclause>
 								<subclause identifier="/us/usc/t11/s101/10A/B/ii/IV">
 									<num>(IV)</num>
-									<content> any monthly compensation, pension, pay, annuity, or allowance paid under title 10, 37, or 38 in connection with a disability, combat-related injury or disability, or death of a member of the uniformed services, except that any retired pay excluded under this subclause shall include retired pay paid under chapter 61 of title 10 only to the extent that such retired pay exceeds the amount of retired pay to which the debtor would otherwise be entitled if retired under any provision of title 10 other than chapter 61 of that title; and</content>
-								</subclause>
-								<subclause identifier="/us/usc/t11/s101/10A/B/ii/V">
-									<num>(V)</num>
-									<content>
-										 Payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act (
-										<ref href="/us/usc/t50/s1601">50 U.S.C. 1601</ref>
-										 et seq.) with respect to the coronavirus disease 2019 (COVID–19).
-									</content>
+									<content> any monthly compensation, pension, pay, annuity, or allowance paid under title 10, 37, or 38 in connection with a disability, combat-related injury or disability, or death of a member of the uniformed services, except that any retired pay excluded under this subclause shall include retired pay paid under chapter 61 of title 10 only to the extent that such retired pay exceeds the amount of retired pay to which the debtor would otherwise be entitled if retired under any provision of title 10 other than chapter 61 of that title.</content>
 								</subclause>
 							</clause>
 						</subparagraph>
@@ -535,7 +527,11 @@
 						<chapeau> The term “family farmer” means—</chapeau>
 						<subparagraph identifier="/us/usc/t11/s101/18/A">
 							<num>(A)</num>
-							<chapeau> individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $10,000,000 and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual’s or such individual and spouse’s gross income for—</chapeau>
+							<chapeau>
+								 individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $10,000,000 
+								<sup>1</sup>
+								 and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual’s or such individual and spouse’s gross income for—
+							</chapeau>
 							<clause identifier="/us/usc/t11/s101/18/A/i">
 								<num>(i)</num>
 								<content> the taxable year preceding; or</content>
@@ -555,7 +551,11 @@
 							</clause>
 							<clause identifier="/us/usc/t11/s101/18/B/ii">
 								<num>(ii)</num>
-								<content> its aggregate debts do not exceed $10,000,000 and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and</content>
+								<content>
+									 its aggregate debts do not exceed $10,000,000 
+									<sup>1</sup>
+									 and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
+								</content>
 							</clause>
 							<clause identifier="/us/usc/t11/s101/18/B/iii">
 								<num>(iii)</num>
@@ -1385,7 +1385,7 @@
 							<clause identifier="/us/usc/t11/s101/51D/B/i">
 								<num>(i)</num>
 								<content>
-									 any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 
+									 any member of a group of affiliated debtors under this title that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 
 									<sup>1</sup>
 									 (excluding debt owed to 1 or more affiliates or insiders);
 								</content>
@@ -1402,11 +1402,7 @@
 							</clause>
 							<clause identifier="/us/usc/t11/s101/51D/B/iii">
 								<num>(iii)</num>
-								<content>
-									 any debtor that is an affiliate of an issuer (as defined in section 3 of the Securities Exchange Act of 1934 (
-									<ref href="/us/usc/t15/s78c">15 U.S.C. 78c</ref>
-									)).
-								</content>
+								<content> any debtor that is an affiliate of a corporation described in clause (ii).</content>
 							</clause>
 						</subparagraph>
 					</paragraph>
@@ -1723,7 +1719,7 @@
 						<chapeau>
 							 On 
 							<date date="1998-04-01">April 1, 1998</date>
-							, and at each 3-year interval ending on April 1 thereafter, each dollar amount in effect under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1322(d), 1325(b), and 1326(b)(3) of this title and 
+							, and at each 3-year interval ending on April 1 thereafter, each dollar amount in effect under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1182(1), 1322(d), 1325(b), and 1326(b)(3) of this title and 
 							<ref href="/us/usc/t28/s1409/b">section 1409(b) of title 28</ref>
 							 immediately before such April 1 shall be adjusted—
 						</chapeau>
@@ -1741,7 +1737,7 @@
 						<content>
 							 Not later than 
 							<date date="1998-03-01">March 1, 1998</date>
-							, and at each 3-year interval ending on March 1 thereafter, the Judicial Conference of the United States shall publish in the Federal Register the dollar amounts that will become effective on such April 1 under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1322(d), 1325(b), and 1326(b)(3) of this title and 
+							, and at each 3-year interval ending on March 1 thereafter, the Judicial Conference of the United States shall publish in the Federal Register the dollar amounts that will become effective on such April 1 under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1182(1), 1322(d), 1325(b), and 1326(b)(3) of this title and 
 							<ref href="/us/usc/t28/s1409/b">section 1409(b) of title 28</ref>
 							.
 						</content>
@@ -2040,13 +2036,7 @@
 					</subsection>
 					<subsection identifier="/us/usc/t11/s109/e">
 						<num>(e)</num>
-						<content>
-							 Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 
-							 and noncontingent, liquidated, secured debts of less than $750,000,
-							 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 
-							 and noncontingent, liquidated, secured debts of less than $750,000 
-							 may be a debtor under chapter 13 of this title.
-						</content>
+						<content> Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated debts of less than $2,750,000 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated debts that aggregate less than $2,750,000 may be a debtor under chapter 13 of this title.</content>
 					</subsection>
 					<subsection identifier="/us/usc/t11/s109/f">
 						<num>(f)</num>
@@ -5663,22 +5653,6 @@ SUBCHAPTER IV—ADMINISTRATIVE POWERS</column>
 								<content> Notwithstanding any other provision of law, with respect to a case subject to this subsection, a utility may recover or set off against a security deposit provided to the utility by the debtor before the date of the filing of the petition without notice or order of the court.</content>
 							</paragraph>
 						</subsection>
-						<subsection identifier="/us/usc/t11/s366/d">
-							<num>(d)</num>
-							<chapeau> Notwithstanding any other provision of this section, a utility may not alter, refuse, or discontinue service to a debtor who does not furnish adequate assurance of payment under this section if the debtor—</chapeau>
-							<paragraph identifier="/us/usc/t11/s366/d/1">
-								<num>(1)</num>
-								<content> is an individual;</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t11/s366/d/2">
-								<num>(2)</num>
-								<content> makes a payment to the utility for any debt owed to the utility for service provided during the 20-day period beginning on the date of the order for relief; and</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t11/s366/d/3">
-								<num>(3)</num>
-								<content> after the date on which the 20-day period beginning on the date of the order for relief ends, makes a payment to the utility for services provided during the pendency of case when such a payment becomes due.</content>
-							</paragraph>
-						</subsection>
 					</section>
 				</subchapter>
 			</chapter>
@@ -5982,73 +5956,6 @@ SUBCHAPTER III—THE ESTATE</column>
 								) and, if so filed, shall be allowed as a single claim.
 							</content>
 						</subsection>
-						<subsection identifier="/us/usc/t11/s501/f">
-							<num>(f)</num>
-							<paragraph identifier="/us/usc/t11/s501/f/1">
-								<num>(1)</num>
-								<chapeau> In this subsection—</chapeau>
-								<subparagraph identifier="/us/usc/t11/s501/f/1/A">
-									<num>(A)</num>
-									<content>
-										 the term “CARES forbearance claim” means a supplemental claim for the amount of a Federally backed mortgage loan or a Federally backed multifamily mortgage loan that was not received by an eligible creditor during the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act (
-										<ref href="/us/usc/t15/s9056">15 U.S.C. 9056</ref>
-										, 9057);
-									</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t11/s501/f/1/B">
-									<num>(B)</num>
-									<content>
-										 the term “eligible creditor” means a servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (
-										<ref href="/us/usc/t12/s2605/i">12 U.S.C. 2605(i)</ref>
-										) 
-										 with a claim for a Federally backed mortgage loan or a Federally backed multifamily mortgage loan of the debtor that is provided for by a plan under section 1322(b)(5);
-									</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t11/s501/f/1/C">
-									<num>(C)</num>
-									<content>
-										 the term “Federally backed mortgage loan” has the meaning given the term in section 4022(a) of the CARES Act (
-										<ref href="/us/usc/t15/s9056/a">15 U.S.C. 9056(a)</ref>
-										); and
-									</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t11/s501/f/1/D">
-									<num>(D)</num>
-									<content>
-										 the term “Federally backed multifamily mortgage loan” has the meaning given the term in section 4023(f) of the CARES Act (
-										<ref href="/us/usc/t15/s9057/f">15 U.S.C. 9057(f)</ref>
-										).
-									</content>
-								</subparagraph>
-							</paragraph>
-							<paragraph identifier="/us/usc/t11/s501/f/2">
-								<num>(2)</num>
-								<subparagraph identifier="/us/usc/t11/s501/f/2/A">
-									<num>(A)</num>
-									<content> Only an eligible creditor may file a supplemental proof of claim for a CARES forbearance claim.</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t11/s501/f/2/B">
-									<num>(B)</num>
-									<chapeau>
-										 If an underlying mortgage loan obligation has been modified or deferred by an agreement of the debtor and an eligible creditor of the mortgage loan in connection with a mortgage forbearance granted under section 4022 or 4023 of the CARES Act (
-										<ref href="/us/usc/t15/s9056">15 U.S.C. 9056</ref>
-										, 9057) in order to cure mortgage payments forborne under the forbearance, the proof of claim filed under subparagraph (A) shall include—
-									</chapeau>
-									<clause identifier="/us/usc/t11/s501/f/2/B/i">
-										<num>(i)</num>
-										<content> the relevant terms of the modification or deferral;</content>
-									</clause>
-									<clause identifier="/us/usc/t11/s501/f/2/B/ii">
-										<num>(ii)</num>
-										<content> for a modification or deferral that is in writing, a copy of the modification or deferral; and</content>
-									</clause>
-									<clause identifier="/us/usc/t11/s501/f/2/B/iii">
-										<num>(iii)</num>
-										<content> a description of the payments to be deferred until the date on which the mortgage loan matures.</content>
-									</clause>
-								</subparagraph>
-							</paragraph>
-						</subsection>
 					</section>
 					<section identifier="/us/usc/t11/s502">
 						<num>§ 502.</num>
@@ -6137,19 +6044,11 @@ SUBCHAPTER III—THE ESTATE</column>
 								<chapeau> proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) or under the Federal Rules of Bankruptcy Procedure, except that—</chapeau>
 								<subparagraph identifier="/us/usc/t11/s502/b/9/A">
 									<num>(A)</num>
-									<content> a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide;</content>
+									<content> a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide; and</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t11/s502/b/9/B">
 									<num>(B)</num>
-									<content> in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required; and</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t11/s502/b/9/C">
-									<num>(C)</num>
-									<content>
-										 a CARES forbearance claim (as defined in section 501(f)(1)) shall be timely filed if the claim is filed before the date that is 120 days after the expiration of the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act (
-										<ref href="/us/usc/t15/s9056">15 U.S.C. 9056</ref>
-										, 9057).
-									</content>
+									<content> in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required.</content>
 								</subparagraph>
 							</paragraph>
 						</subsection>
@@ -6838,7 +6737,7 @@ SUBCHAPTER III—THE ESTATE</column>
 						</subsection>
 						<subsection identifier="/us/usc/t11/s507/d">
 							<num>(d)</num>
-							<content> An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), or (a)(9) or subparagraphs (A) through (E) and (G) of subsection (a)(8) of this section is not subrogated to the right of the holder of such claim to priority under such subsection or subparagraph.</content>
+							<content> An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.</content>
 						</subsection>
 					</section>
 					<section identifier="/us/usc/t11/s508">
@@ -8862,14 +8761,6 @@ SUBCHAPTER III—THE ESTATE</column>
 								<content> In this section, “student loan program” means any program operated under title IV of the Higher Education Act of 1965 or a similar program operated under State or local law.</content>
 							</paragraph>
 						</subsection>
-						<subsection identifier="/us/usc/t11/s525/d">
-							<num>(d)</num>
-							<content>
-								 A person may not be denied relief under sections 4022 through 4024 of the CARES Act (
-								<ref href="/us/usc/t15/s9056">15 U.S.C. 9056</ref>
-								, 9057, 9058) because the person is or has been a debtor under this title.
-							</content>
-						</subsection>
 					</section>
 					<section identifier="/us/usc/t11/s526">
 						<num>§ 526.</num>
@@ -9338,7 +9229,7 @@ SUBCHAPTER III—THE ESTATE</column>
 									<num>(B)</num>
 									<content> under an agreement with a money order issuer that prohibits the commingling of such proceeds with property of the debtor (notwithstanding that, contrary to the agreement, the proceeds may have been commingled with property of the debtor),</content>
 								</subparagraph>
-								<continuation>unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition;</continuation>
+								<continuation>unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition; or</continuation>
 							</paragraph>
 							<paragraph identifier="/us/usc/t11/s541/b/10">
 								<num>(10)</num>
@@ -9362,15 +9253,10 @@ SUBCHAPTER III—THE ESTATE</column>
 								<subparagraph identifier="/us/usc/t11/s541/b/10/C">
 									<num>(C)</num>
 									<content>
-										 in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225; 
+										 in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.
 										<sup>2</sup>
-										 or
 									</content>
 								</subparagraph>
-							</paragraph>
-							<paragraph identifier="/us/usc/t11/s541/b/11">
-								<num>(11)</num>
-								<content> recovery rebates made under section 6428 of the Internal Revenue Code of 1986.</content>
 							</paragraph>
 							<continuation>Paragraph (4) shall not be construed to exclude from the estate any consideration the debtor retains, receives, or is entitled to receive for transferring an interest in liquid or gaseous hydrocarbons pursuant to a farmout agreement.</continuation>
 						</subsection>
@@ -16957,7 +16843,7 @@ SUBCHAPTER V—SMALL BUSINESS DEBTOR REORGANIZATION</column>
 								<chapeau> does not include—</chapeau>
 								<clause identifier="/us/usc/t11/s1182/1/B/i">
 									<num>(i)</num>
-									<content> any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $7,500,000 (excluding debt owed to 1 or more affiliates or insiders);</content>
+									<content> any member of a group of affiliated debtors under this title that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $7,500,000 (excluding debt owed to 1 or more affiliates or insiders);</content>
 								</clause>
 								<clause identifier="/us/usc/t11/s1182/1/B/ii">
 									<num>(ii)</num>
@@ -16971,11 +16857,7 @@ SUBCHAPTER V—SMALL BUSINESS DEBTOR REORGANIZATION</column>
 								</clause>
 								<clause identifier="/us/usc/t11/s1182/1/B/iii">
 									<num>(iii)</num>
-									<content>
-										 any debtor that is an affiliate of an issuer, as defined in section 3 of the Securities Exchange Act of 1934 (
-										<ref href="/us/usc/t15/s78c">15 U.S.C. 78c</ref>
-										).
-									</content>
+									<content> any debtor that is an affiliate of a corporation described in clause (ii).</content>
 								</clause>
 							</subparagraph>
 						</paragraph>
@@ -17062,11 +16944,19 @@ SUBCHAPTER V—SMALL BUSINESS DEBTOR REORGANIZATION</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t11/s1183/b/5">
 								<num>(5)</num>
-								<content>
-									 if the debtor ceases to be a debtor in possession, perform the duties specified in section 704(a)(8) and paragraphs (1), (2), and (6) of 
-									<ref href="/us/usc/t11/s1106/a">section 1106(a) of this title</ref>
-									, including operating the business of the debtor;
-								</content>
+								<chapeau> if the debtor ceases to be a debtor in possession—</chapeau>
+								<subparagraph identifier="/us/usc/t11/s1183/b/5/A">
+									<num>(A)</num>
+									<content>
+										 perform the duties specified in section 704(a)(8) and paragraphs (1), (2), and (6) of 
+										<ref href="/us/usc/t11/s1106/a">section 1106(a) of this title</ref>
+										; and
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t11/s1183/b/5/B">
+									<num>(B)</num>
+									<content> be authorized to operate the business of the debtor;</content>
+								</subparagraph>
 							</paragraph>
 							<paragraph identifier="/us/usc/t11/s1183/b/6">
 								<num>(6)</num>
@@ -17373,18 +17263,18 @@ SUBCHAPTER V—SMALL BUSINESS DEBTOR REORGANIZATION</column>
 								<num>(3)</num>
 								<subparagraph identifier="/us/usc/t11/s1191/c/3/A">
 									<num>(A)</num>
-									<clause identifier="/us/usc/t11/s1191/c/3/A/i">
-										<num>(i)</num>
-										<content> The debtor will be able to make all payments under the plan; or</content>
-									</clause>
-									<clause identifier="/us/usc/t11/s1191/c/3/A/ii">
-										<num>(ii)</num>
-										<content> there is a reasonable likelihood that the debtor will be able to make all payments under the plan; and</content>
-									</clause>
+									<content> The debtor will be able to make all payments under the plan; or</content>
 								</subparagraph>
 								<subparagraph identifier="/us/usc/t11/s1191/c/3/B">
 									<num>(B)</num>
-									<content> the plan provides appropriate remedies, which may include the liquidation of nonexempt assets, to protect the holders of claims or interests in the event that the payments are not made.</content>
+									<clause identifier="/us/usc/t11/s1191/c/3/B/i">
+										<num>(i)</num>
+										<content> there is a reasonable likelihood that the debtor will be able to make all payments under the plan; and</content>
+									</clause>
+									<clause identifier="/us/usc/t11/s1191/c/3/B/ii">
+										<num>(ii)</num>
+										<content> the plan provides appropriate remedies, which may include the liquidation of nonexempt assets, to protect the holders of claims or interests in the event that the payments are not made.</content>
+									</clause>
 								</subparagraph>
 							</paragraph>
 						</subsection>
@@ -19442,11 +19332,7 @@ Amendments</column>
 							</paragraph>
 							<paragraph identifier="/us/usc/t11/s1325/b/2">
 								<num>(2)</num>
-								<chapeau>
-									 For purposes of this subsection, the term “disposable income” means current monthly income received by the debtor (other than payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act (
-									<ref href="/us/usc/t50/s1601">50 U.S.C. 1601</ref>
-									 et seq.) with respect to the coronavirus disease 2019 (COVID–19), child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
-								</chapeau>
+								<chapeau> For purposes of this subsection, the term “disposable income” means current monthly income received by the debtor (other than child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—</chapeau>
 								<subparagraph identifier="/us/usc/t11/s1325/b/2/A">
 									<num>(A)</num>
 									<clause identifier="/us/usc/t11/s1325/b/2/A/i">
@@ -19766,34 +19652,6 @@ Amendments</column>
 								<content> there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).</content>
 							</paragraph>
 						</subsection>
-						<subsection identifier="/us/usc/t11/s1328/i">
-							<num>(i)</num>
-							<chapeau> Subject to subsection (d), after notice and a hearing, the court may grant a discharge of debts dischargeable under subsection (a) to a debtor who has not completed payments to the trustee or a creditor holding a security interest in the principal residence of the debtor if—</chapeau>
-							<paragraph identifier="/us/usc/t11/s1328/i/1">
-								<num>(1)</num>
-								<content>
-									 the debtor defaults on not more than 3 monthly payments due on a residential mortgage under section 1322(b)(5) on or after 
-									<date date="2020-03-13">March 13, 2020</date>
-									, to the trustee or creditor caused by a material financial hardship due, directly or indirectly, by the coronavirus disease 2019 (COVID–19) pandemic; or
-								</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t11/s1328/i/2">
-								<num>(2)</num>
-								<subparagraph identifier="/us/usc/t11/s1328/i/2/A">
-									<num>(A)</num>
-									<content> the plan provides for the curing of a default and maintenance of payments on a residential mortgage under section 1322(b)(5); and</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t11/s1328/i/2/B">
-									<num>(B)</num>
-									<content>
-										 the debtor has entered into a forbearance agreement or loan modification agreement with the holder or servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (
-										<ref href="/us/usc/t12/s2605/i">12 U.S.C. 2605(i)</ref>
-										) 
-										 of the mortgage described in subparagraph (A).
-									</content>
-								</subparagraph>
-							</paragraph>
-						</subsection>
 					</section>
 					<section identifier="/us/usc/t11/s1329">
 						<num>§ 1329.</num>
@@ -19860,40 +19718,6 @@ Amendments</column>
 						<subsection identifier="/us/usc/t11/s1329/c">
 							<num>(c)</num>
 							<content> A plan modified under this section may not provide for payments over a period that expires after the applicable commitment period under section 1325(b)(1)(B) after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.</content>
-						</subsection>
-						<subsection identifier="/us/usc/t11/s1329/d">
-							<num>(d)</num>
-							<paragraph identifier="/us/usc/t11/s1329/d/1">
-								<num>(1)</num>
-								<chapeau> Subject to paragraph (3), for a plan confirmed prior to the date of enactment of the COVID–19 Bankruptcy Relief Extension Act of 2021, the plan may be modified upon the request of the debtor if—</chapeau>
-								<subparagraph identifier="/us/usc/t11/s1329/d/1/A">
-									<num>(A)</num>
-									<content> the debtor is experiencing or has experienced a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic; and</content>
-								</subparagraph>
-								<subparagraph identifier="/us/usc/t11/s1329/d/1/B">
-									<num>(B)</num>
-									<content> the modification is approved after notice and a hearing.</content>
-								</subparagraph>
-							</paragraph>
-							<paragraph identifier="/us/usc/t11/s1329/d/2">
-								<num>(2)</num>
-								<content> A plan modified under paragraph (1) may not provide for payments over a period that expires more than 7 years after the time that the first payment under the original confirmed plan was due.</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t11/s1329/d/3">
-								<num>(3)</num>
-								<content> Sections 1322(a), 1322(b), 1323(c), and the requirements of section 1325(a) shall apply to any modification under paragraph (1).</content>
-							</paragraph>
-						</subsection>
-						<subsection identifier="/us/usc/t11/s1329/e">
-							<num>(e)</num>
-							<paragraph identifier="/us/usc/t11/s1329/e/1">
-								<num>(1)</num>
-								<content> A debtor of a case for which a creditor files a proof of claim under section 501(f) may file a request for a modification of the plan to provide for the proof of claim.</content>
-							</paragraph>
-							<paragraph identifier="/us/usc/t11/s1329/e/2">
-								<num>(2)</num>
-								<content> If the debtor does not file a request for a modification of the plan under paragraph (1) on or before the date that is 30 days after the date on which a creditor files a claim under section 501(f), after notice, the court, on a motion of the court or on a motion of the United States trustee, the trustee, a bankruptcy administrator, or any party in interest, may request a modification of the plan to provide for the proof of claim.</content>
-							</paragraph>
 						</subsection>
 					</section>
 					<section identifier="/us/usc/t11/s1330">

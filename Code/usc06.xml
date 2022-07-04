@@ -35579,6 +35579,13 @@ Part D—Cyber Incident Reporting</column>
 									</p>
 								</content>
 							</paragraph>
+							<paragraph identifier="/us/usc/t6/s651/7">
+								<num>(7)</num>
+								<heading> SLTT entity</heading>
+								<content>
+									<p>The term “SLTT entity” means a domestic government entity that is a State government, local government, Tribal government, territorial government, or any subdivision thereof.</p>
+								</content>
+							</paragraph>
 						</section>
 						<section identifier="/us/usc/t6/s652">
 							<num>§ 652.</num>
@@ -37056,7 +37063,7 @@ Part D—Cyber Incident Reporting</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/c/6">
 									<num>(6)</num>
-									<content> upon request, providing timely technical assistance, risk management support, and incident response capabilities to Federal and non-Federal entities with respect to cyber threat indicators, defensive measures, cybersecurity risks, and incidents, which may include attribution, mitigation, and remediation, which may take the form of continuous monitoring and detection of cybersecurity risks to critical infrastructure entities that own or operate industrial control systems that support national critical functions;</content>
+									<content> upon request, providing operational and timely technical assistance, risk management support, and incident response capabilities to Federal and non-Federal entities with respect to cyber threat indicators, defensive measures, cybersecurity risks, and incidents, which may include attribution, mitigation, and remediation, which may take the form of continuous monitoring and detection of cybersecurity risks to critical infrastructure entities that own or operate industrial control systems that support national critical functions;</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s659/c/7">
 									<num>(7)</num>
@@ -37174,7 +37181,7 @@ Part D—Cyber Incident Reporting</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s659/d/1/E">
 										<num>(E)</num>
-										<content> an entity that collaborates with State and local governments on cybersecurity risks and incidents, and has entered into a voluntary information sharing relationship with the Center; and</content>
+										<content> an entity that collaborates with State and local governments, including an entity that collaborates with election officials on cybersecurity risks and incidents, and has entered into a voluntary information sharing relationship with the Center; and</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s659/d/1/F">
 										<num>(F)</num>
@@ -37500,7 +37507,9 @@ Part D—Cyber Incident Reporting</column>
 							</subsection>
 							<subsection identifier="/us/usc/t6/s659/p">
 								<num>(p)</num>
-								<heading> Subpoena authority</heading>
+								<heading>
+									 Subpoena authority
+								</heading>
 								<paragraph identifier="/us/usc/t6/s659/p/1">
 									<num>(1)</num>
 									<heading> Definition</heading>
@@ -37801,7 +37810,9 @@ Part D—Cyber Incident Reporting</column>
 							</subsection>
 							<subsection identifier="/us/usc/t6/s659/q">
 								<num>(q)</num>
-								<heading> Industrial control systems</heading>
+								<heading>
+									 Industrial control systems
+								</heading>
 								<chapeau>The Director shall maintain capabilities to identify and address threats and vulnerabilities to products and technologies intended for use in the automated control of critical infrastructure processes. In carrying out this subsection, the Director shall—</chapeau>
 								<paragraph identifier="/us/usc/t6/s659/q/1">
 									<num>(1)</num>
@@ -37823,6 +37834,132 @@ Part D—Cyber Incident Reporting</column>
 									<num>(5)</num>
 									<content> conduct such other efforts and assistance as the Secretary determines appropriate.</content>
 								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s659/p">
+								<num>(p)</num>
+								<heading>
+									<sup>1</sup>
+									 Coordination on cybersecurity for SLTT entities
+								</heading>
+								<paragraph identifier="/us/usc/t6/s659/p/1">
+									<num>(1)</num>
+									<heading> Coordination</heading>
+									<chapeau>The Center shall, upon request and to the extent practicable, and in coordination as appropriate with Federal and non-Federal entities, such as the Multi-State Information Sharing and Analysis Center—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s659/p/1/A">
+										<num>(A)</num>
+										<content> conduct exercises with SLTT entities;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s659/p/1/B">
+										<num>(B)</num>
+										<chapeau> provide operational and technical cybersecurity training to SLTT entities to address cybersecurity risks or incidents, with or without reimbursement, related to—</chapeau>
+										<clause identifier="/us/usc/t6/s659/p/1/B/i">
+											<num>(i)</num>
+											<content> cyber threat indicators;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s659/p/1/B/ii">
+											<num>(ii)</num>
+											<content> defensive measures;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s659/p/1/B/iii">
+											<num>(iii)</num>
+											<content> cybersecurity risks;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s659/p/1/B/iv">
+											<num>(iv)</num>
+											<content> vulnerabilities; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s659/p/1/B/v">
+											<num>(v)</num>
+											<content> incident response and management;</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s659/p/1/C">
+										<num>(C)</num>
+										<chapeau> in order to increase situational awareness and help prevent incidents, assist SLTT entities in sharing, in real time, with the Federal Government as well as among SLTT entities, actionable—</chapeau>
+										<clause identifier="/us/usc/t6/s659/p/1/C/i">
+											<num>(i)</num>
+											<content> cyber threat indicators;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s659/p/1/C/ii">
+											<num>(ii)</num>
+											<content> defensive measures;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s659/p/1/C/iii">
+											<num>(iii)</num>
+											<content> information about cybersecurity risks; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s659/p/1/C/iv">
+											<num>(iv)</num>
+											<content> information about incidents;</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s659/p/1/D">
+										<num>(D)</num>
+										<content> provide SLTT entities notifications containing specific incident and malware information that may affect them or their residents;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s659/p/1/E">
+										<num>(E)</num>
+										<chapeau> provide to, and periodically update, SLTT entities via an easily accessible platform and other means—</chapeau>
+										<clause identifier="/us/usc/t6/s659/p/1/E/i">
+											<num>(i)</num>
+											<content> information about tools;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s659/p/1/E/ii">
+											<num>(ii)</num>
+											<content> information about products;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s659/p/1/E/iii">
+											<num>(iii)</num>
+											<content> resources;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s659/p/1/E/iv">
+											<num>(iv)</num>
+											<content> policies;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s659/p/1/E/v">
+											<num>(v)</num>
+											<content> guidelines;</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s659/p/1/E/vi">
+											<num>(vi)</num>
+											<content> controls; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s659/p/1/E/vii">
+											<num>(vii)</num>
+											<content> other cybersecurity standards and best practices and procedures related to information security, including, as appropriate, information produced by other Federal agencies;</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s659/p/1/F">
+										<num>(F)</num>
+										<content> work with senior SLTT entity officials, including chief information officers and senior election officials and through national associations, to coordinate the effective implementation by SLTT entities of tools, products, resources, policies, guidelines, controls, and procedures related to information security to secure the information systems, including election systems, of SLTT entities;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s659/p/1/G">
+										<num>(G)</num>
+										<content> provide operational and technical assistance to SLTT entities to implement tools, products, resources, policies, guidelines, controls, and procedures on information security;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s659/p/1/H">
+										<num>(H)</num>
+										<content> assist SLTT entities in developing policies and procedures for coordinating vulnerability disclosures consistent with international and national standards in the information technology industry; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s659/p/1/I">
+										<num>(I)</num>
+										<content> promote cybersecurity education and awareness through engagements with Federal agencies and non-Federal entities.</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s659/q">
+								<num>(q)</num>
+								<heading>
+									<sup>2</sup>
+									 Report
+								</heading>
+								<content>
+									<p>
+										Not later than 1 year after 
+										<date date="2022-06-21">June 21, 2022</date>
+										, and every 2 years thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the services and capabilities that the Agency directly and indirectly provides to SLTT entities.
+									</p>
+								</content>
 							</subsection>
 						</section>
 						<section identifier="/us/usc/t6/s660">

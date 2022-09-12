@@ -2450,16 +2450,56 @@ Amendments</column>
 									</heading>
 									<content>The availability and use of funds received under this section for the Administration’s operating plan.</content>
 								</paragraph>
+								<paragraph identifier="/us/usc/t51/s20145/f/3">
+									<num>(3)</num>
+									<heading>
+										<inline>Annual and cumulative number of leases</inline>
+										.—
+									</heading>
+									<content>The annual and cumulative number of leases entered into under this section, by National Aeronautics and Space Administration center and facility.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t51/s20145/f/4">
+									<num>(4)</num>
+									<heading>
+										<inline>Estimated cost savings</inline>
+										.—
+									</heading>
+									<content>For each active lease agreement under this section, the estimated cost savings to the Administration resulting from reduced maintenance, operating, and associated costs in the previous fiscal year.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t51/s20145/f/5">
+									<num>(5)</num>
+									<heading>
+										<inline>Other quantifiable benefits</inline>
+										.—
+									</heading>
+									<content>Other quantifiable benefits, including additional cost savings not included under paragraph (4), to the Administration resulting from the use of leases under this section.</content>
+								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t51/s20145/g">
 								<num>(g)</num>
+								<heading>
+									<inline>Report on Enhanced-use Leasing Requirements</inline>
+									.—
+								</heading>
+								<chapeau>Not later than 270 days after the date of the enactment of the National Aeronautics and Space Administration Authorization Act of 2022, the Administrator shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on existing requirements for applicants seeking a lease under this section, including—</chapeau>
+								<paragraph identifier="/us/usc/t51/s20145/g/1">
+									<num>(1)</num>
+									<content> any requirement related to the involvement of foreign entities, foreign entity ownership, and foreign entity investment; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t51/s20145/g/2">
+									<num>(2)</num>
+									<content> at the discretion of the Administrator, any other requirement related to the protection and security of Administration missions and facilities.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t51/s20145/h">
+								<num>(h)</num>
 								<heading>
 									<inline>Sunset</inline>
 									.—
 								</heading>
 								<content>
 									The authority to enter into leases under this section shall expire 
-									<date date="2022-12-31">December 31, 2022</date>
+									<date date="2032-12-31">December 31, 2032</date>
 									. The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration’s retention of proceeds from leases entered into under this section before the expiration of the authority.
 								</content>
 							</subsection>
@@ -5674,33 +5714,119 @@ SUBCHAPTER IV—DATA REQUESTS</column>
 							<subsection identifier="/us/usc/t51/s40112/b">
 								<num>(b)</num>
 								<heading>
+									<inline>Research and Development Initiative on Reduction of Greenhouse Gas and Noise Emissions From Aircraft.—</inline>
+								</heading>
+								<paragraph identifier="/us/usc/t51/s40112/b/1">
+									<num>(1)</num>
+									<heading>
+										<inline>In general</inline>
+										.—
+									</heading>
+									<chapeau>The Administrator shall establish an initiative to research, develop, and demonstrate new technologies and concepts—</chapeau>
+									<subparagraph identifier="/us/usc/t51/s40112/b/1/A">
+										<num>(A)</num>
+										<content> to reduce greenhouse gas emissions from aviation, including carbon dioxide, nitrogen oxides, other greenhouse gases, water vapor, black carbon and sulfate aerosols, and increased cloudiness due to contrail formation;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t51/s40112/b/1/B">
+										<num>(B)</num>
+										<content> to reduce aviation noise emissions; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t51/s40112/b/1/C">
+										<num>(C)</num>
+										<content> to enable associated aircraft performance characteristics.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t51/s40112/b/2">
+									<num>(2)</num>
+									<heading>
+										<inline>Goals</inline>
+										.—
+									</heading>
+									<chapeau>The goals of the initiative required by paragraph (1) shall be—</chapeau>
+									<subparagraph identifier="/us/usc/t51/s40112/b/2/A">
+										<num>(A)</num>
+										<content> to ensure United States leadership in research and technology innovation leading to substantial reductions in aviation noise and greenhouse gas emissions;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t51/s40112/b/2/B">
+										<num>(B)</num>
+										<content> to enhance and expand basic research, and the translation of basic research into applications, that may lead to transformational advances in reducing aviation noise and greenhouse gas emissions;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t51/s40112/b/2/C">
+										<num>(C)</num>
+										<content> to accelerate research and development that contributes to maturing new technologies for reducing aircraft noise and greenhouse gas emissions; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t51/s40112/b/2/D">
+										<num>(D)</num>
+										<content> to obtain and disseminate associated testing and performance data that facilitates the incorporation of new technologies into commercial aircraft development as soon as practicable.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t51/s40112/b/3">
+									<num>(3)</num>
+									<heading>
+										<inline>Objectives</inline>
+										.—
+									</heading>
+									<chapeau>The objectives of the initiative established under paragraph (1) and the goals described in paragraph (2) shall include—</chapeau>
+									<subparagraph identifier="/us/usc/t51/s40112/b/3/A">
+										<num>(A)</num>
+										<content>
+											 as soon as practicable, a reduction of greenhouse gas emissions from new aircraft by at least 50 percent, as compared to the highest-performing aircraft technologies in service as of 
+											<date date="2021-12-31">December 31, 2021</date>
+											;
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t51/s40112/b/3/B">
+										<num>(B)</num>
+										<content> noise levels from aircraft throughout all phases of flight that do not exceed ambient noise levels in the absence of flight operations in the vicinity of the flight route;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t51/s40112/b/3/C">
+										<num>(C)</num>
+										<content> net-zero greenhouse gas emissions from aircraft by 2050; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t51/s40112/b/3/D">
+										<num>(D)</num>
+										<chapeau> demonstration of new technologies developed pursuant to such initiative on—</chapeau>
+										<clause identifier="/us/usc/t51/s40112/b/3/D/i">
+											<num>(i)</num>
+											<content> regional aircraft intended to enter into service by 2030; and</content>
+										</clause>
+										<clause identifier="/us/usc/t51/s40112/b/3/D/ii">
+											<num>(ii)</num>
+											<content> single-aisle aircraft designed to accommodate more than 125 passengers intended to enter into service by 2040.</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t51/s40112/c">
+								<num>(c)</num>
+								<heading>
 									<inline>Rotorcraft and Other Runway-Independent Air Vehicles</inline>
 									.—
 								</heading>
 								<content>The Administrator may establish a rotorcraft and other runway-independent air vehicles initiative with the objective of developing and demonstrating improved safety, noise, and environmental impact in a relevant environment.</content>
 							</subsection>
-							<subsection identifier="/us/usc/t51/s40112/c">
-								<num>(c)</num>
+							<subsection identifier="/us/usc/t51/s40112/d">
+								<num>(d)</num>
 								<heading>
 									<inline>Hypersonics Research</inline>
 									.—
 								</heading>
 								<content>The Administrator may establish a hypersonics research program with the objective of exploring the science and technology of hypersonic flight using air-breathing propulsion concepts, through a mix of theoretical work, basic and applied research, and development of flight research demonstration vehicles. The program may also include the transition to the hypersonic range of Mach 3 to Mach 5.</content>
 							</subsection>
-							<subsection identifier="/us/usc/t51/s40112/d">
-								<num>(d)</num>
+							<subsection identifier="/us/usc/t51/s40112/e">
+								<num>(e)</num>
 								<heading>
 									<inline>Revolutionary Aeronautical Concepts</inline>
 									.—
 								</heading>
 								<content>The Administrator may establish a research program which covers a unique range of subsonic, fixed wing vehicles and propulsion concepts. This research is intended to push technology barriers beyond current subsonic technology. Propulsion concepts include advanced materials, morphing engines, hybrid engines, and fuel cells.</content>
 							</subsection>
-							<subsection identifier="/us/usc/t51/s40112/e">
-								<num>(e)</num>
+							<subsection identifier="/us/usc/t51/s40112/f">
+								<num>(f)</num>
 								<heading>
 									<inline>Fuel Cell-Powered Aircraft Research.—</inline>
 								</heading>
-								<paragraph identifier="/us/usc/t51/s40112/e/1">
+								<paragraph identifier="/us/usc/t51/s40112/f/1">
 									<num>(1)</num>
 									<heading>
 										<inline>Objective</inline>
@@ -5708,7 +5834,7 @@ SUBCHAPTER IV—DATA REQUESTS</column>
 									</heading>
 									<content>The Administrator may establish a fuel cell-powered aircraft research program whose objective shall be to develop and test concepts to enable a hydrogen fuel cell-powered aircraft that would have no hydrocarbon or nitrogen oxide emissions into the environment.</content>
 								</paragraph>
-								<paragraph identifier="/us/usc/t51/s40112/e/2">
+								<paragraph identifier="/us/usc/t51/s40112/f/2">
 									<num>(2)</num>
 									<heading>
 										<inline>Approach</inline>
@@ -5717,12 +5843,12 @@ SUBCHAPTER IV—DATA REQUESTS</column>
 									<content>The Administrator may establish a program of competitively awarded grants available to teams of researchers that may include the participation of individuals from universities, industry, and government for the conduct of this research.</content>
 								</paragraph>
 							</subsection>
-							<subsection identifier="/us/usc/t51/s40112/f">
-								<num>(f)</num>
+							<subsection identifier="/us/usc/t51/s40112/g">
+								<num>(g)</num>
 								<heading>
 									<inline>Mars Aircraft Research.—</inline>
 								</heading>
-								<paragraph identifier="/us/usc/t51/s40112/f/1">
+								<paragraph identifier="/us/usc/t51/s40112/g/1">
 									<num>(1)</num>
 									<heading>
 										<inline>Objective</inline>
@@ -5730,7 +5856,7 @@ SUBCHAPTER IV—DATA REQUESTS</column>
 									</heading>
 									<content>The Administrator may establish a Mars Aircraft project whose objective shall be to develop and test concepts for an uncrewed aircraft that could operate for sustained periods in the atmosphere of Mars.</content>
 								</paragraph>
-								<paragraph identifier="/us/usc/t51/s40112/f/2">
+								<paragraph identifier="/us/usc/t51/s40112/g/2">
 									<num>(2)</num>
 									<heading>
 										<inline>Approach</inline>
@@ -6997,14 +7123,14 @@ SUBCHAPTER IV—DATA REQUESTS</column>
 					</section>
 					<section identifier="/us/usc/t51/s40903">
 						<num>§ 40903.</num>
-						<heading> Experimental Program to Stimulate Competitive Research—merit grant competition requirements</heading>
+						<heading> Established Program to Stimulate Competitive Research—merit grant competition requirements</heading>
 						<subsection identifier="/us/usc/t51/s40903/a">
 							<num>(a)</num>
 							<heading>
 								<inline>Definition of Eligible State</inline>
 								.—
 							</heading>
-							<content>In this section, the term “eligible State” means a State designated by the Administrator as eligible to compete in the National Science Foundation’s Experimental Program to Stimulate Competitive Research.</content>
+							<content>In this section, the term “eligible State” means a State designated by the Administrator as eligible to compete in the National Science Foundation’s Established Program to Stimulate Competitive Research.</content>
 						</subsection>
 						<subsection identifier="/us/usc/t51/s40903/b">
 							<num>(b)</num>
@@ -7470,7 +7596,7 @@ SUBCHAPTER III—FEDERAL ACQUISITION OF SPACE TRANSPORTATION SERVICES</column>
 									<chapeau>
 										Not later than 
 										<date date="2017-12-01">December 1, 2017</date>
-										, and biennially thereafter until 2023, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes—
+										, and biennially thereafter until 2028, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes—
 									</chapeau>
 									<subparagraph identifier="/us/usc/t51/s50111/c/2/A">
 										<num>(A)</num>
@@ -7513,7 +7639,7 @@ SUBCHAPTER III—FEDERAL ACQUISITION OF SPACE TRANSPORTATION SERVICES</column>
 										<chapeau>
 											 an evaluation of the feasible and preferred service life of the ISS beyond the period described in section 503 of the National Aeronautics and Space Administration Authorization Act of 2010 (
 											<ref href="/us/usc/t42/s18353">42 U.S.C. 18353</ref>
-											), through at least 2028, as a unique scientific, commercial, and space exploration-related facility, including—
+											), through at least 2030, as a unique scientific, commercial, and space exploration-related facility, including—
 										</chapeau>
 										<clause identifier="/us/usc/t51/s50111/c/2/J/i">
 											<num>(i)</num>
@@ -15068,7 +15194,7 @@ Amendments</column>
 								<column>
 									<ref href="/us/usc/t51/s70907">70907.</ref>
 								</column>
-								<column>Maintaining use through at least 2024.</column>
+								<column>Maintaining use through at least 2030.</column>
 							</tocItem>
 						</layout>
 					</toc>
@@ -15315,7 +15441,7 @@ Amendments</column>
 					</section>
 					<section identifier="/us/usc/t51/s70907">
 						<num>§ 70907.</num>
-						<heading> Maintaining use through at least 2024</heading>
+						<heading> Maintaining use through at least 2030</heading>
 						<subsection identifier="/us/usc/t51/s70907/a">
 							<num>(a)</num>
 							<heading>
@@ -15324,7 +15450,7 @@ Amendments</column>
 							</heading>
 							<content>
 								The Administrator shall take all necessary steps to ensure that the International Space Station remains a viable and productive facility capable of potential United States utilization through at least 
-								<date date="2024-09-30">September 30, 2024</date>
+								<date date="2030-09-30">September 30, 2030</date>
 								.
 							</content>
 						</subsection>
@@ -15347,7 +15473,7 @@ Amendments</column>
 								<num>(3)</num>
 								<content>
 									 remains an effective, functional vehicle providing research and test bed capabilities for the United States through at least 
-									<date date="2024-09-30">September 30, 2024</date>
+									<date date="2030-09-30">September 30, 2030</date>
 									.
 								</content>
 							</paragraph>

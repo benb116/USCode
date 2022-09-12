@@ -20637,6 +20637,7 @@ SUBCHAPTER III—OTHER RESPONSIBILITIES</column>
 								<content>
 									The Director shall oversee the development and implementation of standards and guidelines pertaining to federal computer systems by the Secretary of Commerce through the National Institute of Standards and Technology under 
 									<ref href="/us/usc/t40/s11331">section 11331 of this title</ref>
+									<sup>1</sup>
 									 and section 20 of the National Institute of Standards and Technology Act (
 									<ref href="/us/usc/t15/s278g–3">15 U.S.C. 278g–3</ref>
 									).
@@ -21343,125 +21344,162 @@ SUBCHAPTER III—OTHER RESPONSIBILITIES</column>
 							<subsection identifier="/us/usc/t40/s11331/a">
 								<num>(a)</num>
 								<heading>
-									<inline>Definition</inline>
-									.—
+									<inline>Standards and Guidelines.—</inline>
 								</heading>
-								<content>
-									In this section, the term “information security” has the meaning given that term in section 3532(b)(1) 
-									 of title 44.
-								</content>
+								<paragraph identifier="/us/usc/t40/s11331/a/1">
+									<num>(1)</num>
+									<heading>
+										<inline>Authority to prescribe</inline>
+										.—
+									</heading>
+									<content>
+										Except as provided under paragraph (2), the Secretary of Commerce shall, on the basis of standards and guidelines developed by the National Institute of Standards and Technology pursuant to paragraphs (2) and (3) of section 20(a) of the National Institute of Standards and Technology Act (
+										<ref href="/us/usc/t15/s278g–3/a">15 U.S.C. 278g–3(a)</ref>
+										), prescribe standards and guidelines pertaining to Federal information systems.
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s11331/a/2">
+									<num>(2)</num>
+									<heading>
+										<inline>National security systems</inline>
+										.—
+									</heading>
+									<content>Standards and guidelines for national security systems shall be developed, prescribed, enforced, and overseen as otherwise authorized by law and as directed by the President.</content>
+								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t40/s11331/b">
 								<num>(b)</num>
 								<heading>
-									<inline>Requirement to Prescribe Standards.—</inline>
+									<inline>Mandatory Requirements.—</inline>
 								</heading>
 								<paragraph identifier="/us/usc/t40/s11331/b/1">
 									<num>(1)</num>
 									<heading>
-										<inline>In general.—</inline>
+										<inline>Authority to make mandatory</inline>
+										.—
 									</heading>
-									<subparagraph identifier="/us/usc/t40/s11331/b/1/A">
-										<num>(A)</num>
-										<heading>
-											<inline>Requirement</inline>
-											.—
-										</heading>
-										<content>
-											Except as provided under paragraph (2), the Director of the Office of Management and Budget shall, on the basis of proposed standards developed by the National Institute of Standards and Technology pursuant to paragraphs (2) and (3) of section 20(a) of the National Institute of Standards and Technology Act (
-											<ref href="/us/usc/t15/s278g–3/a">15 U.S.C. 278g–3(a)</ref>
-											) and in consultation with the Secretary of Homeland Security, promulgate information security standards pertaining to Federal information systems.
-										</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t40/s11331/b/1/B">
-										<num>(B)</num>
-										<heading>
-											<inline>Required standards</inline>
-											.—
-										</heading>
-										<chapeau>Standards promulgated under subparagraph (A) shall include—</chapeau>
-										<clause identifier="/us/usc/t40/s11331/b/1/B/i">
-											<num>(i)</num>
-											<content>
-												 standards that provide minimum information security requirements as determined under section 20(b) of the National Institute of Standards and Technology Act (
-												<ref href="/us/usc/t15/s278g–3/b">15 U.S.C. 278g–3(b)</ref>
-												); and
-											</content>
-										</clause>
-										<clause identifier="/us/usc/t40/s11331/b/1/B/ii">
-											<num>(ii)</num>
-											<content> such standards that are otherwise necessary to improve the efficiency of operation or security of Federal information systems.</content>
-										</clause>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t40/s11331/b/1/C">
-										<num>(C)</num>
-										<heading>
-											<inline>Required standards binding</inline>
-											.—
-										</heading>
-										<content>Information security standards described under subparagraph (B) shall be compulsory and binding.</content>
-									</subparagraph>
+									<content>Except as provided under paragraph (2), the Secretary of Commerce shall make standards prescribed under subsection (a)(1) compulsory and binding to the extent determined necessary by the Secretary to improve the efficiency of operation or security of Federal information systems.</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t40/s11331/b/2">
 									<num>(2)</num>
 									<heading>
-										<inline>Standards and guidelines for national security systems</inline>
-										.—
+										<inline>Required mandatory standards.—</inline>
 									</heading>
-									<content>
-										Standards and guidelines for national security systems, as defined under section 3532(3) 
-										<sup>1</sup>
-										 of title 44, shall be developed, promulgated, enforced, and overseen as otherwise authorized by law and as directed by the President.
-									</content>
+									<subparagraph identifier="/us/usc/t40/s11331/b/2/A">
+										<num>(A)</num>
+										<heading>
+											<inline>In general</inline>
+											.—
+										</heading>
+										<chapeau>Standards prescribed under subsection (a)(1) shall include information security standards that—</chapeau>
+										<clause identifier="/us/usc/t40/s11331/b/2/A/i">
+											<num>(i)</num>
+											<content>
+												 provide minimum information security requirements as determined under section 20(b) of the National Institute of Standards and Technology Act (
+												<ref href="/us/usc/t15/s278g–3/b">15 U.S.C. 278g–3(b)</ref>
+												); and
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t40/s11331/b/2/A/ii">
+											<num>(ii)</num>
+											<content> are otherwise necessary to improve the security of Federal information and information systems.</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t40/s11331/b/2/B">
+										<num>(B)</num>
+										<heading>
+											<inline>Requirement</inline>
+											.—
+										</heading>
+										<content>Information security standards described in subparagraph (A) shall be compulsory and binding.</content>
+									</subparagraph>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t40/s11331/c">
 								<num>(c)</num>
 								<heading>
-									<inline>Application of More Stringent Standards</inline>
+									<inline>Authority to Disapprove or Modify</inline>
 									.—
 								</heading>
-								<chapeau>The head of an agency may employ standards for the cost-effective information security for all operations and assets within or under the supervision of that agency that are more stringent than the standards promulgated by the Director under this section, if such standards—</chapeau>
-								<paragraph identifier="/us/usc/t40/s11331/c/1">
-									<num>(1)</num>
-									<content> contain, at a minimum, the provisions of those applicable standards made compulsory and binding by the Director; and</content>
-								</paragraph>
-								<paragraph identifier="/us/usc/t40/s11331/c/2">
-									<num>(2)</num>
-									<content>
-										 are otherwise consistent with policies and guidelines issued under section 3533 
-										<sup>1</sup>
-										 of title 44.
-									</content>
-								</paragraph>
+								<content>The President may disapprove or modify the standards and guidelines referred to in subsection (a)(1) if the President determines such action to be in the public interest. The President’s authority to disapprove or modify such standards and guidelines may not be delegated. Notice of such disapproval or modification shall be published promptly in the Federal Register. Upon receiving notice of such disapproval or modification, the Secretary of Commerce shall immediately rescind or modify such standards or guidelines as directed by the President.</content>
 							</subsection>
 							<subsection identifier="/us/usc/t40/s11331/d">
 								<num>(d)</num>
 								<heading>
-									<inline>Requirements Regarding Decisions by Director.—</inline>
+									<inline>Exercise of Authority</inline>
+									.—
 								</heading>
-								<paragraph identifier="/us/usc/t40/s11331/d/1">
+								<content>To ensure fiscal and policy consistency, the Secretary of Commerce shall exercise the authority conferred by this section subject to direction by the President and in coordination with the Director of the Office of Management and Budget.</content>
+							</subsection>
+							<subsection identifier="/us/usc/t40/s11331/e">
+								<num>(e)</num>
+								<heading>
+									<inline>Application of More Stringent Standards</inline>
+									.—
+								</heading>
+								<chapeau>The head of an executive agency may employ standards for the cost-effective information security for Federal information systems within or under the supervision of that agency that are more stringent than the standards the Secretary prescribes under this section if the more stringent standards—</chapeau>
+								<paragraph identifier="/us/usc/t40/s11331/e/1">
 									<num>(1)</num>
-									<heading>
-										<inline>Deadline</inline>
-										.—
-									</heading>
+									<content> contain at least the applicable standards made compulsory and binding by the Secretary of Commerce; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s11331/e/2">
+									<num>(2)</num>
 									<content>
-										The decision regarding the promulgation of any standard by the Director under subsection (b) shall occur not later than 6 months after the submission of the proposed standard to the Director by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (
-										<ref href="/us/usc/t15/s278g–3">15 U.S.C. 278g–3</ref>
-										).
+										 are otherwise consistent with policies and guidelines issued under 
+										<ref href="/us/usc/t44/s3553">section 3553 of title 44</ref>
+										.
 									</content>
 								</paragraph>
-								<paragraph identifier="/us/usc/t40/s11331/d/2">
+							</subsection>
+							<subsection identifier="/us/usc/t40/s11331/f">
+								<num>(f)</num>
+								<heading>
+									<inline>Decisions on Promulgation of Standards</inline>
+									.—
+								</heading>
+								<content>
+									The decision by the Secretary of Commerce regarding the promulgation of any standard under this section shall occur not later than 6 months after the submission of the proposed standard to the Secretary by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (
+									<ref href="/us/usc/t15/s278g–3">15 U.S.C. 278g–3</ref>
+									).
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t40/s11331/g">
+								<num>(g)</num>
+								<heading>
+									<inline>Definitions</inline>
+									.—
+								</heading>
+								<chapeau>In this section:</chapeau>
+								<paragraph identifier="/us/usc/t40/s11331/g/1">
+									<num>(1)</num>
+									<heading>
+										<inline>Federal information system</inline>
+										.—
+									</heading>
+									<content>The term “Federal information system” means an information system used or operated by an executive agency, by a contractor of an executive agency, or by another organization on behalf of an executive agency.</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s11331/g/2">
 									<num>(2)</num>
 									<heading>
-										<inline>Notice and comment</inline>
+										<inline>Information security</inline>
 										.—
 									</heading>
 									<content>
-										A decision by the Director to significantly modify, or not promulgate, a proposed standard submitted to the Director by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act (
-										<ref href="/us/usc/t15/s278g–3">15 U.S.C. 278g–3</ref>
-										), shall be made after the public is given an opportunity to comment on the Director’s proposed decision.
+										The term “information security” has the meaning given that term in 
+										<ref href="/us/usc/t44/s3552/b/3">section 3552(b)(3) of title 44</ref>
+										.
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t40/s11331/g/3">
+									<num>(3)</num>
+									<heading>
+										<inline>National security system</inline>
+										.—
+									</heading>
+									<content>
+										The term “national security system” has the meaning given that term in 
+										<ref href="/us/usc/t44/s3552/b/6">section 3552(b)(6) of title 44</ref>
+										.
 									</content>
 								</paragraph>
 							</subsection>

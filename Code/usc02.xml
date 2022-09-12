@@ -19196,10 +19196,25 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 						</subsection>
 						<subsection identifier="/us/usc/t2/s905/d">
 							<num>(d)</num>
-							<heading> Refundable income tax credits</heading>
-							<content>
-								<p>Payments to individuals made pursuant to provisions of title 26 establishing refundable tax credits shall be exempt from reduction under any order issued under this subchapter.</p>
-							</content>
+							<heading> Refundable income tax credits and certain elective payments</heading>
+							<paragraph identifier="/us/usc/t2/s905/d/1">
+								<num>(1)</num>
+								<heading> Refundable income tax credits</heading>
+								<content>
+									<p>Payments to individuals made pursuant to provisions of title 26 establishing refundable tax credits shall be exempt from reduction under any order issued under this part.</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t2/s905/d/2">
+								<num>(2)</num>
+								<heading> Certain elective payments</heading>
+								<content>
+									<p>
+										Payments made to taxpayers pursuant to elections under subsection (d) of 
+										<ref href="/us/usc/t26/s48D">section 48D of title 26</ref>
+										, or amounts treated as payments which are made by taxpayers under paragraph (1) of such subsection, shall be exempt from reduction under any order issued under this part.
+									</p>
+								</content>
+							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t2/s905/e">
 							<num>(e)</num>
@@ -19257,6 +19272,10 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 										<p>Comptroller of the Currency, Assessment Funds (20–8413–0–8–373).</p>
 										<p>Continuing Fund, Southeastern Power Administration (89–5653–0–2–271).</p>
 										<p>Continuing Fund, Southwestern Power Administration (89–5649–0–2–271).</p>
+										<p>Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Fund.</p>
+										<p>Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Defense Fund.</p>
+										<p>Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America International Technology Security and Innovation Fund.</p>
+										<p>Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Workforce and Education Fund </p>
 										<p>Dual Benefits Payments Account (60–0111–0–1–601).</p>
 										<p>Emergency Fund, Western Area Power Administration (89–5069–0–2–271).</p>
 										<p>Exchange Stabilization Fund (20–4444–0–3–155).</p>
@@ -19304,6 +19323,7 @@ SUBCHAPTER II—OPERATION AND REVIEW</column>
 										<p>Payments to trust funds from excise taxes or other receipts properly creditable to such trust funds.</p>
 										<p>Payments to widows and heirs of deceased Members of Congress (00–0215–0–1–801).</p>
 										<p>Postal Service Fund (18–4020–0–3–372).</p>
+										<p>Public Wireless Supply Chain Innovation Fund.</p>
 										<p>Radiation Exposure Compensation Trust Fund (15–8116–0–1–054).</p>
 										<p>Reimbursement to Federal Reserve Banks (20–0562–0–1–803).</p>
 										<p>Salaries of Article III judges.</p>

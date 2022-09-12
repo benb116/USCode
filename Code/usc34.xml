@@ -1785,6 +1785,12 @@ SUBCHAPTER XXXIII—ADULT AND JUVENILE COLLABORATION PROGRAM GRANTS</column>
 								</column>
 								<column>National criminal justice and mental health training and technical assistance.</column>
 							</tocItem>
+							<tocItem>
+								<column>
+									<ref href="/us/usc/t34/s10653">10653.</ref>
+								</column>
+								<column>Creation of a TBI and PTSD training for first responders.</column>
+							</tocItem>
 							<header>
 								<column>
 SUBCHAPTER XXXIV—CONFRONTING USE OF METHAMPHETAMINE</column>
@@ -4420,11 +4426,11 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 							<heading> Subpoena power; employment of hearing officers; authority to hold hearings</heading>
 							<content>
 								<p>
-									The Attorney General, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics may appoint (to be assigned or employed on an interim or as-needed basis) such hearing examiners (who shall, if so designated by the Attorney General, be understood to be comprised within the meaning of “special government employee” under 
+									The Assistant Attorney General, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics may appoint (to be assigned or employed on an interim or as-needed basis) such hearing examiners (who shall, if so designated, be understood to be comprised within the meaning of “special government employee” under 
 									<ref href="/us/usc/t18/s202">section 202 of title 18</ref>
-									) such hearing examiners or administrative law judges or request the use of such administrative law judges selected by the Office of Personnel Management pursuant to 
+									 (without regard to the days limitation prescribed therein), but shall, in no event, be understood to be (or to have the authority of) officers of the United States) or administrative law judges or request the use of such administrative law judges selected by the Office of Personnel Management pursuant to 
 									<ref href="/us/usc/t5/s3344">section 3344 of title 5</ref>
-									, as shall be necessary to carry out their respective powers and duties or other law. The Attorney General, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics or upon authorization, any member thereof or any hearing examiner or administrative law judge assigned to or employed thereby shall have the power to hold hearings and issue subpoenas, administer oaths, examine witnesses, conduct examinations and receive evidence at any place in the United States they respectively may designate.
+									, as shall be necessary or convenient to assist them in carrying out their respective powers and duties under any law administered by or under the Office. The Assistant Attorney General, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics or upon authorization, any member thereof, or (subject to such limitations as the appointing authority may, in its sole discretion, impose from time to time) any hearing examiner or administrative law judge assigned to or employed thereby, shall have the power to hold hearings and issue subpoenas, administer oaths, examine witnesses, conduct examinations, and receive evidence at any place in the United States they respectively may designate.
 								</p>
 							</content>
 						</section>
@@ -5732,6 +5738,136 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 										<p>The public safety agency, organization, or unit responsible for maintaining on file an executed designation of beneficiary or executed life insurance policy for purposes of subsection (a)(4) shall maintain the confidentiality of the designation or policy in the same manner as the agency, organization, or unit maintains personnel or other similar records of the public safety officer.</p>
 									</content>
 								</subsection>
+								<subsection identifier="/us/usc/t34/s10281/o">
+									<num>(o)</num>
+									<heading> Post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders</heading>
+									<paragraph identifier="/us/usc/t34/s10281/o/1">
+										<num>(1)</num>
+										<heading> Definitions</heading>
+										<chapeau>In this section:</chapeau>
+										<subparagraph identifier="/us/usc/t34/s10281/o/1/A">
+											<num>(A)</num>
+											<heading> Mass casualty event</heading>
+											<chapeau>The term “mass casualty event” means an incident resulting in casualties to not fewer than 3 victims, including—</chapeau>
+											<clause identifier="/us/usc/t34/s10281/o/1/A/i">
+												<num>(i)</num>
+												<content> an incident that exceeds the normal resources for emergency response available in the jurisdiction where the incident takes place; and</content>
+											</clause>
+											<clause identifier="/us/usc/t34/s10281/o/1/A/ii">
+												<num>(ii)</num>
+												<content> an incident that results in a sudden and timely surge of injured individuals necessitating emergency services.</content>
+											</clause>
+										</subparagraph>
+										<subparagraph identifier="/us/usc/t34/s10281/o/1/B">
+											<num>(B)</num>
+											<heading> Mass fatality event</heading>
+											<content>
+												<p>The term “mass fatality event” means an incident resulting in the fatalities of not fewer than 3 individuals at 1 or more locations close to one another with a common cause.</p>
+											</content>
+										</subparagraph>
+										<subparagraph identifier="/us/usc/t34/s10281/o/1/C">
+											<num>(C)</num>
+											<heading> Mass shooting</heading>
+											<chapeau>The term “mass shooting” means a multiple homicide incident in which not fewer than 3 victims are killed—</chapeau>
+											<clause identifier="/us/usc/t34/s10281/o/1/C/i">
+												<num>(i)</num>
+												<content> with a firearm;</content>
+											</clause>
+											<clause identifier="/us/usc/t34/s10281/o/1/C/ii">
+												<num>(ii)</num>
+												<content> during one event; and</content>
+											</clause>
+											<clause identifier="/us/usc/t34/s10281/o/1/C/iii">
+												<num>(iii)</num>
+												<content> in one or more locations in close proximity.</content>
+											</clause>
+										</subparagraph>
+										<subparagraph identifier="/us/usc/t34/s10281/o/1/D">
+											<num>(D)</num>
+											<heading> Exposed</heading>
+											<chapeau>The term “exposed” includes—</chapeau>
+											<clause identifier="/us/usc/t34/s10281/o/1/D/i">
+												<num>(i)</num>
+												<content> directly experiencing or witnessing an event; or</content>
+											</clause>
+											<clause identifier="/us/usc/t34/s10281/o/1/D/ii">
+												<num>(ii)</num>
+												<content> being subjected, in an intense way, to aversive consequences of the event (including a public safety officer collecting human remains).</content>
+											</clause>
+										</subparagraph>
+										<subparagraph identifier="/us/usc/t34/s10281/o/1/E">
+											<num>(E)</num>
+											<heading> Traumatic event</heading>
+											<chapeau>The term “traumatic event” means, in the case of a public safety officer exposed to an event, an event that is—</chapeau>
+											<clause identifier="/us/usc/t34/s10281/o/1/E/i">
+												<num>(i)</num>
+												<content> a homicide, suicide, or the violent or gruesome death of another individual (including such a death resulting from a mass casualty event, mass fatality event, or mass shooting);</content>
+											</clause>
+											<clause identifier="/us/usc/t34/s10281/o/1/E/ii">
+												<num>(ii)</num>
+												<content> a harrowing circumstance posing an extraordinary and significant danger or threat to the life of or of serious bodily harm to any individual (including such a circumstance as a mass casualty event, mass fatality event, or mass shooting); or</content>
+											</clause>
+											<clause identifier="/us/usc/t34/s10281/o/1/E/iii">
+												<num>(iii)</num>
+												<content> an act of criminal sexual violence committed against any individual.</content>
+											</clause>
+										</subparagraph>
+									</paragraph>
+									<paragraph identifier="/us/usc/t34/s10281/o/2">
+										<num>(2)</num>
+										<heading> Personal injury sustained in line of duty</heading>
+										<chapeau>As determined by the Bureau—</chapeau>
+										<subparagraph identifier="/us/usc/t34/s10281/o/2/A">
+											<num>(A)</num>
+											<content> post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders suffered by a public safety officer and diagnosed by a licensed medical or mental health professional, shall be presumed to constitute a personal injury within the meaning of subsection (a), sustained in the line of duty by the officer, if the officer was exposed, while on duty, to one or more traumatic events and such exposure was a substantial factor in the disorder;</content>
+										</subparagraph>
+										<subparagraph identifier="/us/usc/t34/s10281/o/2/B">
+											<num>(B)</num>
+											<content> post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who has contacted or attempted to contact the employee assistance program of the agency or entity that the officer serves, a licensed medical or mental health professional, suicide prevention services, or another mental health assistance service in order to receive help, treatment, or diagnosis for post-traumatic stress disorder or acute stress disorder, shall be presumed to constitute a personal injury within the meaning of subsection (a), sustained in the line of duty by the officer, if the officer, was exposed, while on duty, to one or more traumatic events and such exposure was a substantial factor in the disorder; and</content>
+										</subparagraph>
+										<subparagraph identifier="/us/usc/t34/s10281/o/2/C">
+											<num>(C)</num>
+											<content> post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who was exposed, while on duty, to one or more traumatic events shall be presumed to constitute a personal injury within the meaning of subsection (a), sustained in the line of duty by the officer if such exposure was a substantial factor in the disorder.</content>
+										</subparagraph>
+									</paragraph>
+									<paragraph identifier="/us/usc/t34/s10281/o/3">
+										<num>(3)</num>
+										<heading> Presumption of death or total disability</heading>
+										<chapeau>A public safety officer shall be presumed to have died or become permanently and totally disabled (within the meaning of subsection (a) or (b)) as the direct and proximate result of a personal injury sustained in the line of duty, if (as determined by the Bureau) the officer either—</chapeau>
+										<subparagraph identifier="/us/usc/t34/s10281/o/3/A">
+											<num>(A)</num>
+											<content> took an action, which action was intended to bring about the officer’s death and directly and proximately resulted in such officer’s death or permanent and total disability and exposure, while on duty, to one or more traumatic events was a substantial factor in the action taken by the officer; or</content>
+										</subparagraph>
+										<subparagraph identifier="/us/usc/t34/s10281/o/3/B">
+											<num>(B)</num>
+											<content> took an action within 45 days of the end of exposure, while on duty, to a traumatic event, which action was intended to bring about the officer’s death and directly and proximately resulted in such officer’s death or permanent and total disability, if such action was not inconsistent with a psychiatric disorder.</content>
+										</subparagraph>
+									</paragraph>
+									<paragraph identifier="/us/usc/t34/s10281/o/4">
+										<num>(4)</num>
+										<heading> Applicability of limitations on benefits</heading>
+										<subparagraph identifier="/us/usc/t34/s10281/o/4/A">
+											<num>(A)</num>
+											<heading> Intentional actions</heading>
+											<content>
+												<p>
+													<ref href="/us/usc/t34/s10282/a/1">Section 10282(a)(1) of this title</ref>
+													 shall not apply to any claim for a benefit under this part that is payable in accordance with this subsection.
+												</p>
+											</content>
+										</subparagraph>
+										<subparagraph identifier="/us/usc/t34/s10281/o/4/B">
+											<num>(B)</num>
+											<heading> Substance use</heading>
+											<content>
+												<p>
+													<ref href="/us/usc/t34/s10282/a/2">Section 10282(a)(2) of this title</ref>
+													 shall not preclude the payment of a benefit under this part if the benefit is otherwise payable in accordance with this subsection.
+												</p>
+											</content>
+										</subparagraph>
+									</paragraph>
+								</subsection>
 							</section>
 							<section identifier="/us/usc/t34/s10282">
 								<num>§ 10282.</num>
@@ -5972,7 +6108,7 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t34/s10284/11">
 									<num>(11)</num>
-									<content> “neurocognitive disorder” means a disorder that is characterized by a clinically significant decline in cognitive functioning and may include symptoms and signs such as disturbances in memory, executive functioning (that is, higher-level cognitive processes, such as, regulating attention, planning, inhibiting responses, decision-making), visual-spatial functioning, language, speech, perception, insight, judgment, or an insensitivity to social standards; and</content>
+									<content> “neurocognitive disorder” means a disorder that is characterized by a clinically significant decline in cognitive functioning and may include symptoms and signs such as disturbances in memory, executive functioning (that is, higher-level cognitive processes, such as, regulating attention, planning, inhibiting responses, decision-making), visual-spatial functioning, language, speech, perception, insight, judgment, or an insensitivity to social standards;</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t34/s10284/12">
 									<num>(12)</num>
@@ -5983,7 +6119,7 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t34/s10284/12/B">
 										<num>(B)</num>
-										<content> despite involving sitting on a regular basis, may require walking or standing on an occasional basis.</content>
+										<content> despite involving sitting on a regular basis, may require walking or standing on an occasional basis;</content>
 									</subparagraph>
 								</paragraph>
 								<paragraph identifier="/us/usc/t34/s10284/13">
@@ -6063,20 +6199,15 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t34/s10284/14/F">
 										<num>(F)</num>
-										<content>
-											 omitted
-										</content>
+										<content> omitted</content>
 									</subparagraph>
-									<subparagraph identifier="/us/usc/t34/s10284/14/F">
-										<num>(F)</num>
-										<chapeau>
-											<sup>2</sup>
-											 an employee or contractor of the Department of Energy who—
-										</chapeau>
-										<clause identifier="/us/usc/t34/s10284/14/F/i">
+									<subparagraph identifier="/us/usc/t34/s10284/14/G">
+										<num>(G)</num>
+										<chapeau> an employee or contractor of the Department of Energy who—</chapeau>
+										<clause identifier="/us/usc/t34/s10284/14/G/i">
 											<num>(i)</num>
 											<chapeau> is—</chapeau>
-											<subclause identifier="/us/usc/t34/s10284/14/F/i/I">
+											<subclause identifier="/us/usc/t34/s10284/14/G/i/I">
 												<num>(I)</num>
 												<content>
 													 a nuclear materials courier (as defined in 
@@ -6084,15 +6215,15 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 													); or
 												</content>
 											</subclause>
-											<subclause identifier="/us/usc/t34/s10284/14/F/i/II">
+											<subclause identifier="/us/usc/t34/s10284/14/G/i/II">
 												<num>(II)</num>
 												<content> designated by the Secretary of Energy as a member of an emergency response team; and</content>
 											</subclause>
 										</clause>
-										<clause identifier="/us/usc/t34/s10284/14/F/ii">
+										<clause identifier="/us/usc/t34/s10284/14/G/ii">
 											<num>(ii)</num>
 											<chapeau> is performing official duties of the Department, pursuant to a deployment order issued by the Secretary, to protect the public, property, or the interests of the United States by—</chapeau>
-											<subclause identifier="/us/usc/t34/s10284/14/F/ii/I">
+											<subclause identifier="/us/usc/t34/s10284/14/G/ii/I">
 												<num>(I)</num>
 												<content>
 													 assessing, locating, identifying, securing, rendering safe, or disposing of weapons of mass destruction (as defined in 
@@ -6100,7 +6231,7 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 													); or
 												</content>
 											</subclause>
-											<subclause identifier="/us/usc/t34/s10284/14/F/ii/II">
+											<subclause identifier="/us/usc/t34/s10284/14/G/ii/II">
 												<num>(II)</num>
 												<content> managing the immediate consequences of a radiological release or exposure.</content>
 											</subclause>
@@ -15694,7 +15825,11 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 										<num>(A)</num>
 										<heading> Training programs</heading>
 										<content>
-											<p>To provide for programs that offer law enforcement personnel specialized and comprehensive training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.</p>
+											<p>
+												To provide for programs that offer law enforcement personnel specialized and comprehensive training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved, including the training developed under 
+												<ref href="/us/usc/t34/s10653">section 10653 of this title</ref>
+												.
+											</p>
 										</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t34/s10651/h/1/B">
@@ -16244,19 +16379,9 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 								<paragraph identifier="/us/usc/t34/s10651/o/1">
 									<num>(1)</num>
 									<heading> In general</heading>
-									<chapeau>There are authorized to be appropriated to the Department of Justice to carry out this section—</chapeau>
-									<subparagraph identifier="/us/usc/t34/s10651/o/1/A">
-										<num>(A)</num>
-										<content> $50,000,000 for fiscal year 2005;</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t34/s10651/o/1/B">
-										<num>(B)</num>
-										<content> such sums as may be necessary for each of the fiscal years 2006 and 2007; and</content>
-									</subparagraph>
-									<subparagraph identifier="/us/usc/t34/s10651/o/1/C">
-										<num>(C)</num>
-										<content> $50,000,000 for each of the fiscal years 2017 through 2021.</content>
-									</subparagraph>
+									<content>
+										<p>There is authorized to be appropriated to the Department of Justice to carry out this section $54,000,000 for each of fiscal years 2023 through 2027.</p>
+									</content>
 								</paragraph>
 								<paragraph identifier="/us/usc/t34/s10651/o/2">
 									<num>(2)</num>
@@ -16543,6 +16668,47 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 										</clause>
 									</subparagraph>
 								</paragraph>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t34/s10653">
+							<num>§ 10653.</num>
+							<heading> Creation of a TBI and PTSD training for first responders</heading>
+							<subsection identifier="/us/usc/t34/s10653/a">
+								<num>(a)</num>
+								<heading> In general</heading>
+								<chapeau>
+									Not later than one year after 
+									<date date="2022-08-16">August 16, 2022</date>
+									, the Attorney General, acting through the Director of the Bureau of Justice Assistance, in consultation with the Director of the Centers for Disease Control and Prevention and the Assistant Secretary for Mental Health and Substance Use, shall solicit best practices regarding techniques to interact with persons who have a traumatic brain injury, an acquired brain injury, or post-traumatic stress disorder from first responder, brain injury, veteran, and mental health organizations, health care and mental health providers, hospital emergency departments, and other relevant stakeholders, and shall develop crisis intervention training tools for use by first responders (as such term is defined in 
+									<ref href="/us/usc/t34/s10705">section 10705 of this title</ref>
+									) that provide—
+								</chapeau>
+								<paragraph identifier="/us/usc/t34/s10653/a/1">
+									<num>(1)</num>
+									<content> information on the conditions and symptoms of a traumatic brain injury, an acquired brain injury, and post-traumatic stress disorder;</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s10653/a/2">
+									<num>(2)</num>
+									<content> techniques to interact with persons who have a traumatic brain injury, an acquired brain injury, or post-traumatic stress disorder; and</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t34/s10653/a/3">
+									<num>(3)</num>
+									<content> information on how to recognize persons who have a traumatic brain injury, an acquired brain injury, or post-traumatic stress disorder.</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t34/s10653/b">
+								<num>(b)</num>
+								<heading> Use of training tools at Law Enforcement Mental Health Learning Sites</heading>
+								<content>
+									<p>The Attorney General shall ensure that not less than one Law Enforcement Mental Health Learning Site designated by the Director of the Bureau of Justice Assistance uses the training tools developed under subsection (a).</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t34/s10653/c">
+								<num>(c)</num>
+								<heading> Police Mental Health Collaboration Toolkit</heading>
+								<content>
+									<p>The Attorney General shall make the training tools developed under subsection (a) available as part of the Police-Mental Health Collaboration Toolkit provided by the Bureau of Justice Assistance.</p>
+								</content>
 							</subsection>
 						</section>
 					</subchapter>

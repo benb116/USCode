@@ -3148,7 +3148,7 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 										<chapeau>
 											From amounts made available to carry out this part, the Attorney General may, in accordance with the formula established under 
 											<ref href="/us/usc/t34/s10156">section 10156 of this title</ref>
-											, make grants to States and units of local government, for use by the State or unit of local government to provide additional personnel, equipment, supplies, contractual support, training, technical assistance, and information systems for criminal justice, including for any one or more of the following programs:
+											, make grants to States and units of local government, for use by the State or unit of local government to provide additional personnel, equipment, supplies, contractual support, training, technical assistance, and information systems for criminal justice or civil proceedings, including for any one or more of the following programs:
 										</chapeau>
 										<subparagraph identifier="/us/usc/t34/s10152/a/1/A">
 											<num>(A)</num>
@@ -3181,6 +3181,42 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 										<subparagraph identifier="/us/usc/t34/s10152/a/1/H">
 											<num>(H)</num>
 											<content> Mental health programs and related law enforcement and corrections programs, including behavioral programs and crisis intervention teams.</content>
+										</subparagraph>
+										<subparagraph identifier="/us/usc/t34/s10152/a/1/I">
+											<num>(I)</num>
+											<chapeau> Implementation of State crisis intervention court proceedings and related programs or initiatives, including but not limited to—</chapeau>
+											<clause identifier="/us/usc/t34/s10152/a/1/I/i">
+												<num>(i)</num>
+												<content> mental health courts;</content>
+											</clause>
+											<clause identifier="/us/usc/t34/s10152/a/1/I/ii">
+												<num>(ii)</num>
+												<content> drug courts;</content>
+											</clause>
+											<clause identifier="/us/usc/t34/s10152/a/1/I/iii">
+												<num>(iii)</num>
+												<content> veterans courts; and</content>
+											</clause>
+											<clause identifier="/us/usc/t34/s10152/a/1/I/iv">
+												<num>(iv)</num>
+												<chapeau> extreme risk protection order programs, which must include, at a minimum—</chapeau>
+												<subclause identifier="/us/usc/t34/s10152/a/1/I/iv/I">
+													<num>(I)</num>
+													<content> pre-deprivation and post-deprivation due process rights that prevent any violation or infringement of the Constitution of the United States, including but not limited to the Bill of Rights, and the substantive or procedural due process rights guaranteed under the Fifth and Fourteenth Amendments to the Constitution of the United States, as applied to the States, and as interpreted by State courts and United States courts (including the Supreme Court of the United States). Such programs must include, at the appropriate phase to prevent any violation of constitutional rights, at minimum, notice, the right to an in-person hearing, an unbiased adjudicator, the right to know opposing evidence, the right to present evidence, and the right to confront adverse witnesses;</content>
+												</subclause>
+												<subclause identifier="/us/usc/t34/s10152/a/1/I/iv/II">
+													<num>(II)</num>
+													<content> the right to be represented by counsel at no expense to the government;</content>
+												</subclause>
+												<subclause identifier="/us/usc/t34/s10152/a/1/I/iv/III">
+													<num>(III)</num>
+													<content> pre-deprivation and post-deprivation heightened evidentiary standards and proof which mean not less than the protections afforded to a similarly situated litigant in Federal court or promulgated by the State’s evidentiary body, and sufficient to ensure the full protections of the Constitution of the United States, including but not limited to the Bill of Rights, and the substantive and procedural due process rights guaranteed under the Fifth and Fourteenth Amendments to the Constitution of the United States, as applied to the States, and as interpreted by State courts and United States courts (including the Supreme Court of the United States). The heightened evidentiary standards and proof under such programs must, at all appropriate phases to prevent any violation of any constitutional right, at minimum, prevent reliance upon evidence that is unsworn or unaffirmed, irrelevant, based on inadmissible hearsay, unreliable, vague, speculative, and lacking a foundation; and</content>
+												</subclause>
+												<subclause identifier="/us/usc/t34/s10152/a/1/I/iv/IV">
+													<num>(IV)</num>
+													<content> penalties for abuse of the program.</content>
+												</subclause>
+											</clause>
 										</subparagraph>
 									</paragraph>
 									<paragraph identifier="/us/usc/t34/s10152/a/2">
@@ -3275,6 +3311,27 @@ SUBCHAPTER XLI—CRISIS STABILIZATION AND COMMUNITY REENTRY PROGRAM</column>
 									<content>
 										<p>Subparagraph (d)(1) shall not be construed to prohibit the use, directly or indirectly, of funds provided under this part to provide security at a public event, such as a political convention or major sports event, so long as such security is provided under applicable laws and procedures.</p>
 									</content>
+								</subsection>
+								<subsection identifier="/us/usc/t34/s10152/h">
+									<num>(h)</num>
+									<heading> Annual report on crisis intervention programs</heading>
+									<chapeau>The Attorney General shall publish an annual report with respect to grants awarded for crisis intervention programs or initiatives under subsection (a)(1)(I) that contains—</chapeau>
+									<paragraph identifier="/us/usc/t34/s10152/h/1">
+										<num>(1)</num>
+										<content> a description of the grants awarded and the crisis intervention programs or initiatives funded by the grants, broken down by grant recipient;</content>
+									</paragraph>
+									<paragraph identifier="/us/usc/t34/s10152/h/2">
+										<num>(2)</num>
+										<content> an evaluation of the effectiveness of the crisis intervention programs or initiatives in preventing violence and suicide;</content>
+									</paragraph>
+									<paragraph identifier="/us/usc/t34/s10152/h/3">
+										<num>(3)</num>
+										<content> measures that have been taken by each grant recipient to safeguard the constitutional rights of an individual subject to a crisis intervention program or initiative; and</content>
+									</paragraph>
+									<paragraph identifier="/us/usc/t34/s10152/h/4">
+										<num>(4)</num>
+										<content> efforts that the Attorney General is making, in coordination with the grant recipients, to protect the constitutional rights of individuals subject to the crisis intervention programs or initiatives.</content>
+									</paragraph>
 								</subsection>
 							</section>
 							<section identifier="/us/usc/t34/s10153">
@@ -56009,7 +56066,11 @@ SUBCHAPTER V—MISCELLANEOUS</column>
 								<num>(3)</num>
 								<heading> State</heading>
 								<content>
-									<p>The term “State” has the meaning given the term in section 10251of this title.</p>
+									<p>
+										The term “State” has the meaning given the term in 
+										<ref href="/us/usc/t34/s10251">section 10251 of this title</ref>
+										.
+									</p>
 								</content>
 							</paragraph>
 							<paragraph identifier="/us/usc/t34/s30507/c/4">
@@ -56033,7 +56094,11 @@ SUBCHAPTER V—MISCELLANEOUS</column>
 								<num>(5)</num>
 								<heading> Unit of local government</heading>
 								<content>
-									<p>The term “unit of local government” has the meaning given the term in section 10251of this title.</p>
+									<p>
+										The term “unit of local government” has the meaning given the term in 
+										<ref href="/us/usc/t34/s10251">section 10251 of this title</ref>
+										.
+									</p>
 								</content>
 							</paragraph>
 						</subsection>
@@ -59988,15 +60053,69 @@ SUBCHAPTER III—GRANTS TO STATE COURT SYSTEMS FOR THE IMPROVEMENT IN AUTOMATION
 						<subsection identifier="/us/usc/t34/s40901/b">
 							<num>(b)</num>
 							<heading> Establishment of system</heading>
-							<content>
-								<p>
-									Not later than 60 months after 
-									<date date="1993-11-30">November 30, 1993</date>
-									, the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or by other electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee would violate 
-									<ref href="/us/usc/t18/s922">section 922 of title 18</ref>
-									 or State law.
-								</p>
-							</content>
+							<paragraph identifier="/us/usc/t34/s40901/b/1">
+								<num>(1)</num>
+								<heading> In general</heading>
+								<content>
+									<p>
+										Not later than 60 months after 
+										<date date="1993-11-30">November 30, 1993</date>
+										, the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or by other electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee would violate 
+										<ref href="/us/usc/t18/s922">section 922 of title 18</ref>
+										 or State law.
+									</p>
+								</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t34/s40901/b/2">
+								<num>(2)</num>
+								<heading> Voluntary background checks</heading>
+								<subparagraph identifier="/us/usc/t34/s40901/b/2/A">
+									<num>(A)</num>
+									<heading> In general</heading>
+									<content>
+										<p>
+											Not later than 90 days after 
+											<date date="2022-06-25">June 25, 2022</date>
+											, the Attorney General shall promulgate regulations allowing licensees to use the national instant criminal background check system established under this section for purposes of voluntarily conducting an employment background check relating to a current or prospective employee. The Attorney General may not collect a fee for an employment background check under this subparagraph.
+										</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t34/s40901/b/2/B">
+									<num>(B)</num>
+									<heading> Notice</heading>
+									<chapeau>Before conducting an employment background check relating to a current or prospective employee under subparagraph (A), a licensee shall—</chapeau>
+									<clause identifier="/us/usc/t34/s40901/b/2/B/i">
+										<num>(i)</num>
+										<content> provide written notice to the current or prospective employee that the licensee intends to conduct the background check; and</content>
+									</clause>
+									<clause identifier="/us/usc/t34/s40901/b/2/B/ii">
+										<num>(ii)</num>
+										<content> obtain consent to conduct the background check from the current or prospective employee in writing.</content>
+									</clause>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t34/s40901/b/2/C">
+									<num>(C)</num>
+									<heading> Exemption</heading>
+									<content>
+										<p>
+											An employment background check conducted by a licensee under subparagraph (A) shall not be governed by the Fair Credit Reporting Act (
+											<ref href="/us/usc/t15/s1681">15 U.S.C. 1681</ref>
+											 et seq.).
+										</p>
+									</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t34/s40901/b/2/D">
+									<num>(D)</num>
+									<heading> Appeal</heading>
+									<content>
+										<p>
+											Any individual who is the subject of an employment background check conducted by a licensee under subparagraph (A) the result of which indicates that the individual is prohibited from possessing a firearm or ammunition pursuant to subsection (g) or (n) of 
+											<ref href="/us/usc/t18/s922">section 922 of title 18</ref>
+											 may appeal the results of the background check in the same manner and to the same extent as if the individual had been the subject of a background check relating to the transfer of a firearm.
+										</p>
+									</content>
+								</subparagraph>
+							</paragraph>
 						</subsection>
 						<subsection identifier="/us/usc/t34/s40901/c">
 							<num>(c)</num>
@@ -60314,6 +60433,47 @@ SUBCHAPTER III—GRANTS TO STATE COURT SYSTEMS FOR THE IMPROVEMENT IN AUTOMATION
 							<content>
 								<p>There are authorized to be appropriated such sums as are necessary to enable the Attorney General to carry out this section.</p>
 							</content>
+						</subsection>
+						<subsection identifier="/us/usc/t34/s40901/l">
+							<num>(l)</num>
+							<heading> Requirements relating to background checks for persons under age 21</heading>
+							<chapeau>
+								If a licensee contacts the system established under this section regarding a proposed transfer of a firearm to a person less than 21 years of age in accordance with subsection (t) of 
+								<ref href="/us/usc/t18/s922">section 922 of title 18</ref>
+								, the system shall—
+							</chapeau>
+							<paragraph identifier="/us/usc/t34/s40901/l/1">
+								<num>(1)</num>
+								<chapeau> immediately contact—</chapeau>
+								<subparagraph identifier="/us/usc/t34/s40901/l/1/A">
+									<num>(A)</num>
+									<content> the criminal history repository or juvenile justice information system, as appropriate, of the State in which the person resides for the purpose of determining whether the person has a possibly disqualifying juvenile record under subsection (d) of such section 922;</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t34/s40901/l/1/B">
+									<num>(B)</num>
+									<content> the appropriate State custodian of mental health adjudication records in the State in which the person resides to determine whether the person has a possibly disqualifying juvenile record under subsection (d) of such section 922; and</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t34/s40901/l/1/C">
+									<num>(C)</num>
+									<content> a local law enforcement agency of the jurisdiction in which the person resides for the purpose of determining whether the person has a possibly disqualifying juvenile record under subsection (d) of such section 922;</content>
+								</subparagraph>
+							</paragraph>
+							<paragraph identifier="/us/usc/t34/s40901/l/2">
+								<num>(2)</num>
+								<content> as soon as possible, but in no case more than 3 business days, after the licensee contacts the system, notify the licensee whether cause exists to further investigate a possibly disqualifying juvenile record under subsection (d) of such section 922; and</content>
+							</paragraph>
+							<paragraph identifier="/us/usc/t34/s40901/l/3">
+								<num>(3)</num>
+								<chapeau> if there is cause for further investigation, as soon as possible, but in no case more than 10 business days, after the licensee contacts the system, notify the licensee whether—</chapeau>
+								<subparagraph identifier="/us/usc/t34/s40901/l/3/A">
+									<num>(A)</num>
+									<content> transfer of a firearm to the person would violate subsection (d) of such section 922; or</content>
+								</subparagraph>
+								<subparagraph identifier="/us/usc/t34/s40901/l/3/B">
+									<num>(B)</num>
+									<content> receipt of a firearm by the person would violate subsection (g) or (n) of such section 922, or State, local, or Tribal law.</content>
+								</subparagraph>
+							</paragraph>
 						</subsection>
 					</section>
 					<section identifier="/us/usc/t34/s40902">
@@ -64884,7 +65044,7 @@ SUBCHAPTER III—CONGRESSIONAL BADGE OF BRAVERY OFFICE</column>
 				</chapter>
 				<chapter identifier="/us/usc/t34/stV/ch509">
 					<num>CHAPTER 509—</num>
-					<heading>CONFIDENTIALITY OPPORTUNITIES FOR PEER SUPPORTCOUNSELING</heading>
+					<heading>CONFIDENTIALITY OPPORTUNITIES FOR PEER SUPPORT COUNSELING</heading>
 					<toc>
 						<layout>
 							<header>

@@ -2481,6 +2481,12 @@ Part A—Cybersecurity and Infrastructure Security</column>
 							</column>
 							<column>Ransomware threat mitigation activities.</column>
 						</tocItem>
+						<tocItem>
+							<column>
+								<ref href="/us/usc/t6/s665k">665k.</ref>
+							</column>
+							<column>Federal Clearinghouse on School Safety Evidence-based Practices.</column>
+						</tocItem>
 						<header>
 							<column>
 Part B—Critical Infrastructure Information</column>
@@ -5047,7 +5053,10 @@ Part D—Cyber Incident Reporting</column>
 								<num>(c)</num>
 								<heading> Clearances</heading>
 								<content>
-									<p>The Secretary of Homeland Security shall make available to appropriate owners and operators of surface transportation assets, and to any other person that the Secretary determines appropriate to foster greater sharing of classified information relating to threats of terrorism and other threats, including targeted violence, to surface transportation assets, the process of application for security clearances under Executive Order No. 13549 (75 Fed. Reg. 162; relating to a classified national security information program) or any successor Executive order.</p>
+									<p>
+										The Secretary of Homeland Security shall make available to appropriate owners and operators of surface transportation assets, and to any other person that the Secretary determines appropriate to foster greater sharing of classified information relating to threats of terrorism and other threats, including targeted violence, to surface transportation assets, the process of application for security clearances under Executive Order No. 13549 (75 Fed. Reg. 162; 
+										 relating to a classified national security information program) or any successor Executive order.
+									</p>
 								</content>
 							</subsection>
 							<subsection identifier="/us/usc/t6/s124h–1/d">
@@ -13765,7 +13774,7 @@ Part D—Cyber Incident Reporting</column>
 								</paragraph>
 								<paragraph identifier="/us/usc/t6/s240/d/2">
 									<num>(2)</num>
-									<content> take other actions to assist Federal, State, local, and tribal entities to participate in BEST, including providing financial assistance, as appropriate, for operational, administrative, and technological costs associated with the participation of Federal, State, local, and tribal law enforcement agencies in BEST.</content>
+									<content> take other actions to assist Federal, State, local, and tribal entities to participate in BEST, including providing financial assistance, as appropriate, for operational, administrative, salary reimbursement, and technological costs associated with the participation of Federal, State, local, and tribal law enforcement agencies in BEST.</content>
 								</paragraph>
 							</subsection>
 							<subsection identifier="/us/usc/t6/s240/e">
@@ -16411,10 +16420,7 @@ Part D—Cyber Incident Reporting</column>
 									<subparagraph identifier="/us/usc/t6/s301a/c/6/B">
 										<num>(B)</num>
 										<heading> Certification requirement</heading>
-										<chapeau>
-											Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that 
-											<sup>1</sup>
-										</chapeau>
+										<chapeau>Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that </chapeau>
 										<clause identifier="/us/usc/t6/s301a/c/6/B/i">
 											<num>(i)</num>
 											<content> the donation will not be used for the construction of a detention facility or a border fence or wall; and</content>
@@ -16474,7 +16480,10 @@ Part D—Cyber Incident Reporting</column>
 							<subsection identifier="/us/usc/t6/s301a/d">
 								<num>(d)</num>
 								<heading> GAO report</heading>
-								<chapeau>The Comptroller General of the United States shall submit an biennial report to the congressional committees referred to in subsection (c)(7) that evaluates—</chapeau>
+								<chapeau>
+									The Comptroller General of the United States shall submit an 
+									 biennial report to the congressional committees referred to in subsection (c)(7) that evaluates—
+								</chapeau>
 								<paragraph identifier="/us/usc/t6/s301a/d/1">
 									<num>(1)</num>
 									<content>
@@ -37181,7 +37190,7 @@ Part D—Cyber Incident Reporting</column>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s659/d/1/E">
 										<num>(E)</num>
-										<content> an entity that collaborates with State and local governments, including an entity that collaborates with election officials on cybersecurity risks and incidents, and has entered into a voluntary information sharing relationship with the Center; and</content>
+										<content> an entity that collaborates with State and local governments, including an entity that collaborates with election officials, on cybersecurity risks and incidents, and has entered into a voluntary information sharing relationship with the Center; and</content>
 									</subparagraph>
 									<subparagraph identifier="/us/usc/t6/s659/d/1/F">
 										<num>(F)</num>
@@ -41337,6 +41346,195 @@ Part D—Cyber Incident Reporting</column>
 								<heading> Rule of construction</heading>
 								<content>
 									<p>Nothing in this section shall be construed to provide any additional authority to any Federal agency.</p>
+								</content>
+							</subsection>
+						</section>
+						<section identifier="/us/usc/t6/s665k">
+							<num>§ 665k.</num>
+							<heading> Federal Clearinghouse on School Safety Evidence-based Practices</heading>
+							<subsection identifier="/us/usc/t6/s665k/a">
+								<num>(a)</num>
+								<heading> Establishment</heading>
+								<paragraph identifier="/us/usc/t6/s665k/a/1">
+									<num>(1)</num>
+									<heading> In general</heading>
+									<content>
+										<p>The Secretary, in coordination with the Secretary of Education, the Attorney General, and the Secretary of Health and Human Services, shall establish a Federal Clearinghouse on School Safety Evidence-based Practices (in this section referred to as the “Clearinghouse”) within the Department.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665k/a/2">
+									<num>(2)</num>
+									<heading> Purpose</heading>
+									<content>
+										<p>The Clearinghouse shall serve as a Federal resource to identify and publish online through SchoolSafety.gov, or any successor website, evidence-based practices and recommendations to improve school safety for use by State and local educational agencies, institutions of higher education, State and local law enforcement agencies, health professionals, and the general public.</p>
+									</content>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665k/a/3">
+									<num>(3)</num>
+									<heading> Personnel</heading>
+									<subparagraph identifier="/us/usc/t6/s665k/a/3/A">
+										<num>(A)</num>
+										<heading> Assignments</heading>
+										<content>
+											<p>The Clearinghouse shall be assigned such personnel and resources as the Secretary considers appropriate to carry out this section.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665k/a/3/B">
+										<num>(B)</num>
+										<heading> Detailees</heading>
+										<content>
+											<p>The Secretary of Education, the Attorney General, and the Secretary of Health and Human Services may detail personnel to the Clearinghouse.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665k/a/4">
+									<num>(4)</num>
+									<heading> Exemptions</heading>
+									<subparagraph identifier="/us/usc/t6/s665k/a/4/A">
+										<num>(A)</num>
+										<heading> Paperwork Reduction Act</heading>
+										<content>
+											<p>Chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”), shall not apply to any rulemaking or information collection required under this section.</p>
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665k/a/4/B">
+										<num>(B)</num>
+										<heading> Federal Advisory Committee Act</heading>
+										<content>
+											<p>The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply for the purposes of carrying out this section.</p>
+										</content>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665k/b">
+								<num>(b)</num>
+								<heading> Clearinghouse contents</heading>
+								<paragraph identifier="/us/usc/t6/s665k/b/1">
+									<num>(1)</num>
+									<heading> Consultation</heading>
+									<chapeau>In identifying the evidence-based practices and recommendations for the Clearinghouse, the Secretary shall—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665k/b/1/A">
+										<num>(A)</num>
+										<content> consult with appropriate Federal, State, local, Tribal, private sector, and nongovernmental organizations, including civil rights and disability rights organizations; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665k/b/1/B">
+										<num>(B)</num>
+										<content> consult with the Secretary of Education to ensure that evidence-based practices published by the Clearinghouse are aligned with evidence-based practices to support a positive and safe learning environment for all students.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665k/b/2">
+									<num>(2)</num>
+									<heading> Criteria for evidence-based practices and recommendations</heading>
+									<chapeau>The evidence-based practices and recommendations of the Clearinghouse shall—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665k/b/2/A">
+										<num>(A)</num>
+										<content> include comprehensive evidence-based school safety measures;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665k/b/2/B">
+										<num>(B)</num>
+										<chapeau> include the evidence or research rationale supporting the determination of the Clearinghouse that the evidence-based practice or recommendation under subparagraph (A) has been shown to have a significant effect on improving the health, safety, and welfare of persons in school settings, including—</chapeau>
+										<clause identifier="/us/usc/t6/s665k/b/2/B/i">
+											<num>(i)</num>
+											<content>
+												 relevant research that is evidence-based, as defined in 
+												<ref href="/us/usc/t20/s7801">section 7801 of title 20</ref>
+												, supporting the evidence-based practice or recommendation;
+											</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665k/b/2/B/ii">
+											<num>(ii)</num>
+											<content> findings and data from previous Federal or State commissions recommending improvements to the safety posture of a school; or</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665k/b/2/B/iii">
+											<num>(iii)</num>
+											<content> other supportive evidence or findings relied upon by the Clearinghouse in determining evidence-based practices and recommendations, as determined in consultation with the officers described in subsection (a)(3)(B);</content>
+										</clause>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665k/b/2/C">
+										<num>(C)</num>
+										<content> include information on Federal programs for which implementation of each evidence-based practice or recommendation is an eligible use for the program;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665k/b/2/D">
+										<num>(D)</num>
+										<content>
+											 be consistent with Federal civil rights laws, including title II of the Americans with Disabilities Act of 1990 (
+											<ref href="/us/usc/t42/s12131">42 U.S.C. 12131</ref>
+											 et seq.), the Rehabilitation Act of 1973 (
+											<ref href="/us/usc/t29/s701">29 U.S.C. 701</ref>
+											 et seq.), and title VI of the Civil Rights Act of 1964 (
+											<ref href="/us/usc/t42/s2000d">42 U.S.C. 2000d</ref>
+											 et seq.); and
+										</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665k/b/2/E">
+										<num>(E)</num>
+										<content> include options for developmentally appropriate recommendations for use in educational settings with respect to children’s ages and physical, social, sensory, and emotionally developmental statuses.</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665k/b/3">
+									<num>(3)</num>
+									<heading> Past commission recommendations</heading>
+									<content>
+										<p>The Clearinghouse shall present, as determined in consultation with the officers described in subsection (a)(3)(B), Federal, State, local, Tribal, private sector, and nongovernmental organization issued best practices and recommendations and identify any best practice or recommendation of the Clearinghouse that was previously issued by any such organization or commission.</p>
+									</content>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665k/c">
+								<num>(c)</num>
+								<heading> Assistance and training</heading>
+								<content>
+									<p>The Secretary may produce and publish materials on the Clearinghouse to assist and train educational agencies and law enforcement agencies on the implementation of the evidence-based practices and recommendations.</p>
+								</content>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665k/d">
+								<num>(d)</num>
+								<heading> Continuous improvement</heading>
+								<chapeau>The Secretary shall—</chapeau>
+								<paragraph identifier="/us/usc/t6/s665k/d/1">
+									<num>(1)</num>
+									<chapeau> collect for the purpose of continuous improvement of the Clearinghouse—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665k/d/1/A">
+										<num>(A)</num>
+										<content> Clearinghouse data analytics;</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665k/d/1/B">
+										<num>(B)</num>
+										<content> user feedback on the implementation of resources, evidence-based practices, and recommendations identified by the Clearinghouse; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665k/d/1/C">
+										<num>(C)</num>
+										<content> any evaluations conducted on implementation of the evidence-based practices and recommendations of the Clearinghouse; and</content>
+									</subparagraph>
+								</paragraph>
+								<paragraph identifier="/us/usc/t6/s665k/d/2">
+									<num>(2)</num>
+									<chapeau> in coordination with the Secretary of Education, the Secretary of Health and Human Services, and the Attorney General—</chapeau>
+									<subparagraph identifier="/us/usc/t6/s665k/d/2/A">
+										<num>(A)</num>
+										<content> regularly assess and identify Clearinghouse evidence-based practices and recommendations for which there are no resources available through Federal Government programs for implementation; and</content>
+									</subparagraph>
+									<subparagraph identifier="/us/usc/t6/s665k/d/2/B">
+										<num>(B)</num>
+										<chapeau>
+											 establish an external advisory board, which shall be comprised of appropriate State, local, Tribal, private sector, and nongovernmental organizations, including organizations representing parents of elementary and secondary school students, representative 
+											 from civil rights organizations, representatives of disability rights organizations, representatives of educators, representatives of law enforcement, and nonprofit school safety and security organizations, to—
+										</chapeau>
+										<clause identifier="/us/usc/t6/s665k/d/2/B/i">
+											<num>(i)</num>
+											<content> provide feedback on the implementation of evidence-based practices and recommendations of the Clearinghouse; and</content>
+										</clause>
+										<clause identifier="/us/usc/t6/s665k/d/2/B/ii">
+											<num>(ii)</num>
+											<content> propose additional recommendations for evidence-based practices for inclusion in the Clearinghouse that meet the requirements described in subsection (b)(2)(B).</content>
+										</clause>
+									</subparagraph>
+								</paragraph>
+							</subsection>
+							<subsection identifier="/us/usc/t6/s665k/e">
+								<num>(e)</num>
+								<heading> Parental assistance</heading>
+								<content>
+									<p>The Clearinghouse shall produce materials in accessible formats to assist parents and legal guardians of students with identifying relevant Clearinghouse resources related to supporting the implementation of Clearinghouse evidence-based practices and recommendations.</p>
 								</content>
 							</subsection>
 						</section>

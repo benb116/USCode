@@ -333,6 +333,9 @@ root here: `cleanup.py`, `billParser.py`, `LawNetwork/`) and **content repo** (t
 `/stat`, `/acts`, `/usc` history). Force-pushing a regenerated content repo is acceptable
 precisely because it is a build artifact; tags mark generator versions.
 
+For the pipeline architecture that makes this reproducible and incremental, see
+`ARCHITECTURE.md`.
+
 ### B.5 Validation
 
 The pipeline is correct when it can reproduce known ground truth:

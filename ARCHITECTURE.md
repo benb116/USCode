@@ -322,6 +322,12 @@ CREATE TABLE emit_cache (
 
 ---
 
+## Where to go next
+
+For the stage-by-stage walkthrough of this pipeline — with the output schema of each stage
+and worked examples (18 U.S.C. § 1203's reconstruction chain, the P.L. 117-44 commit
+autopsy, the Juneteenth instruction parse) — see `PROCESS.md`.
+
 ## How this composes with DESIGN.md's phased roadmap
 
 - **Phase 1 (preserve notes):** Acquire step skips `sourceCredit`/`note` deletion; store as
